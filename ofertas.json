@@ -1,103 +1,287 @@
 {
-  "generated_at": "2026-07-31T09:00:00Z",
+  "generated_at": "2026-07-31T15:51:40.364949+00:00",
   "channel": "ofertasychollosesp",
-  "count": 8,
+  "count": 20,
   "ofertas": [
     {
-      "id": "ofertasychollosesp/1042",
-      "date": "2026-07-31T08:12:00Z",
-      "text": "Auriculares Sony WH-CH720N Bluetooth con cancelación de ruido, 35h de batería. Precio mínimo histórico. #tecnologia",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
-      "link": "https://www.amazon.es/dp/example1",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": ["tecnologia"],
-      "prices_found": ["59,99", "99,99"],
-      "discount_percent": "40"
-    },
-    {
-      "id": "ofertasychollosesp/1041",
-      "date": "2026-07-31T07:40:00Z",
-      "text": "Robot aspirador Xiaomi con fregona integrada, mapeo láser. Stock limitado. #hogar",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
-      "link": "https://www.pccomponentes.com/example2",
-      "marketplace": "PcComponentes",
+      "id": "ofertasychollosesp/95473",
+      "date": "2026-07-31T15:48:33+00:00",
+      "text": "‼️\nOFERTA CAZADA -55%\n‼️\n#Publicidad\n✅\nHOOVER ASPIRADORA ESCOPA SIN CABLE HF2\n📝\nLa Hoover HF2 es ligera y potente, ideal para cualquier superficie. Su tecnología de compactación de polvo y luces LED la hacen imprescindible para una limpieza eficiente.\n🔗\nEnlace:\nhttps://amz.tf/TKwsNXG",
+      "image": "https://cdn4.telesco.pe/file/vlPtkY-ROxH7165uyGGz2SBMSoURnREjVMm_awT_zCLXcV3GF8yTo0tN4Q6nQNra0SGQU2UdOpyFy9pxr-3-DdQO8T4QP14oVM_Mh40YNWsb49AcaaB2mCxN4kwXSqoTjuf3sfXIMleLigqsxSE6NsXaWWpMsoNv0DskYGQFdvN9KrCCnozRRqvQfgDF9U5LEK5YULbJGYaEFM6KselDxfDals-YrQl10EcMDsiJ7n5KJotj951FlRxMsvBlMt8R2Hll2UK7t_BomPqtZ8tvQitr_Lqgzx-chiBxl6V8LjhBf_N9QvvIs5uMXgw4FT8jIBD5G9UKTmPSzbCfil6X9g.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
       "category": "Hogar",
-      "hashtags": ["hogar"],
-      "prices_found": ["189,00", "279,00"],
-      "discount_percent": "32"
-    },
-    {
-      "id": "ofertasychollosesp/1040",
-      "date": "2026-07-30T21:15:00Z",
-      "text": "Zapatillas running Adidas, varias tallas disponibles, envío gratis. #moda #deporte",
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
-      "link": "https://www.amazon.es/dp/example3",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": ["moda", "deporte"],
-      "prices_found": ["39,95", "69,95"],
-      "discount_percent": "43"
-    },
-    {
-      "id": "ofertasychollosesp/1039",
-      "date": "2026-07-30T19:02:00Z",
-      "text": "Set de 6 sartenes antiadherentes, aptas para inducción. #hogar #cocina",
-      "image": "https://images.unsplash.com/photo-1584990347449-a35a6d3d3f76?w=600",
-      "link": "https://www.aliexpress.com/item/example4",
-      "marketplace": "AliExpress",
-      "category": "Hogar",
-      "hashtags": ["hogar", "cocina"],
-      "prices_found": ["24,50"],
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
       "discount_percent": "55"
     },
     {
-      "id": "ofertasychollosesp/1038",
-      "date": "2026-07-30T13:30:00Z",
-      "text": "SSD NVMe 1TB, lectura 7000MB/s. Ideal para ampliar tu PC o PS5. #tecnologia",
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600",
-      "link": "https://www.pccomponentes.com/example5",
-      "marketplace": "PcComponentes",
-      "category": "Tecnología",
-      "hashtags": ["tecnologia"],
-      "prices_found": ["64,90", "89,90"],
-      "discount_percent": "28"
+      "id": "ofertasychollosesp/95472",
+      "date": "2026-07-31T15:37:51+00:00",
+      "text": "‼️\nOFERTA CAZADA -23%\n‼️\n#Publicidad\n✅\nPLAFÓN LED TECHO 24W 2000LM\n📝\nIlumina tu hogar con el plafón LED de 24W, 2000LM y 6500K. Ideal para cualquier espacio, resistente al agua y de fácil instalación. ¡Transforma tu ambiente hoy!\n🔗\nEnlace:\nhttps://amz.tf/rbJwCdp",
+      "image": "https://cdn4.telesco.pe/file/v00B-JIba_xY3K-88KctJl9TmaAiU8jAM9JFOzwYSERPvNQiNmLj6QTlqLIQ6O6zdcdF2OiZqkzlKlCRQ_GmVFXumvrWGBBtfqcNiGr2n4D02V9UutGXJPcjwzpPzGDlZMoY7oArUDAqOmy4G3zNtJP08t7Q6xUCN9MiImysVG7TmPWAS2PxmnMmhKCXaXSaKmlb7AfG5xfLWGHStJs2M6CVdT2r9_SlAmic3WNwmlBE8y6W8F4qUQz4BM4YrujBWyRoN31hiATk2NGkz-r6BKH-2VJBC0vd53XXr_AzbaFslH9m2Ot-3UDcPsRD4m8U-7k2g6iiTY2u1a6xz9SXSg.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "23"
     },
     {
-      "id": "ofertasychollosesp/1037",
-      "date": "2026-07-29T22:10:00Z",
-      "text": "Patinete eléctrico plegable, 25km autonomía. Precio mínimo histórico. #deporte",
-      "image": "https://images.unsplash.com/photo-1604868189265-219ba7bf7ea3?w=600",
-      "link": "https://www.decathlon.es/example6",
-      "marketplace": "Decathlon",
-      "category": "Deporte",
-      "hashtags": ["deporte"],
-      "prices_found": ["229,00", "349,00"],
-      "discount_percent": "34"
+      "id": "ofertasychollosesp/95471",
+      "date": "2026-07-31T15:33:30+00:00",
+      "text": "‼️\nOFERTA CAZADA -21%\n‼️\n#Publicidad\n✅\nOOONO CO-DRIVER 2: ALERTAS EN TIEMPO REAL\n📝\nDescubre el OOONO Co-Driver 2, tu compañero ideal para evitar radares y peligros. Sin suscripción, recargable y fácil de usar. ¡Conduce seguro y sin preocupaciones!\n🔗\nEnlace:\nhttps://amz.tf/KaUuSYD",
+      "image": "https://cdn4.telesco.pe/file/ChOFV1gnLDn04EsoYkO8gqlmOZOkgDhUi26fEYJ4FVgR0gM6yW7u3jfIl3ltLR5wLRBfsynVc_19clQiVAQytLlZI7nCdQVH4LP2ZV3eVJ6tCzzlxEREnpQFvzlls3F-unV_qT8WDDUKXJObq_S55sS0zHODmp-Zj6QOuaRTkcIgoYcL3X6OuxZUqxuJflbOpg_WVN2DO111ita9WcbgkPt-ellNeIfkHa8nl98gyALR9rDVmXFEBUeGN-ULXV1e-A7rF1Jjfv1qFGpKUyRSjzP5vPbL0Ssensu_TxxDj7-hzn8h0jcckIUwkmXC4EdzDGAeWPa5y18Id6jnY3dUOA.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "21"
     },
     {
-      "id": "ofertasychollosesp/1036",
-      "date": "2026-07-29T18:45:00Z",
-      "text": "Sudadera con capucha unisex, varios colores. #moda",
-      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=600",
-      "link": "https://www.zalando.es/example7",
-      "marketplace": "Zalando",
-      "category": "Moda",
-      "hashtags": ["moda"],
-      "prices_found": ["17,99", "34,99"],
+      "id": "ofertasychollosesp/95470",
+      "date": "2026-07-31T15:18:31+00:00",
+      "text": "‼️\nOFERTA CAZADA -20%\n‼️\n#Publicidad\n✅\nLEGO HARRY POTTER CALLEJÓN DIAGON\n📝\nDescubre la magia con este set de LEGO Harry Potter. Incluye tiendas icónicas y 12 micro figuras. ¡Perfecto para coleccionistas y amantes de la saga!\n🔗\nEnlace:\nhttps://amz.tf/aNUGtvG",
+      "image": "https://cdn4.telesco.pe/file/n2dnkmX_iUnPDDFEb4yJGmy31yccR08RhdtgM7OgztRDaR9Jq7LzfOCworMoBPr15Oo1IeKJxdXiSr8qLifQE1KbwOqXQ2GCIde0FKcXrzgePTPYPL32DwLe56x3AGBr7nRIhERfzQviEHvc7cFMOaeBfpD8KyY4jBGQqvX5s8mfx9xu6e-aXuj7BYNwR9RKgU68aRQSMqE6r30zCqdl9nfH6M-sloDgiUJr8A9n-wKbKF3uONRCv3pGtwjxCPfbT_q7Gc9w0s5L86TEFqcoT0CxXLoh26u858gvngqOqztuZG-11FUP_7iEIcW5Yy5Dkq-zDVmjtBViYaAy4_L1qA.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Juguetes",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "20"
+    },
+    {
+      "id": "ofertasychollosesp/95469",
+      "date": "2026-07-31T15:07:50+00:00",
+      "text": "‼️\nOFERTA CAZADA -37%\n‼️\n#Publicidad\n✅\nBRA PREMIERE SARTENES ALUMINIO FUNDIDO\n📝\nDescubre la calidad de las sartenes BRA Premiere, de 20 y 24 cm en aluminio fundido. ¡Cocina como un chef y disfruta de resultados perfectos en cada platillo!\n🔗\nEnlace:\nhttps://amz.tf/jWHUrAg",
+      "image": "https://cdn4.telesco.pe/file/U_2vcwtIVicJ9Jv74vbDzVhmDus-WdE1_c_5KzO_s3BpRtO2DL0UhnH1jGHGBJFs2PhBq3OsZ_ZR345G9yJKrZaec9O0JLKUwDKks5i8DhLqdTk9cxtOHNQteSpxp-C_vtAIKdKsw9QerW6eneuoqJE2IhUAxMA6WMRxcGXn1Bdymfd1aNGe1LrcMEBXQtBVzHv6trcuvEHW3QQhemMTuuWh0MoYb7PJXunzcmYKHRqNeTcKQEVXlEbgKpo2FYYX907HQNy2Vv0I6WoYqinimAO_Mgq3XdPqIRTbQA8pyOwkuD7-TGSkhYyl2xNuJKcl38x7LbVZrfupZjN-l148Bg.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Hogar",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "37"
+    },
+    {
+      "id": "ofertasychollosesp/95468",
+      "date": "2026-07-31T15:03:32+00:00",
+      "text": "‼️\nOFERTA CAZADA -29%\n‼️\n#Publicidad\n✅\nGOOGLE PIXEL 10A: 30 HORAS DE BATERÍA\n📝\nDescubre el Google Pixel 10a con 128GB, más de 30 horas de batería y una funda de plástico reciclado. ¡Captura momentos increíbles con el Asistente de Cámara!\n🔗\nEnlace:\nhttps://amz.tf/khWlhaB",
+      "image": "https://cdn4.telesco.pe/file/pO3yc_SFwoNopYgkQxDc8ZH1GyEaqSB5o6FmYGZgqTJfUncG-bBXCqJ6_RrQ9aMo9RBD8_RO6DgYVW6CavheP_8Ui9SVSZnWXSbIC5SvZCcUni-riEX5tvnM9rYq46_M6EVuAY0FOSMAH3SHO8FelaJgvPghBSAAa9hOTfC4Qz3eH8mxoKVOBHmjp9Nhl3KlzX8lmGJHdXxkFjI6TOiwrHlExpYHYUWADehGw06OWTO1cVGunPJPiy74tglNEc2wSMXk06KRC0hAMXSrPDXOB9AExA20xNZ8SkIQZRqffciGMNEE0bJrc7VRhEb58y-mwkoR29Czh4BE3D1aauvGug.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "29"
+    },
+    {
+      "id": "ofertasychollosesp/95467",
+      "date": "2026-07-31T15:00:11+00:00",
+      "text": "‼️\nSEGUNDA UNIDAD CON 70% DE DESCUENTO\n‼️\n#Publicidad\n✅\nCOLGATE TOTAL BLANQUEADOR 75ML\n📝\nDescubre la protección de Colgate Total Prevención Activa Blanqueador. ¡Compra una unidad y obtén la segunda con un 70% de descuento! ¡Cuida tu sonrisa hoy!\n🔗\nEnlace:\nhttps://amz.tf/lZCdOtR",
+      "image": "https://cdn4.telesco.pe/file/hCPLvHh7lyNsYvLmMYUWC4W6BaU353x0JQnaEinkTo4R3IfsOzP7cg64Y-RsliZizc-2-Mkqga7QvUPi4EV3gWcpJd3L3BMYoJ-k6m2OWbjdyU1iKIPKv2hWPXGHzqAzIemECr8yHF3t0AD94nG0gMopmsMbNuHLrHb0uC3Wzbmez2qiZuYuzY1JgNpLoT0wdk4VvTDItkvkS49L0PC-dILExV8nGWXQJpwrtMJrjX4Njah6kjKDbRGvF_lZPWaDkduwxw3h6OCnVcr3Sh3cTit51YMyT25SJ8OQb00-iE0IelDaT5uOHk-HikaHAFE9Qgf7mtlviB0Zyt5cEb_yJw.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/95466",
+      "date": "2026-07-31T14:52:50+00:00",
+      "text": "‼️\nOFERTA CAZADA -20%\n‼️\n#Publicidad\n✅\nLUZ LED COCINA RECARGABLE CON SENSOR DE MOVIMIENTO\n📝\nIlumina tu espacio con estas luces LED recargables. Perfectas para armarios y escaleras, ofrecen comodidad y eficiencia con sensor de movimiento y atenuación. ¡Haz tu hogar más funcional!\n🔗\nEnlace:\nhttps://amz.tf/Vmnrnlr",
+      "image": "https://cdn4.telesco.pe/file/pAfg_UJHybiA0M92T8bpj0cXPWF-cmLZWkC2ACHYyFDuSZGOyhACVcFd2Au7UUZv9H3y2hOLmgQUIKKJcN70CJlYhdF50ducb-hG_RP5YA2Nn4S2f6UQQj3ooesG0cv2_bGUOyNQ6yxNpOnKU_WL9cKU1QKr-itOxa2S3o0OuI5hiQhbDlcEWGFjHQcCKitUdOfIbOiPivB6YdfwabDITJ0qyh-twVbLTBlQke4haWHNZonNylc4mG_d6p9YLlfKgAGF3bQQlPLH8VKv710qHCIefjWxNfVv_t9b1CUY9qz7-s2Ptk3-XK6YSJ4LzrUCi4py0KBILfPYQpuSc-kymg.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Hogar",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "20"
+    },
+    {
+      "id": "ofertasychollosesp/95465",
+      "date": "2026-07-31T14:48:33+00:00",
+      "text": "‼️\nOFERTA CAZADA -40%\n‼️\n#Publicidad\n✅\nHAIER K85 4K UHD 55\" SMART TV\n📝\nDisfruta de una experiencia visual impresionante con el Haier K85. Con Google TV, Dolby Audio y 120Hz, transforma tu entretenimiento en casa. ¡No te lo pierdas!\n🔗\nEnlace:\nhttps://amz.tf/iKYkiSe",
+      "image": "https://cdn4.telesco.pe/file/cnGMUbVMuW8-p5VtkCE06zyQwiPvHozIPA_BTMUFXKdwRcYCyfutsn3NQEdxcK4LcqZGFYSrbsE-QaXrtPygSukbOVBlV1LTB3SNVPi-tlMzwx--VOM8XwvZun-xirp-X6aH9OXgRHN4vWykXk03vL6gBMP9MuTOMWTV0T9FcHv_w7H0OK4jv-qT32Cp8fvsmAvOANLVfRZ6dEvLpjb7_5pAW7J2XPkivhUIJV4iKh3P05nyutaEHSxp3YfErY7CzlIAL7sUHzhitOnwg_2591jN6qjhHFnd7pTwhNVIIv0tvw8l5s4oaymlFwVwandUgMAe6Tf4vyapYIDfllCw4A.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "40"
+    },
+    {
+      "id": "ofertasychollosesp/95464",
+      "date": "2026-07-31T14:40:06+00:00",
+      "text": "‼️\nSEGUNDA UNIDAD CON 70% DE DESCUENTO\n‼️\n#Publicidad\n✅\nPAPEL HORNO ANTIADHERENTE EN HOJAS\n📝\nDescubre el papel de horno antideslizante ideal para repostería. ¡Compra una unidad y llévate la segunda con un 70% de descuento! ¡No te lo pierdas!\n🔗\nEnlace:\nhttps://amz.tf/frjQdge",
+      "image": "https://cdn4.telesco.pe/file/VbwhNOqIsrZjCzAphyyTULDzDGGUZd1QOgJSYjmrGpWN3mYtk40nbta0EcDyhjcrGcg29azc2U8qcAEZAcZJ4auGhfkbJSykbrWPZ0jTEEow-0sLky6yvgnTvye58nOusU-XU-CdATGGfHY5O01sTC6N9WLpDBL9Ek77mDCSGVkVnTnAm23hpHqVJG33RbtATLQ4D-7xMFTQ03PEMSXcm4Wzyc860VqfpHWqy2FFgVloTf1yylP_bCADH1fxrLOHGRrNzQpAHfnGTsLmCMqmD2nJTx1o5cXhMmnrWKSJvfmgDcNOjrKhTakM5E-N0sxjH2fo89U_ZZ3EyqzEN1ALmQ.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/95463",
+      "date": "2026-07-31T14:37:51+00:00",
+      "text": "‼️\nOFERTA CAZADA -24%\n‼️\n#Publicidad\n✅\nUTENSILIOS DE COCINA BRA EFICIENTE\n📝\nDescubre la calidad de los utensilios de cocina BRA, fabricados en acero inoxidable. ¡Haz que cocinar sea más fácil y elegante con este set de 36.5 cm!\n🔗\nEnlace:\nhttps://amz.tf/DYeCiqN",
+      "image": "https://cdn4.telesco.pe/file/i0BaNuPbGHZnNYSNk364J3mahagyLIwHeFUU8-3VOgs5d9utU-3WUgE6X_8K36kA4fFfeodUZOSs-Imsey2ToiKI4pu_ty9Ru9lqrJRSOq12UoiQl95ES8nT2CE760UPKFoQ--TrAfZ94Cproa5NgvDYMV6Wucm-VsBZhm20VQ8VLGFvxvrP9N5u96mfH3BEmHI1xtu3sFa--Wc3oKMrKMRzqyDJnFWRhw-1NuctwwdOcJUy1mUasVdKAfOaJ0eFf7G1vyAtdny3och7KdXJRuiv1aqp27bN5scsU6UjlYDA0A8s6a1nIeNe9dAhuwTQCkCNiSRTOL8Qr8r2ZkvWgQ.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Hogar",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "24"
+    },
+    {
+      "id": "ofertasychollosesp/95462",
+      "date": "2026-07-31T14:33:32+00:00",
+      "text": "‼️\nOFERTA CAZADA -27%\n‼️\n#Publicidad\n✅\nARMARIO DE BAÑO CON CAJONES MODERNO\n📝\nEste elegante armario de baño con 4 cajones es perfecto para organizar tu espacio. Su diseño moderno y compacto se adapta a cualquier habitación. ¡Hazlo tuyo!\n🔗\nEnlace:\nhttps://amz.tf/DLtDuQg",
+      "image": "https://cdn4.telesco.pe/file/CCsOShnrl_Unbp6GjCKdv1h4a2RKNoGKlExtqSNHSRs3p9B33mhaEHDmv3yYOoVRm2v_OuYAE0CBVQMdch1-Z2HimE9_arT9reF_edDSloeOx-bt5UmHq1bZOAKfkRbrribn4Kcu9N22VoHODDWh0jvC2Fj6BOVDiDf-CyoeC1rVwD-hgpAXDB7CY5e0qQ5nZS6cVzLiQ4ytvpnxAYc1TzK2_bwk3yzt-KaoP2r6Ch979JU1U2H7fZf5IeA3wEJmwlX4QirGVamta0yIyHpa6Jr4n7DcChHDXv_hnO6b5fE_LyS--HLo6pxatLbI7mTIwuPan-D6rLbIzK7yQD4-lg.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "27"
+    },
+    {
+      "id": "ofertasychollosesp/95461",
+      "date": "2026-07-31T14:22:51+00:00",
+      "text": "‼️\nOFERTA CAZADA -48%\n‼️\n#Publicidad\n✅\nCALCETINES ANTIAMPOLLAS DEPORTE HOMBRE\n📝\nDisfruta de la comodidad y protección en cada paso con estos calcetines acolchados y transpirables, ideales para senderismo y fútbol. ¡No más ampollas!\n🔗\nEnlace:\nhttps://amz.tf/vnSlijh",
+      "image": "https://cdn4.telesco.pe/file/tPeBUftBc06tIhc1SRHJNCRmgKkQL2RVhTojoBZzZy4XuTn_mG7VE8oWR2J-mwy2S_j2hCwdKHkLoQegEA30kfX6-aWtmiwRjTJLY3kTJ8W2BSMqSCOKbebhkl8kmMO3JpFYoQOmxOaaEBKV6XorG1QG-UrTD5JxbiS7K14gtmhJqkypDAD6LbdfVCCTdH5RDRh1GD8LwnsSSmER2YmX0oJq9IW8leNw1upBxbmpHllhvShZimq7etnkBODNhrHgk0Oefx7_-d85RH0GDYbczeawmyTL-pxxXUhrhDKIAmAkoGZAe2tmrBZSpz1h7rTjcWVjMoh81pJbIBo0GyoIAg.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
       "discount_percent": "48"
     },
     {
-      "id": "ofertasychollosesp/1035",
-      "date": "2026-07-29T11:05:00Z",
-      "text": "Lego set de construcción 1200 piezas, edición especial. #juguetes",
-      "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=600",
-      "link": "https://www.amazon.es/dp/example8",
-      "marketplace": "Amazon",
-      "category": "Juguetes",
-      "hashtags": ["juguetes"],
-      "prices_found": ["49,99", "79,99"],
-      "discount_percent": "37"
+      "id": "ofertasychollosesp/95460",
+      "date": "2026-07-31T14:20:09+00:00",
+      "text": "‼️\nSEGUNDA UNIDAD CON 70% DE DESCUENTO\n‼️\n#Publicidad\n✅\nDIXAN CÁPSULAS TOTAL+ 4 EN 1 TRIO CAPS\n📝\nDescubre el poder quitamanchas de Dixan. Compra una unidad y llévate la segunda con un 70% de descuento. ¡Limpieza y frescura para tu ropa!\n🔗\nEnlace:\nhttps://amz.tf/QSeSsOZ",
+      "image": "https://cdn4.telesco.pe/file/tBHAf3dNSlzcDXOuZdXh7abzjo_VxGTSkJI1ncXFZZW1RN2f_1lFtpRYDyV7ebQZDn4GH0hyuE_g09OoZ6uagWdQ8AVJXYuEd2GsCjrMnmyShuduVgiT7qbFp5aWRiHnke0lRZHFTF81t3QIFgeYfM46ylCb3YfUkuBBGck_yZHnZ-zi5jrCjlvuft0rfUWq3GMdxXsUh4eG4Mx1XASmZ4_btrsO8qF6DP59ayynXSUjMbrrO6jXl4WIECsmdd49pKJaffbCeXDKeePKEqeueyYUSnTfvjhmXcY361K2vpF5crq4GRLkacjPtp3kq8Zq2A2THBFi-F9Wc3ZPx98c1A.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/95459",
+      "date": "2026-07-31T14:18:33+00:00",
+      "text": "‼️\nOFERTA CAZADA -58%\n‼️\n#Publicidad\n✅\nTITANLUX COBERTURA TOTAL BLANCO PIEDRA\n📝\nDescubre la pintura Titanlux Cobertura Total, ideal para paredes. Su acabado blanco piedra transforma tus espacios, ofreciendo calidad y durabilidad en cada aplicación. ¡Renueva tu hogar hoy!\n🔗\nEnlace:\nhttps://amz.tf/cCYTGbc",
+      "image": "https://cdn4.telesco.pe/file/kcujTGYrKQBS_UQAqNx9_qyDVQCvVCOH3c1f_zsK6qDazjC0eipchxGCF4pkuQDh-E8cEoTy2bYz07rytAFgRR9paCg4hit87SjyGJkMyPXUJ5vBq9PymXBeTLWa-C-9w2pZRFWB18m-_Pg9_CFKzPTIUuNdBN-pd2bMTUXtKYqe_nTXdy2PEmjgWI14OQTFvvg2exOSs0TyckYifO0bHtWG7H9pJYcdHIPoUd7HEcmPQqxQZfFVnp1Q_urAYzboYGBC_M25RYR8V8mEx61vibxCJC6EoNeNzLcSWH7IdPB7jI-8XgkIJZMcGN2aIXwXTQKqCLiopyPOk4UWRMvEFg.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "58"
+    },
+    {
+      "id": "ofertasychollosesp/95458",
+      "date": "2026-07-31T14:07:52+00:00",
+      "text": "‼️\nOFERTA CAZADA -31%\n‼️\n#Publicidad\n✅\nCALENTADOR ORBEGOZO BP 5007\n📝\nDisfruta de calidez instantánea con el Orbegozo BP 5007. Potente, seguro y fácil de transportar, ideal para cualquier espacio. ¡No te quedes sin el tuyo!\n🔗\nEnlace:\nhttps://amz.tf/ZLAYNqW",
+      "image": "https://cdn4.telesco.pe/file/AkEFXAn3Ueox7YGekPi_UOrJG8peFGbgaO1MeyM9WSf8j6Ho0J0oLovTOkFgJQybDzTZ-8HStz8HIgBGKYOl4fmjKteSwTdfWGk_ESnGqkhjmu9kE0GRLchJ-sDbu7Q5OOmxwsDxQDJFvhJHGwnx6rSO8ne7MFEDza095Vf4iODmiuwFNz_wokc7ocJQR5UNEkdat-gKp3ebOg3qmy7UqUUks_XgZawKEMo5KR7JFAipcJycwJ-X5yXc7LjUHxDfFgdAATLtTZFJvuLB-oQbz8vTEuptNmw67seb3p9D7WYCiejCTphK2vfg8YV5SNXRqnezF7bGIgivDAcBxpWDAA.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "31"
+    },
+    {
+      "id": "ofertasychollosesp/95457",
+      "date": "2026-07-31T14:03:33+00:00",
+      "text": "‼️\nOFERTA CAZADA -43%\n‼️\n#Publicidad\n✅\nNORDIC ASHES: ULTIMATE COLLECTOR EDITION\n📝\nDescubre la experiencia definitiva con Nordic Ashes: Ultimate Edition. ¡No te pierdas esta colección exclusiva que te sumergirá en un mundo de aventuras épicas!\n🔗\nEnlace:\nhttps://amz.tf/lcyVnYN",
+      "image": "https://cdn4.telesco.pe/file/pzMVYQl63Afh4Jo_kWAkcCmBiCBQMbd8zksPRVNHXWA7b6CXdxEpEtm24j0K2rUTo7wdHedxKveXnziVTVOc3VRGkklJDfmThgzG6yeLKng9H3oZsgsyOIgXbJQwWkynieQu8cI7z_Ah4Z8jAlB_QVuLUQExx_uDibUxN8QD90wsUpyNdh4VzuRkBKcVsgcM5IyoobLjyhpXTWbcl_Hgac3umb8Zpf46F6D0i89aITttJFRp594Bk5oeS5nZbKg8pU28wzrC3jVsn8kr-Jf_d3dozElW1zU40zqFcFacZi7B6W9uQoPr6tUtvaX_g_bAgrAnc3ok1dsqTP0nA6PP0w.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "43"
+    },
+    {
+      "id": "ofertasychollosesp/95456",
+      "date": "2026-07-31T14:00:09+00:00",
+      "text": "‼️\nSEGUNDA UNIDAD CON 70% DE DESCUENTO\n‼️\n#Publicidad\n✅\nCOLÁGENO MARINO HIDROLIZADO CON ÁCIDO HIALURÓNICO\n📝\nMejora tu piel y articulaciones con nuestro colágeno marino. ¡Compra una unidad y obtén la segunda al 70% de descuento! ¡No te lo pierdas!\n🔗\nEnlace:\nhttps://amz.tf/GDefHpu",
+      "image": "https://cdn4.telesco.pe/file/M5GghdsRDuYyOIQFbDP4wxQFAwM5k7pwVutzxP1ExWcyF81ILWpsMayB8v-6mnQhENAcyC741NRfPYHL-JNamd3q1pl8c5ZBuRszdnxG2i5lKtYRYUXh41H1tb-2Geb7hTRRqhh9r6Ul7feWgVCvK-vnbFPbmtfBYLqIss_4jId4LaqkJPy7R92hj-Q0-f2Uge4o3g7Bq8DzQIVTNTopTybTCXM6Nm6Kji_WKUkBsxdy5ACK9PGeUkGXUHhGpyVix7-00fUO1gIsh01oFEx2prfFa1cnsAKWDr0fu9-qaWw08veNvhfFjpEnuseWmviDNhFeq1lWhV9asx0sLTHU1w.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/95455",
+      "date": "2026-07-31T13:52:51+00:00",
+      "text": "‼️\nOFERTA CAZADA -30%\n‼️\n#Publicidad\n✅\nBOSCH TALADRO PERCUTOR A BATERÍA 18V\n📝\nPotente taladro percutor Bosch EasyImpact 18V-38, ideal para tus proyectos. Incluye batería de 2,5 Ah y maletín de transporte. ¡Hazlo fácil y eficiente!\n🔗\nEnlace:\nhttps://amz.tf/NoodnYm",
+      "image": "https://cdn4.telesco.pe/file/bGg_bDXTYEFAjWGpmEqro0kIUVCpR1uCc50crROOqp_-ZfDysPVlI-zC4wXl7SW_gPISqCLf5TGKLydkaeaXija4cHBawLxgSHxor_eWxSapBW5PJT9UxpqcJeOYdKT6OzOeGfwZ4WDXexooyed5Vl6EwJ6r5vHcGXvHtj2e5KPPk8VR4SWfnIg724BrZkqmpY_0WuopQJfnW_Q9sophpbAtGjmS6_IEL9835MOpk2Jf1LQrL2ub-by14oLYjr00BhYcFkEoL-qx7wTQNRPSFC4SWNSeiZc2fX2i1FjJZAjUjy7DcErFNhWl7WTPSLbqJ96JM8Ncl9h9kdAjt-72MA.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "30"
+    },
+    {
+      "id": "ofertasychollosesp/95454",
+      "date": "2026-07-31T13:48:32+00:00",
+      "text": "‼️\nOFERTA CAZADA -45%\n‼️\n#Publicidad\n✅\nBRAUN MINIPIMER 7 - BATIDORA DE MANO 1000 W\n📝\nLa Braun Minipimer 7 es perfecta para mezclar, picar y triturar con su potente motor de 1000 W y tecnología avanzada. ¡Haz que cocinar sea más fácil y rápido!\n🔗\nEnlace:\nhttps://amz.tf/AQkIEcQ",
+      "image": "https://cdn4.telesco.pe/file/BOMK_kkWookBsdsL4JcD05spbvYZvyuhpRdYXA5X9W4tGg_mkBSfysWBjwkKUCYNajKuR5Dw0OGI3aNGOBDR3m5lWwmVUdIVv_4uTxERA6NCLAv5RNgxVtF1GKRuzz6u8ikHZ5g51qI4dbAD9Kqp-BbABAOxDhYdLdEMfTz9ccRoAReOIk333Be8voVasHcU-AW-f47-_robKD0vcI5zd7SipgLYoP49pAdWoKEaeAWbrgiuh66rs3rHvHohAHWSw8r9fX_-W2mJUEB5VwCjozwnFrWw167Z6iJmkpHOEJx_PcPw4OklDjcM_IYHh0xt71AVOQZshCl4011Iw9_KyQ.jpg",
+      "link": "?q=%23Publicidad",
+      "marketplace": "Otro",
+      "category": "Hogar",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "prices_found": [],
+      "discount_percent": "45"
     }
   ]
 }
