@@ -2,7 +2,7 @@ name: Actualizar ofertas
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # cada 20 minutos
+    - cron: "7,27,47 * * * *"   # cada 20 minutos, desplazado del minuto en punto para evitar colas de GitHub
   workflow_dispatch:          # también permite lanzarlo manualmente desde GitHub
     inputs:
       force:
