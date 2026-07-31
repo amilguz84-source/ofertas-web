@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-07-31T09:00:00Z",
+  "channel": "ofertasychollosesp",
+  "count": 8,
+  "ofertas": [
+    {
+      "id": "ofertasychollosesp/1042",
+      "date": "2026-07-31T08:12:00Z",
+      "text": "Auriculares Sony WH-CH720N Bluetooth con cancelación de ruido, 35h de batería. Precio mínimo histórico. #tecnologia",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+      "link": "https://www.amazon.es/dp/example1",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": ["tecnologia"],
+      "prices_found": ["59,99", "99,99"],
+      "discount_percent": "40"
+    },
+    {
+      "id": "ofertasychollosesp/1041",
+      "date": "2026-07-31T07:40:00Z",
+      "text": "Robot aspirador Xiaomi con fregona integrada, mapeo láser. Stock limitado. #hogar",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+      "link": "https://www.pccomponentes.com/example2",
+      "marketplace": "PcComponentes",
+      "category": "Hogar",
+      "hashtags": ["hogar"],
+      "prices_found": ["189,00", "279,00"],
+      "discount_percent": "32"
+    },
+    {
+      "id": "ofertasychollosesp/1040",
+      "date": "2026-07-30T21:15:00Z",
+      "text": "Zapatillas running Adidas, varias tallas disponibles, envío gratis. #moda #deporte",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+      "link": "https://www.amazon.es/dp/example3",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": ["moda", "deporte"],
+      "prices_found": ["39,95", "69,95"],
+      "discount_percent": "43"
+    },
+    {
+      "id": "ofertasychollosesp/1039",
+      "date": "2026-07-30T19:02:00Z",
+      "text": "Set de 6 sartenes antiadherentes, aptas para inducción. #hogar #cocina",
+      "image": "https://images.unsplash.com/photo-1584990347449-a35a6d3d3f76?w=600",
+      "link": "https://www.aliexpress.com/item/example4",
+      "marketplace": "AliExpress",
+      "category": "Hogar",
+      "hashtags": ["hogar", "cocina"],
+      "prices_found": ["24,50"],
+      "discount_percent": "55"
+    },
+    {
+      "id": "ofertasychollosesp/1038",
+      "date": "2026-07-30T13:30:00Z",
+      "text": "SSD NVMe 1TB, lectura 7000MB/s. Ideal para ampliar tu PC o PS5. #tecnologia",
+      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=600",
+      "link": "https://www.pccomponentes.com/example5",
+      "marketplace": "PcComponentes",
+      "category": "Tecnología",
+      "hashtags": ["tecnologia"],
+      "prices_found": ["64,90", "89,90"],
+      "discount_percent": "28"
+    },
+    {
+      "id": "ofertasychollosesp/1037",
+      "date": "2026-07-29T22:10:00Z",
+      "text": "Patinete eléctrico plegable, 25km autonomía. Precio mínimo histórico. #deporte",
+      "image": "https://images.unsplash.com/photo-1604868189265-219ba7bf7ea3?w=600",
+      "link": "https://www.decathlon.es/example6",
+      "marketplace": "Decathlon",
+      "category": "Deporte",
+      "hashtags": ["deporte"],
+      "prices_found": ["229,00", "349,00"],
+      "discount_percent": "34"
+    },
+    {
+      "id": "ofertasychollosesp/1036",
+      "date": "2026-07-29T18:45:00Z",
+      "text": "Sudadera con capucha unisex, varios colores. #moda",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=600",
+      "link": "https://www.zalando.es/example7",
+      "marketplace": "Zalando",
+      "category": "Moda",
+      "hashtags": ["moda"],
+      "prices_found": ["17,99", "34,99"],
+      "discount_percent": "48"
+    },
+    {
+      "id": "ofertasychollosesp/1035",
+      "date": "2026-07-29T11:05:00Z",
+      "text": "Lego set de construcción 1200 piezas, edición especial. #juguetes",
+      "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=600",
+      "link": "https://www.amazon.es/dp/example8",
+      "marketplace": "Amazon",
+      "category": "Juguetes",
+      "hashtags": ["juguetes"],
+      "prices_found": ["49,99", "79,99"],
+      "discount_percent": "37"
+    }
+  ]
+}
