@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Cazador de Chollos — Ofertas del canal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EAD9B0;
+    --paper-dark:#DEC48C;
+    --ink:#2A2420;
+    --ink-soft:#4A423A;
+    --red:#B5222A;
+    --red-dark:#8C1A20;
+    --stamp-green:#2E6B4F;
+    --yellow:#F0B92B;
+    --card:#F5EAD3;
+    --shadow: 0 6px 0 rgba(42,36,32,0.12);
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(circle at 10% 10%, rgba(0,0,0,0.03) 0, transparent 45%),
+      radial-gradient(circle at 90% 30%, rgba(0,0,0,0.03) 0, transparent 40%),
+      var(--paper);
+    color:var(--ink);
+    font-family:'Inter', sans-serif;
+    min-height:100vh;
+  }
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    padding:56px 24px 40px;
+    text-align:center;
+    border-bottom:6px solid var(--ink);
+    background:var(--paper-dark);
+    overflow:hidden;
+  }
+  .hero::before, .hero::after{
+    content:"";
+    position:absolute;
+    top:0; bottom:0;
+    width:14px;
+    background:repeating-linear-gradient(45deg, var(--red) 0 10px, var(--ink) 10px 20px);
+    opacity:0.85;
+  }
+  .hero::before{left:0;}
+  .hero::after{right:0;}
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    letter-spacing:0.25em;
+    text-transform:uppercase;
+    color:var(--red-dark);
+    font-weight:600;
+  }
+  .hero h1{
+    font-family:'Anton', sans-serif;
+    font-size:clamp(48px, 9vw, 96px);
+    line-height:0.9;
+    margin:10px 0 6px;
+    letter-spacing:0.01em;
+    transform:rotate(-1.2deg);
+    color:var(--ink);
+    text-shadow: 3px 3px 0 var(--yellow);
+  }
+  .hero p.sub{
+    font-family:'Oswald', sans-serif;
+    font-size:18px;
+    color:var(--ink-soft);
+    max-width:520px;
+    margin:12px auto 0;
+  }
+  .hero-meta{
+    margin-top:22px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    color:var(--ink-soft);
+  }
+
+  /* ---------- FILTERS ---------- */
+  .filters{
+    max-width:1100px;
+    margin:28px auto 8px;
+    padding:0 20px;
+  }
+  .filter-group{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:12px;
+    align-items:center;
+  }
+  .filter-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:0.1em;
+    color:var(--ink-soft);
+    margin-right:6px;
+    min-width:78px;
+  }
+  .chip{
+    font-family:'Oswald', sans-serif;
+    font-weight:500;
+    font-size:14px;
+    padding:6px 14px;
+    border:2px solid var(--ink);
+    border-radius:2px;
+    background:var(--card);
+    cursor:pointer;
+    transition:transform .12s ease, background .12s ease;
+    position:relative;
+  }
+  .chip:hover{ transform:translateY(-2px); }
+  .chip.active{
+    background:var(--red);
+    color:#fff;
+    border-color:var(--red-dark);
+  }
+  .search{
+    max-width:1100px;
+    margin:0 auto 20px;
+    padding:0 20px;
+  }
+  .search input{
+    width:100%;
+    padding:12px 16px;
+    font-family:'Inter', sans-serif;
+    font-size:15px;
+    border:2px solid var(--ink);
+    border-radius:2px;
+    background:var(--card);
+    outline:none;
+  }
+  .search input:focus{ border-color:var(--red); }
+
+  /* ---------- GRID ---------- */
+  .grid{
+    max-width:1100px;
+    margin:0 auto;
+    padding:12px 20px 80px;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(250px, 1fr));
+    gap:26px;
+  }
+
+  .tag-card{
+    background:var(--card);
+    border:2px solid var(--ink);
+    border-radius:4px;
+    box-shadow:var(--shadow);
+    position:relative;
+    display:flex;
+    flex-direction:column;
+    transition:transform .15s ease, box-shadow .15s ease;
+    text-decoration:none;
+    color:var(--ink);
+  }
+  .tag-card:hover{
+    transform:translateY(-4px);
+    box-shadow:0 10px 0 rgba(42,36,32,0.12);
+  }
+  /* punched hole + string, top-left corner */
+  .tag-card::before{
+    content:"";
+    position:absolute;
+    top:14px; left:14px;
+    width:12px; height:12px;
+    background:var(--paper);
+    border:2px solid var(--ink);
+    border-radius:50%;
+    z-index:3;
+  }
+  .discount-stamp{
+    position:absolute;
+    top:10px; right:10px;
+    background:var(--stamp-green);
+    color:#fff;
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    font-size:13px;
+    padding:6px 9px;
+    border-radius:50%;
+    border:2px solid #fff;
+    transform:rotate(8deg);
+    z-index:3;
+    box-shadow:0 0 0 2px var(--stamp-green);
+  }
+  .tag-card img{
+    width:100%;
+    height:210px;
+    object-fit:contain;
+    background:#fff;
+    border-bottom:2px solid var(--ink);
+  }
+  .tag-body{
+    padding:16px 16px 18px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    flex:1;
+  }
+  .marketplace-badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    color:var(--red-dark);
+    font-weight:600;
+  }
+  .tag-text{
+    font-family:'Oswald', sans-serif;
+    font-size:16px;
+    line-height:1.3;
+  }
+  .tag-description{
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    line-height:1.4;
+    color:var(--ink-soft);
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+  .price-row{
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    font-family:'IBM Plex Mono', monospace;
+  }
+  .price-now{
+    font-size:22px;
+    font-weight:600;
+    color:var(--red);
+  }
+  .price-before{
+    font-size:14px;
+    color:var(--ink-soft);
+    text-decoration:line-through;
+  }
+  .cta{
+    margin-top:4px;
+    align-self:flex-start;
+    font-family:'Oswald', sans-serif;
+    font-weight:600;
+    font-size:13px;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+    background:var(--ink);
+    color:var(--paper);
+    padding:8px 14px;
+    border-radius:2px;
+  }
+  .coupon-box{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:8px;
+    border:2px dashed var(--red);
+    border-radius:2px;
+    padding:7px 10px;
+    background:#FCF3E4;
+    cursor:pointer;
+  }
+  .coupon-box:hover{ background:#F7E6C8; }
+  .coupon-left{ display:flex; flex-direction:column; line-height:1.2; }
+  .coupon-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    color:var(--ink-soft);
+  }
+  .coupon-code{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    font-size:15px;
+    color:var(--red);
+    letter-spacing:0.03em;
+  }
+  .coupon-copy{
+    font-family:'Oswald', sans-serif;
+    font-size:12px;
+    font-weight:600;
+    text-transform:uppercase;
+    background:var(--ink);
+    color:#fff;
+    padding:5px 9px;
+    border-radius:2px;
+    white-space:nowrap;
+  }
+  .empty{
+    grid-column:1/-1;
+    text-align:center;
+    padding:60px 20px;
+    font-family:'Oswald', sans-serif;
+    color:var(--ink-soft);
+  }
+
+  footer{
+    text-align:center;
+    padding:24px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    border-top:2px dashed var(--ink);
+  }
+
+  @media (max-width:520px){
+    .filter-label{ min-width:auto; width:100%; margin-bottom:4px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="eyebrow">Directo desde @ofertasychollosesp</div>
+  <h1>REBAJAS<br>DE HOY</h1>
+  <p class="sub">Las ofertas del canal, en tiempo real y organizadas por categoría y tienda. Sin scroll infinito en Telegram.</p>
+  <div class="hero-meta" id="metaInfo">Cargando…</div>
+</div>
+
+<div class="filters">
+  <div class="filter-group" id="categoryFilters">
+    <span class="filter-label">Categoría</span>
+  </div>
+  <div class="filter-group" id="marketplaceFilters">
+    <span class="filter-label">Tienda</span>
+  </div>
+</div>
+<div class="search">
+  <input type="text" id="searchInput" placeholder="Buscar producto (ej. auriculares, robot, zapatillas)…">
+</div>
+
+<div class="grid" id="grid"></div>
+
+<footer>
+  Este sitio se genera automáticamente a partir de las publicaciones del canal de Telegram.
+  Podemos recibir compensación por compras adscritas — programa de afiliados de Amazon EU y otros.
+</footer>
+
+<script>
+  function copyCode(e, code){
+    e.preventDefault();
+    e.stopPropagation();
+    navigator.clipboard.writeText(code).then(() => {
+      const label = e.currentTarget.querySelector('.coupon-copy');
+      const original = label.textContent;
+      label.textContent = '¡Copiado!';
+      setTimeout(() => { label.textContent = original; }, 1500);
+    });
+  }
+
+  let allOfertas = [];
+  let state = { category: 'Todas', marketplace: 'Todas', query: '' };
+
+  function parsePrecio(prices_found){
+    if(!prices_found || prices_found.length === 0) return { now:null, before:null };
+    const toNum = s => parseFloat(s.replace('.', '').replace(',', '.'));
+    if(prices_found.length === 1) return { now: toNum(prices_found[0]), before:null };
+    const nums = prices_found.map(toNum);
+    return { now: Math.min(...nums), before: Math.max(...nums) };
+  }
+
+  function formatEUR(n){
+    return n.toLocaleString('es-ES', { minimumFractionDigits:2, maximumFractionDigits:2 }) + ' €';
+  }
+
+  function timeAgo(iso){
+    if(!iso) return '';
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const h = Math.floor(diffMs / 3600000);
+    if(h < 1) return 'hace menos de 1h';
+    if(h < 24) return `hace ${h}h`;
+    return `hace ${Math.floor(h/24)}d`;
+  }
+
+  function renderFilters(){
+    const cats = ['Todas', ...new Set(allOfertas.map(o => o.category))];
+    const markets = ['Todas', ...new Set(allOfertas.map(o => o.marketplace))];
+
+    const catEl = document.getElementById('categoryFilters');
+    catEl.innerHTML = '<span class="filter-label">Categoría</span>' + cats.map(c =>
+      `<button class="chip ${state.category===c?'active':''}" data-type="category" data-value="${c}">${c}</button>`
+    ).join('');
+
+    const mktEl = document.getElementById('marketplaceFilters');
+    mktEl.innerHTML = '<span class="filter-label">Tienda</span>' + markets.map(m =>
+      `<button class="chip ${state.marketplace===m?'active':''}" data-type="marketplace" data-value="${m}">${m}</button>`
+    ).join('');
+
+    document.querySelectorAll('.chip').forEach(btn => {
+      btn.addEventListener('click', () => {
+        state[btn.dataset.type] = btn.dataset.value;
+        renderFilters();
+        renderGrid();
+      });
+    });
+  }
+
+  function renderGrid(){
+    const grid = document.getElementById('grid');
+    let items = allOfertas;
+
+    if(state.category !== 'Todas') items = items.filter(o => o.category === state.category);
+    if(state.marketplace !== 'Todas') items = items.filter(o => o.marketplace === state.marketplace);
+    if(state.query.trim()){
+      const q = state.query.trim().toLowerCase();
+      items = items.filter(o => o.text.toLowerCase().includes(q));
+    }
+
+    if(items.length === 0){
+      grid.innerHTML = '<div class="empty">No hay ofertas que coincidan. Prueba a quitar algún filtro.</div>';
+      return;
+    }
+
+    grid.innerHTML = items.map(o => {
+      const { now, before } = parsePrecio(o.prices_found);
+      const img = o.image || 'https://placehold.co/500x300/EAD9B0/2A2420?text=Sin+imagen';
+      return `
+      <a class="tag-card" href="${o.link || '#'}" target="_blank" rel="noopener nofollow sponsored">
+        ${o.discount_percent ? `<div class="discount-stamp">-${o.discount_percent}%</div>` : ''}
+        <img src="${img}" alt="" loading="lazy">
+        <div class="tag-body">
+          <div class="marketplace-badge">${o.marketplace} · ${o.category}</div>
+          <div class="tag-text">${o.title || o.text.split('\n')[0]}</div>
+          ${o.description ? `<div class="tag-description">${o.description}</div>` : ''}
+          ${now ? `<div class="price-row">
+            <span class="price-now">${formatEUR(now)}</span>
+            ${before ? `<span class="price-before">${formatEUR(before)}</span>` : ''}
+          </div>` : ''}
+          ${o.coupon_code ? `<div class="coupon-box" onclick="copyCode(event, '${o.coupon_code}')">
+            <div class="coupon-left">
+              <span class="coupon-label">Código</span>
+              <span class="coupon-code">${o.coupon_code}</span>
+            </div>
+            <span class="coupon-copy">Copiar</span>
+          </div>` : ''}
+          <span class="cta">Ver oferta →</span>
+        </div>
+      </a>`;
+    }).join('');
+  }
+
+  document.getElementById('searchInput').addEventListener('input', (e) => {
+    state.query = e.target.value;
+    renderGrid();
+  });
+
+  fetch('ofertas.json')
+    .then(r => r.json())
+    .then(data => {
+      allOfertas = data.ofertas.sort((a,b) => new Date(b.date) - new Date(a.date));
+      document.getElementById('metaInfo').textContent =
+        `${data.count} ofertas · actualizado ${timeAgo(data.generated_at)}`;
+      renderFilters();
+      renderGrid();
+    })
+    .catch(() => {
+      document.getElementById('metaInfo').textContent = 'No se pudo cargar ofertas.json';
+    });
+</script>
+
+</body>
+</html>
