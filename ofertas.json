@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T10:11:57.567259+00:00",
+  "generated_at": "2026-08-01T10:20:11.671618+00:00",
   "channel": "ofertasychollosesp",
-  "count": 117,
+  "count": 116,
   "ofertas": [
     {
       "id": "ofertasychollosesp/95514",
@@ -1979,23 +1979,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "30"
-    },
-    {
-      "id": "ofertasychollosesp/95391",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅AURICULARES TRUE WIRELESS PHILIPS TAT1209WT\n\n📝 Disfruta de un sonido natural y graves dinámicos en un diseño compacto. Perfectos para llamadas nítidas y con estuche de carga portátil. ¡Llévalos a todas partes!\n\n🔗Enlace: https://amz.tf/weKlzPF",
-      "title": "AURICULARES TRUE WIRELESS PHILIPS TAT1209WT",
-      "description": "Disfruta de un sonido natural y graves dinámicos en un diseño compacto. Perfectos para llamadas nítidas y con estuche de carga portátil. ¡Llévalos a todas partes",
-      "image": "https://cdn4.telesco.pe/file/Vraj-q1s5jEEe_3nnJkfIg_18VaqbPmE56w5oWITyjWVFUbKQzTNWVylz7xCXTKbjAQa-34odME98Hgn20VdJT29IsO0Do2_BZd3ZuNcA6dlUbOWLAg0FkababE3c6VOv0G_ki66gBJRkPAm5XNdM20ZGPj84Si5Z8SVCihbaIz0dOHwXUxyk8jzNSkMmF0dKf1HffHoYpzqUFX_0ex8GIeVSRnNEpkHuy_o2lzYVixrZcMeBTeKzJ56H24FvimDM87bWzHE4IHpNMUqkmE92sTBmlZ3gS6ZdWCgKFev-g8A-PjlQKXqIlLzHAszNOuDjdp9w57eIMziYQojcjdkvw.jpg",
-      "link": "https://amz.tf/weKlzPF",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "33"
     }
   ]
 }
