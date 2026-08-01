@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-01T10:20:11.671618+00:00",
+  "generated_at": "2026-08-01T10:28:03.172165+00:00",
   "channel": "ofertasychollosesp",
   "count": 116,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/95516",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -24%‼️#Publicidad \n\n✅GOOGLE PIXEL BUDS PRO 2\n\n📝 Disfruta de un sonido excepcional y comodidad inigualable con los Google Pixel Buds Pro 2. ¡La experiencia inalámbrica que estabas esperando!\n\n🔗Enlace: https://amz.tf/lgxMylC",
+      "title": "GOOGLE PIXEL BUDS PRO 2",
+      "description": "Disfruta de un sonido excepcional y comodidad inigualable con los Google Pixel Buds Pro 2. ¡La experiencia inalámbrica que estabas esperando",
+      "image": "https://cdn4.telesco.pe/file/P9oyHIVxzEMSwG58vJ2ugG0qWNWAjWkRQjx2YhM6Xa8ED89pOQjycs5cdXCKAiENe-6lBAZeK75_GeSSIBl1dzsPUo83uHGCjbG8OAwJOqbrMX_TbptEni1YZIt1_f5sDxn6gkV_Fujesd7B4kl_PXEtWwiSExEB11FHkaOtvXqI-0QQLJaJNIw_qF8Jx-m14qkLZatCwV_ysNTaY3wQr9gj-FI2Ub6V-YIqqspy4HScuST9Nhq9PWLy4l4xmewSEk8cWQ4FXEFBOEmzCDnRV9_t00CL0bk-GBg_7Yzt2U6zV6KU0_vtInAJpyHf8EbOTfxdAZ3rOxvKAR35ER9ecw.jpg",
+      "link": "https://amz.tf/lgxMylC",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "24"
+    },
     {
       "id": "ofertasychollosesp/95514",
       "date": null,
@@ -1962,23 +1979,6 @@
       "coupon_code": "GFAUG",
       "prices_found": [],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/95392",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad \n\n✅LOGITECH G203 Y G240 ALFOMBRILLA GAMING\n\n📝 Potencia tu juego con el ratón Logitech G203 y la alfombrilla G240, diseñados para un rendimiento óptimo y personalización RGB. ¡Domina cada partida!\n\n🔗Enlace: https://amz.tf/jtLgOXI",
-      "title": "LOGITECH G203 Y G240 ALFOMBRILLA GAMING",
-      "description": "Potencia tu juego con el ratón Logitech G203 y la alfombrilla G240, diseñados para un rendimiento óptimo y personalización RGB. ¡Domina cada partida",
-      "image": "https://cdn4.telesco.pe/file/eQd20LlU6VcUdFl9yY9dvyusgB5ajrAFyskhCOrL2IsZ2Y30jTIjKf-u-yjy5lwbWSsFqcmv3MGD7sW2OyTbWjYKTQtDTdPTYQLDgZwbZCPyJBl6-Bn-sypd-KbsVzeOH0NIMkIxmm-T5WmwDwtT_Tcqa-eFlxGXt8ywPOPmC-nnRIP8adugvV_irCyexYTA48WqDTmEHTPkojyLfHCGGyJE04pEHhSpbPsWbBJOmdgl-O-gXhe1gcBg6XBAKGk6lvpmvotOwXRw9bKf-jBXHQN4lDt5Ek1o-JQzy-uSpwKrF2XqOoMvWwWWHMDWTsMFMcuRBEn4SlmcDOvyCaj_og.jpg",
-      "link": "https://amz.tf/jtLgOXI",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "30"
     }
   ]
 }
