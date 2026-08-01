@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-01T10:04:27.293256+00:00",
+  "generated_at": "2026-08-01T10:11:57.567259+00:00",
   "channel": "ofertasychollosesp",
   "count": 117,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/95514",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -23%‼️#Publicidad \n\n✅ONEODIO PRO10 AURICULARES DJ ESTÉREO\n\n📝 Disfruta de un sonido excepcional con los OneOdio Pro10. Perfectos para mezclar y monitorear, ideales para músicos y productores. ¡Lleva tu experiencia auditiva al siguiente nivel!\n\n🔗Enlace: https://amz.tf/suornWa",
+      "title": "ONEODIO PRO10 AURICULARES DJ ESTÉREO",
+      "description": "Disfruta de un sonido excepcional con los OneOdio Pro10. Perfectos para mezclar y monitorear, ideales para músicos y productores. ¡Lleva tu experiencia auditiva al siguiente nivel",
+      "image": "https://cdn4.telesco.pe/file/C7ULMbn0q3L38TQ2qUmkwt4u5Sn3ddd2ccXbMBVAGKOOQhZ4b0HpPLG18SYYe3riREARiMF0y9dbULM_T6l84FNhiE0JDsac2uE6wt_Q_FJnARgdpv3_uzRXPP7Ju6rFRWtD2lk3lsBK-qJg7OibxQ_jy0hOtUqixBpwY5qF7RtmZ2kGz1GLH8VHrW6Yftt5pCJm2ewCzqTNo7CPvhXe1gHoX-XRd8GDumzoKY_yR9cTxGY06Ei6hDw7CTRRNy35xfTT_3qD9TKM38wBHwjmOlMGXXyNITkoW4UFe33T9u-bxAoKEajHpKUQkuy-5wH3_V3vrwNOU8UF37nQLz8VNA.jpg",
+      "link": "https://amz.tf/suornWa",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "23"
+    },
     {
       "id": "ofertasychollosesp/95513",
       "date": null,
@@ -1979,23 +1996,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "33"
-    },
-    {
-      "id": "ofertasychollosesp/95390",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -46%‼️#Publicidad \n\n✅BELKIN CARGADOR DE PARED USB TYPE C PD 40 W\n\n📝 Carga rápida y eficiente con dos puertos USB-C de 20 W cada uno. Ideal para iPhone, iPad y Galaxy. ¡Potencia tu dispositivo al máximo!\n\n🔗Enlace: https://amz.tf/ybbgnuQ",
-      "title": "BELKIN CARGADOR DE PARED USB TYPE C PD 40 W",
-      "description": "Carga rápida y eficiente con dos puertos USB-C de 20 W cada uno. Ideal para iPhone, iPad y Galaxy. ¡Potencia tu dispositivo al máximo",
-      "image": "https://cdn4.telesco.pe/file/lLBWx08dA0BBFUyAwIW31Sxpe3_vUpxGVaJinxrWQTQPm6maSb3ccZukii91lVATLqT5slDC-yDlb_eKCRAT1mihk7-sM6sc3qDJ8yC7pWjqd3ZXimKYIhNpipz9IJir_W3j2VEoFCdcS2njRr03wRJS_lrtGfEjGKcssSN6zMJEprsf21ap8b95xAZsusP1_xFj7up71i63E-8nPH4IVPhzWVujVBxh7JtyxMEVdeE1yOQEElscZ-Cd_JlULh6mbwTrVe4Tivsaa8EfudUmSGz45Nv8n-gAmdsiAU9naHLGk8T3zjhsUd_aUVBZRcwTP7ByqSe3DYUnWLvpdtRNiQ.jpg",
-      "link": "https://amz.tf/ybbgnuQ",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "46"
     }
   ]
 }
