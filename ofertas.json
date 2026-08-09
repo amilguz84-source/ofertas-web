@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T21:52:12.616686+00:00",
+  "generated_at": "2026-08-09T23:16:13.475507+00:00",
   "channel": "ofertasychollosesp",
-  "count": 118,
+  "count": 117,
   "ofertas": [
     {
       "id": "ofertasychollosesp/96105",
@@ -2011,23 +2011,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "25"
-    },
-    {
-      "id": "ofertasychollosesp/95977",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -29%‼️#Publicidad \n\n✅RESALIM PLUS METABOLIZADOR DE ALIMENTOS\n\n📝 Resalim Plus es tu aliado perfecto para potenciar el metabolismo y optimizar la digestión. ¡Transforma tu energía y bienestar con este complemento alimenticio!\n\n🔗Enlace: https://ir.cazadordechollos.es/95977",
-      "title": "RESALIM PLUS METABOLIZADOR DE ALIMENTOS",
-      "description": "Resalim Plus es tu aliado perfecto para potenciar el metabolismo y optimizar la digestión. ¡Transforma tu energía y bienestar con este complemento alimenticio",
-      "image": "https://cdn4.telesco.pe/file/Dpa1v4A23o6byKLBlZr6u9hAvQlP4mjImfPKUpFRIGLtyV2eQ65NtQ_JFrTNnjs2-Pp-eh4BCwZMPOTLl0sG1OxbfGpcPmWApOEAHqYo2nS35u6qSPykc1H1_UjHLQyFAWn3gQMp85Jvb5pbUHRM2GHM36Gn9mhUYm7-76o5j9XAWf570ffQgZEYkdtgOvAzx8vWyzLTPQ-a5x8LesXoJye2K_MKl_EVOOu4a84cX0irqCT-QCyTlbG55P7hL60g0cxjrlwJTHoYGeKuVydqVCfME7SRrCLcaoAC6qEP5rah6JhWej7ZTXQ5G3330YY_FR-M-x8ZcmhWhQL5q3xhFw.jpg",
-      "link": "https://ir.cazadordechollos.es/95977",
-      "marketplace": "Ir",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "29"
     }
   ]
 }
