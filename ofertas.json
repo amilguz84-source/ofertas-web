@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T21:26:50.688729+00:00",
+  "generated_at": "2026-08-12T23:24:41.210749+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/96427",
@@ -2047,23 +2047,6 @@
       "coupon_code": "IFPWXPWC",
       "prices_found": [],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/96299",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -28%‼️#Publicidad\n\n✅DJI POWER 1000V2 ESTACIÓN DE ENERGÍA PORTÁTIL\n\n📝 Potente estación de energía de 1024Wh con paneles solares plegables. Ideal para aventuras al aire libre, garantiza energía confiable donde la necesites. ¡No te quedes sin energía!\n\n🔗Enlace: https://ir.cazadordechollos.es/96299",
-      "title": "DJI POWER 1000V2 ESTACIÓN DE ENERGÍA PORTÁTIL",
-      "description": "Potente estación de energía de 1024Wh con paneles solares plegables. Ideal para aventuras al aire libre, garantiza energía confiable donde la necesites. ¡No te quedes sin energía",
-      "image": "https://cdn4.telesco.pe/file/E3aD9vre0p4QBqY5DWxQxiw4tyeka1azfjYvybMX2lsNqbBzsOdlrnc3ZXZe-JXmjIzl-52Q323rInSrS8E3l1cX6u7V5YuL694znxncsju6ouWnlFVYjuTbD4Pg5bwnbRNukAhEyzmI099JRHqPbUndhnavKB4uDxEWJoD1lE36ScIV_HBrClw4Ki0k9gdFGUvniXv7dSTQEG2R04O8PWPoDRFT-7Ty7alIpBsiVSL5myKXVi650jaa2Y-QbulisJ3UzG_5MyYU5fLbH02XC-fDPY0mlYrCbFgYhl_NBLbmjoHykrH33nQ07dZ58FuhYf96K7Sx-07Udo40His81A.jpg",
-      "link": "https://ir.cazadordechollos.es/96299",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "28"
     }
   ]
 }
