@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T21:54:18.763421+00:00",
+  "generated_at": "2026-08-14T22:55:27.267625+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/96675",
@@ -2073,24 +2073,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "52"
-    },
-    {
-      "id": "ofertasychollosesp/96551",
-      "date": null,
-      "text": "‼️OFERTA CAZADA ‼️#Publicidad \n\n✅HUGO BOSS THE SCENT DESODORANTE SPRAY\n\n📝 Refresca y protege con estilo, llevando la elegancia y la frescura de Hugo Boss a tu día a día. ¡Impresiona con confianza!\n\n🔗Enlace: https://ir.cazadordechollos.es/96551\n\n#Publicidad",
-      "title": "HUGO BOSS THE SCENT DESODORANTE SPRAY",
-      "description": "Refresca y protege con estilo, llevando la elegancia y la frescura de Hugo Boss a tu día a día. ¡Impresiona con confianza",
-      "image": "https://cdn4.telesco.pe/file/kxhGwfsWJWQBQNZhMvGarVGJdLOCnzUj4B8jQnpFWwjFxz5dePTwdXHENm53pZeSw5WoCH-z6yq9NKASoKhMQH0SEDmzFW22yziN5AtyT5rPzXp-u21rxoZzkYHvdy73eQPLwEAGYSPiN1aYmb1qBtqDO90wYrrAHxu-n64Lq8fe01CZeGyUvuX0nW25Wr-YkRBJU0LNoVJyJiq_oEr4N7aWDIse8t8K15zcjAu3N5qkvUIOxEj-Gmq4Cm0I5Az74mdur0UAK9J0tcOVteXZxiy4VCRorvKQoJABPHA6GhVBguBlKaMygNJ7R4NN1oIQAFD959f2UQewZH5e7OtZUQ.jpg",
-      "link": "https://ir.cazadordechollos.es/96551",
-      "marketplace": "Ir",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad",
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": null
     }
   ]
 }
