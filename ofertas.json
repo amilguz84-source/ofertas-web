@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-14T20:06:15.758777+00:00",
+  "generated_at": "2026-08-14T21:02:19.682830+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/96675",
+      "date": null,
+      "text": "🔥 Lo más vendido hoy\n\n🥇 PORTÁTIL HP OMNIBOOK 16\" #MediaMarkt\n👉 https://ir.cazadordechollos.es/96584\n\n🥈 CONJUNTO SARTENES TEFAL 4 PIEZAS #Miravia\n👉 https://ir.cazadordechollos.es/96630\n\n🥉 SOFÁ INFLABLE PORTÁTIL Y PLEGABLE #AliExpress\n👉 https://ir.cazadordechollos.es/96649\n\n🏅 CABEZA DE DUCHA ION CON FILTRO Y MODOS #AliExpress\n👉 https://ir.cazadordechollos.es/96614\n\n🏅 PERCHERO INDUSTRIAL CON ESTANTES #Amazon\n👉 https://ir.cazadordechollos.es/96631",
+      "title": "Lo más vendido hoy",
+      "description": "PORTÁTIL HP OMNIBOOK 16\" #MediaMarkt CONJUNTO SARTENES TEFAL 4 PIEZAS #Miravia SOFÁ INFLABLE PORTÁTIL Y PLEGABLE #AliExpress CABEZA DE DUCHA ION CON FILTRO Y MODOS #AliExpress PERCHERO INDUSTRIAL CON ESTANTES #Amazon",
+      "image": "https://cdn4.telesco.pe/file/dBdGgy9alDB26Ji48x8RYs5Q_pQxx_dKKxhgTPpjPal_3XEj6Ekg-vQgAL6IpntjoeQAOrR7Tc1LrPVN_VbJvCW3szKadohstgJSpZLQcj2IPus55iMkJaK7wXyQWTnEdbpcz4netTJB167Dw7mOLVzc5e0jFIZOTlCfyhtPhC5yR08FZchccLcpTYHlg22mUHIDx_2RvXhZyJT__SCVgN6Sp2lZ3vg6w4ipsHxtzE6XQ3lXy4J900vlb-a8bhN7A_f1f80DI5ukBFEoVQWty4zA1nGnD-Z4XNaWK5E9euLDJN0DKwYEtLyB9KUW05pWuaHtyxgy1_8Y3cyhgJiUHQ.jpg",
+      "link": "https://ir.cazadordechollos.es/96584",
+      "marketplace": "Pdt",
+      "category": "Tecnología",
+      "hashtags": [
+        "MediaMarkt",
+        "Miravia",
+        "AliExpress",
+        "AliExpress",
+        "Amazon"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/96674",
       "date": null,
@@ -2070,26 +2091,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/96550",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -29%‼️ #Publicidad\n\n✅PS5 RAINBOW SIX SIEGE EDICIÓN ELITE\n\n📝 Disfruta de Tom Clancy's Rainbow Six Siege en PS5 con la edición Elite, perfecta para los amantes de la acción táctica.\n\n🟢AHORA : 14,99€\n❌ANTES: 20,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/96550",
-      "title": "PS5 RAINBOW SIX SIEGE EDICIÓN ELITE",
-      "description": "Disfruta de Tom Clancy's Rainbow Six Siege en PS5 con la edición Elite, perfecta para los amantes de la acción táctica AHORA : 14,99€ ANTES: 20,99€",
-      "image": "https://cdn4.telesco.pe/file/YTtFVrOOtr_hzhzvocPMt7453oCxXGc97Ix5caACtfbH_aQgwdzxCNvkzV9lE3jnacLFkAGGKNnY7IQtZ1qBdk9b3jQXSo4Be1aoL3xT7sA7mKF5FZ0WZIdmp1KxPFTJUeU8vQRpPU2_YZAagMNRCGLHw3sopaFSyUaVwnqyXftyxeln5M34aGWLjRx5sNzPWYytESICtpMaBLd2QjUkMKGoeppZiuIYUu7oOZHw6mlczpKgYwWU_duyMeXdqjmrtdpCSpMGBCQRsY3zc-7BzIUDfHNJ6cYpt4ZbElnBIpHUCGEue5fnWtaNmg1yqF0cncI635izKb62lkesLLLOUQ.jpg",
-      "link": "https://ir.cazadordechollos.es/96550",
-      "marketplace": "Ir",
-      "category": "Videojuegos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "14,99",
-        "20,99"
-      ],
-      "discount_percent": "29"
     }
   ]
 }
