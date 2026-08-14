@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T21:31:25.397121+00:00",
+  "generated_at": "2026-08-14T00:02:35.552911+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/96559",
@@ -2088,23 +2088,6 @@
       "coupon_code": "ESMA05",
       "prices_found": [],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/96433",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -52%‼️#Publicidad \n\n✅BOURJOIS PERFILADOR LABIOS CHERRY BOOM BOOM\n\n📝 Dale forma a tus labios con el Bourjois Contour Edition. Su tono 07 Cherry Boom Boom es perfecto para un acabado duradero y vibrante. ¡Atrévete a lucirlos!\n\n🔗Enlace: https://ir.cazadordechollos.es/96433",
-      "title": "BOURJOIS PERFILADOR LABIOS CHERRY BOOM BOOM",
-      "description": "Dale forma a tus labios con el Bourjois Contour Edition. Su tono 07 Cherry Boom Boom es perfecto para un acabado duradero y vibrante. ¡Atrévete a lucirlos",
-      "image": "https://cdn4.telesco.pe/file/dtXA6d04_NZ9A2vAgdDI29mEwQagFXsv-zFdgj-1zDu23jwrHSQH-KXSRWoo1Si5Xv005l3WcH3ZjOnT0s-xIvDoBWiTOhyX1IgVmDxujxt5z1Ia3wK8Ww_D6zORFdbsV-0zPHAoptpZuBmsRa4jdxuEPdg_AqMti7khAqgu0FCp-isRtIF1s4SnSUDBgu3msnW1cqm9rtyNVT6R360VymKlbqS5HZTCHAaunBn3GzpNhOFqmVh1QLYCP25MArAJ_j9rN7GPw3YWmuTHz4JmLnY3BTKztz1Iw2-nF2w8rjEAVzZL_pI4jVl6oLE3_rGJa0XXF-8A8acyIXa_ST53CQ.jpg",
-      "link": "https://ir.cazadordechollos.es/96433",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "52"
     }
   ]
 }
