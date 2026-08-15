@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T21:47:46.935904+00:00",
+  "generated_at": "2026-08-15T22:53:48.353716+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/96832",
@@ -2120,23 +2120,6 @@
         "ALIEXPRESS"
       ],
       "coupon_code": "ESNS10",
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/96700",
-      "date": null,
-      "text": "‼️SEGUNDA UNIDAD A MITAD DE PRECIO‼️#Publicidad\n\n✅ORAL-B VITALITY PRO BROSSE À DENTS ÉLECTRIQUE\n\n📝 Descubre la Oral-B Vitality Pro, la brosse à dents électrique que transforma tu rutina. ¡Compra una y llévate la segunda a mitad de precio!\n\n🔗Enlace: https://ir.cazadordechollos.es/96700",
-      "title": "ORAL-B VITALITY PRO BROSSE À DENTS ÉLECTRIQUE",
-      "description": "Descubre la Oral-B Vitality Pro, la brosse à dents électrique que transforma tu rutina. ¡Compra una y llévate la segunda a mitad de precio",
-      "image": "https://cdn4.telesco.pe/file/I4orRgJbxst3U0Gr2wnqr0LW9YsZUddXu2sN90KpDDTzq6rlQNrmrxwA8efARV-J7SWkLLa-ZYPp0g_DH3czZeUR6q3Tiz-9F_UfR78XXcKsu9n09Dz9Y35NwslxFU24PcjTXZEmEXbAqlEpeXlCKJdK0jN7LhTlBCQhbIow9D4CBn_igiMGluYX7VarpMVKYTfNntXoD71b6KzR7H5R7_mSSF6ujwqQdh4BB4i_yaGL-JrbINKuPjyeJ5wEi6l2kMzyzyALnLjIGuZo5_DNSJRH04K96FbFJ1lBnHj7ZSb-4sS3NMMHx8FlGlm2h-O9sDP8lPDtzXHPEBcWINV8OQ.jpg",
-      "link": "https://ir.cazadordechollos.es/96700",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
       "prices_found": [],
       "discount_percent": null
     }
