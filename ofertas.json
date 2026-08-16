@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T21:47:40.406413+00:00",
+  "generated_at": "2026-08-16T22:51:36.846874+00:00",
   "channel": "ofertasychollosesp",
-  "count": 117,
+  "count": 116,
   "ofertas": [
     {
       "id": "ofertasychollosesp/96947",
@@ -2068,26 +2068,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "33"
-    },
-    {
-      "id": "ofertasychollosesp/96800",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -45%‼️ #Publicidad\n\n✅LIMPIADOR DESINFECTANTE SANYTOL PACK 8\n\n📝 Pack de 8 limpiadores desinfectantes Sanytol de 750 ml cada uno, ideal para eliminar bacterias, hongos y virus sin lejía.\n\n🟢AHORA : 13,16€\n❌ANTES: 23,94€\n\n🔗Enlace: https://ir.cazadordechollos.es/t1b8",
-      "title": "LIMPIADOR DESINFECTANTE SANYTOL PACK 8",
-      "description": "Pack de 8 limpiadores desinfectantes Sanytol de 750 ml cada uno, ideal para eliminar bacterias, hongos y virus sin lejía AHORA : 13,16€ ANTES: 23,94€",
-      "image": "https://cdn4.telesco.pe/file/DTsk3nD2ZzOsENQxxfleXJ0VH_1Y0kOPbyMlRrtVJjdZdVr4cDQ7OY_6AIlwDcY0JrzW05CcgPhFEvV9bQN7MGHUlmCugwWsHy7tVMDMvmZMQg9x9ENJCbAub0w8sjj4AScQy215LiMKjDSc1efX3xGc3-cHhHw8Qdq5DOGqS1FgN7C5QSwx01rg94INCHqVYqrNdBwtEHAP_6eDV931pqBt4eK6_ytyke-1bAh37BjR3VRw--t4aDpYiReJEQXaUJeb2qVdIuFcXRdxIe7tWeQORwuzTx-5u6WFPw5cp9aJo-sptvACQmp2L9ZGQIfYDO-M8CkbvLFdemPL9_QfBQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t1b8",
-      "marketplace": "Amazon",
-      "category": "Droguería y limpieza",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "13,16",
-        "23,94"
-      ],
-      "discount_percent": "45"
     }
   ]
 }
