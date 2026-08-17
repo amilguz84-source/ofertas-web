@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-17T20:57:09.096124+00:00",
+  "generated_at": "2026-08-17T21:55:39.059923+00:00",
   "channel": "ofertasychollosesp",
   "count": 120,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/97111",
+      "date": null,
+      "text": "🔥 Lo más vendido hoy\n\n🥇 CAMISETA DE HOMBRE ESTAMPADO 3D #AliExpress\n👉 https://ir.cazadordechollos.es/97066\n\n🥈 PANEL DE SUPERFICIE SLIM 20W #Amazon\n👉 https://ir.cazadordechollos.es/97019\n\n🥉 PUMA ANZARUN LITE ZAPATILLAS UNISEX #Amazon\n👉 https://ir.cazadordechollos.es/97053\n\n🏅 PACK 2 TUMBONAS PLEGABLES DE EXTERIOR #AliExpress\n👉 https://ir.cazadordechollos.es/96962\n\n🏅 SAVAGE EAU DE PARFUM 50ML #Miravia\n👉 https://ir.cazadordechollos.es/97057",
+      "title": "Lo más vendido hoy",
+      "description": "CAMISETA DE HOMBRE ESTAMPADO 3D #AliExpress PANEL DE SUPERFICIE SLIM 20W #Amazon PUMA ANZARUN LITE ZAPATILLAS UNISEX #Amazon PACK 2 TUMBONAS PLEGABLES DE EXTERIOR #AliExpress SAVAGE EAU DE PARFUM 50ML #Miravia",
+      "image": "https://cdn4.telesco.pe/file/Z6KYNNjT-kb0YBi8WY0w6P1Qzjb03KXkWjwYelCfYOczy_Ru8QSRRi-7CQI39s80UY4TskgwOWkcyTWGMfHD2D8n2CYnH3WK1hwiHgEpdhC6krwHLND99zV9K6O8MxKx4iKFmVyqXWhGliavpNiI8ZVMQULxu3jAq98wCP7LSMQDCp719j7fuJ35gNvxZrENr2Jgow9VZaExTa2qPl8pjEoBpPQKuBipK1lmBcc9GXqGQI-zmWKMS9pmZcN0Sk1E8NIS7AXONqEuFLpLBwAqzlqSTpVG4oA4g7E-fxZ2MxbG8d7l4FVQEvV47Fj8-EqH4LgaVgxZLxeSyfg6kApqyA.jpg",
+      "link": "https://ir.cazadordechollos.es/97066",
+      "marketplace": "AliExpress",
+      "category": "Moda",
+      "hashtags": [
+        "AliExpress",
+        "Amazon",
+        "Amazon",
+        "AliExpress",
+        "Miravia"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/97110",
       "date": null,
@@ -2105,23 +2126,6 @@
         "31,33"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/96980",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -32%‼️#Publicidad\n\n✅ROWENTA ASPIRADORA TAPICERÍAS 1150W\n\n📝 Descubre la potencia de la Rowenta Clean It Hot & Cold, ideal para mantener tus tapicerías impecables. ¡Limpieza efectiva y fácil con 5 accesorios incluidos!\n\n🔗Enlace: https://amz.tf/GJgyfhK",
-      "title": "ROWENTA ASPIRADORA TAPICERÍAS 1150W",
-      "description": "Descubre la potencia de la Rowenta Clean It Hot & Cold, ideal para mantener tus tapicerías impecables. ¡Limpieza efectiva y fácil con 5 accesorios incluidos",
-      "image": "https://cdn4.telesco.pe/file/mMM72opXARqil645YBbeLWPHKYQwDX7s0axWKAV-BEX5PW0ZrVh62Hf_Heac4_Wou4FMcpsoE8cB-zCRhflhNvK3r40JUptFs0nsgSvTuSttgx7ADIj2n-k1HdohkqCl9ojeZqsoOaw0RegnnNQyugZuQsJgdExIUcuXXgzKgZO7vB9kbqrI5N6g2kfrk8I7zQmmDpTCJLfRhkfSDql3uL9QXu1ZzAaYHzFP4F8ka_8ufU01p3vdTgT5pRhfTtViw4CxPt0eOtv78vgBIIjz7QVK5dSFg9LcsZVsxnfdEfFPDChXyg60iwA7_qhoqZEw5HL7gfu31y1uLrGCeWTXag.jpg",
-      "link": "https://amz.tf/GJgyfhK",
-      "marketplace": "Amazon",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "32"
     }
   ]
 }
