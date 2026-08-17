@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T21:55:39.059923+00:00",
+  "generated_at": "2026-08-17T22:56:24.151066+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/97111",
@@ -2109,23 +2109,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "42"
-    },
-    {
-      "id": "ofertasychollosesp/96981",
-      "date": null,
-      "text": "✅NIOH COLLECTION - PS5 NUEVO\n\n📝 Consigue la Nioh Collection para PS5, completamente nuevo y precintado. Versión PAL España, ideal para los amantes de los videojuegos.\n\n🔥PRECIO: 31,33€\n🎟APLICA EL CÓDIGO: ESNS03\nℹ️ Cupón sujeto a disponibilidad. · El precio final puede incrementarse por aranceles.\n\n🔗Enlace: https://ir.cazadordechollos.es/t1lf",
-      "title": "NIOH COLLECTION - PS5 NUEVO",
-      "description": "Consigue la Nioh Collection para PS5, completamente nuevo y precintado. Versión PAL España, ideal para los amantes de los videojuegos PRECIO: 31,33€ APLICA EL CÓDIGO: ESNS03 ℹ Cupón sujeto a disponibilidad. · El precio f…",
-      "image": "https://cdn4.telesco.pe/file/rs5RkV2oxWFcLi7OCCsCFS0NGOKHvw4EmXoR7Y2YgsIN3f_8A6X1CewMELov61CURwefIlTFxN-_aI5QxvmFWTtoVPk9jQ7swO2huM2UbQ2jSg2-v65qzX7vr-y98--JfAMxruvc5_B78NlstfQPJ3NdQjt_uMZcsXi1X5MatQX56pxRDdRe1Wui4v8Hu4_QEouE56zx1Ceige0-ODRKB6FdhOlle3Q3QddpI1OUY6eb04iAVB4iYLos77TDCknqNvq30yLOf3RwbslE50bho62gUgZaURhq1ZJxE3WUYEUmOH6B8JZJ8UqMt2sJJZaPimJxMOLAfF2FiqSAUkRRiQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t1lf",
-      "marketplace": "AliExpress",
-      "category": "Videojuegos",
-      "hashtags": [],
-      "coupon_code": "ESNS03",
-      "prices_found": [
-        "31,33"
-      ],
-      "discount_percent": null
     }
   ]
 }
