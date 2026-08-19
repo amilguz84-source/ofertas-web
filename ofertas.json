@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T21:56:49.262450+00:00",
+  "generated_at": "2026-08-19T22:57:05.044283+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/97427",
@@ -2109,23 +2109,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "48"
-    },
-    {
-      "id": "ofertasychollosesp/97294",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -22%‼️#Publicidad \n\n✅ISDIN FOTOPROTECTOR FUSION WATER SPF50\n\n📝 Protege tu piel con ISDIN Fotoprotector Facial Fusion Water SPF50. Su textura ligera y de rápida absorción ofrece una protección solar eficaz y cómoda para el uso diario.\n\n🔗Enlace: https://ir.cazadordechollos.es/97294",
-      "title": "ISDIN FOTOPROTECTOR FUSION WATER SPF50",
-      "description": "Protege tu piel con ISDIN Fotoprotector Facial Fusion Water SPF50. Su textura ligera y de rápida absorción ofrece una protección solar eficaz y cómoda para el uso diario",
-      "image": "https://cdn4.telesco.pe/file/R5hTgkVGL091OWkabN0MhhFpMPQFfPms9-boLmQkNjFVc72zIzs4bANjbABJU0dFxiijHavnBuDZHUApHo_BsmN8cNfNW8C160VOVPscHsgwMSk52j9acEgosJo7M_Emvrpz9Yb87wGsZ18RnyiopFjz97IO29UcTHb4Mf8bAYKiH11cITQrOgKGV4RIzOvIzMreYghgpq9pocK37uiAw0cKZEw3m6ADsxG8riIp_AaNxl1o82Qzuu8TLJCeLedYB8yfrr_VQZxVkDJ34TttyxTR-T7OJdMrNCdqQ81kIhywkr_1cYslvPCiuLcaBF3vrhTR1w1SniYMdPf1nsSWAQ.jpg",
-      "link": "https://ir.cazadordechollos.es/97294",
-      "marketplace": "Amazon",
-      "category": "Muebles",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "22"
     }
   ]
 }
