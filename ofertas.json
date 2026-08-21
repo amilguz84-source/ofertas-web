@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T21:56:29.013321+00:00",
+  "generated_at": "2026-08-21T22:56:45.132044+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/97680",
@@ -2075,23 +2075,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "22"
-    },
-    {
-      "id": "ofertasychollosesp/97533",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -50%‼️#Publicidad \n\n✅JBL WAVE BEAM 2: AURICULARES WIRELESS\n\n📝 Disfruta de la música sin interrupciones con los JBL Wave Beam 2. Cancelación de ruido y diseño cómodo para una experiencia auditiva inigualable. ¡Hazte con ellos!\n\n🔗Enlace: https://ir.cazadordechollos.es/97533",
-      "title": "JBL WAVE BEAM 2: AURICULARES WIRELESS",
-      "description": "Disfruta de la música sin interrupciones con los JBL Wave Beam 2. Cancelación de ruido y diseño cómodo para una experiencia auditiva inigualable. ¡Hazte con ellos",
-      "image": "https://cdn4.telesco.pe/file/LaxrXq82rIXFk47DEisGFK0TK4Va-MzShzi5zUgnmJhqfMtA0z0FuLucZQ_gWtWe6NPVARCIYVo4Y_Z0XDX3KK9PnlQ2fl_gzSPR8_YqCeZ1WyJnrjcxn-NNJeQsW8nAkgmNWjEjRjYXkUfmDWjA_uhXnzlJBVd7Skvfa0BX-j3_CLBZ0pY4k30i1RxSKmOsXhWs3RLfmgXu_vKz1-xAZJAiz7U7qG70XsDk67Ai2d0iI0PciwwcD-Spt4QhB9_Fw4VJ3R2-xhYHAmn-EY_YGN3CevCdpxJsQoG_4PRiPW5KOyezuH56MFikVRxLE5f4utLO_QiXcNXNBfC9F6zGdQ.jpg",
-      "link": "https://ir.cazadordechollos.es/97533",
-      "marketplace": "Amazon",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "50"
     }
   ]
 }
