@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T21:50:38.162522+00:00",
+  "generated_at": "2026-08-22T22:54:08.367278+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/97821",
@@ -2129,23 +2129,6 @@
         "50"
       ],
       "discount_percent": "13"
-    },
-    {
-      "id": "ofertasychollosesp/97691",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅REDMI POWER BANK 20000 MAH\n\n📝 Potente y compacto, este power bank de 20000 mAh ofrece carga rápida para tus dispositivos. ¡Nunca te quedes sin energía en tus aventuras!\n\n💶APLICA EL CÓDIGO: ESNS03\n\n🔗Enlace: https://ir.cazadordechollos.es/97691",
-      "title": "REDMI POWER BANK 20000 MAH",
-      "description": "Potente y compacto, este power bank de 20000 mAh ofrece carga rápida para tus dispositivos. ¡Nunca te quedes sin energía en tus aventuras APLICA EL CÓDIGO: ESNS03",
-      "image": "https://cdn4.telesco.pe/file/gjBmbgijC0sOwn59T1jqwGMCyT1bFwRi52x1JifzNPz-x2meRU44gfwmXC5_ekAMN3k8uz6EEWwG7-Ro_vXkHyht43sUPBXjrOSAQBqhrgQnuDwGaJJq5zJS2x5VQLhZefp1_AeT4aDxBfcGV7uMdoI5ZtdMo-JCLO9uDHS8bmIdx5ValKtjtB8pxihrHND2G2hLlxvd2_GeRAm9qSw6vOHnJkNtKG4YQiLKxaSiMPx692FjPkxVs_zoVxNoG9-peHqNK-J6qkZFyVV8B8CBsYIRhI_OISD7DxEvEx0-9AkilQouIc07-Kt4hPjhpEQSgxr5okPo0cvqHn9V0Rpriw.jpg",
-      "link": "https://ir.cazadordechollos.es/97691",
-      "marketplace": "AliExpress",
-      "category": "Tecnología",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "ESNS03",
-      "prices_found": [],
-      "discount_percent": null
     }
   ]
 }
