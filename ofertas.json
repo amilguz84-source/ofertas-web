@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T21:41:06.746132+00:00",
+  "generated_at": "2026-08-23T22:01:12.719664+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/97933",
@@ -2113,23 +2113,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "41"
-    },
-    {
-      "id": "ofertasychollosesp/97806",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -35%‼️#Publicidad \n\n✅NORTHWEEK GAFAS DE SOL POLARIZADAS REGULAR\n\n📝 Descubre las NORTHWEEK Gafas de Sol Polarizadas REGULAR, perfectas para hombre y mujer. Estilo y protección en un solo accesorio. ¡No te quedes sin las tuyas!\n\n🔗Enlace: https://ir.cazadordechollos.es/97806",
-      "title": "NORTHWEEK GAFAS DE SOL POLARIZADAS REGULAR",
-      "description": "Descubre las NORTHWEEK Gafas de Sol Polarizadas REGULAR, perfectas para hombre y mujer. Estilo y protección en un solo accesorio. ¡No te quedes sin las tuyas",
-      "image": "https://cdn4.telesco.pe/file/J0tlWD5_OBeuCNu5cfkur5GGfbkZBrOAvH-H5HZXDSjEhOJVmg22jMXBqpKPty_mrUkfOaquGKuEW-QavXSHqN46pNpwuDpfY1VarG0uA6rga21o6QJaU9_NiJfr9rf5mOfudVj3U-zpFH5YPJCrWIUvqbYHE9SHJH04VzrW0qoZ0dAya6Ybv484kRiYwGlXzjVz9gHMIuQOBv4Scmsde2S4AGjYBnOkfAnq7m8qTJc4YxoUN-Kk_IAd2fUx4zNDYh2C_DSu2bjq0v20DqdQNdgpjIcfiYAp6axcDP-_vJ73TP7wFlxNtAru7VnysZQ-smxxFLZGt0DQCPX0BBllbg.jpg",
-      "link": "https://ir.cazadordechollos.es/97806",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "35"
     }
   ]
 }
