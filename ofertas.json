@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-23T19:47:54.741334+00:00",
+  "generated_at": "2026-08-23T20:46:23.408302+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/97932",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -33%‼️ #Publicidad\n\n✅DISCO DURO SSD EXTERNO 2TB\n\n📝 Disco duro SSD portátil SanDisk de 2TB con USB 3.2 Gen 2 y velocidad de lectura de hasta 800 MB/s. Ideal para almacenar tus datos.\n\n🟢AHORA : 146,46€\n❌ANTES: 219,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2xm",
+      "title": "DISCO DURO SSD EXTERNO 2TB",
+      "description": "Disco duro SSD portátil SanDisk de 2TB con USB 3.2 Gen 2 y velocidad de lectura de hasta 800 MB/s. Ideal para almacenar tus datos AHORA : 146,46€ ANTES: 219,00€",
+      "image": "https://cdn4.telesco.pe/file/DXp_0alVhDp1gfcio6_hVdxKyAk9Y0K58fQ7HIfNm8LMK2jYaHkUOA63Bi9cuHQYGyrxhS11t5BAySPm861tmI19xVB-l2goSbs7WWRQft_fA05MgkGCmI5gpSnsJQRxNdPMoiSsAqLobuGa1pNe0w-7EzCZ2kPxDPNOggiBIjN1MCRJ3fUGrwW50-fDDcyn0bj62GRE9Ilit5SQf-hmY7d-NXlylOQJ19n_ZF-VXv7iK5QmurSwGtQ2aw_f-zEvavJv23jueG29OnnFiGHG8KiR4IiF9rNvjoeFOwWcvCkDdGWFL4nOJiaW4gO-EU8EEKNyYaRjLCeT-Z48pUpRXw.jpg",
+      "link": "https://ir.cazadordechollos.es/t2xm",
+      "marketplace": "Pdt",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "146,46",
+        "219,00"
+      ],
+      "discount_percent": "33"
+    },
     {
       "id": "ofertasychollosesp/97931",
       "date": null,
@@ -2106,23 +2126,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "40"
-    },
-    {
-      "id": "ofertasychollosesp/97804",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -34%‼️#Publicidad \n\n✅BOSCH ATORNILLADOR A BATERÍA EASYDRILL 18V\n\n📝 Potente atornillador a batería de 18V con maletín de transporte y batería de 2,0 Ah. Ideal para tus proyectos en casa, ¡hazlo fácil y rápido!\n\n🔗Enlace: https://ir.cazadordechollos.es/97804",
-      "title": "BOSCH ATORNILLADOR A BATERÍA EASYDRILL 18V",
-      "description": "Potente atornillador a batería de 18V con maletín de transporte y batería de 2,0 Ah. Ideal para tus proyectos en casa, ¡hazlo fácil y rápido",
-      "image": "https://cdn4.telesco.pe/file/ZmjL9SI9Ciul1j6bwqWjRxxymyMu-4ekRXbKSCqRTpieDqpl4ivPMcboNtpKzCdxBAm1lQwlL9oScxbN-tBBIJtPCuN5q6QAvC3e0vzeOyfd-igr5oBDjaBnss3n7OEf8XFHu4uXIUAMIll1klICrEKIONGSJb2FDPb-sHbuVkL_w304YiDoPuhVg0ZKyaIyzepxBFeCscMK_oS5TnL0zbTzViHlbo3Ln5kj5lfzaT63t6Dn5lLGHMAqmy0u80rWccrQr2DqO8VlsOW2L32pII787flqpB1gJvz9k7vMUSnHfyMb-eFIHfPEfYL01PTKvvJNcWzZf6ADpyd-QhwR_Q.jpg",
-      "link": "https://ir.cazadordechollos.es/97804",
-      "marketplace": "Amazon",
-      "category": "Bricolaje y jardín",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "34"
     }
   ]
 }
