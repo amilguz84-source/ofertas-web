@@ -1,8 +1,487 @@
 {
-  "generated_at": "2026-08-24T17:50:47.298017+00:00",
+  "generated_at": "2026-08-24T19:45:37.740805+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 120,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98088",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅VASAGLE MESA AUXILIAR CON CAJÓN\n\n📝 Descubre la funcionalidad y estilo de la mesita de noche VASAGLE, perfecta para tu dormitorio o salón. ¡Organiza tus espacios con elegancia y comodidad!\n\n💶APLICA EL CÓDIGO: DSES03\n\n🔗Enlace: https://ir.cazadordechollos.es/98088",
+      "title": "VASAGLE MESA AUXILIAR CON CAJÓN",
+      "description": "Descubre la funcionalidad y estilo de la mesita de noche VASAGLE, perfecta para tu dormitorio o salón. ¡Organiza tus espacios con elegancia y comodidad APLICA EL CÓDIGO: DSES03",
+      "image": "https://cdn4.telesco.pe/file/qX4hSq1UkREv17j8FwNtmdD5bhwOyALdj1b72-_FU2z2PKHvSdB4-yEV5WSCREmHTwr_NGcMZoxV8tPR_05z-iRyMCk2QmV_oEDZ4iA_J9KuXFpUWSZAE_d5ti_z3eW9ScnlEVZAY8PIUIhg9s_-urlSAy2Gdo_2rYUu9s9icXw5sROeplZayoYOqncgwywxzcvXg7eTskV6xHtKrwWmp3GHgyx_1zsukI0Z8_-Xod0G8Sbh59TnKbud7mUjOjOcx_O8cxiomI7A0A0BqZcSppWkG40Um32EJ4-RAiKnMZd4ups-57FBJySxmycIZEjqCJwGMNQY3puAh7NM7MqaNQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98088",
+      "marketplace": "AliExpress",
+      "category": "Muebles",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "DSES03",
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/98087",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅ATÚN CLARO AL NATURAL PACK 3\n\n📝 Disfruta del sabor del atún claro al natural, bajo en sal. Ideal para tus ensaladas y platos favoritos.\n\n❌ANTES: 3,68€/ud.\n🔥2 UNIDADES: 5,52€ → (SALE A 2,76€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t35b",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "ATÚN CLARO AL NATURAL PACK 3 Disfruta del sabor del atún claro al natural, bajo en sal. Ideal para tus ensaladas y platos favoritos ANTES: 3,68€/ud 2 UNIDADES: 5,52€  (SALE A 2,76€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/dDqtyX8BkohOopP4LQLnvHSmB7hzRb27qYOPN8kZaBoNRn8CuQO8lCYLZVsnA664fEL10TlBAaXm0M6FRJyJZAufIkGswozxXErfe0TwV-e4izAhczMcK9Jpj73Wy2kMm35AUwEdauvbl2qEutd2jt-m0ysZTKhS2rTzvxkMUcDl60OXzL-cMbraO__i2p3Od4iITZWxZfmLAXm7_O12s55e_T5VcQZ4bVlGHvpvj2qPw3Gszpv3U6yaAjS6SS3qVCI1CEm7SMnqBv9yFZwhN49KBmgQLP8_d0WyhjsR6EiT2kvMmnmVWYot5B79py2Lpi8lqfNMVOSA1Hgj0Nx9zg.jpg",
+      "link": "https://ir.cazadordechollos.es/t35b",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "3,68",
+        "5,52",
+        "2,76"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98086",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -39%‼️#Publicidad \n\n✅PENDIENTES SISTER EN ORO DE 18 KT\n\n📝 Descubre los elegantes pendientes Sister: ligeros, con un acabado en baño de oro de 18 kt. Perfectos para cualquier ocasión, ¡haz que tu estilo brille!\n\n🔗Enlace: https://ir.cazadordechollos.es/98086",
+      "title": "PENDIENTES SISTER EN ORO DE 18 KT",
+      "description": "Descubre los elegantes pendientes Sister: ligeros, con un acabado en baño de oro de 18 kt. Perfectos para cualquier ocasión, ¡haz que tu estilo brille",
+      "image": "https://cdn4.telesco.pe/file/XGxiDFqVZ3fNnj0FT_UQL2y-vmzxHmaenerDCwQXO-fD4u7-CoDTbPJC2VeXo6AFzO8hEkIddUi706OHRLf5hyfS56eJOWqRhYKz0mMu-N3Fja9ex2Th6f0RWp3DoT7oC14LDnWjFrcDemkOL5LlA322SKAndxlqtX-1-lmf5bWfkt2esjxwoo44trcOfTEZag6eByC9h7QI-zm0GJvCmESPqRnxlkmybExWddHl3d7NacyxGKEWJOKV3jIWgM1FkQALcNaF5cCAavzBCarWrIWLnhK4b--QigECts9VkaLnhrq9XBXLQfN15_ImDbrhqlxxBDbGn_JytCskKA6QvQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98086",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "39"
+    },
+    {
+      "id": "ofertasychollosesp/98085",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅GEL DE BAÑO ELIXIR DE ARGÁN\n\n📝 Disfruta de un gel de baño hidratante con elixir de argán en formato de 650 ml. Ideal para una limpieza suave y nutritiva.\n\n❌ANTES: 2,25€/ud.\n🔥2 UNIDADES: 3,38€ → (SALE A 1,69€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t359",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "GEL DE BAÑO ELIXIR DE ARGÁN Disfruta de un gel de baño hidratante con elixir de argán en formato de 650 ml. Ideal para una limpieza suave y nutritiva ANTES: 2,25€/ud 2 UNIDADES: 3,38€  (SALE A 1,69€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/Oj-_eQfhTfk9DctRS7J1JaN6r7LW-Fc9mPg5p3p5xukU4bAjkdrpwIcdm-YTgkWnKSy8txRvynUnCTaJCLCnNSLjgI03oA5lIHmrL40ULv4rkNrcXNOFutqrgXaNpqMeoIvrkLHHpWNniTJhUXHdHnwe-qNpsbYV4744vy5ml8FDrQEpM6iJ9yDoejqk6Xf3r3Fo26BrN8Gf-wGeitCwFVXOcsUFNfXtTSoFfcKZ7DZc8yAJsNNC0zpeizqYVzVnQRUKKrG8XcfOYrsCZXXqNSwIGzBKvnAPEZzRcJR37C-tvq23ku8iieOpj8JVTAdczg6i7r-aIzMVgJ7UiCTwDg.jpg",
+      "link": "https://ir.cazadordechollos.es/t359",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "2,25",
+        "3,38",
+        "1,69"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98084",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -20%‼️#Publicidad \n\n✅NECESER UNISEX H/H SCOUT NEGRO\n\n📝 Descubre el neceser unisex H/H Scout en negro, ideal para tus aventuras. Compacto y resistente, ¡lleva todo lo que necesitas con estilo y comodidad!\n\n🔗Enlace: https://ir.cazadordechollos.es/98084",
+      "title": "NECESER UNISEX H/H SCOUT NEGRO",
+      "description": "Descubre el neceser unisex H/H Scout en negro, ideal para tus aventuras. Compacto y resistente, ¡lleva todo lo que necesitas con estilo y comodidad",
+      "image": "https://cdn4.telesco.pe/file/S-X3pQ3FYsIGzkdk_aMcZzqaialgirGTqRVD6cTBHFVO6oQHNOQnyBL2gvTIBeT4KnROmGVLWt4apaElCs73ZMH6AnOtJgEY8-F360hh6uupGztfrtKmP2_tyXbcpSkk3kLnJql9JogsaqiiXL_Tu2aDD-U_3zHonhrUqGpmv6_-RY9UNHC6fxlOTrz7iYWUduzNPFvX0lQCwLqeI7gFmboBztmsrQIg2S0-2deZjdYKdJQ3sDTtOxPHDHkXxK7WBhzEJuyONDdt7TUls2Z_qSf3UA64j6IzkdefYrabF70wz_gqpjEWCwYnoha7hUSeA9v_az5xvzY65Mw5Oe9hqQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98084",
+      "marketplace": "Amazon",
+      "category": "Viajes y maletas",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "20"
+    },
+    {
+      "id": "ofertasychollosesp/98083",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅XIAOMI TV A 32: SONIDO DINÁMICO Y TAMAÑO COMPACTO\n\n📝 Disfruta de una experiencia visual y auditiva inigualable con la Xiaomi TV A 32, su sonido Dolby™ y diseño metálico la hacen perfecta para cualquier espacio.\n\n💶APLICA EL CÓDIGO: ESNS10\n\n🔗Enlace: https://ir.cazadordechollos.es/98083",
+      "title": "XIAOMI TV A 32: SONIDO DINÁMICO Y TAMAÑO COMPACTO",
+      "description": "Disfruta de una experiencia visual y auditiva inigualable con la Xiaomi TV A 32, su sonido Dolby™ y diseño metálico la hacen perfecta para cualquier espacio APLICA EL CÓDIGO: ESNS10",
+      "image": "https://cdn4.telesco.pe/file/CFuNuDr7I4HZX4qF2ikf33u8HvypNObuLpMswKFDyDswYjKg6Bpx_poDXLdSMBAt-fe6odB5lMjqeC-PL6Nkflbd3Gy54eipyh7Fbz5X7zJtZ6tukwHQh7NzKq82v-BCEI_baC-Br6G7wM7dJV6HXp8sPBScY1yojDdXHjQndm_pdFNfyugMwZd7_z8VbgXf7lR2j1eDQ56t_dap_CQiyLXalbgeTzIzIi-R0xkPCVluiGj1XkTqR5PfeFBQGZkBeVKFuWGb2FhaBOy8Mm30BTnqaqcYUufe9g4LBBSoL3MvqT4Wceav-Awxk47y_vtibKWvvhGbRxk_6lMiWcuyew.jpg",
+      "link": "https://ir.cazadordechollos.es/98083",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "ESNS10",
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/98082",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅ATÚN CLARO EN ACEITE DE OLIVA\n\n📝 Pack de 3 latas de 65g de atún claro en aceite de oliva virgen extra. Ideal para tus comidas y recetas.\n\n❌ANTES: 4,49€/ud.\n🔥2 UNIDADES: 6,74€ → (SALE A 3,37€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t354",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "ATÚN CLARO EN ACEITE DE OLIVA Pack de 3 latas de 65g de atún claro en aceite de oliva virgen extra. Ideal para tus comidas y recetas ANTES: 4,49€/ud 2 UNIDADES: 6,74€  (SALE A 3,37€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/GwZK8-0xhpckroFyKu1fAF7Fzpvf6Wmf_K5QK_jgA3I5B3MDcKQJPU6D3L1_YvH1VDMX5LNzzEjrrIlGCelCs9dE6nIjPv5Gnwvc9MekhUya7_BQICjqxP0D9o7xg_o6znM3t9ydOcQR800TKZU8zG99GJWBMrlFsPZmRcXnjiY05_gtjGfoJ_8IUsdbum18_tS2ZQk3sttxFJTYPPemKT5HCegUDHi3SDMNbiSu_d-mrsRcwkcSuUZZPoi5O6u9u2OXx6PfAGC9GlQZRhQIg4HYq5cITZHgmwzCgcjx-4D4C74-29gZriNrKuqXMMf0dLLmqz-VDTPh6QVvF688tA.jpg",
+      "link": "https://ir.cazadordechollos.es/t354",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "4,49",
+        "6,74",
+        "3,37"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98081",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -28%‼️#Publicidad \n\n✅COLÁGENO HIDROLIZADO WEIDER CON ÁCIDO HIALURÓNICO\n\n📝 Mejora tu piel, cabello y articulaciones con Weider Collagen. Su fórmula única con péptidos de colágeno y vitamina C te ayudará a lucir y sentirte mejor.\n\n🔗Enlace: https://ir.cazadordechollos.es/98081",
+      "title": "COLÁGENO HIDROLIZADO WEIDER CON ÁCIDO HIALURÓNICO",
+      "description": "Mejora tu piel, cabello y articulaciones con Weider Collagen. Su fórmula única con péptidos de colágeno y vitamina C te ayudará a lucir y sentirte mejor",
+      "image": "https://cdn4.telesco.pe/file/HH2_TgOuBlxfGgwUg51MY0u7092V0pHRZOwF_z6NnkH45KpAUifQK4iIpO0liYprKtVMywGjfcMDqMZALHi5tNQ3qjXjqcsuYSXq023eq6KqPoZOOvaH32S_vwqaSt15FaSDtK3P_M4gEZSWHU1CLpnL5s1JZX-NtULDYWPQqNBadSyacn9xl3S2xsyxdvaJcbWaGyeBOXyWpl6rpvFmuEoYqyo1rkBdI3O-AqUGpx5YLdGsGtfdvocxkFTiTVClndE3oU6YKb0Rza39bL2_UGzz_X6alMGJljFnAxKIY7jXb7qFGUME1L7FGB5NQbmPZt3HBPHXOHWV95AwZT3MUg.jpg",
+      "link": "https://ir.cazadordechollos.es/98081",
+      "marketplace": "Amazon",
+      "category": "Salud",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "28"
+    },
+    {
+      "id": "ofertasychollosesp/98080",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅KETCHUP HEINZ 460 G\n\n📝 Disfruta del sabor clásico del ketchup Heinz en formato de 460 g, ideal para tus comidas y salsas.\n\n❌ANTES: 2,99€/ud.\n🔥2 UNIDADES: 4,49€ → (SALE A 2,25€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t34y",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "KETCHUP HEINZ 460 G Disfruta del sabor clásico del ketchup Heinz en formato de 460 g, ideal para tus comidas y salsas ANTES: 2,99€/ud 2 UNIDADES: 4,49€  (SALE A 2,25€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/v0ukW8tHlMwZ-JFlNxzfNtEAif3qaDFKWHtp1cYzec22SeGKXYWOMEuqGQaEgbRqYJLCh8qX_vR4Be7aZYaLjMh9UsawN0bzORDREh2Xrf_YNQvbt5mCTSdm5G-_w5f43b32vDuZpM6HvdQ6CbGQcB-1rBlhmeXdjlV2HuQVZ4G-ts7fl5PfZw6hyZeeaoAh4DGTEVby1C2zApl2ujT1ZRc8cmcFrmgSqWo_cUVEaLq_WPIUP0Ma7PXR6Ig0CK4kVVbaI9NT2KYUHXa4HlYMGxdLAqSbTQevbuyuDsFNws1i2XIgAc3uX1wcSp7ThajiKzbJZ6knQyzVpiYVxGEm1Q.jpg",
+      "link": "https://ir.cazadordechollos.es/t34y",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "2,99",
+        "4,49",
+        "2,25"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98079",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅NUEVO RELOJ INTELIGENTE XIAOMI REDMI WATCH 6\n\n📝 Descubre el Redmi Watch 6: pantalla AMOLED de 2.07\", monitoreo de salud continuo y batería de larga duración. ¡Tu compañero ideal para un estilo de vida activo!\n\n💶APLICA EL CÓDIGO: ESNS10\n\n🔗Enlace: https://ir.cazadordechollos.es/98079",
+      "title": "NUEVO RELOJ INTELIGENTE XIAOMI REDMI WATCH 6",
+      "description": "Descubre el Redmi Watch 6: pantalla AMOLED de 2.07\", monitoreo de salud continuo y batería de larga duración. ¡Tu compañero ideal para un estilo de vida activo APLICA EL CÓDIGO: ESNS10",
+      "image": "https://cdn4.telesco.pe/file/dS3EaqSUWfuVetMqa2IV0BB2qOo4tPWZ8Aa8rU2KlvMvbNk7D6XoPIFTyo_s7S8vMj92S-PYaEZpCx7MHzFVJLqJvtYJ3Uf0bKyxQVtIfCU-h1NXHPR4H-y-oVp0KSHP8T9j4dNCLIJgNnnNyLAb0q-9elikpGtF36Jn2-sUqFjLN5p4KtQEk9sjxqyonicVumTmvQ0rre4qYkLuI0P8yielf3nKbyIl3C8k0DKGGI2N9d-UdCnBwscaVu9t2fxuOMMtk3ywAPjo0S8ECUjnHxVkkVtSbtpybV-v5vn4HHZU82XEn2vfy1b53g0jzyYg_R_Z4FuS0T4HsrVjwUOC3A.jpg",
+      "link": "https://ir.cazadordechollos.es/98079",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "ESNS10",
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/98078",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅LIMPIADOR PATO WC AZUL 750ML\n\n📝 Limpiador Pato para WC en formato de 750ml, ideal para mantener tu baño limpio y fresco.\n\n❌ANTES: 3,18€/ud.\n🔥2 UNIDADES: 4,77€ → (SALE A 2,38€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t34s",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "LIMPIADOR PATO WC AZUL 750ML Limpiador Pato para WC en formato de 750ml, ideal para mantener tu baño limpio y fresco ANTES: 3,18€/ud 2 UNIDADES: 4,77€  (SALE A 2,38€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/MDfF8lj7PE72yMQQ9TeRSuabO6s24F5-zRPQ0VuzebutCS1VP2vH533cOj7Ykd5mYkGr58ChXz3w2bPkEF053pCED_gvfrmQNTzsaXN3U1N450hmzgFZrkjvlJVgThQD-6Y_MlTjlTUnty8h3JAda8etanblHB1Tjtp5DSG6ntqfSOmuU8POWTkmFmOqc0-jZMHOf1TLfbWHaI2p4B8AR0TtigM5ArctWV1HXGH628_BsQBlLg0Vx8nMrDlyod6BU_vCJA-7-oFaSQ0_9dabKpZ6xU_Lwnsj4sjMAlVEUVtRPo09xyx2ootG_DKb7cugICMuB8ZxO0-cv3-8QdVxmA.jpg",
+      "link": "https://ir.cazadordechollos.es/t34s",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "3,18",
+        "4,77",
+        "2,38"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98077",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -26%‼️#Publicidad \n\n✅JBL FLIP 7: ALTAVOZ BLUETOOTH POTENTE\n\n📝 Disfruta de 16 horas de sonido JBL Pro, resistencia IP68 y un diseño multicolor. ¡Lleva la fiesta a donde vayas con el Flip 7!\n\n🔗Enlace: https://ir.cazadordechollos.es/98077",
+      "title": "JBL FLIP 7: ALTAVOZ BLUETOOTH POTENTE",
+      "description": "Disfruta de 16 horas de sonido JBL Pro, resistencia IP68 y un diseño multicolor. ¡Lleva la fiesta a donde vayas con el Flip 7",
+      "image": "https://cdn4.telesco.pe/file/bjNFkP4AdM9AyyVG90ykM16HLU-VnKgmPdvNcVBKrFakNgdHzin9YApfPTBbe_by2hmjz_Zk85zTXGexjAiMeThAumWRPHL_8dqaEPN0zd-IO0OrcZqtyOb8rk0KLYa2YGoXQ1Q1U9e9CNHyPBlWlNM4cd_VQCflLbvKZSmMqDxUh7ZsGWCboD2r0UQl33CZHZgyWtvDwoXDC8gTNhWfnBnqEkFdzwEFO7sEmaPJWVqbJulCTbuSfElZrWW3Lf7HTxAN3OmgRi53470n8LboM4BhTSn9-05VQNJO7eYlud31mE4QLAG7QoYQW0tzpGarzZRWGP9VpOBqYz4uO6nsVg.jpg",
+      "link": "https://ir.cazadordechollos.es/98077",
+      "marketplace": "Amazon",
+      "category": "Auriculares y sonido",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "26"
+    },
+    {
+      "id": "ofertasychollosesp/98076",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -20%‼️#Publicidad\n\n✅LEGO STAR WARS 75375 HALCÓN MILENARIO\n\n📝 Descubre la icónica nave estelar con esta impresionante maqueta para adultos. Perfecta para decorar tu escritorio y un regalo ideal para los fans de \"Una Nueva Esperanza\".\n\n🔗Enlace: https://ir.cazadordechollos.es/98076",
+      "title": "LEGO STAR WARS 75375 HALCÓN MILENARIO",
+      "description": "Descubre la icónica nave estelar con esta impresionante maqueta para adultos. Perfecta para decorar tu escritorio y un regalo ideal para los fans de \"Una Nueva Esperanza\"",
+      "image": "https://cdn4.telesco.pe/file/JQNadZbox2uNxtsbphcQBSbfdaY5irOuOSMVtfhOdfavJ3QSsuxDUPKiqEX7yJiBYq6-X6lUrz1t4xrFXBxVQqQCrMkqIXeuUA1XHOvhc8foODeOOugU4XQVBW8pl5TtXrccqLkBAeq2M29f6C_PmbHc5k3dEdD3a6XjLTSwD6tfbtETi8yPqyS6dJcFNIXhINO6moUxmmuXvbKrwejHnBXjbpojODK5vAbvw0vdIZwE3iudJKz3S7o4cn1Fz6rzSWVnzXuENmRI4aDZkd0m34-rljtLFXZmT90JUfOr2JcrtsbS3_c3P9k--8pfXIwHxWcNpcZwglo0b1ixH58N8g.jpg",
+      "link": "https://ir.cazadordechollos.es/98076",
+      "marketplace": "Amazon",
+      "category": "Juguetes",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "20"
+    },
+    {
+      "id": "ofertasychollosesp/98075",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅CHAMPÚ JOHNSON'S NIÑOS BRILLO Y FUERZA\n\n📝 Champú de 500 ml que limpia y potencia el brillo y la fuerza del cabello de los niños.\n\n❌ANTES: 4,29€/ud.\n🔥2 UNIDADES: 6,44€ → (SALE A 3,22€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t34o",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "CHAMPÚ JOHNSON'S NIÑOS BRILLO Y FUERZA Champú de 500 ml que limpia y potencia el brillo y la fuerza del cabello de los niños ANTES: 4,29€/ud 2 UNIDADES: 6,44€  (SALE A 3,22€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/I_vjuS2fGXYB1XTmCtsfN_GVKnfHouHBtM4KPXq4iOh-95MyddWFF9Hz5giUAdxJF5tOi3EA85x_uzzORYs7efAveQoNP2l-0nxdoZE2v6BDGaWWpOce3I-aScQR_Xhb-TjUe3QI81PArsGD2YHC6yhpP2eoPNxDl3Sm46eIcktbgoq33auFsw0OFqnpbdKNgBMK2Hwn-rQPZVr9aRZ09CkndJpyduDlPHw3pL4uCVk2f9xLxQBhMg4h3gU4tt7hSRSvlZ8uN4fykoEwH8R4yBJYfj5h9q7TBdb1tXBKbKjODkmreQSBevgCXvJ05laeKo11EJTGKvb1_GYFIzJb0w.jpg",
+      "link": "https://ir.cazadordechollos.es/t34o",
+      "marketplace": "Amazon",
+      "category": "Belleza y cuidado personal",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "4,29",
+        "6,44",
+        "3,22"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98074",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅CARRO MULTIFUNCIONAL PLEGABLE PARA CAMPING\n\n📝 Descubre el carro multifuncional para exteriores, ideal para camping. ¡Ligero, portátil y fácil de transportar! Perfecto para tus aventuras al aire libre. ¡No te quedes sin el tuyo!\n\n💶APLICA EL CÓDIGO: DSES03\n\n🔗Enlace: https://ir.cazadordechollos.es/98074",
+      "title": "CARRO MULTIFUNCIONAL PLEGABLE PARA CAMPING",
+      "description": "Descubre el carro multifuncional para exteriores, ideal para camping. ¡Ligero, portátil y fácil de transportar! Perfecto para tus aventuras al aire libre. ¡No te quedes sin el tuyo APLICA EL CÓDIGO: DSES03",
+      "image": "https://cdn4.telesco.pe/file/eEGcCj0cFaSPlS9dbcovIkaFVZ17u3SuLvnJlZtoF5R_-DRKWFL1NngGtGqg55GT4VWdCLfYeoQ6eCakGvAo7Ih21aWVmfL5OSy_2G5e76zcemOqtoe1I-Kc0-tsIl6r9I0MT_9aqBjWDxcIWR-zy_Yq5hILAdARJBOcnNfZxB-3u2rXcTT0Qp1X8AL-73yqHOEt_ITWpDdK5t8reNKhZl1YZxCBGtuNz9IMfjaMB2ZU4XFak9pxGPbe4EMScpo23a5si1OZiEfGfD2mOgOw9YFriQ-RoJEqu0AsxAPOW4AVyjesuxQZ_urbEA79eyyVUJtL7eQ68TIULGVBfH5qMQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98074",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "DSES03",
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/98073",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅DISCOS ACTIVOS WC LIMPIA Y PERFUMA\n\n📝 Pato discos activos para inodoro que limpian, refrescan y perfuman. Incluye 1 aparato y 1 recambio con 6 discos en total.\n\n❌ANTES: 3,59€/ud.\n🔥2 UNIDADES: 5,38€ → (SALE A 2,69€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t34j",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "DISCOS ACTIVOS WC LIMPIA Y PERFUMA Pato discos activos para inodoro que limpian, refrescan y perfuman. Incluye 1 aparato y 1 recambio con 6 discos en total ANTES: 3,59€/ud 2 UNIDADES: 5,38€  (SALE A 2,69€/ud.)",
+      "image": "https://cdn4.telesco.pe/file/G66logJbRNZCu2zltfclEDQW8ImbtP7BUMdPPumHVHLv3MCQhjYZ3-dSyqCf4yV0vW4OlTsyX0jOmpOPOhcYe99VOhQ62a2w0v8O7fEl3_mmjxFbSUxwJK2EFy4TMJKTe4cfE2QdOB4e727QGRtMrhpGlnc5qaXBcnKbMyyso_tzEE27XQiSu7w3Zu5xbyd5aUqcg7IJJ_GvT5o9W0dKHXnL5m92uZsXfzNyglOGnhEL0cydzqFElmW7GCBl7eSmpNxuhoJeDXwrRTBsvv_Xc5p33Vk23q31e_tESkaIAcIbL7mS1PMfwRsaguLKIbcS3u0z-dC0sNs2QbyCWe-JtQ.jpg",
+      "link": "https://ir.cazadordechollos.es/t34j",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "3,59",
+        "5,38",
+        "2,69"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/98072",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -34%‼️#Publicidad\n\n✅RADIADOR ELÉCTRICO CECOTEC READY WARM 7000\n\n📝 Disfruta de un calor eficiente y seguro con el radiador Cecotec. Ideal para espacios de hasta 15 m², bajo consumo y fácil movilidad. ¡Tu confort al mejor precio!\n\n🔗Enlace: https://ir.cazadordechollos.es/98072",
+      "title": "RADIADOR ELÉCTRICO CECOTEC READY WARM 7000",
+      "description": "Disfruta de un calor eficiente y seguro con el radiador Cecotec. Ideal para espacios de hasta 15 m², bajo consumo y fácil movilidad. ¡Tu confort al mejor precio",
+      "image": "https://cdn4.telesco.pe/file/AYLunoxQvqxo9UHnl4dKV5Om5BjnMJfXMgMT2zoS_izmM3TKy2-9mMAD28yAFboS6Ws16qhhwC0sSK0bOSIWn5J-k6QeIG-w_7VQFoDrrPExYAnD0N0GJ_uZNtCvJx83FQK2yN1k371iCOKi8BUSR8fDqqaMpMtTM93ZBJ2c5htMS4_X46SzEOzVRvydyy4v0almprLxe30u9IhtvcpIplSnK98DEkMUQpn_WnHSFtKhLHu9TwBRAvIxmQETyovkD1FKqZe-BJVGtjLUEiy67pbUCjGWy2Ci4c1lOl4oFw-DTk0KwbIRpZNDcW33KpmXpyVNDO5EteTUoqd7DtOm1Q.jpg",
+      "link": "https://ir.cazadordechollos.es/98072",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "34"
+    },
+    {
+      "id": "ofertasychollosesp/98071",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅LA ISLA VOLCANICA\n\n📝 ¡Explora la emocionante aventura de \"La Isla Volcánica\"! Resuelve enigmas y descubre secretos en un mundo lleno de sorpresas. ¡Tu próxima gran aventura te espera!\n\n🔗Enlace: https://ir.cazadordechollos.es/98071",
+      "title": "LA ISLA VOLCANICA",
+      "description": "Explora la emocionante aventura de \"La Isla Volcánica\"! Resuelve enigmas y descubre secretos en un mundo lleno de sorpresas. ¡Tu próxima gran aventura te espera",
+      "image": "https://cdn4.telesco.pe/file/MfRJWJJq7NYENMEHmrDweDI8VlDwkdSZme05TNzDKCSjEZrpkOJVEOBegS4JblBB5UavQHk8pCyt2KdKtgc3E1I-Lpo3HzNpjC21JM1rJKBQZh-NXcvar1R8h97TEzTifAmbJ2JHS44t6M2TMI_yzfQYrxAVDdVAI_Y6LAPrTgwAkdtZ5L4HEbnIwOBIIrwQsyht1XLuhgvc8-X-EC-HjjozoMUOAFWFAVJIxzF6xwyUOXCpys_e9vJcdbZKNU0yOR0q3EEZbm2x-iwryam8o20H2_6RtJlvN86t4uE97dDryGG1zh60sDiBjxVlWn80emSC07AnGvYjy-IN01jalA.jpg",
+      "link": "https://ir.cazadordechollos.es/98071",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "33"
+    },
+    {
+      "id": "ofertasychollosesp/98070",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅PS5 BATTLEFIELD 6\n\n📝 Disfruta de la nueva entrega de Battlefield 6 en tu PS5. Gráficos impresionantes y acción sin límites te esperan.\n\n🟢AHORA : 23,06€\n❌ANTES: 27,90€\n\n🔗Enlace: https://ir.cazadordechollos.es/t34e",
+      "title": "PS5 BATTLEFIELD 6",
+      "description": "Disfruta de la nueva entrega de Battlefield 6 en tu PS5. Gráficos impresionantes y acción sin límites te esperan AHORA : 23,06€ ANTES: 27,90€",
+      "image": "https://cdn4.telesco.pe/file/iSyTfl3kOWFLnlS9dYl6J_x_Glrzr4pr9pBd_Cok7LxQT3yZdk8kExT9z4h0kQSEXkoz601j3u6h9T5HJWt7Vu7WM-kZFW0L7dIMd62KY1Y1Vjfw75eJzcFPIGlxXRsWzKHlkeII5JyKai0IYykTWHC7bTU62tTfD5wx1k_Hp4xSfokWefsWa32Eiq-me9v_V1j07aJvHwtPsxOBFoC52tZk5L9Fd3Y5k6DaqHGo9MvmMhk0Z6qrPNZiqk5li6dACata6Wtm69lvVr-YgSyiXMnbLeafBiLex7kMt1nbmizOIcUoBBM5PUrew2OIKl_MxgNYtnUeot-uCMlylNt4eQ.jpg",
+      "link": "https://ir.cazadordechollos.es/t34e",
+      "marketplace": "Pdt",
+      "category": "Videojuegos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "23,06",
+        "27,90"
+      ],
+      "discount_percent": "17"
+    },
+    {
+      "id": "ofertasychollosesp/98069",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅AURICULAR INALÁMBRICO BLUETOOTH REDMI BUDS 6 PRO\n\n📝 Disfruta de audio de alta resolución y cancelación activa de ruido de hasta 55dB. ¡La experiencia perfecta para tus momentos musicales!\n\n💶APLICA EL CÓDIGO: ESNS06\n\n🔗Enlace: https://ir.cazadordechollos.es/98069",
+      "title": "AURICULAR INALÁMBRICO BLUETOOTH REDMI BUDS 6 PRO",
+      "description": "Disfruta de audio de alta resolución y cancelación activa de ruido de hasta 55dB. ¡La experiencia perfecta para tus momentos musicales APLICA EL CÓDIGO: ESNS06",
+      "image": "https://cdn4.telesco.pe/file/Ic1LNj0sFAlLicuysF6ANxTc-sUxYKw6INd5AQq1uVV0XQcdr6eZ4AqraDuFNV5DUIasY6zExXJBhbHj3Y7iVBve0GEytqmwQmdmWcPa2d-ZKFXZG6LPdnYO7Jvm4XannD1lu1WdSb6_suu7h2wR1uAAKN17RmTj2OPUZC-034eURdOAJ7BC_dpdMMT8RBWgusIo4kgy8J7TLVwwhp-ic8WHRHM7tcqCNbb721tsIIO7KeBn901551Vb5WZ_91d00R6TVRhD_omj9diQsyKFBNzbZj7ASQ61FYDV50G9hTmG1i6CI8Dhuh3sg4ZJQ2wrm6zJ_7MMIK3LS7HkpMrvIA.jpg",
+      "link": "https://ir.cazadordechollos.es/98069",
+      "marketplace": "AliExpress",
+      "category": "Auriculares y sonido",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "ESNS06",
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/98068",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -45%‼️#Publicidad\n\n✅MULTI SILICONE JELLY BRUSH Y PORE BRUSH\n\n📝 Descubre la herramienta perfecta para aplicar mascarillas y cuidar tu piel. ¡Transforma tu rutina de belleza con el Multi Silicone Jelly Brush y disfruta de resultados profesionales!\n\n🔗Enlace: https://ir.cazadordechollos.es/98068",
+      "title": "MULTI SILICONE JELLY BRUSH Y PORE BRUSH",
+      "description": "Descubre la herramienta perfecta para aplicar mascarillas y cuidar tu piel. ¡Transforma tu rutina de belleza con el Multi Silicone Jelly Brush y disfruta de resultados profesionales",
+      "image": "https://cdn4.telesco.pe/file/fyooYq-eCAMxZc68NUlXxaqTuw5FHLk8GvoSWhW_wJrd7Y_o-y5lwUGoL9HfTn2tOfEd0FEllL4-ajw4P0tYdM4W2ZTkwljMy4dws7kwVdazRyA4r32zFBSQEsjJedtVp_eBO8C66UjPefzf0xrJpM-Zd3-BHI_LzOmhm8e3LZv-ccW1i5ipm851UC5KYYiPI3uCXP57hoV6j9TR-m2MaHF6C3fkALD3Bw8NW8Bld5Pv2Q-78jpUpUHyFuWyTPZ53DaonY6ZuWJxF8jKdAs4Ys5EvHGykH4gbPhqzGUvPIsUb-L2h-TLyOqV11HYlWzaugF9hi2bdNUNgSwePpugfw.jpg",
+      "link": "https://ir.cazadordechollos.es/98068",
+      "marketplace": "Amazon",
+      "category": "Bricolaje y jardín",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "45"
+    },
+    {
+      "id": "ofertasychollosesp/98067",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅MEMORIA USB 128 GB SANDISK FIFA 2026\n\n📝 Memoria USB de 128 GB con velocidad de transferencia de hasta 300 MB/s, compatible con macOS y Windows. Ideal para almacenar tus archivos.\n\n🟢AHORA : 28,84€\n❌ANTES: 34,90€\n\n🔗Enlace: https://ir.cazadordechollos.es/t348",
+      "title": "MEMORIA USB 128 GB SANDISK FIFA 2026",
+      "description": "Memoria USB de 128 GB con velocidad de transferencia de hasta 300 MB/s, compatible con macOS y Windows. Ideal para almacenar tus archivos AHORA : 28,84€ ANTES: 34,90€",
+      "image": "https://cdn4.telesco.pe/file/fvjz1kUihZn1ncKjL9rso-6jKhgfvA4Tgf5HXVF9QtZytIFBzNIKZamUxw-OuudlmOGQakbfvNXOG5mt6-vsYaYkgpda_vu--WJ8lOFQ0tNDW2B9V-PzVwuf6euBm3td4QYePC1LGNzCCbK9c0bdTlFJH1SuOYMcT2ni7x3EWDocyW89xBZ-bvv812bcSiLZojay6deNR-5C9Hhpj7-VcVO7ZIki6nqSpw3ecbmujSptuxstH6PuUD8t2HSwYKsaDus0guo4cpmyDFu890TsminS0v9ebYEJCEzSdtAHxL8ymBGkpL_Sv7EFEHnCUcjZCQMbdXVfqMJAPpfMwXSJYw.jpg",
+      "link": "https://ir.cazadordechollos.es/t348",
+      "marketplace": "Pdt",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "28,84",
+        "34,90"
+      ],
+      "discount_percent": "17"
+    },
+    {
+      "id": "ofertasychollosesp/98066",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -41%‼️#Publicidad\n\n✅ROWENTA X-PERT 6.60 ASPIRADORA ESCOBA SIN CABLE\n\n📝 Descubre la potencia y versatilidad de la Rowenta X-Pert 6.60, una aspiradora escoba sin cable que facilita la limpieza en cualquier rincón de tu hogar. ¡Hazla tuya!\n\n🔗Enlace: https://ir.cazadordechollos.es/98066",
+      "title": "ROWENTA X-PERT 6.60 ASPIRADORA ESCOBA SIN CABLE",
+      "description": "Descubre la potencia y versatilidad de la Rowenta X-Pert 6.60, una aspiradora escoba sin cable que facilita la limpieza en cualquier rincón de tu hogar. ¡Hazla tuya",
+      "image": "https://cdn4.telesco.pe/file/QYziuuP8mA5c2MjyahLNKTneRsNprg5I3tPfto1o_IVxQvxJbk0kY11ty2zZT3t1ulL7DvUZlsWAHa6mwJTzR76etZb1mnR25-Ex14dPNbwx8rEAyYEE8i3YsS2QDj5aLPo9E2iOQrGJO3erJO2HL0W70qFdplE_SOlMuIU-BMJcX-TAyPpXry53Q1BHP-3XAGfLUP8anYBQrUIuBI0y-xrxdLPhP6vCkiCrFBa9SPLSQaW6fmlfUsD2AoeMLhAxtxjwWd29ztgOY0rCBY0l2Kqdp-HuaCq5hXUFTUt4VHZKGe2Y_JqAuyFdOnmL3gimXio5CJecz-smXFme8t4awg.jpg",
+      "link": "https://ir.cazadordechollos.es/98066",
+      "marketplace": "Amazon",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "41"
+    },
+    {
+      "id": "ofertasychollosesp/98065",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -33%‼️ #Publicidad\n\n✅TV LED 50\" SAMSUNG 4K UHD\n\n📝 Disfruta de tus series y películas en esta Smart TV Samsung de 50\" con tecnología Crystal y resolución 4K UHD.\n\n🟢AHORA : 353,00€\n❌ANTES: 529,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/pendiente",
+      "title": "TV LED 50\" SAMSUNG 4K UHD",
+      "description": "Disfruta de tus series y películas en esta Smart TV Samsung de 50\" con tecnología Crystal y resolución 4K UHD AHORA : 353,00€ ANTES: 529,00€",
+      "image": "https://cdn4.telesco.pe/file/dHxNC4KwSq1uK6vGSedT-T1DiK689L3lSKhpIvsnFGGLCFZQT5_4mdkQQ3Cl5VLP30pb5-zh3uaPpYZbpkzbIj6BvDRuQ1s4I1FZeb1VzTPQ9FLSC-uH0UGuoOrasD9Dd0rBpgdIukIcRQE0yXnVEpZnjnlYKzPu2fUh9CRclAupeU6Fo8uN-wDqXT0Lh5xgh79uFHhyGwBtyo1ZhLKYZpdd8Ku8eY233MProR_6LUKW956Wl7o7XBPLMLQ7VHQ0wOng9pwBw-GAZlov6flzBfr3K09NAc1uobK_uT4dO7GC_olmvWvBVAEVVzCJJlLXzxa2FW6UWUo2X2KQ5bHkmg.jpg",
+      "link": "https://ir.cazadordechollos.es/pendiente",
+      "marketplace": "Ir",
+      "category": "Televisores y sonido",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "353,00",
+        "529,00"
+      ],
+      "discount_percent": "33"
+    },
+    {
+      "id": "ofertasychollosesp/98064",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅HONOR 400 5G: CÁMARA 200MP Y BATERÍA 5300mAh\n\n📝 Descubre el HONOR 400 5G, con cámara IA de 200MP y batería de 5300mAh. Potencia y calidad en la palma de tu mano. ¡No te lo pierdas!\n\n💶APLICA EL CÓDIGO: ESNS33\n\n🔗Enlace: https://s.click.aliexpress.com/e/_c3DcCo5z",
+      "title": "HONOR 400 5G: CÁMARA 200MP Y BATERÍA 5300mAh",
+      "description": "Descubre el HONOR 400 5G, con cámara IA de 200MP y batería de 5300mAh. Potencia y calidad en la palma de tu mano. ¡No te lo pierdas APLICA EL CÓDIGO: ESNS33",
+      "image": "https://cdn4.telesco.pe/file/nH3pq7MYNm1xCcT4N3iPO9Eau94jrYJtTJXFFNhMqAeoxMuFyAkcWwwklMA782iXjME2XzfgrciUjapr1mr2X8q9VX9wXZJya5xv6EWdfuCFnMxu7n3WzolvYrRD1HoA4F_XtprgRQbgiA7CLUcvxjELryEeZIf4r6ND7LqP1jYmc5uiffH1qzD4Y78dgMLoeWl_2wvIwCylckQHTj9LMgmSPFRz7b8cFuwxDo0RryJCXVmm7Psb0YmaJKBiA0ATqcTBUnePwhM50oITfzo69v26J6oVil87tDVq-VD3-n7nL_7HvH9yJtbwL0YH30lD2xmaaWsn6zSriPm7awysxw.jpg",
+      "link": "https://s.click.aliexpress.com/e/_c3DcCo5z",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "ESNS33",
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/98063",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅NEUTROGENA HYDRO BOOST RUTINA\n\n📝 Descubre la hidratación intensa con el Gel de Agua y el Contorno de Ojos de Neutrogena. ¡Tu piel lucirá fresca y radiante todo el día!\n\n🔗Enlace: https://ir.cazadordechollos.es/98063",
+      "title": "NEUTROGENA HYDRO BOOST RUTINA",
+      "description": "Descubre la hidratación intensa con el Gel de Agua y el Contorno de Ojos de Neutrogena. ¡Tu piel lucirá fresca y radiante todo el día",
+      "image": "https://cdn4.telesco.pe/file/EJHgFUora75iaPfxKyPijGcfLHVzRO1OteeV9qkS0In0sy7Ba87UAUE1-guDkln54N2OKGSWhJShjv-OaVt0_61IHrKLCkq2UEzJB_4VZIgZ_Qs53eGDkWCu4r5jBpDBjmM2kRcSogGVY35ve8iVW-PfATRjs3eFnctUV1vJoSPqeFPcBg9MseF8nFB8tonQei0DLgsF3KklKLwuu3lgbZHpOnaZddRRi6ksLsF9RBTikSo4y8jOSdQSvIDKxxxBgwtx7a9Emb5EwVtHBi5hcM4J7Rs6eJhPl-99ZqRYlxd9EJ6Ai1exHNgB_83vKTEZ0TBidbyyDkNIb0tGYRRWrA.jpg",
+      "link": "https://ir.cazadordechollos.es/98063",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "33"
+    },
     {
       "id": "ofertasychollosesp/98062",
       "date": null,
@@ -1651,466 +2130,6 @@
         "14,99"
       ],
       "discount_percent": "18"
-    },
-    {
-      "id": "ofertasychollosesp/97956",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad\n\n✅CORTADOR DE CINTURÓN Y MARTILLO ROMPECRISTALES\n\n📝 Este práctico kit de emergencia incluye un cortador de cinturón y un martillo rompecristales, ideal para situaciones críticas. ¡Tu seguridad es lo primero!\n\n🔗Enlace: https://ir.cazadordechollos.es/97956",
-      "title": "CORTADOR DE CINTURÓN Y MARTILLO ROMPECRISTALES",
-      "description": "Este práctico kit de emergencia incluye un cortador de cinturón y un martillo rompecristales, ideal para situaciones críticas. ¡Tu seguridad es lo primero",
-      "image": "https://cdn4.telesco.pe/file/ZagPLBua9yywhfkEu_Y49unOYqBDU9_eW0YbwRjHZO6tT0-s7DBmn-lFqjXN952Xj7Hl71EQgh3X4jzkI8b4RoGYB_UTXFW-wBXzC27MrbHgZelNv6r8kK7HPZMPt0RxwSE-lLas5_xMkct0m1a5M_pJg3rfo7z0T3Of1I_NSa2GpxHvy7EYNbfFF4g3iEcFxKGo_IZrXRquTUKA61Wg14kyTFISWqLdsiWWaBJQADt5w5ykoy84IvRCLgSdnWQlXEhe2x55Vk6rfKIHuZ1f2qAI5vhBhWWCr6V54yRlVDZUZ8anngPco5xVnGo5tZcFrOV4p-gDisq1MlcOQ1HXKg.jpg",
-      "link": "https://ir.cazadordechollos.es/97956",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "30"
-    },
-    {
-      "id": "ofertasychollosesp/97954",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅PORTÁTIL GAMING ASUS V16\n\n📝 Potente portátil gaming de 16\" con Intel Core i7, 32GB RAM y GeForce RTX 5060. Sin sistema operativo.\n\n🟢AHORA : 990,91€\n❌ANTES: 1199,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2z4",
-      "title": "PORTÁTIL GAMING ASUS V16",
-      "description": "Potente portátil gaming de 16\" con Intel Core i7, 32GB RAM y GeForce RTX 5060. Sin sistema operativo AHORA : 990,91€ ANTES: 1199,00€",
-      "image": "https://cdn4.telesco.pe/file/K1M7_atewKDvVz_WqwIE9jqFL-VsZ5m1ELagd6NEOiuSrbeAfDRQdY6flGCtq25xL_llSQHj_r3j0FcYzojdMjQtvo3zzt8PcoDlwqQjgpb1ig9lPp3VmTwdNmX9YzvyidJ4yCc5BdcOr5Mo4xOmIxGI5bguubqgT-yHeUQRXUE9bHoHZ7IpFTslHC_ZOMNr1IoFn3wXkEPOOcNPO7yCOkbpXuqcSI-DpvVO0Tlcs39-gK_ykDzPHMq5K-_1AHFpHfHhuIAUpVGs55CWa8d4UuuQV4MSPYtt8Ax0cWCdCJZG8_2nt5w6A9crsDjcDzVdoGuC_BlBrqE7I9dOnDHw2A.jpg",
-      "link": "https://ir.cazadordechollos.es/t2z4",
-      "marketplace": "Pdt",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "990,91",
-        "1199,00"
-      ],
-      "discount_percent": "17"
-    },
-    {
-      "id": "ofertasychollosesp/97953",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅XIAOMI WATCH 2 CON WEAR OS\n\n📝 Descubre el Xiaomi Watch 2: duración de batería de hasta 65 horas, almacenamiento de 32 GB y avanzada monitorización de salud. ¡Tu compañero ideal para un estilo de vida activo!\n\n💶APLICA EL CÓDIGO: DSES10\n\n🔗Enlace: https://ir.cazadordechollos.es/97953",
-      "title": "XIAOMI WATCH 2 CON WEAR OS",
-      "description": "Descubre el Xiaomi Watch 2: duración de batería de hasta 65 horas, almacenamiento de 32 GB y avanzada monitorización de salud. ¡Tu compañero ideal para un estilo de vida activo APLICA EL CÓDIGO: DSES10",
-      "image": "https://cdn4.telesco.pe/file/tsMs5QTHwK70ig0QeD8zIFDQ6nSdbSvDl15h9yzIKvFHG1KCEYUTfJXUqSyAYmf_jTMM1sDhef6qe7xLNNtPX67ClQ2lqfhANJpYHvUKKLXfqMr5UeKdlF3f38EumZL1xlI4vVwEJ-EwBDfv11VdQf8JLHdHNzspNrbttmcRMuJ1NKgISG-4lzBZ89e5QfBwQrsTJipu0_y1faDNbidQ1vpoIeLVV0CludxerKSsXrm48pM2Gymil4I7QaNvTnxazAJYlR-r4N5eovD2C9oR3nqCvnZt066hEfH0S6J_zlBubqK0_uN-pk_AwI_0zBNdW3YQQu0X29_AOcYi6BbdXg.jpg",
-      "link": "https://ir.cazadordechollos.es/97953",
-      "marketplace": "AliExpress",
-      "category": "Tecnología",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "DSES10",
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97952",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -58%‼️#Publicidad\n\n✅VENTILADOR PORTÁTIL 3 EN 1 CON PLACA REFRIGERANTE\n\n📝 Este ventilador portátil ofrece 5 velocidades, pantalla LED y múltiples funciones. Ideal para viajes, oficina y camping. ¡Mantente fresco en cualquier lugar!\n\n🔗Enlace: https://ir.cazadordechollos.es/97952",
-      "title": "VENTILADOR PORTÁTIL 3 EN 1 CON PLACA REFRIGERANTE",
-      "description": "Este ventilador portátil ofrece 5 velocidades, pantalla LED y múltiples funciones. Ideal para viajes, oficina y camping. ¡Mantente fresco en cualquier lugar",
-      "image": "https://cdn4.telesco.pe/file/d7LguZpJ-KdijGwz9scti5L0yvQnxaOQY8wnGM4FEwC1eUcfH57FVqOtTQGmlK-jIMQSa2W70Dyln3UO-SNsD-1HhWK9xXbdW17eG0MCjUbOflV3pOcGQ4Vsvv4aJghy194aGyT7kNDDpyzMGWZ9rDiedWiQW83ApVdcRPmZH7PjwSQzA9KWIuqbI5g8R1yGPZ0GZ7P6PTbkORv5cZXRNKKIy5D8cjRRpp5EALaFZvScwGivd81CTTNIfEVhm_uqUmVcRatToXvhdV7kOxQgPJeorr_Ag83rnKqMT93Nr15v3q9OV46MZTRixLYGWRgAzR-j1L7fOkt5Nv3yCdotjg.jpg",
-      "link": "https://ir.cazadordechollos.es/97952",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "58"
-    },
-    {
-      "id": "ofertasychollosesp/97951",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad \n\n✅DRIFT GAMING DRDZ175RGB - MESA GAMING RGB\n\n📝 Disfruta de una experiencia de juego única con la mesa Drift Gaming, con tablero de fibra de carbono, RGB reactivo al sonido y accesorios incluidos. ¡Mejora tu setup ahora!\n\n🔗Enlace: https://ir.cazadordechollos.es/97951",
-      "title": "DRIFT GAMING DRDZ175RGB - MESA GAMING RGB",
-      "description": "Disfruta de una experiencia de juego única con la mesa Drift Gaming, con tablero de fibra de carbono, RGB reactivo al sonido y accesorios incluidos. ¡Mejora tu setup ahora",
-      "image": "https://cdn4.telesco.pe/file/pxXboa5-5tEc8bTmZzNBwS4JAVFTOxFEfShLB4hb-4Vm1DBjWwS9l5U1TmLIl5c-0qou9NvaHhAmJ5HWD16uDIO5fmJxogs5YuAWmE_HKkBdpsXpJZ84oqBtsuVo_Ti01KyC_WGVOuVwvQcLVY1xvsGYT9AuujxsZSXHNlpb5M0W3O0YKRatQ7OZmmq7GoaHGvgnX2j9PR7NzIh4WRhQmRMzHFr4XUHtSiLdhl5FAruou2GbXHb-CQwQ2MBN6T6nwImViK12laZMcSUsCtvWGrp4Ong32F8jQm27ogbolTCi36YqeMShTN_8b0x6II1XM-QVNEa9s3B-09qVdGiilQ.jpg",
-      "link": "https://ir.cazadordechollos.es/97951",
-      "marketplace": "Amazon",
-      "category": "Informática",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "30"
-    },
-    {
-      "id": "ofertasychollosesp/97950",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅FREIDORA DE AIRE COSORI PREMIUM II\n\n📝 Freidora de aire de 6.2 litros y 1700 W. Incluye temporizador y 12 funciones para cocinar de manera saludable.\n\n🟢AHORA : 65,21€\n❌ANTES: 78,90€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2yx",
-      "title": "FREIDORA DE AIRE COSORI PREMIUM II",
-      "description": "Freidora de aire de 6.2 litros y 1700 W. Incluye temporizador y 12 funciones para cocinar de manera saludable AHORA : 65,21€ ANTES: 78,90€",
-      "image": "https://cdn4.telesco.pe/file/t-uY9NtulTe0zqq62nh1xxUODkpr3yRdDPhfZKZq4VONB9fxlskAL3wlPIqc5b61BKwhxZc_mVHo0amBPMDSvvq0M1dpZMANX2L1redP2wYmsQ-ht6XdqE9x1a_wc2NQdJI5Dl1KwL0EmETbecKxQAUCEF6UKX2azl4Z_TnF-2ttfgfA_LB8eeztlLw2sF1yuKlwM0EwpPgaUwS3j_2f7IG2izfKIUzzG0lxleifCSraABXURGBcFrohyjK4p1jy1a6ceA0VtdwRejkrHZaqYZo5cSD_IPB8eNths3dmioAetDTzdZPoCCxe56IbUWZa6OhqYMiq7YACGCTqKI0eZA.jpg",
-      "link": "https://ir.cazadordechollos.es/t2yx",
-      "marketplace": "Pdt",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "65,21",
-        "78,90"
-      ],
-      "discount_percent": "17"
-    },
-    {
-      "id": "ofertasychollosesp/97949",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -45%‼️#Publicidad\n\n✅JBL GRIP ALTAVOZ BLUETOOTH ROJO\n\n📝 Disfruta de un sonido potente y portátil con el JBL Grip. Perfecto para llevar a cualquier lugar y animar tus momentos. ¡No te quedes sin el tuyo!\n\n🔗Enlace: https://ir.cazadordechollos.es/97949",
-      "title": "JBL GRIP ALTAVOZ BLUETOOTH ROJO",
-      "description": "Disfruta de un sonido potente y portátil con el JBL Grip. Perfecto para llevar a cualquier lugar y animar tus momentos. ¡No te quedes sin el tuyo",
-      "image": "https://cdn4.telesco.pe/file/fw2mKI-eV0xrHc9XDWvppDNecsS4n6WTw5RAbR-J0DBh4pq6I17jt1y9WqlGMK4xsxP9RG9xhQ3QELef4afSyyC2Pj70AJNZ9STLyrjCJgMsQPrtJoFdawvxlNKMrYrddq3VJhR8uDVCLxzYyKoHc3wWRcsrWvbf3G-PZ3j-10gX6GT2MKVcmg57vb0RyyeJER4yV1mcsFC9kmvq-xsFjm7Q9ZiWpSotR-cQTqY538LJnS7GtZ4bE2o4kp_Yg_npWA9ixs5D9scVMKzCvEljinGWfCjXe7ZsYG05SUQKL9ELo8XbHjC4Ym8ycmRFzG_WKPorBxRrcsJJez-nm4CUzg.jpg",
-      "link": "https://ir.cazadordechollos.es/97949",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "45"
-    },
-    {
-      "id": "ofertasychollosesp/97948",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅XIAOMI TV STICK 4K 2.ª GENERACIÓN\n\n📝 Disfruta de streaming en 4K con el Xiaomi TV Stick 4K. Con WiFi 6 y Google TV, transforma cualquier televisor en un Smart TV. ¡Hazlo tuyo ahora!\n\n💶APLICA EL CÓDIGO: ESNS06\n\n🔗Enlace: https://s.click.aliexpress.com/e/_c36C17Dp",
-      "title": "XIAOMI TV STICK 4K 2.ª GENERACIÓN",
-      "description": "Disfruta de streaming en 4K con el Xiaomi TV Stick 4K. Con WiFi 6 y Google TV, transforma cualquier televisor en un Smart TV. ¡Hazlo tuyo ahora APLICA EL CÓDIGO: ESNS06",
-      "image": "https://cdn4.telesco.pe/file/rAZQOSXTIQI-mNgWd4O4UAuIVpEDMW69JNXeuecFpjAMGUEMnrqRwpxy5dMY4jK5wuAXHhbwIqbclXwsPDhamg0L3Z9d-5ZIZldcX_wD_TNXmxB54EK5OP_fLbsMQGgZi7uK2HVF_X3VfO_r2Yh2dNhXjj2zZNSmQS7n9G4J3K2hMmXT2jdp4r8td7A_xVSTV6U3GphDNblPrf2KUkIwQdq4YjNBGyjefhWGVsFa35iXbRtae7ptsxvOSYjZRONrrNzsthJgWYueZ2-cvDogJRaQxIxrc9iZSm_rvQawDBX4B1P5qhB8XHF9m3k8AlTbnLuZuGVYz074p8L1QwOORg.jpg",
-      "link": "https://s.click.aliexpress.com/e/_c36C17Dp",
-      "marketplace": "AliExpress",
-      "category": "Televisores y sonido",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "ESNS06",
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97947",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -28%‼️#Publicidad \n\n✅ORALDINE ENJUAGUE BUCAL ANTISÉPTICO\n\n📝 Mantén tu boca fresca y protegida con Oraldine Enjuague Bucal Antiséptico. Ideal para uso diario, combate bacterias y previene problemas bucales. ¡Sonríe con confianza!\n\n🔗Enlace: https://ir.cazadordechollos.es/97947",
-      "title": "ORALDINE ENJUAGUE BUCAL ANTISÉPTICO",
-      "description": "Mantén tu boca fresca y protegida con Oraldine Enjuague Bucal Antiséptico. Ideal para uso diario, combate bacterias y previene problemas bucales. ¡Sonríe con confianza",
-      "image": "https://cdn4.telesco.pe/file/DSwJE_vGkcKbIfHbbdLTrNucg4MCDXvydwV8AcT5IAnLttGIRq4grrBO4bcSbEJeWw00pCEjO3PmMSq806l6y8nfPGP2Fy2pd5LmQaYSjRM22Qq1rbmMVZWIT75Z4XCrZvsXW5_PafbYfvzsOe48JMcReipQk55HQ9LWu6Lm7omdzX2nqWc5VsZMeQquofk4DKDYJyPNEHw6cTVo248lGlvONE65e4Bgf_Mv9ZNZr-KDZYzivCpOgBboHXKNHEmTgAUrFFOCD1EOVsYoKN4oKhizClI6-a0LczvAcCTVIuXLcIVie2mx1JKprMl0dBySwC6reHJZyarnpmdpbAUi_A.jpg",
-      "link": "https://ir.cazadordechollos.es/97947",
-      "marketplace": "Amazon",
-      "category": "Deporte y aire libre",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "28"
-    },
-    {
-      "id": "ofertasychollosesp/97946",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -51%‼️ #Publicidad\n\n✅HELADERA TAURUS GELATO FLOW\n\n📝 Prepara helados en casa con la Heladera Taurus Gelato Flow. 700 W, 9 programas y pantalla digital para un uso fácil y cómodo.\n\n🟢AHORA : 121,99€\n❌ANTES: 249,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2yp",
-      "title": "HELADERA TAURUS GELATO FLOW",
-      "description": "Prepara helados en casa con la Heladera Taurus Gelato Flow. 700 W, 9 programas y pantalla digital para un uso fácil y cómodo AHORA : 121,99€ ANTES: 249,99€",
-      "image": "https://cdn4.telesco.pe/file/IfqGwtFgvyvtD6DIwElCfStw6rNRyg60-0iX6zSWdd0bfMFAsOLfo1xrG9fDwiN-IDjTLEuINOAiPVVQnrng_WOFmUahrR8NPjcw2KymZskNAOAvCipbtSB11g2Yt6ObIItvnEqccOeex0nOK1PmNOgN7QYqKjjXsxRitdtHizKItpaPYBvKGyE8BSSDkB3P3SXeHgEn5j2VMWfMZRVJjGGjrAw9FkjsYYq6GFS5ahu0UFIwqVDXbl2HnbhoA5E3qgtZCGYnV8codrCTwJYW57r5KF5QEqi6Mo2yybP_0p1YWLbBx8YkWs0X9ZIfbHliqlrzXwMDUrolJGzF0xwJgw.jpg",
-      "link": "https://ir.cazadordechollos.es/t2yp",
-      "marketplace": "PcComponentes",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "121,99",
-        "249,99"
-      ],
-      "discount_percent": "51"
-    },
-    {
-      "id": "ofertasychollosesp/97945",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -27%‼️#Publicidad\n\n✅GRANOS DE CAFÉ INTENSO TOSTADO LIGERO\n\n📝 Disfruta de la intensidad y suavidad en cada taza. Este café certificado por Rainforest Alliance es perfecto para los amantes del buen café. ¡Prueba la diferencia!\n\n🔗Enlace: https://ir.cazadordechollos.es/97945",
-      "title": "GRANOS DE CAFÉ INTENSO TOSTADO LIGERO",
-      "description": "Disfruta de la intensidad y suavidad en cada taza. Este café certificado por Rainforest Alliance es perfecto para los amantes del buen café. ¡Prueba la diferencia",
-      "image": "https://cdn4.telesco.pe/file/g3SsctnuCXvpIHsBdgSNUU4v9Gf6wtUYRrbYaNCh_5ghmEmpqzAdelOyWJCfVbvGxwI5u4K_eEzNNDFNxQghaq9UPhov4yGguCGZ1ywatxCTLhiVqJu2pv8rZlD3NWSNRCwPwKe9jNKaUOSBW4WpD0S08loyRiudkvEuZNjI8dl43MU_eHqS-kN_sTt9i8ioSeiBGn3TpB0d5VlfXQjUsXMeqP4jIzcgPPAKJt74V3UMuz_IQvNtAF2nb16I-jjnM0qC4OVhePiBKkNXNlO-TOSMcvPgKvdibd5aJnN8ti6dA8YQvB_4f4dIUw0y1m4_VXezI6mrjMUYbPW_0X2Lzw.jpg",
-      "link": "https://ir.cazadordechollos.es/97945",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "27"
-    },
-    {
-      "id": "ofertasychollosesp/97944",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅CAJA DE ARENA INTELIGENTE PARA GATOS AUTOMÁTICA\n\n📝 Descubre la comodidad de nuestra caja de arena inteligente, automática y semicerrada. Controla todo desde tu aplicación y olvídate de los malos olores. ¡Haz la vida más fácil!\n\n💶APLICA EL CÓDIGO: ESNS20\n\n🔗Enlace: https://ir.cazadordechollos.es/97944",
-      "title": "CAJA DE ARENA INTELIGENTE PARA GATOS AUTOMÁTICA",
-      "description": "Descubre la comodidad de nuestra caja de arena inteligente, automática y semicerrada. Controla todo desde tu aplicación y olvídate de los malos olores. ¡Haz la vida más fácil APLICA EL CÓDIGO: ESNS20",
-      "image": "https://cdn4.telesco.pe/file/Iw9qBQsch51-xKQF0L3kPcY7JBYgvYQNtyi9tdpGZgrzB9IzlqQNTtb1IDwvWaDv6HrMc1ghYeTdfv6-ft2BVBmAcL9OAAfT3N7uyizLJbtkVA6D-RMU9f6XnbLJCu088Zs8LQ6eSRDeZGUZot1zDT7EMyEzE4f73QGdo7h3XCIg--zkPP513s7QD86lTaEcbgSjFfpiEpz2m5VYVEh6MOQM5YlivDAiQaMVvowDe528XudG2PcB6kWw_seqzVG9m75qE7h7TSVt_raaKiyMKx3i-WfmxWOPhaKNwqp_CgNK1xholM7qd2RO99lvdNS66dfIw6xNddFfbI_qr7Mm6w.jpg",
-      "link": "https://ir.cazadordechollos.es/97944",
-      "marketplace": "AliExpress",
-      "category": "Mascotas",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "ESNS20",
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97943",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -16%‼️#Publicidad \n\n✅ROWENTA CEPILLO AIRE CALIENTE CF9920\n\n📝 Descubre el Rowenta Hair Therapist, el cepillo de aire caliente que seca y peina al mismo tiempo, ¡logrando un acabado profesional en minutos!\n\n🔗Enlace: https://ir.cazadordechollos.es/97943",
-      "title": "ROWENTA CEPILLO AIRE CALIENTE CF9920",
-      "description": "Descubre el Rowenta Hair Therapist, el cepillo de aire caliente que seca y peina al mismo tiempo, ¡logrando un acabado profesional en minutos",
-      "image": "https://cdn4.telesco.pe/file/GPhBU-DcDfmpIvks3KAg5SvUkvIpRgXvP1dghgMpeXlLQP2X0lbPZv3ytOBPgyIz25s7E6GX9TltXRV2pgytFTX4T8hh0h2h0FWAV4ud2gC7abDuEuvppcn3l7MqUXxVUp8KUTqrHJRX_NZ4TH1Vuakt2waLgNL6tM5x1ZSsMYmhqfIm2trCY70uMCVWhueV1btMBps3X-ZH5qjXYsylMxIf9qRiPv263_aHMDKyXFuVsZxgBgBd2DnYR6SV_z74i6iXYmZpx3JmWj0ukdP4CcsOmZ5oedIdKdAAf4g49PSWHanqjJnlYrMJ0ACDds61rVOYuX-XyvWguzrd0sI_qA.jpg",
-      "link": "https://ir.cazadordechollos.es/97943",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "16"
-    },
-    {
-      "id": "ofertasychollosesp/97942",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -28%‼️ #Publicidad\n\n✅XIAOMI REDMI NOTE 15 PRO 5G\n\n📝 Móvil Xiaomi con 256 GB de almacenamiento, 8 GB de RAM y pantalla de 6.83\" CrystalRes AMOLED. Batería de 6580 mAh.\n\n🟢AHORA : 288,43€\n❌ANTES: 399,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2yk",
-      "title": "XIAOMI REDMI NOTE 15 PRO 5G",
-      "description": "Móvil Xiaomi con 256 GB de almacenamiento, 8 GB de RAM y pantalla de 6.83\" CrystalRes AMOLED. Batería de 6580 mAh AHORA : 288,43€ ANTES: 399,00€",
-      "image": "https://cdn4.telesco.pe/file/TVMnvoxYKNob3jO8tzKkRAzkEN3zPUA2pAHz73IQKYLZt-1QHj_p2uAEtduSaPVb287FUV5VPphXLKmYYEGylA_BfoYQvTzMD762tBtnkV8aENqnxDyov7RkAe-AwfTL4nGzqwMOJT9GpmgjaSeCTGhoTiYbs8vqevK-36KRn5ndGoUIa_BHHg3S-Y41Rz9Mi4vT58WINOS-BNhBkKim6d9yNqU6ZP0aCvGXjXRcim0iNzJQsAq8rqZ2pC4Dc-PciJ0eC4Id4blySYrUSyCaQS_d2xIA2CBmKQEh0wxhKPF95VQJdEeZMZT5taIYfWifYpYRJrChRKQft4oeJptQsg.jpg",
-      "link": "https://ir.cazadordechollos.es/t2yk",
-      "marketplace": "Pdt",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "288,43",
-        "399,00"
-      ],
-      "discount_percent": "28"
-    },
-    {
-      "id": "ofertasychollosesp/97941",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -43%‼️#Publicidad \n\n✅GHD GOLD - PLANCHA DE PELO PROFESIONAL NEGRA\n\n📝 Consigue un cabello liso y brillante con la plancha GHD Gold. Ideal para todo tipo de cabello, transforma tu look en minutos. ¡No te la pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/97941",
-      "title": "GHD GOLD - PLANCHA DE PELO PROFESIONAL NEGRA",
-      "description": "Consigue un cabello liso y brillante con la plancha GHD Gold. Ideal para todo tipo de cabello, transforma tu look en minutos. ¡No te la pierdas",
-      "image": "https://cdn4.telesco.pe/file/CjBrmCmzdMZf-UvpcUYSm7gYDsN213hnjIThUasdNNqh5szh4EOfGLb0qo0GjqSrWQ6dkkAEEcKe9DPUIgX6PUfAxMwrn-tOxAjEA_gcZZsO8Naumw4R7kTNi5H2CNk07aReeuttpz6-leBZdJIVUaQKx9fgH5h77Vkfxc2D_UYvo_nmW6ZBMEAmqFRklg378Y6hLujlbk_vw-0KYaz67OVhr-FBj08XbEvg5u24gacy5u8wl_AWm1EVDo8GaPITV_hscugudu_yLDFtaKRnRxXPMKulHjdDbFWQHla75YPf_L9c7-HxHECV8fjUyrfnizM97ztkEJFHpQVKSuQ2Cg.jpg",
-      "link": "https://ir.cazadordechollos.es/97941",
-      "marketplace": "Amazon",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "43"
-    },
-    {
-      "id": "ofertasychollosesp/97940",
-      "date": null,
-      "text": "✅SOMBRILLA DE EXTERIOR RESISTENTE CON FUNCIÓN DE INCLINACIÓN Y TECHO VENTILADO\n\n📝 Protege tu patio o jardín con esta sombrilla resistente, fácil de usar y con protección UPF 50+ para disfrutar del exterior sin preocupaciones.\n\n🔗Enlace: https://ir.cazadordechollos.es/97940\n\n#Publicidad #Aliexpress",
-      "title": "SOMBRILLA DE EXTERIOR RESISTENTE CON FUNCIÓN DE INCLINACIÓN Y TECHO VENTILADO",
-      "description": "Protege tu patio o jardín con esta sombrilla resistente, fácil de usar y con protección UPF 50+ para disfrutar del exterior sin preocupaciones",
-      "image": "https://cdn4.telesco.pe/file/ihTEG6BpKF9bY_XcbNhs0Vc9Qj0gMw6l_06BylFUyGi4P2d_Fq3qIoOSUBdcQezdPN-OIUhi4QFpvADvwuAMjxhqsePIJg8yT9p2SaEXq4Po4-gA04QryVeVU3AL-wSTrUJJEqznxL877Pf2dIHG3TIkbqPUDMvf1ZAWIPqzQxZlVsWiIrJT9fvmD2WjpHO6-fQ8uyrlB5pWgp41D4XrGkYvTuvV_dITTzyXaoJMKhGoGvhvbg5qpbiwQbI1_EOtqCUQb4YSoB_PM0fetVyJWLnZS7fBKd5A9LH5ivbsczkUpKuh68UsAih3nEUfl-hOcKzALxrr1xG6JFza39iQqw.jpg",
-      "link": "https://ir.cazadordechollos.es/97940",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad",
-        "Aliexpress"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97939",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅ESTUFA ELÉCTRICA INFRARROJA 2500 W\n\n📝 Disfruta de un calor instantáneo y ajustable con nuestra estufa eléctrica de 2500 W. Ideal para cualquier espacio, ¡calienta tu hogar de manera eficiente y cómoda!\n\n💶APLICA EL CÓDIGO: ESNS06\n\n🔗Enlace: https://ir.cazadordechollos.es/97939",
-      "title": "ESTUFA ELÉCTRICA INFRARROJA 2500 W",
-      "description": "Disfruta de un calor instantáneo y ajustable con nuestra estufa eléctrica de 2500 W. Ideal para cualquier espacio, ¡calienta tu hogar de manera eficiente y cómoda APLICA EL CÓDIGO: ESNS06",
-      "image": "https://cdn4.telesco.pe/file/g0ZoYrCZiPpfM3fZAxB6_rWJS1EjBsaTfquXZ-DJU_fqDUgwQ0ieDeVha8P1eC1EIFlYeWNpITEjvE8PNE6tEhKoyGMhrruj-JCJ4Gqy2KyuA5ZIsj3KUyzMwstG399sZ9X2YwBZIXDKPzXs7cz1ug_LylI_AoTmwLCsyqtQJLVdOFslAoMyIqkJsdXFWzg5mWbDVoVFWSCjd-CklXBqdFaEwW097d2KJ_HcLYRFKbmL8BB7yCLlK598b4vJdPyvDv_QM_RGrLBM39xsLtkGJFs2pPukQ_1o7-tcuasBbGczEt9qvlvmytwXKJgoZYSXzX9ncZCfW9HOB3hVRx3Lfg.jpg",
-      "link": "https://ir.cazadordechollos.es/97939",
-      "marketplace": "AliExpress",
-      "category": "Muebles",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "ESNS06",
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97938",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -55%‼️ #Publicidad\n\n✅PATINETE ELÉCTRICO XIAOMI 5 PLUS\n\n📝 Descubre el patinete eléctrico Xiaomi 5 Plus con potencia de 400W, velocidad máxima de 25km/h y batería de 10200 mAh.\n\n🟢AHORA : 271,90€\n❌ANTES: 599,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2yb",
-      "title": "PATINETE ELÉCTRICO XIAOMI 5 PLUS",
-      "description": "Descubre el patinete eléctrico Xiaomi 5 Plus con potencia de 400W, velocidad máxima de 25km/h y batería de 10200 mAh AHORA : 271,90€ ANTES: 599,99€",
-      "image": "https://cdn4.telesco.pe/file/vz0FDi-KOTAwfqGhIZgO4ofrDs-b8u9GLZuSwNZROw78uz30_1ZaRvaRuLqeXeh-ey63EVnF2nTLp_6kHyy5nnBXB4GCviM2nVl6_ZZR2nMOXD1PYzqmOIvAz1gtLn9sBkmBjngBLGvc-7JWHC-RW-OnWymSgYzYJiN7vYRdxnBsXsglONidaUDEaVImV_eVnv_8i8FIyaTfRmA89OKmRE37FOeJEg-84Bh73cvK5Z58j3t37f6S_4cPmyo-NxUUJU-YljESdVszEuWX8G7HXOCcWl5iphRWjpqGQzhJsbv1HvUpCPT_DVhamPRCKMzARMYRB8KVXCWnLx7SAezqTQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t2yb",
-      "marketplace": "Pdt",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "271,90",
-        "599,99"
-      ],
-      "discount_percent": "55"
-    },
-    {
-      "id": "ofertasychollosesp/97936",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -27%‼️ #Publicidad\n\n✅FREIDORA DE AIRE NINJA CRISPI PRO XL\n\n📝 Freidora de aire de 5.7 l con 7 programas y diseño portátil. Potente y versátil, ideal para cocinar de manera saludable.\n\n🟢AHORA : 180,99€\n❌ANTES: 249,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2y5",
-      "title": "FREIDORA DE AIRE NINJA CRISPI PRO XL",
-      "description": "Freidora de aire de 5.7 l con 7 programas y diseño portátil. Potente y versátil, ideal para cocinar de manera saludable AHORA : 180,99€ ANTES: 249,00€",
-      "image": "https://cdn4.telesco.pe/file/OmTVLIa5sP1_1JrbBUsWXktKuNiNLCdGlSUun7wpydfziVseF5JOY1CpdD1XUuA6E1Hy0kQ8B5vSbno5yufV9v0Iu4qwIG_3FN2_7_nowoledioLx8YbfgmPx0qLfWtad30AJ0b01cuUSX5QyIe2pL2YPxCYmotn1fGdD0Flu4rwch-UhJo53_x6GnM1iTxApMp1h577xsbxmLpv8yVzYmvx4TynMI1WrVoti2z5BxyRBSOhPCoymFqPT0pPmNYuBJdvWcrO-6CM34-MLlznsWat5hxljjALcruqb3p2uhSXt8id4FLPay2FcmfVa4T3S1CoH9vKHspN57enuh0F3g.jpg",
-      "link": "https://ir.cazadordechollos.es/t2y5",
-      "marketplace": "Pdt",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "180,99",
-        "249,00"
-      ],
-      "discount_percent": "27"
-    },
-    {
-      "id": "ofertasychollosesp/97933",
-      "date": null,
-      "text": "🔥 Lo más vendido hoy\n\n🥇 FINAL FANTASY VII & VIII REMASTERED SWITCH #Ir\n👉 https://ir.cazadordechollos.es/97851\n\n🥈 NINTENDO SWITCH 2 ORIGINAL CON PANTALLA DE 7.9'' #Ir\n👉 https://ir.cazadordechollos.es/97866\n\n🥉 PACK COCACOLA ZERO AZÚCAR 24*330 ML #AliExpress\n👉 https://ir.cazadordechollos.es/97842\n\n🏅 LOGITECH Z313 ALTAVOCES 2.1 #Amazon\n👉 https://ir.cazadordechollos.es/97853\n\n🏅 CASCOS BLUETOOTH CON ANC HÍBRIDA #Amazon\n👉 https://ir.cazadordechollos.es/97841",
-      "title": "Lo más vendido hoy",
-      "description": "FINAL FANTASY VII & VIII REMASTERED SWITCH #Ir NINTENDO SWITCH 2 ORIGINAL CON PANTALLA DE 7.9'' #Ir PACK COCACOLA ZERO AZÚCAR 24*330 ML #AliExpress LOGITECH Z313 ALTAVOCES 2.1 #Amazon CASCOS BLUETOOTH CON ANC HÍBRIDA #Am…",
-      "image": "https://cdn4.telesco.pe/file/GyeSVOXvq23I04N8xUWt1GqqSjQ8wnTUqSCQ1Jit2rbRtdyfcJX6ttEFkgazNSBn7WcMO4x3VkRVHCB-ur8sKuT9j_zS6oDD0_UpTVkDfXSkZ8rzGFb2zJHE8PN1R9Mucl-fBhpTA5GOe8_Uo01g8eC_fL9p5fGCY88NGcXz6s44YhmS0xo_L0AcHs5NR29MZL2NCkjNaRU3z4y5hj4RsvjvEtb3pjnD3Hv8xFAuW2FcsU-gJkBA_QGAe_9yVMG6ooub5uxrPrbeKDjTUSqhSgSyzqmO87c_KIgZ2trOZpQpFxsu0HUEtDd9SfoElBhl1CNlHsd-_21fQpdCxiGqpQ.jpg",
-      "link": "https://ir.cazadordechollos.es/97851",
-      "marketplace": "Ir",
-      "category": "Deporte y aire libre",
-      "hashtags": [
-        "Ir",
-        "Ir",
-        "AliExpress",
-        "Amazon",
-        "Amazon"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97932",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -33%‼️ #Publicidad\n\n✅DISCO DURO SSD EXTERNO 2TB\n\n📝 Disco duro SSD portátil SanDisk de 2TB con USB 3.2 Gen 2 y velocidad de lectura de hasta 800 MB/s. Ideal para almacenar tus datos.\n\n🟢AHORA : 146,46€\n❌ANTES: 219,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2xm",
-      "title": "DISCO DURO SSD EXTERNO 2TB",
-      "description": "Disco duro SSD portátil SanDisk de 2TB con USB 3.2 Gen 2 y velocidad de lectura de hasta 800 MB/s. Ideal para almacenar tus datos AHORA : 146,46€ ANTES: 219,00€",
-      "image": "https://cdn4.telesco.pe/file/DXp_0alVhDp1gfcio6_hVdxKyAk9Y0K58fQ7HIfNm8LMK2jYaHkUOA63Bi9cuHQYGyrxhS11t5BAySPm861tmI19xVB-l2goSbs7WWRQft_fA05MgkGCmI5gpSnsJQRxNdPMoiSsAqLobuGa1pNe0w-7EzCZ2kPxDPNOggiBIjN1MCRJ3fUGrwW50-fDDcyn0bj62GRE9Ilit5SQf-hmY7d-NXlylOQJ19n_ZF-VXv7iK5QmurSwGtQ2aw_f-zEvavJv23jueG29OnnFiGHG8KiR4IiF9rNvjoeFOwWcvCkDdGWFL4nOJiaW4gO-EU8EEKNyYaRjLCeT-Z48pUpRXw.jpg",
-      "link": "https://ir.cazadordechollos.es/t2xm",
-      "marketplace": "Pdt",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "146,46",
-        "219,00"
-      ],
-      "discount_percent": "33"
-    },
-    {
-      "id": "ofertasychollosesp/97931",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -35%‼️ #Publicidad\n\n✅CAFETERA SUPERAUTOMÁTICA DE'LONGHI\n\n📝 Cafetera De'Longhi Magnifica S con molinillo integrado, sistema Thermoblock y vaporizador. Potencia de 1450 W y 15 bar de presión.\n\n🟢AHORA : 247,11€\n❌ANTES: 379,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2xj",
-      "title": "CAFETERA SUPERAUTOMÁTICA DE'LONGHI",
-      "description": "Cafetera De'Longhi Magnifica S con molinillo integrado, sistema Thermoblock y vaporizador. Potencia de 1450 W y 15 bar de presión AHORA : 247,11€ ANTES: 379,00€",
-      "image": "https://cdn4.telesco.pe/file/oVX492jGLTxevPUhtaqSh6cfDoRjTIqOxMVMIZ8-S7tbPkowo-_F4az5JG4beKZSL7C5EQM9yDDi_HOUu8xS3GOjHO6d6tt6_eSt3OY8hPqvZdNw4FQHbZ8Ola4OZoAzLgvnVE9jqLMb_OkSZwBy0-JrQuaB-iBeAcg3rVZwavzCsvURiNytAPy-F8e3Zy1caQ2aRk1kLMKdHdlcu88zcvUQh3tzrK1acWYslz9Ub79i6Qth6KHHfMaLogS-MLM_P1wGfpXWTAe7FfNR5DGXgIZ2nq0RJH5CO9Fwf9_4Nzv5RB_dXEwrOnxM-aNdAL5MHTYQXWa5erybrU6DXCVTKQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t2xj",
-      "marketplace": "Pdt",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "247,11",
-        "379,00"
-      ],
-      "discount_percent": "35"
-    },
-    {
-      "id": "ofertasychollosesp/97930",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -50%‼️ #Publicidad\n\n✅PORTÁTIL HP OMNIBOOK 16\" DCI 2K\n\n📝 Potente portátil HP con AMD Ryzen 5, 16GB de RAM y 512GB SSD. Ideal para tus tareas diarias, sin sistema operativo.\n\n🟢AHORA : 395,87€\n❌ANTES: 799,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2xe",
-      "title": "PORTÁTIL HP OMNIBOOK 16\" DCI 2K",
-      "description": "Potente portátil HP con AMD Ryzen 5, 16GB de RAM y 512GB SSD. Ideal para tus tareas diarias, sin sistema operativo AHORA : 395,87€ ANTES: 799,00€",
-      "image": "https://cdn4.telesco.pe/file/MtmCoRTT67AiPITrhbXbw7qBYuSWP747JiemvylefjOOlF8tkAuz8PLt58tqmflgMuRGwjFKzsbr0b-Wjsi_WTAZ42t0QuU8ID7gfLC6vZMFYF4FocHjWlCLp7xu_FYZ_x94Dbev4DJrtGTdItQLTbx6l2STlfJ5ypkEu-r2EEOjBRivNrfP27DvDqq1ZdIBrw2UxE3yv8WAOl5w0SxYO04iemXi0s5A54FRcgkkLjfUZpw6qjjqH77wgg_XrfIF-LKmlOLL_U0pzUcv9bJg4itPSsKultpCGer4Xi5A0O8NCTIeJB_4MGwKXuxgZtOhilV4h2dmt8ctU5Ks-krTlQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t2xe",
-      "marketplace": "Pdt",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "395,87",
-        "799,00"
-      ],
-      "discount_percent": "50"
-    },
-    {
-      "id": "ofertasychollosesp/97928",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -27%‼️ #Publicidad\n\n✅RELOJ GARMIN FORERUNNER 55\n\n📝 Reloj deportivo Garmin Forerunner 55 con GPS, frecuencia cardíaca y resistencia al agua de 5 ATM. Batería de hasta 14 días.\n\n🟢AHORA : 123,14€\n❌ANTES: 169,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2x8",
-      "title": "RELOJ GARMIN FORERUNNER 55",
-      "description": "Reloj deportivo Garmin Forerunner 55 con GPS, frecuencia cardíaca y resistencia al agua de 5 ATM. Batería de hasta 14 días AHORA : 123,14€ ANTES: 169,00€",
-      "image": "https://cdn4.telesco.pe/file/CvYB_WD0tmyJSfS1U2VcsG0SyJe_uJfb1w8q03qAJkcy79uL0OeiexdrqcJkPp2FGVnEghMB8R2Ou_hP3QWov9KIXomu68ncq0j0N533LScxde2sy2dWXolKlAQgLgtWgj9VOGZ3_OIh3FVQER3fPQXM9Mnu7WE1BR7BQlrl0WeCV5gJ8p86OYPEi62W-uRmZ_FCdaDFrIRprurH6elJTnd7uMj7yNUE6X68PECVLNNThjxDXiDbl7YmzW81MaiaUVxw4FinzCc_1LxWwTqUsVtnCanClXNBWYNWZuBQ-v86cu770kwCwDhNOQIu_Re_2VDGpBbpbUsAZKQVhpMzWw.jpg",
-      "link": "https://ir.cazadordechollos.es/t2x8",
-      "marketplace": "Pdt",
-      "category": "Coche y moto",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "123,14",
-        "169,00"
-      ],
-      "discount_percent": "27"
-    },
-    {
-      "id": "ofertasychollosesp/97927",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅CESTO PARA LA COLADA DIVIDIDO\n\n📝 Organiza tu colada de manera eficiente con este cesto grande de 3 secciones. ¡Haz que el lavado sea más fácil y rápido! Ideal para cualquier hogar.\n\n💶APLICA EL CÓDIGO: DSES03\n\n🔗Enlace: https://ir.cazadordechollos.es/97927",
-      "title": "CESTO PARA LA COLADA DIVIDIDO",
-      "description": "Organiza tu colada de manera eficiente con este cesto grande de 3 secciones. ¡Haz que el lavado sea más fácil y rápido! Ideal para cualquier hogar APLICA EL CÓDIGO: DSES03",
-      "image": "https://cdn4.telesco.pe/file/JVUgVo5AnhqBpObn5b4mh-yqz3t5oVw7akoXYVnsTabRJs6bi-hLP22RANBw9To7GKxY1a7pD6lzeE3pnSI87bxyhDEJmWY-JmVFQdjuQbLQA7exvhNTm2_uQ4bUw-2yTXBPnedYll0imBlQIa5wy4-VY8r5ivPntPJvK0r6BOVnXADrf3zk4YKmfrudueF5F2Fp7F9-Pyct0Q0sT62GZKo-w-OTr-LGBOcsOI4qqiUMdhHbJe0BcBERUXONEelKvFD-vR2xYNNSrC3XPOJsGoBOoJ-6DQubKQ0gF3j8vmrBFlBFXbku1wzMkMJIolcEm79QNwBA_l9ETRp1T4nuew.jpg",
-      "link": "https://ir.cazadordechollos.es/97927",
-      "marketplace": "Ir",
-      "category": "Otros",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "DSES03",
-      "prices_found": [],
-      "discount_percent": null
     }
   ]
 }
