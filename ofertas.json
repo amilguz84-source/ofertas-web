@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T21:58:31.753197+00:00",
+  "generated_at": "2026-08-24T22:59:45.959388+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/98092",
@@ -2115,26 +2115,6 @@
       "coupon_code": "DSES03",
       "prices_found": [],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/97961",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅ASPIRADOR ESCOPA DYSON V10 KONICAL\n\n📝 Aspirador escoba Dyson V10 Konical con 150 AW de potencia de succión y 60 minutos de autonomía. Incluye accesorios y es de color negro.\n\n🟢AHORA : 329,75€\n❌ANTES: 399,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t2zi",
-      "title": "ASPIRADOR ESCOPA DYSON V10 KONICAL",
-      "description": "Aspirador escoba Dyson V10 Konical con 150 AW de potencia de succión y 60 minutos de autonomía. Incluye accesorios y es de color negro AHORA : 329,75€ ANTES: 399,00€",
-      "image": "https://cdn4.telesco.pe/file/OgrAkYEl3MLygUb9kCc_7SyVVacrdcbkCXxX0TbMrmH7W_i3o7BRKWo6ywdxMqeBnhuoKnpSiRvrp-uJL4a2UaU_Sr0hq-kzAK94Bco1vf-BIoHtE7z7xYUdvPLKeVcIHkkiR6iaX5Co0Sai9SZ_jfBH-4vn5mUfCGx4f5YQmS9KMN0teSdIiIQ9NY95Uh1ldOTba_TtkC02R9K2TqsbKn5rdG_gBxGH_OxE9iXmLo5ydfTCn7_hRoPDtF0YXiTtSCMWx8e2y5GF6F5RgP-B1UDjRxvLcQ8t-_i6OnS-J5ePsPyZ1vcJp7TBgrtdHh-kREj-3vApZJmL2IIMipz61g.jpg",
-      "link": "https://ir.cazadordechollos.es/t2zi",
-      "marketplace": "Pdt",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "329,75",
-        "399,00"
-      ],
-      "discount_percent": "17"
     }
   ]
 }
