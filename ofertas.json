@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-25T19:47:03.394531+00:00",
+  "generated_at": "2026-08-25T20:58:32.971538+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98213",
+      "date": null,
+      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅XIAOMI SCOOTER 4 LITE - 2ª GEN\n\n📝 Descubre la comodidad y potencia del Xiaomi Electric Scooter 4 Lite: 25 km de autonomía, 25 km/h de velocidad y ruedas neumáticas de 10\". ¡Ideal para tus desplazamientos!\n\n💶APLICA EL CÓDIGO: ESNS20\n\n🔗Enlace: https://s.click.aliexpress.com/e/_c2QzfoAJ",
+      "title": "XIAOMI SCOOTER 4 LITE - 2ª GEN",
+      "description": "Descubre la comodidad y potencia del Xiaomi Electric Scooter 4 Lite: 25 km de autonomía, 25 km/h de velocidad y ruedas neumáticas de 10\". ¡Ideal para tus desplazamientos APLICA EL CÓDIGO: ESNS20",
+      "image": "https://cdn4.telesco.pe/file/ey5PP3a7HoPDBiOM1gWDpsV0mB0sPBXEFhn5Qn4qPqSs9zDARTrKpvwd1SWm8yx29yZHOvGBHOsPNoTCFV4oVW7QDc_WjuWXfabTIqDpjD6Jw5q_vpE_i0QpMxqZAFTXtZgzOx8DwH1GJH-tXrJPd40Fprd6aXpta2_A8fhOwJqX883R8d-9hSC2691mW6ObDxYF0aXjZPtHd-jbB18FSk8J788JnaKZSDPjYGgXOp5_P2XZi1TM7dx7CfbaztDW2ko-n6YQ6ZYxk7OL4tJW6u47AeYg9VxNjQK_fAJOlUR1G2UmwNzOXe4b1vBJ-SXPNi2XURC7wpgumlpDRctevw.jpg",
+      "link": "https://s.click.aliexpress.com/e/_c2QzfoAJ",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "ALIEXPRESS"
+      ],
+      "coupon_code": "ESNS20",
+      "prices_found": [],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/98212",
       "date": null,
@@ -2095,23 +2112,6 @@
         "3,37"
       ],
       "discount_percent": "50"
-    },
-    {
-      "id": "ofertasychollosesp/98081",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -28%‼️#Publicidad \n\n✅COLÁGENO HIDROLIZADO WEIDER CON ÁCIDO HIALURÓNICO\n\n📝 Mejora tu piel, cabello y articulaciones con Weider Collagen. Su fórmula única con péptidos de colágeno y vitamina C te ayudará a lucir y sentirte mejor.\n\n🔗Enlace: https://ir.cazadordechollos.es/98081",
-      "title": "COLÁGENO HIDROLIZADO WEIDER CON ÁCIDO HIALURÓNICO",
-      "description": "Mejora tu piel, cabello y articulaciones con Weider Collagen. Su fórmula única con péptidos de colágeno y vitamina C te ayudará a lucir y sentirte mejor",
-      "image": "https://cdn4.telesco.pe/file/HH2_TgOuBlxfGgwUg51MY0u7092V0pHRZOwF_z6NnkH45KpAUifQK4iIpO0liYprKtVMywGjfcMDqMZALHi5tNQ3qjXjqcsuYSXq023eq6KqPoZOOvaH32S_vwqaSt15FaSDtK3P_M4gEZSWHU1CLpnL5s1JZX-NtULDYWPQqNBadSyacn9xl3S2xsyxdvaJcbWaGyeBOXyWpl6rpvFmuEoYqyo1rkBdI3O-AqUGpx5YLdGsGtfdvocxkFTiTVClndE3oU6YKb0Rza39bL2_UGzz_X6alMGJljFnAxKIY7jXb7qFGUME1L7FGB5NQbmPZt3HBPHXOHWV95AwZT3MUg.jpg",
-      "link": "https://ir.cazadordechollos.es/98081",
-      "marketplace": "Amazon",
-      "category": "Salud",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "28"
     }
   ]
 }
