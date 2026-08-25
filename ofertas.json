@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T21:57:32.094776+00:00",
+  "generated_at": "2026-08-25T23:02:18.105799+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/98214",
@@ -2095,23 +2095,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "20"
-    },
-    {
-      "id": "ofertasychollosesp/98083",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #ALIEXPRESS\n\n✅XIAOMI TV A 32: SONIDO DINÁMICO Y TAMAÑO COMPACTO\n\n📝 Disfruta de una experiencia visual y auditiva inigualable con la Xiaomi TV A 32, su sonido Dolby™ y diseño metálico la hacen perfecta para cualquier espacio.\n\n💶APLICA EL CÓDIGO: ESNS10\n\n🔗Enlace: https://ir.cazadordechollos.es/98083",
-      "title": "XIAOMI TV A 32: SONIDO DINÁMICO Y TAMAÑO COMPACTO",
-      "description": "Disfruta de una experiencia visual y auditiva inigualable con la Xiaomi TV A 32, su sonido Dolby™ y diseño metálico la hacen perfecta para cualquier espacio APLICA EL CÓDIGO: ESNS10",
-      "image": "https://cdn4.telesco.pe/file/CFuNuDr7I4HZX4qF2ikf33u8HvypNObuLpMswKFDyDswYjKg6Bpx_poDXLdSMBAt-fe6odB5lMjqeC-PL6Nkflbd3Gy54eipyh7Fbz5X7zJtZ6tukwHQh7NzKq82v-BCEI_baC-Br6G7wM7dJV6HXp8sPBScY1yojDdXHjQndm_pdFNfyugMwZd7_z8VbgXf7lR2j1eDQ56t_dap_CQiyLXalbgeTzIzIi-R0xkPCVluiGj1XkTqR5PfeFBQGZkBeVKFuWGb2FhaBOy8Mm30BTnqaqcYUufe9g4LBBSoL3MvqT4Wceav-Awxk47y_vtibKWvvhGbRxk_6lMiWcuyew.jpg",
-      "link": "https://ir.cazadordechollos.es/98083",
-      "marketplace": "AliExpress",
-      "category": "Tecnología",
-      "hashtags": [
-        "ALIEXPRESS"
-      ],
-      "coupon_code": "ESNS10",
-      "prices_found": [],
-      "discount_percent": null
     }
   ]
 }
