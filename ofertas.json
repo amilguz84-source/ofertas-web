@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-25T20:58:32.971538+00:00",
+  "generated_at": "2026-08-25T21:57:32.094776+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98214",
+      "date": null,
+      "text": "🔥 Lo más vendido hoy\n\n🥇 NUEVO KINDLE 2024 CON FUNDA Y ADAPTADOR #Amazon\n👉 https://ir.cazadordechollos.es/98097\n\n🥈 ADITIVO DESCARBONIZANTE MOTOR DIÉSEL #Amazon\n👉 https://ir.cazadordechollos.es/98179\n\n🥉 SOPORTE DE EMPUJE ROJO #Amazon\n👉 https://ir.cazadordechollos.es/98172\n\n🏅 ZAPATILLAS NIÑOS ADIDAS TENSaur #Decathlon\n👉 https://ir.cazadordechollos.es/98109\n\n🏅 ENVASES HERMÉTICOS KICHLY PARA ALIMENTOS #Amazon\n👉 https://ir.cazadordechollos.es/98169",
+      "title": "Lo más vendido hoy",
+      "description": "NUEVO KINDLE 2024 CON FUNDA Y ADAPTADOR #Amazon ADITIVO DESCARBONIZANTE MOTOR DIÉSEL #Amazon SOPORTE DE EMPUJE ROJO #Amazon ZAPATILLAS NIÑOS ADIDAS TENSaur #Decathlon ENVASES HERMÉTICOS KICHLY PARA ALIMENTOS #Amazon",
+      "image": "https://cdn4.telesco.pe/file/X8FnJilIfWlwM5CCoqeQy9q5A7VnheB-O07LXv3eDQPTsVw6PJi-2qnQq5CMeH0Ha1orPjexhFzTuuKSLKFm502VZAXOF9Lv75ddxF38CrWxRJcFtMCuIvm0NRkAauBnJYiCcD0kllzLreq9b8dSN2dyf55vVG8Wl79_trVvjcRbw71r9jhrXDe1awrVuAI5gmI4TbbPcro1-U_taHkE3oqk_-dHApLsOp2-HKkmjMQAfO9a516Ge17YcoKcxHtMLfcvQjzkH7QQ8h5mXRN5_yta_2WZ5EAK8uQF27tVdxMNoLn8K1qaQL9pSWfcMeee4nGa8TNPzbXfYXXatlGfKQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98097",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Decathlon",
+        "Amazon"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/98213",
       "date": null,
@@ -2091,27 +2112,6 @@
       "coupon_code": "ESNS10",
       "prices_found": [],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98082",
-      "date": null,
-      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅ATÚN CLARO EN ACEITE DE OLIVA\n\n📝 Pack de 3 latas de 65g de atún claro en aceite de oliva virgen extra. Ideal para tus comidas y recetas.\n\n❌ANTES: 4,49€/ud.\n🔥2 UNIDADES: 6,74€ → (SALE A 3,37€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t354",
-      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
-      "description": "ATÚN CLARO EN ACEITE DE OLIVA Pack de 3 latas de 65g de atún claro en aceite de oliva virgen extra. Ideal para tus comidas y recetas ANTES: 4,49€/ud 2 UNIDADES: 6,74€  (SALE A 3,37€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/GwZK8-0xhpckroFyKu1fAF7Fzpvf6Wmf_K5QK_jgA3I5B3MDcKQJPU6D3L1_YvH1VDMX5LNzzEjrrIlGCelCs9dE6nIjPv5Gnwvc9MekhUya7_BQICjqxP0D9o7xg_o6znM3t9ydOcQR800TKZU8zG99GJWBMrlFsPZmRcXnjiY05_gtjGfoJ_8IUsdbum18_tS2ZQk3sttxFJTYPPemKT5HCegUDHi3SDMNbiSu_d-mrsRcwkcSuUZZPoi5O6u9u2OXx6PfAGC9GlQZRhQIg4HYq5cITZHgmwzCgcjx-4D4C74-29gZriNrKuqXMMf0dLLmqz-VDTPh6QVvF688tA.jpg",
-      "link": "https://ir.cazadordechollos.es/t354",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "4,49",
-        "6,74",
-        "3,37"
-      ],
-      "discount_percent": "50"
     }
   ]
 }
