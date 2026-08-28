@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T21:54:36.881122+00:00",
+  "generated_at": "2026-08-28T22:10:29.216884+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/98561",
@@ -2168,23 +2168,6 @@
         "85,99"
       ],
       "discount_percent": "59"
-    },
-    {
-      "id": "ofertasychollosesp/98428",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -47%‼️#Publicidad\n\n✅RENOVA PAÑUELOS KIDS EXTRASUAVES\n\n📝 Descubre los pañuelos de bolsillo RENOVA Kids, suaves y resistentes. Perfectos para los más pequeños, ¡ideales para cualquier ocasión! ¡Haz que cada momento sea especial!\n\n🔗Enlace: https://ir.cazadordechollos.es/98428",
-      "title": "RENOVA PAÑUELOS KIDS EXTRASUAVES",
-      "description": "Descubre los pañuelos de bolsillo RENOVA Kids, suaves y resistentes. Perfectos para los más pequeños, ¡ideales para cualquier ocasión! ¡Haz que cada momento sea especial",
-      "image": "https://cdn4.telesco.pe/file/lqCoVdGKffPmhtESPNxwMX-XUOhXomT47CRvE50CP1cyNpfBPILBdal_fpQ0QSTk-kJFfJLZIxQA5CuxrwdYrT8iiCQIJHUp-caXjhOPkamnOhh6UrhCHQldfWkP_-P9WWZY3i_fFfRZj_z7fzGS_r9maSh8Pf-Dy9x9_jfccmo0LjA8BrBTikirISAtman11-yEhW11kinWzvGJ0sy8WrQtbx0xvSykG2saRgrWYRM-dtXr_tqFlR_U3N15QaKyQoH9HLRn4H9vBdPKomyheMia76eGFJrDC7VZ6eeyhxJILRY0GLP1zG5UcOs332HijfGC_fRJHdiHimQR-ib4_w.jpg",
-      "link": "https://ir.cazadordechollos.es/98428",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "47"
     }
   ]
 }
