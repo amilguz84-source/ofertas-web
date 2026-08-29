@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T12:30:30.594595+00:00",
+  "generated_at": "2026-08-29T12:52:09.192609+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98591",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -42%‼️#Publicidad \n\n✅UA CONTAIN MICRO BACKPACK\n\n📝 Descubre la versatilidad de la UA Contain Micro Backpack, ideal para llevar tus esenciales con estilo y comodidad. ¡Perfecta para cualquier aventura!\n\n🔗Enlace: https://ir.cazadordechollos.es/98591",
+      "title": "UA CONTAIN MICRO BACKPACK",
+      "description": "Descubre la versatilidad de la UA Contain Micro Backpack, ideal para llevar tus esenciales con estilo y comodidad. ¡Perfecta para cualquier aventura",
+      "image": "https://cdn4.telesco.pe/file/E88ZE501ou5fSoI9EyJit4Re8O-0iwGoZmntoKy3BLbtJY8rI38MZFo81tfDeWFqDON6gtkou5dyMFI8fjflf9O25wiMiaa6y4D7FsgmeZBKzaJBzW-nYKWjpc4jFklCPj1jSj2qO2Z-_8nwbjxIvn4E7MV7AZogoTzrMbGfBMrSrJqL5d-XceODne1YzhgLOoHmZUYxUOP3rFyY-K2AsybBkAoMDMt2ELXvbl2ZN-XdTklfdT523maVh9P_eLEQLpUAo3tJOJ9t2wrR8qzJ0Ga9nbiUwkb-USMCYoxsGVzviR6zj7JiWRBwPpM7d3gQy-3juGt0INSFjiMDPhEW4w.jpg",
+      "link": "https://ir.cazadordechollos.es/98591",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "42"
+    },
     {
       "id": "ofertasychollosesp/98590",
       "date": null,
@@ -2124,25 +2141,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "44"
-    },
-    {
-      "id": "ofertasychollosesp/98456",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️  #Publicidad\n\n✅VITROCERÁMICA PORTÁTIL ELÉCTRICA 2200W\n\n📝 Cocina rápida y eficiente con esta vitrocerámica portátil, ideal para hogar, camping y más. Potente, elegante y fácil de usar para tus mejores recetas.\n\n🔥PRECIO: 32.96€\n❌ANTES:49.97 \n\n🔗Enlace: https://ir.cazadordechollos.es/98456",
-      "title": "VITROCERÁMICA PORTÁTIL ELÉCTRICA 2200W",
-      "description": "Cocina rápida y eficiente con esta vitrocerámica portátil, ideal para hogar, camping y más. Potente, elegante y fácil de usar para tus mejores recetas PRECIO: 32.96€ ANTES:49.97",
-      "image": "https://cdn4.telesco.pe/file/D9sjfvsKeGlUC9zncnRQLjYlhgfJzvHYUumxYpJ5a80XYiv1I395RtE9bLIoz_B9VNg9_qzjkGO-wK8JskBJ4EtGH948y0jy95W0WkMPZAUX5pYDY8t0qbDnHoL5vBJLNVGSK2H1M4iBv5_hYZzm--uUR9qLRYnd9YqI__3VlNJHviK45GZn91f31smDkYx518kF3H4fVqv5ZBhBfsJDg8c6AoLHSxJiSpR5FHisPl8H1bj9xyax-Kk6eEOesocdx3hpW-mudRE52TfXY6vq4d1dUR4t824XV5Tl7RFiGQg2ge3EJ1fRH2u3ysCBRx7U2tb4ZKAnYh7JGu0DKllJaQ.jpg",
-      "link": "https://ir.cazadordechollos.es/98456",
-      "marketplace": "AliExpress",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "32.96"
-      ],
-      "discount_percent": null
     }
   ]
 }
