@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T13:51:36.259061+00:00",
+  "generated_at": "2026-08-29T14:11:32.288390+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98595",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -50%‼️#Publicidad \n\n✅VASO DE VIDRIO TURQUESA Rocco Bormioli\n\n📝 Disfruta de la elegancia y color vibrante de estos vasos de vidrio turquesa. Perfectos para cualquier ocasión, ¡haz que tus bebidas resalten!\n\n🔗Enlace: https://ir.cazadordechollos.es/98595",
+      "title": "VASO DE VIDRIO TURQUESA Rocco Bormioli",
+      "description": "Disfruta de la elegancia y color vibrante de estos vasos de vidrio turquesa. Perfectos para cualquier ocasión, ¡haz que tus bebidas resalten",
+      "image": "https://cdn4.telesco.pe/file/KMB3ZR74FHBLFkjeHOEE1n_y0B6X0dfZCJuA2DrrGKuoKHccyy1ojJtkX1MyF1PED3ZBXAn1WO-M-5gyoTv-UsgGKENbKCdHpSsFC21KItv4sel_ugyldZJHs0s-QFRgt1rvPsKxhzNjJ4mKE3A2738a1sM1er4XJaBzd86fR4OHZep4UnG4JntpHsa8mQd1SdWXtWv-Wk4Za13godCiiSFLV-9c4JpuPwqPKRkaeR9UX4ebHpBuM9EVWFeOXWHIBKhTcrGDNessIRevgbm9X5JT8NGxTOiiTI6l09w8SfxlUNgLFTEBwaBnueI7_v92yT99cQ80D4QTf4GZ6kGCrg.jpg",
+      "link": "https://ir.cazadordechollos.es/98595",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "50"
+    },
     {
       "id": "ofertasychollosesp/98594",
       "date": null,
@@ -2122,23 +2139,6 @@
         "1,23"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98460",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -42%‼️#Publicidad\n\n✅SMARTPHONE REALME P4 LITE 4G\n\n📝 Descubre el Realme P4 Lite: potente batería de 6600mAh, pantalla HD de 120Hz y diseño resistente IP64. ¡Ideal para disfrutar todo el día sin preocupaciones!\n\n🔗Enlace: https://ir.cazadordechollos.es/98460",
-      "title": "SMARTPHONE REALME P4 LITE 4G",
-      "description": "Descubre el Realme P4 Lite: potente batería de 6600mAh, pantalla HD de 120Hz y diseño resistente IP64. ¡Ideal para disfrutar todo el día sin preocupaciones",
-      "image": "https://cdn4.telesco.pe/file/fSGDcvMtIluOUnK23-z3jahKvjEcYpAN7KwXLgqFnBLcUPVtNPYfGWygbTENWCIKUcT_cOVn1eQLE7Vj6WX5TyxVmdMwAjGt3U5iDsT8ONe4aHyKsQNPqcGinjixy_onh-LsNg4qosnqQ7QXB9O-h--4G3EnnxcpRaY9dz247knhW5yZj7ECd52S47osLwj2v1KELHUMEQEfjzJjzslJNgShPApZKwmgfWLqgFsHBf-7rYBpgZq43WxO_7WykwW6difekhFz9ZfLL1Bovt4Ryp1WIuWw4dZmBn1-DdqTv6mi34iAWPKRFjrxB0NAggs4Nz1LBmvGHwlYnR0jOlVjtA.jpg",
-      "link": "https://ir.cazadordechollos.es/98460",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "42"
     }
   ]
 }
