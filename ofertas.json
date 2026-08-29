@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T16:30:23.305101+00:00",
+  "generated_at": "2026-08-29T16:50:30.268373+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98607",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -27%‼️#Publicidad \n\n✅TIGER BALM ROJO - ALIVIO MUSCULAR Y ARTICULAR\n\n📝 Descubre el poder del Tiger Balm Rojo: alivia el dolor muscular y articular con su fórmula tradicional de canela, clavo, mentol y alcanfor. ¡Siente el calor y mejora tu bienestar!\n\n🔗Enlace: https://ir.cazadordechollos.es/98607",
+      "title": "TIGER BALM ROJO - ALIVIO MUSCULAR Y ARTICULAR",
+      "description": "Descubre el poder del Tiger Balm Rojo: alivia el dolor muscular y articular con su fórmula tradicional de canela, clavo, mentol y alcanfor. ¡Siente el calor y mejora tu bienestar",
+      "image": "https://cdn4.telesco.pe/file/vwDj_xqFFTv9wtSpVyuAgmHYCEuqgWsIoCyi7fDY-iEU1srLCy2ZXV9qc7uOGYtpfXoYZTyaiH7o2VqkUPeRFFqQ8P8ggoKuszNUyXbQkti_m-iXIpxlBCowBzhZypCgzR0Nj86P19GfJJO8er_spS9v1auv-MlkANc9S4VdJeRy0FLi5MxahiQZbrjvit2VEq2FPnFiPvI6GkLjR4WuH-eOgsGXsIta_sHURiITwtOlZgFrC_mJJsy1dG0kSZJfK-4iEcw4WU3baKchhmaPFydd6WezD4tfA_BznMn_MNWwiSGFsC041-8WQ72cYVAMuMckg0GmrJdCj22qm7D5mg.jpg",
+      "link": "https://ir.cazadordechollos.es/98607",
+      "marketplace": "Ir",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "27"
+    },
     {
       "id": "ofertasychollosesp/98605",
       "date": null,
@@ -2131,23 +2148,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "63"
-    },
-    {
-      "id": "ofertasychollosesp/98474",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -15%‼️#Publicidad \n\n✅BARBIE STACIE CON KART Y MASCOTA\n\n📝 ¡Descubre la aventura con la muñeca Stacie y su kart! Incluye adorable mascota y accesorios. ¡Diversión garantizada para los pequeños exploradores!\n\n🔗Enlace: https://ir.cazadordechollos.es/98474",
-      "title": "BARBIE STACIE CON KART Y MASCOTA",
-      "description": "Descubre la aventura con la muñeca Stacie y su kart! Incluye adorable mascota y accesorios. ¡Diversión garantizada para los pequeños exploradores",
-      "image": "https://cdn4.telesco.pe/file/u2tYjohx2w3Hh4Fma8DWIp_7EPoqfGBpuVZ8FzCKYUGN04dkLgAg_BF-kx2zfsf5sO_by6nqp0a_wa0DjW_r_X94l1gRRrR3a414ypaPQyuxTAXXtLszHt2zWPlkUSEThV0Lp7elA1SLgqhMP4jT2vuFuQm1xmn8wMZRWtiRo1S78wPUijIdZpMswO-Y4pAyqwDV8EB0HSkVZysC1GpnbGL_DA8sQx5YPVLQIxrXyfj3D6_ET-NJ3xbBZTF-E9aCv2I02wK_CSS2taTzv6-34Wjyt2HnYBl46uLTKvxofexDz5vAP60mzWqmZXWO5SzQkDgBwTcAGrJRJU5a8jtYpw.jpg",
-      "link": "https://ir.cazadordechollos.es/98474",
-      "marketplace": "Amazon",
-      "category": "Juguetes",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "15"
     }
   ]
 }
