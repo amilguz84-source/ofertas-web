@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T06:10:45.286856+00:00",
+  "generated_at": "2026-08-29T06:30:39.443228+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98563",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -49%‼️#Publicidad \n\n✅NEUTROGENA HYDRO BOOST GEL LIMPIADOR\n\n📝 Descubre la frescura de Neutrogena Hydro Boost. Este gel limpiador facial hidrata y purifica tu piel, dejándola suave y radiante. ¡Ideal para un rostro luminoso!\n\n🔗Enlace: https://ir.cazadordechollos.es/98563",
+      "title": "NEUTROGENA HYDRO BOOST GEL LIMPIADOR",
+      "description": "Descubre la frescura de Neutrogena Hydro Boost. Este gel limpiador facial hidrata y purifica tu piel, dejándola suave y radiante. ¡Ideal para un rostro luminoso",
+      "image": "https://cdn4.telesco.pe/file/GXLP4bWCNR6ah-mWhDBedQYFLDCcuF7ZElNYLe4DNlrkW4WvoXoQMjbXHtAmAfrjttjni8dVw9-HbWQkkN-9Wn-f-lvGcXoLIrIfR_z3wCAqBLpwSY7F5U_J4TZ3UneayJaeE22c_UUjSUw9KThLs8QxmWemm28kv4iAlo5h90yNnM9fyWnbolqYr0tKTb_jNkSndtOVN_TOlAA-Y_mdE7ZtuQxZ2tEWjJG-qChu5pfahgnL0yi3ZD4fnACREdviJVQSa4yZEfdcEZS8n4SZEs8O3a8Ww2AJa6Oy-iad9IEjwHZlnI2lXijaiy_E6Ndozl37J-Z-kIQrwyIzcQw-Ng.jpg",
+      "link": "https://ir.cazadordechollos.es/98563",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "49"
+    },
     {
       "id": "ofertasychollosesp/98561",
       "date": null,
@@ -2148,26 +2165,6 @@
         "4,54"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98429",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -59%‼️ #Publicidad\n\n✅CONJUNTO SARTENES TEFAL 4 PIEZAS\n\n📝 Disfruta de este conjunto de sartenes antiadherentes con mango extraíble, aptas para horno e inducción. Ideal para tus recetas.\n\n🟢AHORA : 35,47€\n❌ANTES: 85,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t3p5",
-      "title": "CONJUNTO SARTENES TEFAL 4 PIEZAS",
-      "description": "Disfruta de este conjunto de sartenes antiadherentes con mango extraíble, aptas para horno e inducción. Ideal para tus recetas AHORA : 35,47€ ANTES: 85,99€",
-      "image": "https://cdn4.telesco.pe/file/hHeN7LInZaDudv6RlWKp42ieiJDr6jWULwnWrusGxNnit5nrdk6CVhXjflVpKRq9a0vXln4tWWauzHqo981W1AuD-0kpvGz4BbMnNeO20Dwq9GizoKnGVR0WkBZd3CvlyN0rkUkaoV3Dy8QWjYT-vM7H0l-JC6R4F_eQ1lw1Z75tRM--vESZVvGEpQc4xTTE-c9SZOuY15hmRjhcrlgq61mTEdeIdKEym4xP8hsgijBt6gjQEPp8cT5fswopYGr4amCvKRX7Vec75TXsDavxcIPZHD-GAHeqb2Ayf9QrSAdulq5F9BZkU-_4s8fdQvg_H5TK0dDZJrCDk8mtJoefkg.jpg",
-      "link": "https://ir.cazadordechollos.es/t3p5",
-      "marketplace": "C",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "35,47",
-        "85,99"
-      ],
-      "discount_percent": "59"
     }
   ]
 }
