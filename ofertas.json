@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-29T20:50:22.800021+00:00",
+  "generated_at": "2026-08-29T21:10:30.593879+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98624",
+      "date": null,
+      "text": "🔥 Lo más vendido hoy\n\n🥇 UA CONTAIN MICRO BACKPACK #Amazon\n👉 https://ir.cazadordechollos.es/98591\n\n🥈 XIAOMI REDMI BUDS 5 PRO CON CANCELACIÓN DE RUIDO #Amazon\n👉 https://ir.cazadordechollos.es/98586\n\n🥉 ADAPTADOR INALÁMBRICO CARPLAY Y ANDROID AUTO #AliExpress\n👉 https://ir.cazadordechollos.es/98613\n\n🏅 CUBIERTA RÍGIDA CONTINENTAL 29\" #Amazon\n👉 https://ir.cazadordechollos.es/98584\n\n🏅 HORNO DE PIZZA Y FREIDORA DE AIRE 11 EN 1 #AliExpress\n👉 https://ir.cazadordechollos.es/98599",
+      "title": "Lo más vendido hoy",
+      "description": "UA CONTAIN MICRO BACKPACK #Amazon XIAOMI REDMI BUDS 5 PRO CON CANCELACIÓN DE RUIDO #Amazon ADAPTADOR INALÁMBRICO CARPLAY Y ANDROID AUTO #AliExpress CUBIERTA RÍGIDA CONTINENTAL 29\" #Amazon HORNO DE PIZZA Y FREIDORA DE AIR…",
+      "image": "https://cdn4.telesco.pe/file/lnHnvNg1JTg7ofGKEIxiaC3dyXFmjVwZsaR_ZJ0jX-6y2mDG65WfzZD8bzfeX15rLy967EJ-CqxwonC8wZdTibhUVZdjVw0xHVcQzgR_4jIOxt7gVk0rPZd3JDniqgVBNSdVO3Ia6NXcWaLDK3ZjUZkPueZNFRBbzO8FJcScMJzbLdjBQu5VRUqa6AE6lFlCne1wXSj2nOYQQiWso6CWp_fMj7B2-mLnxAnzjI1Ftgb4gBTLk4CBHiVQiUfa3UAfkw3lUrnOAS1jwSa-nk8gEHrhPv43lahypHYVEta_gjr6LtiHYckf91PabVyx2Ddwpu6RXfhH5p7afGJWzbpYJA.jpg",
+      "link": "https://ir.cazadordechollos.es/98591",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Amazon",
+        "Amazon",
+        "AliExpress",
+        "Amazon",
+        "AliExpress"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/98623",
       "date": null,
@@ -2121,23 +2142,6 @@
         "1,78"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98490",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -24%‼️#Publicidad \n\n✅MARSHALL ACTON III ALTAVOZ BLUETOOTH NEGRO\n\n📝 Disfruta de un sonido potente y elegante con el Marshall Acton III. Conéctalo fácilmente por Bluetooth y transforma cualquier espacio en una experiencia musical única.\n\n🔗Enlace: https://ir.cazadordechollos.es/98490",
-      "title": "MARSHALL ACTON III ALTAVOZ BLUETOOTH NEGRO",
-      "description": "Disfruta de un sonido potente y elegante con el Marshall Acton III. Conéctalo fácilmente por Bluetooth y transforma cualquier espacio en una experiencia musical única",
-      "image": "https://cdn4.telesco.pe/file/CUUpv9kip1dApkcKH52E7EmMPgpOL8J5qZV6AuG1DIrjqSexahvFHsp5EbMTFSlFLm4UlY-Gi7-5z25cucO4Ynyd871NGh_0ds4yCNs5Eztl8Zu-j8jAgBkmnq5fAVhYkAwFbK8JNW42Y5sGy24dgbDOtZ5x0ANPRgk5NInCzQygBg-I_-xmmPg0Gxfnt4NffRa84yLwjZ_V8yqRvpogzU00C5bXWPXCtQfFZNB958SQlU2yPtyVMBIST2aNotwvphX5QzfsXp0MRTv4SNq6ndRrUhGz6H9ALPSSBx5OANwXpxEoqktOtpXoj-6aTMP0aNxK_FyCEsWj_gHj4Wmtwg.jpg",
-      "link": "https://ir.cazadordechollos.es/98490",
-      "marketplace": "Amazon",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "24"
     }
   ]
 }
