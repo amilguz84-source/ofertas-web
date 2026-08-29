@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T19:30:23.335541+00:00",
+  "generated_at": "2026-08-29T19:50:35.265346+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98622",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -29%‼️#Publicidad \n\n✅EDREDÓN HIPOALERGÉNICO PIKOLIN VERDE\n\n📝 Disfruta del confort y calidez del edredón PIKOLIN, ideal para otoño-invierno. Su tacto pluma y diseño hipoalergénico lo hacen perfecto para cualquier cama. ¡Dale un toque elegante a tu hogar!\n\n🔗Enlace: https://ir.cazadordechollos.es/98622",
+      "title": "EDREDÓN HIPOALERGÉNICO PIKOLIN VERDE",
+      "description": "Disfruta del confort y calidez del edredón PIKOLIN, ideal para otoño-invierno. Su tacto pluma y diseño hipoalergénico lo hacen perfecto para cualquier cama. ¡Dale un toque elegante a tu hogar",
+      "image": "https://cdn4.telesco.pe/file/VWJ0QLxLY3w-V_NI-9ZrkL1cnCY5aoeafTFD6w9fmjj2ts7kAl21ED9r5TlRG5HPS0YJ6-r98sQjZy_4oHqsJzEDo8lpeXK-ccOy2uVsZ3PB_ufBQixwUnDZHi4T2a540ZNuw9EIvykAC_vaOYKoUF_9QoIhsaf7pnuhe2lf6nELhIufjhw0wh5w-B8QwMZT7D2mbrjB-cnW822hJhg3iZHnzUVuvZUdO7d_GAAljfczmPvi29C6iHmsf6F_Gx1eTzmF2rQ-TN7htgGm3qD2BnvYaaNeqsEw9VTSGaxJDPWq6H-W5fNegr474Ciw8sd_Yif38RkNAP2ETTgk5wRlxw.jpg",
+      "link": "https://ir.cazadordechollos.es/98622",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "29"
+    },
     {
       "id": "ofertasychollosesp/98621",
       "date": null,
@@ -2123,23 +2140,6 @@
         "23.96"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98488",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -47%‼️#Publicidad \n\n✅BOLSO BANDOLERA MUJER TOMMY HILFIGER NEGRO\n\n📝 Descubre el estilo y la elegancia con el bolso bandolera Tommy Hilfiger. Perfecto para cualquier ocasión, su diseño compacto y moderno te acompañará siempre. ¡No te lo pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98488",
-      "title": "BOLSO BANDOLERA MUJER TOMMY HILFIGER NEGRO",
-      "description": "Descubre el estilo y la elegancia con el bolso bandolera Tommy Hilfiger. Perfecto para cualquier ocasión, su diseño compacto y moderno te acompañará siempre. ¡No te lo pierdas",
-      "image": "https://cdn4.telesco.pe/file/Naf-YU3fAvVcBZ9X1Wo6v7uGkWCgEJVxcsmawIIV1xIu1Rn4NsdgQNJlBZWslGL8fTpFl0Md0s_fLpXiWPkM4MRXSUc-BIYrINWL7khA7X3g7_T9CEed7A2oPPa5HADme5bbfmpcFRRn-h_TL1o02Q7XA4BpVIeuDF6HnZ4PSQ-TPt0rlqLf-Uh5k3Hv3xIV7q5fSg8N6Ar0Dr9CZwiuUqOzrrQ-Y7d0dmVDUfOTA4S7YtqPbzB1Pfg0jvUDZIVFF1W5R3oRvVC-Xg3F0n_WcjNG6j28l43nb7EsO-2-2H-W1myZEemJAwWYa5jpKRsKqkyPdWU1FMkMn80KlY4yLw.jpg",
-      "link": "https://ir.cazadordechollos.es/98488",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "47"
     }
   ]
 }
