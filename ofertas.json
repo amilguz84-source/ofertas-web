@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T09:30:28.095175+00:00",
+  "generated_at": "2026-08-29T09:50:34.817537+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98581",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -27%‼️#Publicidad \n\n✅UNDER ARMOUR TECH SSC TWIST\n\n📝 Descubre la comodidad y estilo del Under Armour Tech SSC Twist, ideal para tus entrenamientos. Su diseño ligero y transpirable te mantendrá fresco y en movimiento. ¡No te lo pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98581",
+      "title": "UNDER ARMOUR TECH SSC TWIST",
+      "description": "Descubre la comodidad y estilo del Under Armour Tech SSC Twist, ideal para tus entrenamientos. Su diseño ligero y transpirable te mantendrá fresco y en movimiento. ¡No te lo pierdas",
+      "image": "https://cdn4.telesco.pe/file/vKyR33EviD_2jY2ZowUddLiqLQIJPCV05r4UaPhOOXFPzAYdH8TpE57lWPJvIV1vYXS4AGd7a-eiEgL_OdUeaj4uR0o7gdYMMHanaEJfiWfQuVQ5Npog6LIv1VjOJwWgJLa9lrldDY31uM31tgjcv_BIFdfiM7DboZ6eAPxYgv_WkKxrttqt-4LXUdAsMJPEi_dbOCp1f9owXEk4Rg_C3vsrO5lYSsTThMbtTqPV1FtQkD0m3NymDm5zvj9j7bCO7a3TizlvzqSI8SlvEajiWm0TpjFw8xmUuxm1uP6cXvUrto2mWueMN2uV_-C2GTj0o_LJ7pK6L2zi8a9mKAdzNQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98581",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "27"
+    },
     {
       "id": "ofertasychollosesp/98580",
       "date": null,
@@ -2134,26 +2151,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "31"
-    },
-    {
-      "id": "ofertasychollosesp/98447",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -27%‼️ #Publicidad\n\n✅PACK AHORRO DESODORANTE NIVEA MEN\n\n📝 Consigue 6 unidades de desodorante NIVEA MEN Black & White Invisible Original de 200ml cada una. Ideal para mantenerte fresco todo el día.\n\n🟢AHORA : 12,90€\n❌ANTES: 17,70€\n\n🔗Enlace: https://ir.cazadordechollos.es/t3py",
-      "title": "PACK AHORRO DESODORANTE NIVEA MEN",
-      "description": "Consigue 6 unidades de desodorante NIVEA MEN Black & White Invisible Original de 200ml cada una. Ideal para mantenerte fresco todo el día AHORA : 12,90€ ANTES: 17,70€",
-      "image": "https://cdn4.telesco.pe/file/OUVk8AJbuv_9eHRhjl8uXWqn7nlcWZIRlldwXEq1eMPIqBlZD3vBb0W2cH6_HntG43rwSiY1C46kXnT8Ov-YkOP-HCmrHzUYTP3O1rm_lsXMZt1-k9z-2j2SGOsDPeKvPptepqypNAXL-C20cHeFjugaSVOdmqYRaBhDXT7bwdw4jDZnICaDaYkD67pVB-XxOlXDSdEqbDaPQLUlTrXoo6uRtuAnMceUgKS7W_CQw-kRBM2JGFEYH3bdznoD8BlLkNlwI02HBdnUN1Edyro3FsBaQtyYvQerKpu48J7yOVIZ5zD9dqgZGA9TyrX7uBxjDGddIvyk36j14EaM0NLBbg.jpg",
-      "link": "https://ir.cazadordechollos.es/t3py",
-      "marketplace": "C",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "12,90",
-        "17,70"
-      ],
-      "discount_percent": "27"
     }
   ]
 }
