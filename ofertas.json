@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T10:50:40.193386+00:00",
+  "generated_at": "2026-08-29T11:10:41.612065+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98586",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -34%‼️#Publicidad \n\n✅XIAOMI REDMI BUDS 5 PRO CON CANCELACIÓN DE RUIDO\n\n📝 Disfruta de hasta 52 dB de cancelación activa de ruido y 38 horas de autonomía. ¡La experiencia de audio que estabas esperando!\n\n🔗Enlace: https://ir.cazadordechollos.es/98586",
+      "title": "XIAOMI REDMI BUDS 5 PRO CON CANCELACIÓN DE RUIDO",
+      "description": "Disfruta de hasta 52 dB de cancelación activa de ruido y 38 horas de autonomía. ¡La experiencia de audio que estabas esperando",
+      "image": "https://cdn4.telesco.pe/file/TdMmYy5SFlX7pfxh8iez3c0lwD302A8s2vGbmBozv3fWZreAu-jzwLMLOkIDFM9AVSHAJXtOeX5F1csFRmKMiVBcYfIIkX2t-QEv4I3B14qH905_fFdyDCOoZb-m2tL_QicjGpUitveQOnGjK_99ayh85NjIuEAfbdcoi_vNnPKaA22GffmyLETU7RzoH3jc9atcgJMjtB33cb_7zBoRzJmWfR999ZootUSjVFCYbTHmCFIgDTL1jA68SN0CrDI6dQuR8daCP5JvovgyKCARfQJ-H8YCkbOaY-awsWi58XwBauK2PvhiODe-hpLnhjgZAX77tvV1Uiaw_E2CXTD9fA.jpg",
+      "link": "https://ir.cazadordechollos.es/98586",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "34"
+    },
     {
       "id": "ofertasychollosesp/98585",
       "date": null,
@@ -2128,26 +2145,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "40"
-    },
-    {
-      "id": "ofertasychollosesp/98452",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️ #Publicidad\n\n✅ZAPATILLAS CASUAL UNISEX ADIDAS SAMBA OG\n\n📝 Descubre las clásicas zapatillas Samba OG de Adidas Originals en color blanco, perfectas para un look casual y cómodo.\n\n🟢AHORA : 83,99€\n❌ANTES: 119,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t3q8",
-      "title": "ZAPATILLAS CASUAL UNISEX ADIDAS SAMBA OG",
-      "description": "Descubre las clásicas zapatillas Samba OG de Adidas Originals en color blanco, perfectas para un look casual y cómodo AHORA : 83,99€ ANTES: 119,99€",
-      "image": "https://cdn4.telesco.pe/file/YpzzVTv6NjwjtLj3k3xaPcIwdMZgnSsu1TenvGkodh-DM2D5Q5Vp-u9QEhiDZYNbEdFw3yPjjKuTLk0JSlhO-cIwQRxAOs1n8OmjYNKqHVeCFw-YfUcZalKFXeMJF814jetII-EkwDgSdCJm3tHCaqARtnGbd7C6X-ExADAcO8DlNWHQeji8_pjy0W70smpqMHyAWembyvyeb5nHVBqPooJwWfDv_L4xUNY4mkMcj7oCueT7j8chCP1kOSoh--Sf92X7QGqvdir7KvZCZG-Hkaq0qa49U1O3fkGOQ0XKfJdt70idj6Rwch5cO4qNym-C7m3TcgVvYvzBizabdhSNdA.jpg",
-      "link": "https://ir.cazadordechollos.es/t3q8",
-      "marketplace": "El Corte Inglés",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "83,99",
-        "119,99"
-      ],
-      "discount_percent": "30"
     }
   ]
 }
