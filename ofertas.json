@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T14:11:32.288390+00:00",
+  "generated_at": "2026-08-29T14:30:27.895480+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98596",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -40%‼️#Publicidad \n\n✅PUMA ESS CAT BB CAP UNISEX\n\n📝 La gorra PUMA ESS Cat BB es perfecta para cualquier ocasión. Su diseño unisex y color blanco la hacen versátil y estilosa. ¡No te quedes sin la tuya!\n\n🔗Enlace: https://ir.cazadordechollos.es/98596",
+      "title": "PUMA ESS CAT BB CAP UNISEX",
+      "description": "La gorra PUMA ESS Cat BB es perfecta para cualquier ocasión. Su diseño unisex y color blanco la hacen versátil y estilosa. ¡No te quedes sin la tuya",
+      "image": "https://cdn4.telesco.pe/file/HBVXOY-37_3-Osm_NeBMoSmePvijwXodklOFik-5_Ay839_blbkfRmlpqHRSAwLqp20EwdQCOpBPLIWobujTaYdvV8RMsQp54CLxMlwDwRjZlWmXrAZIFew0t6WFXxAl1lBq6iWkDqqRXakBkBKgcMNyIdQMp8oJ1ubZ0tLsXtssyUHTQb2AYQIj0hJtiTHw83qwm1WS-TLMWfsB0DdGduswRxV4RNbaoYDZaDARoCWched9cGMDaH8MNPpq0RJ5GKH8tachgbsA6tMh59k8RdHuBIIDXam-TvFSGgx3SrVd5X18tM7sA5p_ukg4Ke-4seF_B3mGglbZCuQUVPWLUQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98596",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "40"
+    },
     {
       "id": "ofertasychollosesp/98595",
       "date": null,
@@ -2118,27 +2135,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "71"
-    },
-    {
-      "id": "ofertasychollosesp/98461",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅PATATAS FRITAS LAY'S GOURMET 170G\n\n📝 Disfruta de las patatas fritas Lay's Gourmet con un delicioso sabor salado en un práctico paquete de 170g.\n\n❌ANTES: 1,89€/ud.\n🔥2 UNIDADES: 2,46€ → (SALE A 1,23€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3qp",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "PATATAS FRITAS LAY'S GOURMET 170G Disfruta de las patatas fritas Lay's Gourmet con un delicioso sabor salado en un práctico paquete de 170g ANTES: 1,89€/ud 2 UNIDADES: 2,46€  (SALE A 1,23€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/vYwg8Ez3DyOMang_sSnPyZjxtRdp3HSxwgFRxIPCHomxfRNK2G471QPTQuy48kdb98QQtSfy3XTYMB8_l7LFOAPwpU5uzJ5_B6KLx0oyJ7NBKuZiWND84Kf2B3ophDvAJhxeeU_HZ9o5N25PSSY-QpUED1YgdM9ZmR-jI3EczYE7oe207Jbj5yZSvbzirKUMjAIPziXciskdTLFO1esllC5H729fblqOJYWa2OEDMNyc_3rTNP0AdK7XNl7-utyCI0GIR5kX8tgjYRj0soSaejTHWHsdcsVs-0BkRH8RfAtOYOCLR3d3xUNCMIQHdoF_X2PD1-n193RKtBUKK0lbuw.jpg",
-      "link": "https://ir.cazadordechollos.es/t3qp",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "1,89",
-        "2,46",
-        "1,23"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
