@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T13:30:17.536322+00:00",
+  "generated_at": "2026-08-29T13:51:36.259061+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98594",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -21%‼️#Publicidad \n\n✅TAPO C230 - CÁMARA DE VIGILANCIA 360º\n\n📝 Descubre la Tapo C230, una cámara de vigilancia WiFi interior 3K 5MP con detección IA. ¡Protege tu hogar con calidad y tecnología avanzada!\n\n🔗Enlace: https://ir.cazadordechollos.es/98594",
+      "title": "TAPO C230 - CÁMARA DE VIGILANCIA 360º",
+      "description": "Descubre la Tapo C230, una cámara de vigilancia WiFi interior 3K 5MP con detección IA. ¡Protege tu hogar con calidad y tecnología avanzada",
+      "image": "https://cdn4.telesco.pe/file/WlBOxC1ZIKZUBw-W-IlILXdBnVSX4NZiPDYkVqNC5JBh1SrX_zt2YcnmOJMyVEhlJoHhEA5jraI64egIa0YYpld-1jGjuGzoj1eW8axUquUqcdV8G9zVyAChNQGR7zZniNGAuRu2reb4rAS348Z5es-ry10MAHggE7CecWv1jrFlyKz8aSwVy4XjOHg3VGfBenHr7JFWKkQJXbDsMLEaBKQuItrtEvxcgxGJaGq2dAj4nlY99z6BEm2OBMnkP4i9PRZatmkJpPEoSTJxhdXXnm_lQ8NlAqikcvwFT3Y3p9cDcjA6y08Knew8dgD7jsteoNwBcAPWBOS7EgfwsDd2aQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98594",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "21"
+    },
     {
       "id": "ofertasychollosesp/98593",
       "date": null,
@@ -2122,25 +2139,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "42"
-    },
-    {
-      "id": "ofertasychollosesp/98459",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️  #Publicidad\n\n✅ESCOOTER ELÉCTRICO iX3 PARA ADULTOS\n\n📝 Disfruta de largos paseos con el scooter eléctrico iX3, potente y todoterreno, ideal para desplazamientos urbanos y aventuras fuera de la ciudad.\n\n🔥PRECIO: 295.01€\n❌ANTES:1155.19 \n\n🔗Enlace: https://ir.cazadordechollos.es/98459",
-      "title": "ESCOOTER ELÉCTRICO iX3 PARA ADULTOS",
-      "description": "Disfruta de largos paseos con el scooter eléctrico iX3, potente y todoterreno, ideal para desplazamientos urbanos y aventuras fuera de la ciudad PRECIO: 295.01€ ANTES:1155.19",
-      "image": "https://cdn4.telesco.pe/file/LSY9KwisMPoCzKMN6ZUP4TlFJ8_AKjJzoOc5VwHd4B4aKJiMWyWOPMirkKoKxPJE5IPtIFW3dvE1XnFaKb1OSeOrIPcxMbQlOBYtYKNyOXuP6kzIPZXaybu_abuHv3UeZOMpbZ-uqNrB4LRyXSzgO6KywVifDkCc86dSlTEb5piTLu-m9WcQHmWSgO7y2aCEzdzQsynJBMPoiMBLtADioQ1j2U1a8gYEQxBKEkpyKF0zWJjz1vG3eDpYQD9_YI6vKa1UgEch5GimramGjlMu9WMRqwase6vV6-X8KGsNsO4z8fQhMwbFpkntfmFatxfV7K90R1IGtlDr-TORkvZaGg.jpg",
-      "link": "https://ir.cazadordechollos.es/98459",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "295.01"
-      ],
-      "discount_percent": null
     }
   ]
 }
