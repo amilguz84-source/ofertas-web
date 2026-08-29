@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T21:50:29.985691+00:00",
+  "generated_at": "2026-08-29T22:10:30.021538+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/98624",
@@ -2121,27 +2121,6 @@
         "19.64"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98491",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅PATATAS FRITAS CAMPESINAS LAY'S\n\n📝 Disfruta de las patatas fritas Lay's campesinas, elaboradas con cultivos sostenibles y sabores vegetales en una bolsa familiar de 242 g.\n\n❌ANTES: 2,74€/ud.\n🔥2 UNIDADES: 3,56€ → (SALE A 1,78€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3so",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "PATATAS FRITAS CAMPESINAS LAY'S Disfruta de las patatas fritas Lay's campesinas, elaboradas con cultivos sostenibles y sabores vegetales en una bolsa familiar de 242 g ANTES: 2,74€/ud 2 UNIDADES: 3,56€  (SALE A 1,78€/ud.…",
-      "image": "https://cdn4.telesco.pe/file/O74gpXVqu_3C9GgfkWqSf8YV_jG3883bpLSD7vnx8S__Hs8iAyGsHBsB1goH_3MAhX3VE1CskeN3ZfiWlUHyvfxj7dXyJwtoQJuTDwLI9EpL5Jadc2PKfei-4yOmsCf34j7lnicGdnz7jTYsSg4oL5E3oWyFjUxBt19EMlVXCwLq_koGfGqxzrpkpDnvo14SkZTqGI5ztrZHhL760jJ0YSk91-uYJsNCwgwiy-m_D3OD6zwcD_JZg5CyBuNK730d2oGItQ5e4XOFa74hIxiykjdycjj2MowOVhcq0ECdhla9RBv6Ly-1M-Db-2wldEBBnr_pInw0Zz-I9TgAicQd0A.jpg",
-      "link": "https://ir.cazadordechollos.es/t3so",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "2,74",
-        "3,56",
-        "1,78"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
