@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T11:50:25.817963+00:00",
+  "generated_at": "2026-08-29T12:10:59.502350+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98589",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -15%‼️#Publicidad \n\n✅LOCTITE SUPER GLUE-3 ORIGINAL TRIO\n\n📝 Descubre la fuerza instantánea del Loctite Super Glue-3. Ideal para reparaciones rápidas, su adhesivo transparente ofrece triple resistencia en un práctico paquete de 3x1 g. ¡No te quedes sin él!\n\n🔗Enlace: https://ir.cazadordechollos.es/98589",
+      "title": "LOCTITE SUPER GLUE-3 ORIGINAL TRIO",
+      "description": "Descubre la fuerza instantánea del Loctite Super Glue-3. Ideal para reparaciones rápidas, su adhesivo transparente ofrece triple resistencia en un práctico paquete de 3x1 g. ¡No te quedes sin él",
+      "image": "https://cdn4.telesco.pe/file/GDpH-Qyk41jXhlrrcudrz6qqapZ3xnRRCeSl33uktawOlEZhC62vjeJNBq_3VRFftYnOmIGD9z56a7fTcB60vwiJ9crjL0Jf9a0HVeMZd_EzqzEMwnoaQzVDOt7ylDjCW-ChTknDaZ4OPI9A-iy5WMCYHxNz6OIQqKWys2iIEbsEZIppisN-5qDma_nCxw00bqrJN3WdWBU3JDQ4P-hn1IbiWaKzN4LCyguaD-iJx2Th1ZKHhADqypbFoY3vzAFmYcOAboJrJpMVJva6Jq_29RQXorouFQtjFyruEgSfV-bJtz0ohwBbIv3XL6c2IlTS1VrV4o6eYaduR3mVFa3CUA.jpg",
+      "link": "https://ir.cazadordechollos.es/98589",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "15"
+    },
     {
       "id": "ofertasychollosesp/98588",
       "date": null,
@@ -2130,23 +2147,6 @@
         "1,24"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98454",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -25%‼️#Publicidad \n\n✅CARDHU AMBER ROCK WHISKY ESCOCÉS\n\n📝 Descubre el sabor único de CARDHU Amber Rock, un whisky escocés excepcional en un elegante estuche de regalo. Perfecto para cualquier ocasión especial. ¡No te lo pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98454",
-      "title": "CARDHU AMBER ROCK WHISKY ESCOCÉS",
-      "description": "Descubre el sabor único de CARDHU Amber Rock, un whisky escocés excepcional en un elegante estuche de regalo. Perfecto para cualquier ocasión especial. ¡No te lo pierdas",
-      "image": "https://cdn4.telesco.pe/file/PJ9cyGcOvbw8OE3G8yvHg1Ka7Y2-2HQvm0vI8KMmUz8nTjJfAKbZgm2aEY0auRWA8oXnvn17hNQXuedv5x_Y-w1GVYXC4BVoOgB70f8IoYpNnKZMMrNQ1FV3j6Px8KV2-3EMrPfC6m5088yRnphfUnQcatUDAO7kIHM04MPJuP0CJkTFdO4vWfpfMPGp68EJ885NjMSoYJVxd9Po5l0es0G_vDWWzIh37mCOjG7miYTly6LVSdDAsCX-TVjhYNjrZW-wGcyGflxLNp_JJqGlQ6fQywPNsumjG6yDeQBrIGcQDRJjUCidlW6ay2YsrDZ7H7CKtl38XfvmDCMij2C00A.jpg",
-      "link": "https://ir.cazadordechollos.es/98454",
-      "marketplace": "Amazon",
-      "category": "Papelería y oficina",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "25"
     }
   ]
 }
