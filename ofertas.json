@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T12:10:59.502350+00:00",
+  "generated_at": "2026-08-29T12:30:30.594595+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98590",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -10%‼️#Publicidad \n\n✅NATURE'S VARIETY PIENSO PARA PERROS MINI JUNIOR\n\n📝 Descubre el delicioso pienso para perros mini junior con pollo deshuesado. Nutrición saludable y equilibrada para el crecimiento óptimo de tu mascota. ¡Haz que tu perro crezca feliz!\n\n🔗Enlace: https://ir.cazadordechollos.es/98590",
+      "title": "NATURE'S VARIETY PIENSO PARA PERROS MINI JUNIOR",
+      "description": "Descubre el delicioso pienso para perros mini junior con pollo deshuesado. Nutrición saludable y equilibrada para el crecimiento óptimo de tu mascota. ¡Haz que tu perro crezca feliz",
+      "image": "https://cdn4.telesco.pe/file/uGU73maswq5QgKa2Fdu6B7QroReNG8iAk96sgl0Ktn74hZQiRZ8Ks9IFjdUNolD-ckDhBFetrtrTK9JgvsrKaW1G67QGV0IpvDSTvpS8kqwETFle-UJ9VD8CQdbuEgohAkntKu-p7Zh9u8UtuipjD1LHkV1_sFuNILTz-l0ldm39348Q5tmmt9WHuP71aDMdeSwTdohM3uc8-KTwS6nU7fhXqo6AXIfuHizENSukawWeuuZjtRz1tCGg3zCp4LrAXc-QX7tz5VhvjY7qaENZyrOlcXAZKll4uymn5BsJq4ef_kMlpna_nukoWkhWLe7Hk3vB87RbBP2NsA1AEBmqFw.jpg",
+      "link": "https://ir.cazadordechollos.es/98590",
+      "marketplace": "Amazon",
+      "category": "Mascotas",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "10"
+    },
     {
       "id": "ofertasychollosesp/98589",
       "date": null,
@@ -2126,27 +2143,6 @@
         "32.96"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98455",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅PATATAS AL HORNO LAY'S 150GR\n\n📝 Disfruta de las patatas al horno Lay's, con menos grasa y al punto de sal, en una bolsa individual de 150 gramos.\n\n❌ANTES: 1,90€/ud.\n🔥2 UNIDADES: 2,47€ → (SALE A 1,24€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3qd",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "PATATAS AL HORNO LAY'S 150GR Disfruta de las patatas al horno Lay's, con menos grasa y al punto de sal, en una bolsa individual de 150 gramos ANTES: 1,90€/ud 2 UNIDADES: 2,47€  (SALE A 1,24€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/U00jUfEHvLiSfniyMnxfY8bEKzKIJ1HdGGGQZBRj9poW4I_hjzjgqF1cWGH0nksJIWk7ZyokJtbYarnX0lEdj0V3_Vn6k5fGhkvRPFg3wEz736BQdnvKEcZA7QXQcW1dCQOUMTxDcS5PtkqU-VAyPZcTpW5R13MWWLJxFRRChAh8EoryiMCqBDOP_u1P_AkxxLYm9sMHDsgMFsBc68I_mZ5rSI1IiKRLEyy6Gw8Y7hoE3elDs7CrDI0u6Alwt4Xy-cVCvAcf3VdwzOfRq-1FsMYx0MOm70-zw7StpteE8XLD6wNBMKK01_k_Q38qquWMZfcFcrUfBQZbVqt7DoLL-w.jpg",
-      "link": "https://ir.cazadordechollos.es/t3qd",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "1,90",
-        "2,47",
-        "1,24"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
