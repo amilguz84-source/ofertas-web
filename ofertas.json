@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T06:30:39.443228+00:00",
+  "generated_at": "2026-08-29T06:50:50.792265+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98564",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -25%‼️#Publicidad \n\n✅LAVAVAJILLAS INDEPENDIENTE COMFEE' 12 CUBIERTOS\n\n📝 Descubre el lavavajillas COMFEE' de 12 cubiertos, ideal para tu cocina. Eficiencia y diseño en 60cm que simplifican tu vida diaria. ¡Haz tu compra hoy!\n\n🔗Enlace: https://ir.cazadordechollos.es/98564",
+      "title": "LAVAVAJILLAS INDEPENDIENTE COMFEE' 12 CUBIERTOS",
+      "description": "Descubre el lavavajillas COMFEE' de 12 cubiertos, ideal para tu cocina. Eficiencia y diseño en 60cm que simplifican tu vida diaria. ¡Haz tu compra hoy",
+      "image": "https://cdn4.telesco.pe/file/NgJv8_J1RQNcBJYi77Qpyvt1woLvqbkPuJj_lISO-tUDhmXlr5Rk1q9OFwDVK6oD3iqKT7O3puCgsQH9AeAhQaaWHjsh3-YifIn0Ur5nW_gQthTvlc7woUDCvAnClluOnrJXN_z9qBsoGlfaIRewCS68co8w93u8lpL0h8pIvq3t6w6px-0YRHItl6FMm-PUVUf9Rpzsl9Dlt6AQVvEAzbeyPM-rC_ApNmdZ-PHtQhZ4Y6CMF0gr483IjnwwlL0xNl1HT9x71-htoRG-H3KxBYC_zdcpLSuEwlu6fG3jlR36arpzaZXN2U4G1vPxmrX_8ac09IPRh4SP0Ddq1YBqVA.jpg",
+      "link": "https://ir.cazadordechollos.es/98564",
+      "marketplace": "Amazon",
+      "category": "Cocina y menaje",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "25"
+    },
     {
       "id": "ofertasychollosesp/98563",
       "date": null,
@@ -2144,27 +2161,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "20"
-    },
-    {
-      "id": "ofertasychollosesp/98430",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅SUAVIZANTE MIMOSÍN SUEÑO DE JAZMÍN\n\n📝 Suavizante concentrado Mimosín con aroma a jazmín, ideal para 105 lavados. Deja la ropa suave y con un fresco perfume.\n\n❌ANTES: 6,99€/ud.\n🔥2 UNIDADES: 9,09€ → (SALE A 4,54€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3p8",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "SUAVIZANTE MIMOSÍN SUEÑO DE JAZMÍN Suavizante concentrado Mimosín con aroma a jazmín, ideal para 105 lavados. Deja la ropa suave y con un fresco perfume ANTES: 6,99€/ud 2 UNIDADES: 9,09€  (SALE A 4,54€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/nS1LxBNfOwn4syCVUCelIUvEWd9b-DYtfJJu56n-XaRdkHP2LbKMhj1fZFvVoGu6dhw3gt0K7xnzQIVDZK2cTsXqCHrqbzOJN_AVQdn9ph2-imoCtNkW5jel5c0gj0UhenVcRydKDm2T2kUxMKBZpNyfNwpybHWG5VIkdMKqMKN0CsNSj60Eyn4rzvwOzMIl-ZwhxDbuAW8WC8EaEBZhzOraOEJswyzbs6VhqIC71WFrapXbxBj5Tzu_H1ebR8PUH5MLbOdpbIT6jvT4QSF7TDro5D7KnelOI7dSqnETNLM5plh3mEOXdZOPbqZ1FWE7cR2AC__32IwX73VR9bqZFA.jpg",
-      "link": "https://ir.cazadordechollos.es/t3p8",
-      "marketplace": "Amazon",
-      "category": "Droguería y limpieza",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "6,99",
-        "9,09",
-        "4,54"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
