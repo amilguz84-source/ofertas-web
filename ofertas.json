@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T19:50:35.265346+00:00",
+  "generated_at": "2026-08-29T20:10:37.486350+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98623",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -29%‼️#Publicidad \n\n✅BILLETERA PLEGABLE TRIPLE QUICKSILVER\n\n📝 Descubre la billetera plegable triple de Quiksilver en chocolate brown. Compacta y elegante, perfecta para tus viajes y uso diario. ¡No te quedes sin la tuya!\n\n🔗Enlace: https://ir.cazadordechollos.es/98623",
+      "title": "BILLETERA PLEGABLE TRIPLE QUICKSILVER",
+      "description": "Descubre la billetera plegable triple de Quiksilver en chocolate brown. Compacta y elegante, perfecta para tus viajes y uso diario. ¡No te quedes sin la tuya",
+      "image": "https://cdn4.telesco.pe/file/FsE2M8oIthc4uzilhcYncDmJt9-6pGwY9pbvKDQVxAVwj-ror4F1qdaDyvo4LZSGwoqKELa5gpwJTR95RJGQ-ksAEeCzn9T5eoE_LrlticsdJ-WMe7DOh-BeN9Ty8suMx_DY0Mc8YJImh8NnERaJwWR1aQw9nPjJurVgVfTEPdLgIEDvDs_wpCYeQbAAOsmNOwFPTbw4iNosc0N0rtLDgpnBp9bDbZpdQAhl-CaQz-s91-dXLDwOmA2U_aRLn1QRw2XAWSMr0TeHWcCjfntMftYor3y1aLlwLgLKvmSln6MErK7HPTSNWO9Kb7WAGzagDBUH0xXsDD2WgLzaiE7nJw.jpg",
+      "link": "https://ir.cazadordechollos.es/98623",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "29"
+    },
     {
       "id": "ofertasychollosesp/98622",
       "date": null,
@@ -2121,25 +2138,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "24"
-    },
-    {
-      "id": "ofertasychollosesp/98489",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️  #Publicidad\n\n✅PALOMITERO RETRO JOCCA 1200W\n\n📝 Disfruta de palomitas saludables en casa en solo 3 minutos, sin aceite ni mantequilla, con potencia y estilo vintage.\n\n🔥PRECIO: 23.96€\n❌ANTES:29.99 \n\n🔗Enlace: https://ir.cazadordechollos.es/98489",
-      "title": "PALOMITERO RETRO JOCCA 1200W",
-      "description": "Disfruta de palomitas saludables en casa en solo 3 minutos, sin aceite ni mantequilla, con potencia y estilo vintage PRECIO: 23.96€ ANTES:29.99",
-      "image": "https://cdn4.telesco.pe/file/aZfaQD8eyFDetzxtkqac1m4Ocyv0SSqjtRh5_o7YETJ4CIg2A0vxDjPCmE6VUiyiFN1lfN7vbKY5FLCXZBqhRx5_YL60PeIcUxpP0Cj5LzFW1a0u8lc8TQwCoS_Qu-mx-eZihoDPL5aDDNo7ycFtLvjGWnBmVCNt3W6uVbSXpeCA_qMgQ94MQ6TPpmRHn2r6ucxW69DlPDsAYYbnXjO9t1dlDHmwvTe1O9kKy4eR-q004B_lGupqLhKgMiY0uJN9PWdZsA_cTYIyi1ZPrgOZOZ4ky5NSWv_uOcvqZ-w6OkbBEkhH7LVUFZOGEuc3X-Wy95AEd-ddiGg8qV0kWORf2w.jpg",
-      "link": "https://ir.cazadordechollos.es/98489",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "23.96"
-      ],
-      "discount_percent": null
     }
   ]
 }
