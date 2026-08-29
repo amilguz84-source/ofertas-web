@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T06:50:50.792265+00:00",
+  "generated_at": "2026-08-29T07:10:50.586943+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98565",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad \n\n✅ADIDAS HAT UNISEX COTTON BLACK/WHITE\n\n📝 Este elegante gorro de béisbol Adidas combina comodidad y estilo. Perfecto para cualquier ocasión, ¡no te quedes sin el tuyo y destaca con su nuevo logo!\n\n🔗Enlace: https://ir.cazadordechollos.es/98565",
+      "title": "ADIDAS HAT UNISEX COTTON BLACK/WHITE",
+      "description": "Este elegante gorro de béisbol Adidas combina comodidad y estilo. Perfecto para cualquier ocasión, ¡no te quedes sin el tuyo y destaca con su nuevo logo",
+      "image": "https://cdn4.telesco.pe/file/S-3KjOvLpZaiG9IvnxXN-attlfV1ItOXKckwcPlmUFogqn-db9SH8XKtYUPooB2TNKMGDy0B2L74Z7BFXSYk6lu3gZTp9-n88ozPpe8p3iGR4WHO2mit3xHRGg45sTyeJSsS-K1esRsd4bjfvM1BEZuTBd8kfUnPXrxQOqGRNMJAd-hCqoAzRx6CwCcIFGS7YRRhvlYL0-Q9UT7ma19WjdddUU5ZBezLrou7wcN5saFmD_uYS8opJDytOxZvJCz-kTkN9-XeEAqI2mczG6VJOhzzEHMmcodRT0vl60pbXwkb_PT-xAJxB-MwhrW3OORusJ5tfoglkGSxxr_8H-Vmcw.jpg",
+      "link": "https://ir.cazadordechollos.es/98565",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "30"
+    },
     {
       "id": "ofertasychollosesp/98564",
       "date": null,
@@ -2144,23 +2161,6 @@
         "28.76"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98431",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -20%‼️#Publicidad \n\n✅JARRA FILTRADORA DE AGUA MAXTRA\n\n📝 Disfruta de agua pura y fresca con la jarra filtradora MAXTRA. Incluye un filtro Pure Performance para un sabor inigualable. ¡Transforma tu hidratación hoy!\n\n🔗Enlace: https://ir.cazadordechollos.es/98431",
-      "title": "JARRA FILTRADORA DE AGUA MAXTRA",
-      "description": "Disfruta de agua pura y fresca con la jarra filtradora MAXTRA. Incluye un filtro Pure Performance para un sabor inigualable. ¡Transforma tu hidratación hoy",
-      "image": "https://cdn4.telesco.pe/file/EyCc4W-MAHwTbUAhZvgeIjev1X08Jx1zCzyaq057TcNYw4AMYi8PJjDBmYgYLr21SvzttuLqBXtP47gTN1lMuGBfz3Qg_XqUcpK3Awr_oKIvV7EmW_gxdIzLhug1oESfSvlKOV6sTBW-QYnsvJA8ORDl5dGjK2E8ac9Pz3x08U_GXA-SlX3wRir59iBVDRPKo1V-Ccg9bonpv_cwH62gOVTthAteBuLDOrn5T4DE1ef8UAskr_112PUWfJhtKsvwBGCEIcgHA4yGJxhO5PTWuxrg4xmOhAw8Ywmd9EtzrfbpD4wHZQ5IvPC29xgMY4IISgCJsf8VzImYEN2bTTX-1Q.jpg",
-      "link": "https://ir.cazadordechollos.es/98431",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "20"
     }
   ]
 }
