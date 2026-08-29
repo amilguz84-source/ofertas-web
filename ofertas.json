@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-29T19:10:45.472650+00:00",
+  "generated_at": "2026-08-29T19:30:23.335541+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98621",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -40%‼️#Publicidad \n\n✅RATÓN INALÁMBRICO LOGITECH M650 L BLANCO\n\n📝 Descubre el confort y la precisión del ratón inalámbrico Logitech Signature M650 L, ideal para manos grandes. ¡Mejora tu productividad con estilo y comodidad!\n\n🔗Enlace: https://amz.tf/gLIuHEX",
+      "title": "RATÓN INALÁMBRICO LOGITECH M650 L BLANCO",
+      "description": "Descubre el confort y la precisión del ratón inalámbrico Logitech Signature M650 L, ideal para manos grandes. ¡Mejora tu productividad con estilo y comodidad",
+      "image": "https://cdn4.telesco.pe/file/ST4NGzSp2YID5y5HjBZsmmxbOcXE6dgi4sRrwGTbl3Lj0jhMDFk9ezYv9-t_clANtrfNqWW9tgSB7aRld_1Eln4FCDpomlcybWNHDiKxCjmB5g5OkruNBHpfAFjK_Upepu-tnmw-R0kxPv8PqCpi5isYcPve8ViEzV3uN6uL4foUxqS36vu92sXWG3w42cL5kgooWg7e465M9bAmDO-SRrrYblL1S7ZPiZmc1Eqiy_tApf4bgs2W6fIJSJ3mQ6wSUSAP_c5HopWWekcoSPJaD6Soyd7_JJk6ksbXIzivSLHchHoLRtTKyhNlKJ_YZBCsyagqIKinEMBUemFO0k7lcg.jpg",
+      "link": "https://amz.tf/gLIuHEX",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "40"
+    },
     {
       "id": "ofertasychollosesp/98620",
       "date": null,
@@ -2123,23 +2140,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "47"
-    },
-    {
-      "id": "ofertasychollosesp/98487",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -42%‼️#Publicidad\n\n✅ANDADOR EVOLUTIVO Y MESA DE ACTIVIDADES\n\n📝 ¡Descubre el Andador Evolutivo con Estación de Juguetes Extraíble! Ideal para bebés a partir de 6 meses, ajustable y multilingüe. ¡Diversión y aprendizaje garantizados!\n\n🔗Enlace: https://ir.cazadordechollos.es/98487",
-      "title": "ANDADOR EVOLUTIVO Y MESA DE ACTIVIDADES",
-      "description": "Descubre el Andador Evolutivo con Estación de Juguetes Extraíble! Ideal para bebés a partir de 6 meses, ajustable y multilingüe. ¡Diversión y aprendizaje garantizados",
-      "image": "https://cdn4.telesco.pe/file/Wj1jggjHwEedwUUP4ZzVkcF-pMLqT-1zqfuviH1QyRLq9WMcxtvXIM9Ur9WHKHSeV4yAt_0WZ2LnML3YhvwtUmxgcsbNO5qBMrHcwXEgQK8Cowxtz8mPOrOJBZlrEFxZXRbXKoGJLtmWX9rOukQSRbFUw6uO37JAg4IB2OGHx1D8w4m4r0N8sH1OVXbS0LBJ_narDTFpGS8ySz-gsVz7VhFRXDQmDaAx9B0s7myNSruOhyk-WXYYwWwnCoh2EEKGcLPNQkOvhL3YiuP4dENstJGLd9vo0dRnFjbduewDciQd1KnG6RzjMpY9OATNNYCA5-unHUR9l4aetO-WsvGkUA.jpg",
-      "link": "https://ir.cazadordechollos.es/98487",
-      "marketplace": "Amazon",
-      "category": "Bebé",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "42"
     }
   ]
 }
