@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-08-29T11:10:41.612065+00:00",
+  "generated_at": "2026-08-29T11:30:42.772695+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98588",
+      "date": null,
+      "text": "‼️OFERTA CAZADA‼️  #Publicidad\n\n✅DJI OSMO NANO BUNDLE: CÁMARA 4K/60FPS Y MICRÓFONOS DUALES\n\n📝 Compacta y potente, la DJI Osmo Nano ofrece grabaciones en 4K, amplio campo de visión y sonido envolvente para tus vlogs y grabaciones creativas.\n\n🔥PRECIO: 288.53€\n❌ANTES:323.46 \n\n🔗Enlace: https://ir.cazadordechollos.es/98588",
+      "title": "DJI OSMO NANO BUNDLE: CÁMARA 4K/60FPS Y MICRÓFONOS DUALES",
+      "description": "Compacta y potente, la DJI Osmo Nano ofrece grabaciones en 4K, amplio campo de visión y sonido envolvente para tus vlogs y grabaciones creativas PRECIO: 288.53€ ANTES:323.46",
+      "image": "https://cdn4.telesco.pe/file/A9E4uL56QaYRIbhJz-zgkaPgsrZJihExPq2zpw2hVEnXrLK87tslZBIu1dc_Rbjt0uoi0mFJI5uy6exc3ZZhWbvmBeM3RKJesEMuFZGppGTdd0FqePicx1PrqgQgRlxAkjMFFW8fzJ-mtHtbrtAy6arMhn3kSB-hkkGbd497wN5_-SHr9wSFKgJOOsYLj5eSFN3UkYuFst5bWE2hSOu07eaZfU-00i2slTpXUMHWAO2tlEO8I6exsowTVzjgoKH6ac9rJ2tkw0O4aAF4WU92lPadl2BZMsjVAsHmDwioEfx5irFrzBM4u_gml1dB1JV_sKdNlQ5Im3RlUpNBayVPWw.jpg",
+      "link": "https://ir.cazadordechollos.es/98588",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "288.53"
+      ],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/98586",
       "date": null,
@@ -2128,23 +2147,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "25"
-    },
-    {
-      "id": "ofertasychollosesp/98453",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -40%‼️#Publicidad\n\n✅LG S40TR BARRA DE SONIDO 400W\n\n📝 Disfruta de un sonido envolvente con la barra de sonido LG S40TR. Con 400W y subwoofer, transforma tu experiencia audiovisual en casa. ¡No te lo pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98453",
-      "title": "LG S40TR BARRA DE SONIDO 400W",
-      "description": "Disfruta de un sonido envolvente con la barra de sonido LG S40TR. Con 400W y subwoofer, transforma tu experiencia audiovisual en casa. ¡No te lo pierdas",
-      "image": "https://cdn4.telesco.pe/file/P8-o69ZXyQtLBzX6rKDN4UGVM4pejUIkdNGzWYvm_zrezj299t_Tsb-ffatN9qMyH59SNN9CCu5PklKXySqyb4b0s0T5xAKY6uPHKpuEZHTK3jGEUsi9-1XVuKyeaa5jyHOy_3VnrhcuUI4sxLxxDTib4HcYF91oqO0XJIrG5cK4H9Qvf0mH1tDRfCtTXnKvUWnCqwa2kJAqNVvVHh08coroyYRp2-Y_U3ABOsfFPXctEDRCL-e-U_GdGQN3VKJSO1vWeD0P3bCvGUovQwQa74lZNJmupMhmPws0akqZAip0i2hoghcTSg4j4SfDjCT974uumOBd8ADC_XUrsAS0oA.jpg",
-      "link": "https://ir.cazadordechollos.es/98453",
-      "marketplace": "Amazon",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "40"
     }
   ]
 }
