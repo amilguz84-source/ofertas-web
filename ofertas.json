@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-08-30T07:10:35.814443+00:00",
+  "generated_at": "2026-08-30T07:30:27.927667+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98629",
+      "date": null,
+      "text": "‼️OFERTA CAZADA‼️  #Publicidad\n\n✅FREIDORA SIN ACEITE CON VENTANA Y PANEL DIGITAL\n\n📝 Cocina saludable y fácil con nuestra freidora sin aceite, 360° de cocción, ventana visible y 7 programas automáticos para resultados perfectos.\n\n🔥PRECIO: 46.76€\n❌ANTES:53.40 \n\n🔗Enlace: https://ir.cazadordechollos.es/98629",
+      "title": "FREIDORA SIN ACEITE CON VENTANA Y PANEL DIGITAL",
+      "description": "Cocina saludable y fácil con nuestra freidora sin aceite, 360° de cocción, ventana visible y 7 programas automáticos para resultados perfectos PRECIO: 46.76€ ANTES:53.40",
+      "image": "https://cdn4.telesco.pe/file/Hut9QwNRIQHQ9XqyJ1ezENfzlK4uLBsHOpHz9-BdXG1DsTsujC0kIfB5vRHJJi6ec0wYuLvBfsrpVVaI-25dp9KJqLDugNLJ8ERYOYLOPN0JVvgQb5JpFF9fuPWld8FiE1gsVZQCtGuqtsRew-DUJRIzAX8mEgid5P1dsz5W4wsjsr5p9L9VCpi88W95NyFugXFF2CASf0BI6fNsztrwu8WsRlS22BFfXi_VOpbrmxRwTiE_bwCMyJ5g6ab4HTobecvTDh3VG68Z4oFpzsBdYlGW3GcfqhJJJv1pnpi4HnubKlTQ_Yn4B93VemaE1S9Dt50AdAOmQ6zhGiIyYryclg.jpg",
+      "link": "https://ir.cazadordechollos.es/98629",
+      "marketplace": "AliExpress",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "46.76"
+      ],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/98628",
       "date": null,
@@ -2096,23 +2115,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "33"
-    },
-    {
-      "id": "ofertasychollosesp/98495",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -14%‼️#Publicidad \n\n✅Mochila Escolar NIKE ACCADEMY 2.3\n\n📝 La mochila escolar Nike ACCADEMY 2.3 es perfecta para llevar tus útiles con estilo y comodidad. ¡Haz que cada día de clases sea especial!\n\n🔗Enlace: https://ir.cazadordechollos.es/98495",
-      "title": "Mochila Escolar NIKE ACCADEMY 2.3",
-      "description": "La mochila escolar Nike ACCADEMY 2.3 es perfecta para llevar tus útiles con estilo y comodidad. ¡Haz que cada día de clases sea especial",
-      "image": "https://cdn4.telesco.pe/file/A-9Sw7woa-rAkafJpS_SLxmYXRBtFmT3ab57nY5X1d9moXaLFBzldH6GV80UnhwAHX_Kc0Tx9D1qzrI-k9Pvxpj3IV1Srg83Db_O82pQc7AFw-S5DG8Cf3I46UthaWOsTfxX-3vxXcylGX8LAmi_iLW6dbLTnFN1OLeLAut6sbGIAIF2j6d-iIsxrG7B2WiNba2ibERD0PHAiISSoP7kvNX4U58YRHfPLpIO43GXj5iIpLI9U6MkjnhwPmH90GCFLnQzHuISG6WavSd1Oyv7vJu3JUpvdgx4mJxw9nLC5Ojm-rfZmBnLk2bjcezgeofwHhw-ytrJewtsGjOPV4-QBQ.jpg",
-      "link": "https://ir.cazadordechollos.es/98495",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "14"
     }
   ]
 }
