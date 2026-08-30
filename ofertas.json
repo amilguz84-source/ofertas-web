@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T17:10:52.027406+00:00",
+  "generated_at": "2026-08-30T17:30:31.335865+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98673",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅KORG TM70 METRÓNOMO Y AFINADOR\n\n📝 El Korg TM70 combina un metrónomo preciso y un afinador cromático en un diseño compacto. ¡Mejora tu práctica musical y afina con facilidad!\n\n🔗Enlace: https://amz.tf/KzaxrgN",
+      "title": "KORG TM70 METRÓNOMO Y AFINADOR",
+      "description": "El Korg TM70 combina un metrónomo preciso y un afinador cromático en un diseño compacto. ¡Mejora tu práctica musical y afina con facilidad",
+      "image": "https://cdn4.telesco.pe/file/QopQEg_rKMZbGXaLpU_Jga410JFUvrB5m3QKdgOZw3jD6cJLTFljyHNP9fLah2-miB47gmMXk73l8kmGNjgut9ssph_hC9sz5ILR7hdIAArUFrhPxFGWrjXlZ8Hf8QVLSN8ks89bBLJE_nfFh1GV-WE8bZ5qbplxDlpn7AUMCExdbfhPoUYH9AmiEqD3QiU49EMChSn3AVnzoEk8shGmUmNTHbb0g_SVpgmYhpLbPszz3iPX7eR7Mu-pody3fuJdZQL9XjfAujZClqKvGUNlHyrW9VnoNeMJoXI1YxQoVJ0zZApjlQmC2327NiVqxaz0EYZGvFR3dYoZB5GOSnzSZQ.jpg",
+      "link": "https://amz.tf/KzaxrgN",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "33"
+    },
     {
       "id": "ofertasychollosesp/98672",
       "date": null,
@@ -2076,25 +2093,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "50"
-    },
-    {
-      "id": "ofertasychollosesp/98540",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #Publicidad\n\n✅PACK 12 CALZONCILLOS BOXER CÓMODOS\n\n📝 Disfruta de la comodidad y transpirabilidad de estos calzoncillos boxer, perfectos para el deporte y el uso diario. ¡Siente la diferencia con cada movimiento!\n\n🔥PRECIO: 15,18€\n🎟APLICA EL CÓDIGO: ESMA02\nℹ️ Cupón sujeto a disponibilidad. · El precio final puede incrementarse por aranceles.\n\n🔗Enlace: https://ir.cazadordechollos.es/98540",
-      "title": "PACK 12 CALZONCILLOS BOXER CÓMODOS",
-      "description": "Disfruta de la comodidad y transpirabilidad de estos calzoncillos boxer, perfectos para el deporte y el uso diario. ¡Siente la diferencia con cada movimiento PRECIO: 15,18€ APLICA EL CÓDIGO: ESMA02 ℹ Cupón sujeto a dispo…",
-      "image": "https://cdn4.telesco.pe/file/fJfilRs9A2-DkXKfgGhiZJ7kMhxSjSKABgx9pykynGHLm60NsHG4h0FoVsPrboU6s5NZYyjHp1ufLU0jb3e3ZngmCxDZc6AsmtYNH41Tei485JBA8qCWFuzWx5AVA290fGfHKL6YPQk5WAFpcRtRn2alXHTXIwQIoWxjdtjyU9yNHBi0MNm9NXEliX1JN3ieUdiOxYC2e4z6v3A8OKjOfxSh0Saca_UIHEhrevkReoQkI49KgVSMevRsaj21ngx-fKLR-rfV4uCbuQ0d4z-Z__2HgeOa2J1Y8G9UIkEjU6TMCyCafh2EBWJ9Jsa7Ig5b17P7ET5ReeoDsuHH0L0Xzg.jpg",
-      "link": "https://ir.cazadordechollos.es/98540",
-      "marketplace": "AliExpress",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": "ESMA02",
-      "prices_found": [
-        "15,18"
-      ],
-      "discount_percent": null
     }
   ]
 }
