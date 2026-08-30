@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T13:30:25.787678+00:00",
+  "generated_at": "2026-08-30T13:50:40.202499+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98659",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -35%‼️#Publicidad \n\n✅LISTERINE MENTOL ENJUAGUE BUCAL 500 ML\n\n📝 Disfruta de un aliento fresco duradero y protección de 24 horas con Listerine Mentol. ¡Cuida tu sonrisa y siente la frescura en cada uso!\n\n🔗Enlace: https://ir.cazadordechollos.es/98659",
+      "title": "LISTERINE MENTOL ENJUAGUE BUCAL 500 ML",
+      "description": "Disfruta de un aliento fresco duradero y protección de 24 horas con Listerine Mentol. ¡Cuida tu sonrisa y siente la frescura en cada uso",
+      "image": "https://cdn4.telesco.pe/file/PaqGZ607I4DGkH0qlXa3CfWnEVjlDSHQhOgBkxuq4H-FNYI5lnaC2h7TeuRbxuZC6-c2lUwjsjw0fjWXfFlpX-WsIv-dtEve7WvKZcKM26mBWIFj_MRJG3snZmpABjTJGwZE1k_ZOVne9q3j6yFyHV-1sa2aBQhu-u1uIrJ2PGvVp20KSaP6Wu9aoYiRHN7zVKdwF7FVRMytZ4hnNDkX0hib38EZnjRwi0ZWxvUP6CGG1Qk3a3QDOFobdqKtycFJCskAtQFv2qd-W9O0JSRiaSQRBr7e0G5j6P40f7-VK2M87hDstUNSH_Ar-sC9lA6KNrwf9k_gmVdhQ4Yhk-861Q.jpg",
+      "link": "https://ir.cazadordechollos.es/98659",
+      "marketplace": "Ir",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "35"
+    },
     {
       "id": "ofertasychollosesp/98658",
       "date": null,
@@ -2070,26 +2087,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "38"
-    },
-    {
-      "id": "ofertasychollosesp/98524",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -32%‼️ #Publicidad\n\n✅XIAOMI REDMI NOTE 15\n\n📝 Teléfono móvil con pantalla AMOLED FHD+ de 6,77\", cámara de 108MP y batería de 6000mAh. Disponible en 128GB y 256GB.\n\n🟢AHORA : 136,07€\n❌ANTES: 199,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t3um",
-      "title": "XIAOMI REDMI NOTE 15",
-      "description": "Teléfono móvil con pantalla AMOLED FHD+ de 6,77\", cámara de 108MP y batería de 6000mAh. Disponible en 128GB y 256GB AHORA : 136,07€ ANTES: 199,99€",
-      "image": "https://cdn4.telesco.pe/file/nXv_gHuad0n1drQ-bIPsc8kFE9YaJpszkT4XMk28vg22uL73p9_YsgKv9arNn2hccBbtv_kDeNY__Vlvhs7EgAcL4GzOkD_g9a0PA8C6h7XEVMr1D2dDa7nQB6XqD20TNQGkNuPO4aqxRgQhjXLjMvMf8sTFeNseGP5Rnkr2Ud92T5u-PJFIfRXhY97jS6eYAUzElpo2-Ow5GLegyldoSqAHhXU1A0bFUIMM1Sfqqo2nyDN2Jwx6UMtYKQ-kenQvVKEXk3HxXr07yXPCTKophIn2L0RZZhXZc7KDrhKairESvrsWDy-i69OwiYEOABSuXwQ3wco9rCeihzja5nYNWw.jpg",
-      "link": "https://ir.cazadordechollos.es/t3um",
-      "marketplace": "Miravia",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "136,07",
-        "199,99"
-      ],
-      "discount_percent": "32"
     }
   ]
 }
