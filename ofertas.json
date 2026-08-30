@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T19:10:41.004171+00:00",
+  "generated_at": "2026-08-30T19:30:49.898997+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98680",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -43%‼️#Publicidad \n\n✅BATIDORA DE VASO JATA JEBT1500\n\n📝 Potente batidora de 1500 W con cuerpo de acero inoxidable, cuchilla dentada y 2 velocidades. Ideal para picar hielo y preparar deliciosas recetas en minutos. ¡No te la pierdas!\n\n🔗Enlace: https://amz.tf/dXbCnKT",
+      "title": "BATIDORA DE VASO JATA JEBT1500",
+      "description": "Potente batidora de 1500 W con cuerpo de acero inoxidable, cuchilla dentada y 2 velocidades. Ideal para picar hielo y preparar deliciosas recetas en minutos. ¡No te la pierdas",
+      "image": "https://cdn4.telesco.pe/file/NZEri32AeEV8-yQ5WFWuFtX1Wxxk0JPvpKVu4mckVVfAuFkFKuPrQkEqmVKu6V6LaNs4rAePuyMYeCGKKVNTwCBVr3Zw93ImfmMGC8Vh4Y5s1NJR2gNM8g2zEnYg5_YxQ5GE38T-Mti9Z8ZzztJ7ALM6hMb8b6HCc_fHTCk001KWoMr7jTXfWdu9Sk2RPfBW-c62Em7KqSbCr9ykvQEcnKvDezRgmpyQMzE8bCtdYbd6ZXsfXv54LTR_t2iDsgZvnH2Os_jVmE0_0ZG0S3VvWhAhUigJ_7Zh2z4Li-lYYsI1PGc7_YXceEEKlmocLAyAkr-bkmxgOZ56J96J_bKKxg.jpg",
+      "link": "https://amz.tf/dXbCnKT",
+      "marketplace": "Otro",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "43"
+    },
     {
       "id": "ofertasychollosesp/98679",
       "date": null,
@@ -2074,25 +2091,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "25"
-    },
-    {
-      "id": "ofertasychollosesp/98549",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️  #Publicidad\n\n✅ARMARIO 3 PUERTAS Y 3 CAJONES ESSEN BLANCO\n\n📝 Espacioso armario con 3 puertas y 3 cajones en color blanco, ideal para organizar y aprovechar cada rincón de tu espacio con estilo y funcionalidad.\n\n🔥PRECIO: 199.79€\n❌ANTES:217.65 \n\n🔗Enlace: https://ir.cazadordechollos.es/98549",
-      "title": "ARMARIO 3 PUERTAS Y 3 CAJONES ESSEN BLANCO",
-      "description": "Espacioso armario con 3 puertas y 3 cajones en color blanco, ideal para organizar y aprovechar cada rincón de tu espacio con estilo y funcionalidad PRECIO: 199.79€ ANTES:217.65",
-      "image": "https://cdn4.telesco.pe/file/cB21c4WtTklXt-XAfwHv7z_zrfF3GrKA1burlGIu1aLh1XxrVDi7EIOd3zQ_YjwcZrDZC94Ca3A6xlLjbeua0h-hAQjLmlsVmmx0bwqNybLbRWuQPKRKA2rxrGwPnUVUV0Pd2OoEq8CxGgDYO_uh8twPHLg1Qw1L7b3ctA87pmpyXPJyS7AI8-PmZ2IinNpQTqbD5hjQa_RBoDFW1gI3nKjDG8ULXOhAwgEo57YIAut6inviKfEFQVZfNEvg8Jyqt0_wVy8mGXw7Xwq3aAD0wHoqAPBSV0lrUwje_Vpqp8OEdvk_qXxNdV43UXpNSbTqnNXazVnXvajEN06u8hnqDQ.jpg",
-      "link": "https://ir.cazadordechollos.es/98549",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "199.79"
-      ],
-      "discount_percent": null
     }
   ]
 }
