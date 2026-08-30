@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T10:50:28.063888+00:00",
+  "generated_at": "2026-08-30T11:10:38.230639+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98647",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅ULTIMATE EARS WONDERBOOM 4\n\n📝 Disfruta de un sonido potente y resistente al agua con el Ultimate Ears WONDERBOOM 4. Perfecto para llevar a cualquier aventura y hacerla inolvidable.\n\n🔗Enlace: https://ir.cazadordechollos.es/98647",
+      "title": "ULTIMATE EARS WONDERBOOM 4",
+      "description": "Disfruta de un sonido potente y resistente al agua con el Ultimate Ears WONDERBOOM 4. Perfecto para llevar a cualquier aventura y hacerla inolvidable",
+      "image": "https://cdn4.telesco.pe/file/dy0V8MYtf5bvmm0LnxOFA1-yJZCdxjOwqZNtJ9nUuhSrFANa0mCHCx4C3AbqOYGg59gMI8axW3j8FxgSKdy9da7LDDWMyCJIdRvBDMQGQF9LRHqYOXLIqEfo2LzoLSWQTcR0BlemNtHUmeop49zDXfX2oEcDvB_SvMyT9Iog51DQLI-vGx-uR7p1Hc6APAb_EJQ3kyurypmKkY83Uy1NPOOgV2P3lbY5KYfInQ3XQaS21GQFl0yxWWpswgpYqmU6baXSTFjdjJjQZutJKL1anl1q8gJuqL_-FBh4OBreOxQI9t0v_wJ56EF7ZtKc2312RmpF_bsPReVV_29PEVbEQA.jpg",
+      "link": "https://ir.cazadordechollos.es/98647",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "33"
+    },
     {
       "id": "ofertasychollosesp/98646",
       "date": null,
@@ -2088,27 +2105,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "26"
-    },
-    {
-      "id": "ofertasychollosesp/98512",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅PAÑALES HUGGIES EXTRA CARE TALLA 4\n\n📝 Pañales para bebé con diseños Disney, 76 unidades en total. Almohadillas extra suaves que cuidan la piel de tu pequeño.\n\n❌ANTES: 37,95€/ud.\n🔥2 UNIDADES: 49,34€ → (SALE A 24,67€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3tx",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "PAÑALES HUGGIES EXTRA CARE TALLA 4 Pañales para bebé con diseños Disney, 76 unidades en total. Almohadillas extra suaves que cuidan la piel de tu pequeño ANTES: 37,95€/ud 2 UNIDADES: 49,34€  (SALE A 24,67€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/qswAGGN9Z7rmblPoFJaIOB83Atsgmxfq_5d6DZ7n6XRkN6mLZSnisNL0t18Iuusr9xqg3i14wppeJeuDhjQLxaJrBR5_YNzFBPwvqzM3MVrzp22oSFh0dYDtyf9_RkzkzXnZsY5a1HfGrSv4KeYmP9DyiHW8vDiJ8SqjhlgT1xeRqeiSoFAxcIBdCatQyywvld9gmaLV4L6oXZhurTNWXFyZOmsrK92QzmH8qLIoBNORw6BoeYgFZwTMmZP2-ByrMezPrGc8284zJfSefXZU2gfDbax43iK_QOXq3V0ffLxDV519Rswh_cDgFOg3mJSSGsZd6ISEUcl9X6K_TmukXw.jpg",
-      "link": "https://ir.cazadordechollos.es/t3tx",
-      "marketplace": "Amazon",
-      "category": "Bebé",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "37,95",
-        "49,34",
-        "24,67"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
