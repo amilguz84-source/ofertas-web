@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T08:50:24.528055+00:00",
+  "generated_at": "2026-08-30T09:10:33.632260+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98639",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -38%‼️#Publicidad \n\n✅HSN BISGLICINATO DE MAGNESIO 175MG\n\n📝 Descubre el poder del Magnesio en cápsulas vegetales. Mejora tu bienestar y energía diaria con HSN Bisglicinato de Magnesio. ¡Potencia tu salud hoy mismo!\n\n🔗Enlace: https://ir.cazadordechollos.es/98639",
+      "title": "HSN BISGLICINATO DE MAGNESIO 175MG",
+      "description": "Descubre el poder del Magnesio en cápsulas vegetales. Mejora tu bienestar y energía diaria con HSN Bisglicinato de Magnesio. ¡Potencia tu salud hoy mismo",
+      "image": "https://cdn4.telesco.pe/file/K0Lvlrd0VX24ypQvn4dbnTc0DwDdZ3hm36y2n_TQWTmcm_shJmlTXY-BVb4HzDrRTwF03BIGu2Vaf151rpt4l9S5WPBPgCf9m7PDIyU9X9VYhkwswTfJWaSpmdPzea15aP0N3kzk2lo-dwrh3HrJ2V187Wy0TLv-j2CA4Aecpew0MmMNiToxNO66pSxhSaLHXesQbTl3NF9WNo3fY88PvUYAb2ySa2MtOROE0IQtoKFuouja79olY2VtF3megG4mjGPv9RVTVyVOGuJiNZ33_8Jh5DLQrzrkYotZzkDLkIQU4e0BBUFPRzuHDEeEPQWaQkUwRz9oqc6yQ7f7pln9Ew.jpg",
+      "link": "https://ir.cazadordechollos.es/98639",
+      "marketplace": "Amazon",
+      "category": "Salud",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "38"
+    },
     {
       "id": "ofertasychollosesp/98638",
       "date": null,
@@ -2096,27 +2113,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "53"
-    },
-    {
-      "id": "ofertasychollosesp/98505",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅COLACAO TURBO CACAO INSTANTÁNEO 1KG\n\n📝 Disfruta del ColaCao Turbo, cacao instantáneo sin grumitos en un formato ahorro de 1kg. Perfecto para tus desayunos.\n\n❌ANTES: 7,95€/ud.\n🔥2 UNIDADES: 10,34€ → (SALE A 5,17€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3ti",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "COLACAO TURBO CACAO INSTANTÁNEO 1KG Disfruta del ColaCao Turbo, cacao instantáneo sin grumitos en un formato ahorro de 1kg. Perfecto para tus desayunos ANTES: 7,95€/ud 2 UNIDADES: 10,34€  (SALE A 5,17€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/OUPbjnqscxTb2BqQuRCC323tAUbxtARYefMFSgNQ59v1u1tsp6VmfoG6iQ51aUX8MNYd0rQaPEMk7FKQaCOW5UL6xgaGqB7JK0iydlhpHMqt_HSa5difWBvovRV7nO7RBQg_USPTcBFZaLUPBy5kRRpZ8JumZjvA_ArPCKdoSsHn6YlnkCspqdv8KrRwWmQ-yx4CjrsTqa0cUbOaqTAJceNg4f4pVTgfw1RIiXkw23ESaMhccEy5MI9xvWT8N8Cq0PRvhuawLsnEWYwm0jSb9Ah8Ec2TezaH5gTqH9UHbTFQc50uD7d-IJgwJt2_qMuLRAHW6-eHos1m2i7YmC3vpA.jpg",
-      "link": "https://ir.cazadordechollos.es/t3ti",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "7,95",
-        "10,34",
-        "5,17"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
