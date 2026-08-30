@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T12:30:34.192594+00:00",
+  "generated_at": "2026-08-30T12:50:34.620566+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98655",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -25%‼️#Publicidad \n\n✅CREATINA MONOHIDRATADA EN POLVO 500G\n\n📝 Potencia tu rendimiento con nuestra creatina monohidratada 100% vegana. Ideal para aumentar fuerza y energía en tus entrenamientos. ¡Mejora tus resultados hoy mismo!\n\n🔗Enlace: https://ir.cazadordechollos.es/98655",
+      "title": "CREATINA MONOHIDRATADA EN POLVO 500G",
+      "description": "Potencia tu rendimiento con nuestra creatina monohidratada 100% vegana. Ideal para aumentar fuerza y energía en tus entrenamientos. ¡Mejora tus resultados hoy mismo",
+      "image": "https://cdn4.telesco.pe/file/ohCpCgVymn7W3cIfPk9VL03lCRtgKgnUc0cfw4ri_x87u2t5VaLxa6T4B9V5OMSTnqDcrYL-41t6LrPySbL7iIhS9HfZzKqaRzseY95onJEju9elKLuFc6sMpizg3EghlMmP2wPFK-bI2MFVoG63xsX0RHIT0xRYxTyPR6m6bjvy6vS6E7l1heWN1TQW7IKzoc1Y_MR7_CUvbcNAIyn1vqmbg4FpgSQjfxpw2z68tW5XbTKwAaTKqu33qEITU5YcXwlxxyw0OvW2gEmDwptMvXC__KIMDnVp1_aBVvbA_Mfk5ivmaq4cX4Q8klQzi-YOj8EfRznjLbAij78veMFGBg.jpg",
+      "link": "https://ir.cazadordechollos.es/98655",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "25"
+    },
     {
       "id": "ofertasychollosesp/98654",
       "date": null,
@@ -2079,27 +2096,6 @@
         "149,99"
       ],
       "discount_percent": "60"
-    },
-    {
-      "id": "ofertasychollosesp/98520",
-      "date": null,
-      "text": "‼️2ª UNIDAD -70% CAZADA‼️ #Publicidad\n\n✅CESAR TARRINA JUNIOR PATÉ TERNEA Y PAVO\n\n📝 Tarrina de 150 g con trozos de paté de ternera y pavo, ideal para perros pequeños. Nutrición y sabor en cada bocado.\n\n❌ANTES: 14,00€/ud.\n🔥2 UNIDADES: 18,20€ → (SALE A 9,10€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/t3uc",
-      "title": "2ª UNIDAD -70% CAZADA #Publicidad",
-      "description": "CESAR TARRINA JUNIOR PATÉ TERNEA Y PAVO Tarrina de 150 g con trozos de paté de ternera y pavo, ideal para perros pequeños. Nutrición y sabor en cada bocado ANTES: 14,00€/ud 2 UNIDADES: 18,20€  (SALE A 9,10€/ud.)",
-      "image": "https://cdn4.telesco.pe/file/GBoUOFNk6blPMyrQeQHTZ5Gyjb1kyO0VtZ78_gRLobWUSrm79sx2DDx8Q0dX7_k7-hAAo9Fz9KMHXQ-M_OWfbjSgWXjlOcLCcRyhtSkXvAjKHQ2CBnPzU2AZBH9F-ss4exqQEIdESb5kZk8awrnfXsEbX2Jw_y7NTvESCaeU1MHwIc1oz9nkxkUIVZpI9E-Vkizbbgqi0SghWjd6cuifFsKHsuoCMfatfTcum_zaqFGXBQVD-wJVOe4E8UyXyhvRZvNwto5v-28R5SQrw9PVTBrHME87WR1dIq1KSiREMbY7TEdDYymseqCge_fun2lAo5ovloUj_1bOwNhLLFEIIQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t3uc",
-      "marketplace": "Amazon",
-      "category": "Mascotas",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "14,00",
-        "18,20",
-        "9,10"
-      ],
-      "discount_percent": "70"
     }
   ]
 }
