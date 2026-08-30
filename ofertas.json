@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T14:50:27.944912+00:00",
+  "generated_at": "2026-08-30T15:10:53.164891+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98666",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad \n\n✅ACEITE CORPORAL REFRESCANTE DE CITRUS\n\n📝 Disfruta de la frescura revitalizante del Aceite Corporal Refrescante de Citrus de Weleda. Ideal para energizar tu piel y despertar tus sentidos cada día.\n\n🔗Enlace: https://ir.cazadordechollos.es/98666",
+      "title": "ACEITE CORPORAL REFRESCANTE DE CITRUS",
+      "description": "Disfruta de la frescura revitalizante del Aceite Corporal Refrescante de Citrus de Weleda. Ideal para energizar tu piel y despertar tus sentidos cada día",
+      "image": "https://cdn4.telesco.pe/file/PAgSKt6-5E5chOmims1fGR_crFbdzbJ98nq3ivNnGSGJqNu59Z8q4KtBgjVPm5HXYLjYxoO04aiqXWugwXqezSspiy8caX0JoKWFVyZTaVo0PUF7tP4gUeO4RlwSPJV6WQtytZZLuD-pVMTMYUjQcZy4N0hMv7Jm3ay-Mx7K87d9-3X1JyqGDvh5tm_zoOs-40T0ZMJIjgopIcAxnOl9xwd4u4KhRhh62XRkDmDCQ2kbkjejF97HPn87NR_iak4uIKbGi2lH8gcPrskIc7RJS6ET5aJJaR16gxtDWVEV4E5aPNSXFiIxOa12hW8O8jKQC3Yev_R0XjG6rdC-6zYICA.jpg",
+      "link": "https://ir.cazadordechollos.es/98666",
+      "marketplace": "Amazon",
+      "category": "Belleza y cuidado personal",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "30"
+    },
     {
       "id": "ofertasychollosesp/98665",
       "date": null,
@@ -2078,23 +2095,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "27"
-    },
-    {
-      "id": "ofertasychollosesp/98531",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -46%‼️#Publicidad\n\n✅LACOSTE RELOJ MULTIFUNCIONAL ANALÓGICO-DIGITAL\n\n📝 Descubre el estilo y funcionalidad del reloj Lacoste LC33, con correa de silicona y diseño versátil, ideal para el hombre moderno. ¡No te lo pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98531",
-      "title": "LACOSTE RELOJ MULTIFUNCIONAL ANALÓGICO-DIGITAL",
-      "description": "Descubre el estilo y funcionalidad del reloj Lacoste LC33, con correa de silicona y diseño versátil, ideal para el hombre moderno. ¡No te lo pierdas",
-      "image": "https://cdn4.telesco.pe/file/PHxWMaVtxe-8mYshGAgdzVSRt31X_BBGs-DV7xMOcaR_AP3fb6iBNZk3AmpStgteypPPOwDDSM2EyFSGu_Yr9jmxKxNN_TlyZdRbnoxKi49jrW2ryE21G_UJXOcr5m4g-u3BETI92cpREKw4teP-tZSPR8oQ4j6iJHudURJxYeXhEjjrz3l-J_7GD6cuxbvSiZFjj_HJOnTJu7pgGHQ3pUmYZsL9WnQL-lWFmwHSJmLL9Fbk7cq0iWocp8_QpWz3QRiQaruIFsPqJn6t3Eesm-n6okHvx0ZQJdGQyAECbsIs0_cmOYOMmxpkGl-hgSzZ5fVhUzKm9UG8f7w22HL8-g.jpg",
-      "link": "https://ir.cazadordechollos.es/98531",
-      "marketplace": "Amazon",
-      "category": "Mascotas",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "46"
     }
   ]
 }
