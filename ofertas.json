@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T10:30:36.360277+00:00",
+  "generated_at": "2026-08-30T10:50:28.063888+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98646",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -54%‼️#Publicidad \n\n✅FOKKY GOMAS ELASTICAS MUSCULACION\n\n📝 Mejora tu entrenamiento con el Set de 5 Gomas Elásticas Fokky. Hechas de látex natural, son perfectas para tonificar y fortalecer tus músculos en casa. ¡Potencia tu rutina!\n\n🔗Enlace: https://ir.cazadordechollos.es/98646",
+      "title": "FOKKY GOMAS ELASTICAS MUSCULACION",
+      "description": "Mejora tu entrenamiento con el Set de 5 Gomas Elásticas Fokky. Hechas de látex natural, son perfectas para tonificar y fortalecer tus músculos en casa. ¡Potencia tu rutina",
+      "image": "https://cdn4.telesco.pe/file/OKyzCQnsQ3Bs5SvXjPtgICjYcz5mUr_9lwetJGqomIju2SU7EdSsdxeWBVnl6yn7kCPnJDX8ckgtzFXjtbi0Yhpa7KRQ-7UzGzf8H0Z0RW8vKlO7bGmdVQqHSUlPct2ocUSkgdRGdPVKiiR9uveDFJEkb2T9M38k-XvhXUgIK3qDwhFoPoq9lCR8HzOGqyRnaODiJKXh3j87UW_9f-FArrQ7cZrxdLMDu28SPtgqqlDS9gb9kWMnI31EFSTGHU4UST2M2jOZ57G-_mhoxR3hQaDNt2emuEqwTPNVdcfIPbu0tFYrmmN6kUzPe64vqBslukP9FN_jv_0u3pVGCF5b_w.jpg",
+      "link": "https://ir.cazadordechollos.es/98646",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "54"
+    },
     {
       "id": "ofertasychollosesp/98645",
       "date": null,
@@ -2092,23 +2109,6 @@
         "24,67"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98511",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -46%‼️#Publicidad\n\n✅PAQUETE DE BOLSAS DE ALMACENAMIENTO AL VACÍO\n\n📝 Organiza y protege tus pertenencias con estas bolsas al vacío impermeables y herméticas. Incluye bomba eléctrica y variedad de tamaños para todas tus necesidades. ¡Aprovecha el espacio!\n\n🔗Enlace: https://ir.cazadordechollos.es/98511",
-      "title": "PAQUETE DE BOLSAS DE ALMACENAMIENTO AL VACÍO",
-      "description": "Organiza y protege tus pertenencias con estas bolsas al vacío impermeables y herméticas. Incluye bomba eléctrica y variedad de tamaños para todas tus necesidades. ¡Aprovecha el espacio",
-      "image": "https://cdn4.telesco.pe/file/RPdSkrXHknalHcZWNhiMijPxYIbUjImyZ1iq7OLdhCitwVOkEKEGw8kERp7hiHfyRzPhfDTzJt_D3driZlGXKCNo_Earzp7eCv6Mt0OPHoz8aW2liqWaNJ6_Z3Ywhn4PXLWZ36j6ItVNrdESu36dLzokbbMbskIvJoypk0sd8ahbFi7aDwn_dSz5dBFX_-3uUMWbPqBcKkBoaoCizqjPORJMJosMbRaCnwiCzzxcwQNvRR4pU2--gd6iWktV28A_B5XXys7bM3zym3bTCf3WzNRpRbhS9QG4MocvuBIXiGhafiHzugAjTqjDAysbjoNEOO0oUEw78_3V4NinxEPJCA.jpg",
-      "link": "https://ir.cazadordechollos.es/98511",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "46"
     }
   ]
 }
