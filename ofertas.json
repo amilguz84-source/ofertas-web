@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T16:50:36.031762+00:00",
+  "generated_at": "2026-08-30T17:10:52.027406+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98672",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -44%‼️#Publicidad \n\n✅TIRA DE LUCES LED INTELIGENTE HUE PLAY GRADIENT\n\n📝 Transforma tu experiencia visual con la tira de luces Hue Play Gradient. Sincroniza colores y luz blanca con tu pantalla para un ambiente inmersivo y vibrante. ¡Hazlo tuyo!\n\n🔗Enlace: https://ir.cazadordechollos.es/98672",
+      "title": "TIRA DE LUCES LED INTELIGENTE HUE PLAY GRADIENT",
+      "description": "Transforma tu experiencia visual con la tira de luces Hue Play Gradient. Sincroniza colores y luz blanca con tu pantalla para un ambiente inmersivo y vibrante. ¡Hazlo tuyo",
+      "image": "https://cdn4.telesco.pe/file/Ny_RdhNDfsdv4nqN1STcB3Rqgu072IMojA9iUy0V-_YNdAaLedE0qvPdIbityfJgDdRcskQmgLYGUgxnx8NB2ATYR944vgEccrRBQXLd3EDTXRmGsCFLVc3m8qpkMDFBjSqLw_GFmAbWQlLE_fPHix5UMzSghAaykmxJIRTfbKAJQpSp4qAaE0lppEoY1zCdvhPT9hLygt99PcD0p4YHDDWAOBSic9EiA5czz3d3mrJmhZa1HEoGlemDoCdJGXuBUkrxphzWAEMku4GCpz2o04-V3KFiF2LmGUanywAUqNzAXryASP_1VkpU9twZzKonWci_8u2mWREU-hLr6e-MFg.jpg",
+      "link": "https://ir.cazadordechollos.es/98672",
+      "marketplace": "Ir",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "44"
+    },
     {
       "id": "ofertasychollosesp/98671",
       "date": null,
@@ -2078,23 +2095,6 @@
         "15,18"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98539",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -20%‼️#Publicidad \n\n✅LILY CUP ONE: COPA MENSTRUAL PLEGABLE\n\n📝 Descubre la comodidad de la Lily Cup One, perfecta para principiantes y adolescentes. Su diseño plegable facilita su uso y la hace ideal para cualquier actividad. ¡Prueba la libertad!\n\n🔗Enlace: https://ir.cazadordechollos.es/98539",
-      "title": "LILY CUP ONE: COPA MENSTRUAL PLEGABLE",
-      "description": "Descubre la comodidad de la Lily Cup One, perfecta para principiantes y adolescentes. Su diseño plegable facilita su uso y la hace ideal para cualquier actividad. ¡Prueba la libertad",
-      "image": "https://cdn4.telesco.pe/file/jr8o2qSzC58Wh7zlBcWFpJvY9CLfk7QqQ7GLb1bWaqQJQjBtjptHwXNdw6LYqdmvKA0rxHG1v0XvpWCftd23w_AsGgKHeLZUR0gyYJbi50qY3wm1zv-OmAX0xuQ3Nbdn6Fnzsr1uORNc7CT1DF_yPQx99AdWgajsVUvKs5v-YnvFuz6A7nFqAx7atSfd0xTsPfwo2lei5DjjwBdABEdgr6_8pALSWvPeWDk2Oce1brGABQAn9nzHMWItHTv__kh9mSkJbF7chGgEumcwYdxgV6eKko00Y0rNQTno5ddT6NRf2aePicshu0Q-LSci3PSlcRB1h-ztdoDxqg8D3GZDrg.jpg",
-      "link": "https://ir.cazadordechollos.es/98539",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "20"
     }
   ]
 }
