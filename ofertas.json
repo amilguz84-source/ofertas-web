@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T11:31:18.620544+00:00",
+  "generated_at": "2026-08-30T11:50:17.492373+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98650",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -35%‼️#Publicidad \n\n✅LISTERINE ENJUAGUE COOL MINT 500 ML\n\n📝 Disfruta de una frescura intensa con Listerine Enjuague Cool Mint. Combate el mal aliento y protege tu boca en cada enjuague. ¡Tu sonrisa lo merece!\n\n🔗Enlace: https://ir.cazadordechollos.es/98650",
+      "title": "LISTERINE ENJUAGUE COOL MINT 500 ML",
+      "description": "Disfruta de una frescura intensa con Listerine Enjuague Cool Mint. Combate el mal aliento y protege tu boca en cada enjuague. ¡Tu sonrisa lo merece",
+      "image": "https://cdn4.telesco.pe/file/KVaeEb9pNaSOZz7-8VmNhp8aXYXXbpeZXdAK2zjmhJ7mJ2xtp5EPaRQjtC_9nCZKjIgrPY4XUZ-GWTaxOagqsEJBXHHHi8fzzwE8WwpSCXilnVKv8XqGG4uHq2qF8jvxCxcbUIBfsbjp5p1zWd2718sW--CnDThYhY3qZbNZ0jhfXNMlPtHFtnjvBl8D9Ykb75JU-YogMLYEHG_bqIFg0vCJiPSruGFiDDjY6KN-x02uem4bsYxYd2XuzA4Hzt5tWwQq48VDe6LkEIJtTXsxHQGXiqr1rtx8YBzVe43MCzc_lZSC6XWOp54YTgPqjx7drnw1LPms5WRhnc8j1npzuw.jpg",
+      "link": "https://ir.cazadordechollos.es/98650",
+      "marketplace": "Amazon",
+      "category": "Deporte y aire libre",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "35"
+    },
     {
       "id": "ofertasychollosesp/98649",
       "date": null,
@@ -2087,23 +2104,6 @@
         "279,00"
       ],
       "discount_percent": "18"
-    },
-    {
-      "id": "ofertasychollosesp/98515",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad\n\n✅ADIDAS GALAXY 8 ZAPATOS DE RUNNING HOMBRE\n\n📝 Los Adidas Galaxy 8 son ideales para correr, combinando comodidad y estilo en un diseño atractivo. ¡Potencia tu rendimiento con estos zapatos de running!\n\n🔗Enlace: https://ir.cazadordechollos.es/98515",
-      "title": "ADIDAS GALAXY 8 ZAPATOS DE RUNNING HOMBRE",
-      "description": "Los Adidas Galaxy 8 son ideales para correr, combinando comodidad y estilo en un diseño atractivo. ¡Potencia tu rendimiento con estos zapatos de running",
-      "image": "https://cdn4.telesco.pe/file/qocFVZGzXGI_38WbaGOdBijNtYvB06NWpc6akuejoG0NLMCz3iy9mzwHekI5aiopVoYQ_hstnxKtipna0JQI0PuO0LHYPllVAVAsXrxTlwR7dkC0gpciWCmO8fGC6W7x37OYk7nA19O4kpL6PbY6aMi8xx2lDTwi2Nr9vEn-YS3QsTgy6onclmGOf7-6A4aHndfT5DugPUHFXKI4G8BT8IdcmASN9uQSXhLxat5gYwzSUmOhVOq4eBm0Y6pgbTvsAV7z6nzQ9VLYdHl6rbmllWD2JHYpM9pwVRuWKCLAF-sw27sHRUROwMVGEJHyPlaBn7xUTI0i5UposMWVvJHHTA.jpg",
-      "link": "https://ir.cazadordechollos.es/98515",
-      "marketplace": "Amazon",
-      "category": "Deporte y aire libre",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "33"
     }
   ]
 }
