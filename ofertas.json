@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T12:10:36.715867+00:00",
+  "generated_at": "2026-08-30T12:30:34.192594+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98654",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -24%‼️#Publicidad \n\n✅MERCUSYS MB115-4G: RÁPIDO Y CONECTADO\n\n📝 Disfruta de WiFi 300 Mbps y 4 puertos Ethernet con el Mercusys MB115-4G. Conéctate fácilmente y navega sin límites. ¡Ideal para tu hogar o negocio!\n\n🔗Enlace: https://ir.cazadordechollos.es/98654",
+      "title": "MERCUSYS MB115-4G: RÁPIDO Y CONECTADO",
+      "description": "Disfruta de WiFi 300 Mbps y 4 puertos Ethernet con el Mercusys MB115-4G. Conéctate fácilmente y navega sin límites. ¡Ideal para tu hogar o negocio",
+      "image": "https://cdn4.telesco.pe/file/ZOnlZYxxJyv0bRgIJeNqq_duoTR3pVpeKyKS6DChNIdIRCgacrSUNOqRG6TAh3J4LnAglD7LayR8bOzu-NcRIC4B9ohVQ6b7JOELk2tV1jU0DAilu5E0GQLbIk42c76K5bfZWXuXARwQWjd_5ZucyBrIDfaxFtmzSdVxkiN-gku-gs7xjvVv-8C49f4IOd8XW7csVJasvoZVar5hEP8D8y6QoOv_M1_Z7N2pWEmHek76oU5yZO6esa2p4zKnc9e_lKMNtbGSbh29TawuOmU5F466CSp4X4F25ufRRvq3tYL5wr4kWFKHnv8AGnRKJzqDIb0KiED399qnAcLe9teeyQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98654",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "24"
+    },
     {
       "id": "ofertasychollosesp/98653",
       "date": null,
@@ -2083,23 +2100,6 @@
         "9,10"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98519",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -50%‼️#Publicidad\n\n✅CHUPA CHUPS ORIGINAL - DISPLAY DE SABORES VARIADOS\n\n📝 Disfruta de los irresistibles Chupa Chups en un práctico display de 50 unidades. ¡Perfectos para compartir y deleitarte con sus deliciosos sabores!\n\n🔗Enlace: https://ir.cazadordechollos.es/98519",
-      "title": "CHUPA CHUPS ORIGINAL - DISPLAY DE SABORES VARIADOS",
-      "description": "Disfruta de los irresistibles Chupa Chups en un práctico display de 50 unidades. ¡Perfectos para compartir y deleitarte con sus deliciosos sabores",
-      "image": "https://cdn4.telesco.pe/file/oR_0KoEAU8T40x04uf4GbIuQGNsx5SNCBJkASbZvR6rd8jJHKa0dMbDfEXtLppM-R7x6oqZUdt9kNwfZEIJvWGDqMHJT6jEUg96X4bnlI_qkz3nL_bD-7ZUTYHOnGNupG6qBmuW48-TzD6ABUN9Z7Ofyh-zBcoSJPHAFLrGXYvlA91QxLe81I-AvWJuQHppXEEn0XHSqSqzS-o02lEAIStYAweey8jXvvh73RUyF0mfj0TZ6VcKM3lmxaQns4CBV60gMX-l20oqYrZTC2jwbsR8_aqM1YylpcEKN5NP9e7iMbmmatFk_H3i13AS27XfUryS91tdMUv1NL_u3gEH_sA.jpg",
-      "link": "https://ir.cazadordechollos.es/98519",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "50"
     }
   ]
 }
