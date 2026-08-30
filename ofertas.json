@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T13:10:35.753122+00:00",
+  "generated_at": "2026-08-30T13:30:25.787678+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98658",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -31%‼️#Publicidad \n\n✅LISTERINE MENTOL ENJUAGUE BUCAL 250 ML\n\n📝 Disfruta de un aliento fresco y duradero con Listerine Mentol. Protege tus encías y elimina bacterias con su fórmula con flúor. ¡Tu sonrisa lo merece!\n\n🔗Enlace: https://amz.tf/bPjncVP",
+      "title": "LISTERINE MENTOL ENJUAGUE BUCAL 250 ML",
+      "description": "Disfruta de un aliento fresco y duradero con Listerine Mentol. Protege tus encías y elimina bacterias con su fórmula con flúor. ¡Tu sonrisa lo merece",
+      "image": "https://cdn4.telesco.pe/file/k65_3HS-3F6f1DXfhKoqwKvrIXNbGqm7FgCul6vo4pUtsYkTbGt8FedN4tbXYuBWloiFVOpNZKdBj_Xhsen2RaW1j9H4T_JHM5XNxGlq_bmwDPVOYoyhlKYDuZ0UifO6xUWQfBPptQth4Hujoh7gkao86AhBQzz39tmtI_bhDlVhv2ksJthiSVnQF7flKueY1lOKfVni_CGcoPzmWcxBs7II9v3WeHTEdi48WtWfOeoErotdvccCPdjaDffQCHlNEfSaAIalQIhrR5lKoGTMZIkTl7IxkjEQyKWbQ6rlezAZ6X06Zhaco_4tZyhFaMVqt_xFwo2wA5k4y_C7lkzw4Q.jpg",
+      "link": "https://amz.tf/bPjncVP",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "31"
+    },
     {
       "id": "ofertasychollosesp/98657",
       "date": null,
@@ -2073,26 +2090,6 @@
         "199,99"
       ],
       "discount_percent": "32"
-    },
-    {
-      "id": "ofertasychollosesp/98523",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -73%‼️ #Publicidad\n\n✅SMARTPHONE VIVO Y76 5G 8GB/256GB\n\n📝 Descubre el VIVO Y76 5G con pantalla FHD+, cámara de 50 MP y carga rápida de 44W. Ideal para tus necesidades diarias.\n\n🟢AHORA : 89,90€\n❌ANTES: 329,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/pendiente",
-      "title": "SMARTPHONE VIVO Y76 5G 8GB/256GB",
-      "description": "Descubre el VIVO Y76 5G con pantalla FHD+, cámara de 50 MP y carga rápida de 44W. Ideal para tus necesidades diarias AHORA : 89,90€ ANTES: 329,00€",
-      "image": "https://cdn4.telesco.pe/file/ftfoP7m6ILyhhPIXh2uuZmhZ2PN5KoWR9iNo_dZUywyau09V3A6dAgTxDQpVj-PP8PDtnp1ku6dLvdCXjHkIcDJQupiROLfnvuV7klRsSzgBJusz4Yf0o2EyGr-rdIBYbd2toOUsmcPzvUNWZT-eFK3SmgWzxNS40LQguunwXcKIDPRqkjv1RhRyNHTvVXkficKjFBU0-HGVAsEchu7YZIJ6pNteGl-MUxCUH9mnva0-xKIGt75zcEwowteVbHwk43q9hlN-Xpw7Nzq48OmH99LtyBaJfpJUZFlEBWtB5yoBS3xPXEkluzzQxEBKgFkVzdyeMZ8yPb1jAsSbINANLQ.jpg",
-      "link": "https://ir.cazadordechollos.es/pendiente",
-      "marketplace": "Ir",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "89,90",
-        "329,00"
-      ],
-      "discount_percent": "73"
     }
   ]
 }
