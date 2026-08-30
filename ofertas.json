@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T16:30:29.795280+00:00",
+  "generated_at": "2026-08-30T16:50:36.031762+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98671",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -37%‼️#Publicidad \n\n✅Aspiradora SIN CABLE VACTechPro\n\n📝 Descubre la potencia de 35kPa en una aspiradora sin cable. Limpieza eficiente y sin restricciones, ideal para cualquier rincón de tu hogar. ¡Hazla tuya hoy!\n\n🔗Enlace: https://ir.cazadordechollos.es/98671",
+      "title": "Aspiradora SIN CABLE VACTechPro",
+      "description": "Descubre la potencia de 35kPa en una aspiradora sin cable. Limpieza eficiente y sin restricciones, ideal para cualquier rincón de tu hogar. ¡Hazla tuya hoy",
+      "image": "https://cdn4.telesco.pe/file/aGod53MXkG-gr--V7-aNnfBFufK6DK3v0ykbLEL9SWXisjce56Yy5d34IOdHUjJmYqEgPrMENtUU9nT5YHrq2TniEdoCdc0IozHZ0UFbwaxwYsHfTTJMMDe0b9aT7izrCd0rZlBP8b-Zv1yiVLbyRck6KaBs2QdeBGlQBJyhhUIYoX9l10hiZgzKrGhQAfojU1fYkWpZIJFUcQt3Up08cxH-kcNk6rbGr8JlloQnwPfGToVghVGnhTLqJBkDNlaFII8yKVxSLmliii0KLwRqC0_3pSEZ2sduDp4IiRtnNgBpy2QHbG4yPHjGDkQeBSZ_jJcwcIJGEXa41b30AMTiCQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98671",
+      "marketplace": "Amazon",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "37"
+    },
     {
       "id": "ofertasychollosesp/98670",
       "date": null,
@@ -2078,23 +2095,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "20"
-    },
-    {
-      "id": "ofertasychollosesp/98538",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -31%‼️#Publicidad \n\n✅BATERÍA ANTIAHEDRENTE ALUMINIO FUNDIDO\n\n📝 Descubre la Batería 4 Piezas de Aluminio Fundido Antiadherente, ideal para inducción. Cocina con facilidad y disfruta de resultados perfectos en cada platillo. ¡No te la pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98538",
-      "title": "BATERÍA ANTIAHEDRENTE ALUMINIO FUNDIDO",
-      "description": "Descubre la Batería 4 Piezas de Aluminio Fundido Antiadherente, ideal para inducción. Cocina con facilidad y disfruta de resultados perfectos en cada platillo. ¡No te la pierdas",
-      "image": "https://cdn4.telesco.pe/file/SN06-8c3Lb2XIcNgkb3my_5N-VFy0l--6ZClRuUSlEsOLBUJVgsbxB3AC33DTZbr1_79ZdSTCiIV-MazkdhtSDBnKnUJCys6kz3Nh04H1qm_qNkBQ8UL3-y575WaYIL2n4K1LV5uRIizHHSK2gmH_9CAIQ0cyKCwf9s_vxdDDNIfM0fXpr6AG2fHrvNU2NQ4qNYMl_rkFENWoOOpBBf7vQKqbnPlUXFFMU1QQRECcdb2Eo_QaSbg1kKH0hcp9lWoR3eCaflFP4lcNY6rXmQx0KgbrwuL8cBsFQv8mHX0VbWdnv2aS4L4E_aHJY7KDsxwOK1tCq_VNo2hs8vWhFw0lw.jpg",
-      "link": "https://ir.cazadordechollos.es/98538",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "31"
     }
   ]
 }
