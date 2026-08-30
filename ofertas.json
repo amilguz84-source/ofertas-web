@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T14:30:26.310512+00:00",
+  "generated_at": "2026-08-30T14:50:27.944912+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98665",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -25%‼️#Publicidad \n\n✅DISPOSITIVO ANTIMOSQUITOS ULTRASÓNICO PARA BEBÉS\n\n📝 Protege a tu bebé de los mosquitos con este repelente ultrasónico, silencioso y sin químicos. Alcance de 2m, ideal para un sueño tranquilo y seguro.\n\n🔗Enlace: https://ir.cazadordechollos.es/98665",
+      "title": "DISPOSITIVO ANTIMOSQUITOS ULTRASÓNICO PARA BEBÉS",
+      "description": "Protege a tu bebé de los mosquitos con este repelente ultrasónico, silencioso y sin químicos. Alcance de 2m, ideal para un sueño tranquilo y seguro",
+      "image": "https://cdn4.telesco.pe/file/tdAKmaj7eDNyTBpPssmBnsmqZK5hodYFxCUt4n4n25EC5QatRXNNdR7vQsektsAcYWAr5MAz7yHpUOB41I6ie1cq5oV3A-Ji1ecsMEB5BpgbjcRjblLZN6o08_LLvPecvolRjYWgdChusaelZSWT5yInrr4sS8K4yZe2asjpED7laCZr8_OKAeKM7m0agZXx4gNOv54Y83_SOj7Kridr6jq5rRBrB2xsVoviTz4pqJY0gJ03DEExgLcHdHcm_YbHnHhm169dE-LrzZGcashkcGA_AjyWCXuYxNGFN3BJjmI6MsnShDjugi4Ab82X1d0tY0lSEs4_ycWLNvmfvIL2vA.jpg",
+      "link": "https://ir.cazadordechollos.es/98665",
+      "marketplace": "Amazon",
+      "category": "Bebé",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "25"
+    },
     {
       "id": "ofertasychollosesp/98664",
       "date": null,
@@ -2078,23 +2095,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "46"
-    },
-    {
-      "id": "ofertasychollosesp/98530",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅LINTERNAS ALTA POTENCIA 1,000,000 LM\n\n📝 Descubre la increíble linterna LED de 30W, perfecta para iluminar cualquier lugar con su potente luz de 1,000,000 lúmenes. ¡No te quedes a oscuras!\n\n🔗Enlace: https://ir.cazadordechollos.es/98530",
-      "title": "LINTERNAS ALTA POTENCIA 1,000,000 LM",
-      "description": "Descubre la increíble linterna LED de 30W, perfecta para iluminar cualquier lugar con su potente luz de 1,000,000 lúmenes. ¡No te quedes a oscuras",
-      "image": "https://cdn4.telesco.pe/file/Q5iS8OWZkAT9YVKil_fJhrWXJuiZAFEsYn_z3xbd-iANQbQbE3x-lg243ce8D3XKqUH5VCuHrXc7EktRYnPbpETUMmFz3nmCtFasLxfNvwOVdx9g_s8rIrpE4dap6v034jthJObA_259_krDXEGef3n-GCwCIgkexvsp2StkCF7y4_Yz8qzLqBpS4hbCaXHbHVJgZv3ungsQ_Y94Ai4E4CqEDthlInpo3Wol7VVM9r5wlVek7DbFn56J8Qf-dZQ8-4sCSpieVf5CvCMI0REImUNs7AgvLcSFhQTqey3nQYOv8Qow-whl9m3t49vIUCzbHsqlJpIQFev0RlhKGBi6fA.jpg",
-      "link": "https://ir.cazadordechollos.es/98530",
-      "marketplace": "Amazon",
-      "category": "Iluminación",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "33"
     }
   ]
 }
