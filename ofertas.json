@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T18:10:35.460099+00:00",
+  "generated_at": "2026-08-30T18:30:32.273716+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98675",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -42%‼️#Publicidad \n\n✅SONY WF-C510 AURICULARES INALÁMBRICOS\n\n📝 Disfruta de la libertad del sonido con los Sony WF-C510. Auriculares True Wireless que ofrecen calidad de audio excepcional y comodidad para todo el día. ¡No te los pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98675",
+      "title": "SONY WF-C510 AURICULARES INALÁMBRICOS",
+      "description": "Disfruta de la libertad del sonido con los Sony WF-C510. Auriculares True Wireless que ofrecen calidad de audio excepcional y comodidad para todo el día. ¡No te los pierdas",
+      "image": "https://cdn4.telesco.pe/file/FtyHjSHa6PLDObR5fHfKOv_cCUQ6VES1P5pog_DLV0OAW1U3wSfnbPURFY6StfhEIAXCkguidneYKg4aUejQR4B03Bxo_PAVgfp8aWBKdZE46KIk9wLFqH5p5LZXwtGlLPXnntua-syYRKdXZ6LoAVqwbhS0HmOtPInFyLfv7cBJEShlscIyXbZo50UkOguuFtz3pKUHjaF1D6ttyl8-a5lmjltVwp7Ah-xJ1vcw-P9xdI04ogk7V8o1phIvfIkMFVI_TPqH38OCVQrtx73h6m5P9FtI3o8fXVGnG5NORmfbW7GuEP6114W9K2q7_uVFWuNXnPhDRmqqaVkwUdI7OQ.jpg",
+      "link": "https://ir.cazadordechollos.es/98675",
+      "marketplace": "Amazon",
+      "category": "Auriculares y sonido",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "42"
+    },
     {
       "id": "ofertasychollosesp/98674",
       "date": null,
@@ -2076,23 +2093,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "31"
-    },
-    {
-      "id": "ofertasychollosesp/98543",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -34%‼️#Publicidad \n\n✅BARDA DE SONIDO 5.1.2 CON DOLBY ATMOS\n\n📝 Disfruta de un sonido envolvente con la Hisense AX5125H. Potente, inalámbrica y con múltiples modos EQ, transforma tu experiencia audiovisual en casa. ¡No te lo pierdas!\n\n🔗Enlace: https://ir.cazadordechollos.es/98543",
-      "title": "BARDA DE SONIDO 5.1.2 CON DOLBY ATMOS",
-      "description": "Disfruta de un sonido envolvente con la Hisense AX5125H. Potente, inalámbrica y con múltiples modos EQ, transforma tu experiencia audiovisual en casa. ¡No te lo pierdas",
-      "image": "https://cdn4.telesco.pe/file/uDrnHBkuKuJ8O99sll2Zi2AK9jrnRgoO3Qy_zbgnL8nEJQZYctyTpgHaQHNfKM8znNpvAjHP-NLMQqD5lP83nnEGhxB2tFojY0jm8MezF29i14ZaKFKqWo7LY-wLC3JqprK5038fLNYdp6tjmCzxllDm1yrMCL7obBmxaNFMWmxXJu9OJAipsE4XeP4UXbHwzDfnEm7_cMOQAoXkesGEbCJTQ2CoWTq-Ncmtj3iH9lH09_vSJOMinalrxYkYaOWUeSwK_7Aql2sXxnfiLqKD0lek3KD5sUQr9-ehKc63xxu3ES4tK4l5WM7YBQDiCGEEJINUjfGJIj5wBzBgc0Mlxg.jpg",
-      "link": "https://ir.cazadordechollos.es/98543",
-      "marketplace": "Amazon",
-      "category": "Televisores y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "34"
     }
   ]
 }
