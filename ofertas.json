@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T18:30:32.273716+00:00",
+  "generated_at": "2026-08-30T18:50:36.193416+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98676",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -34%‼️#Publicidad \n\n✅LISTERINE CUIDADO TOTAL ENJUAGUE BUCAL\n\n📝 Disfruta de una protección completa para tu boca con Listerine Cuidado Total. Fortalece tus dientes y combate el mal aliento en un solo paso. ¡Sonríe con confianza!\n\n🔗Enlace: https://ir.cazadordechollos.es/98676",
+      "title": "LISTERINE CUIDADO TOTAL ENJUAGUE BUCAL",
+      "description": "Disfruta de una protección completa para tu boca con Listerine Cuidado Total. Fortalece tus dientes y combate el mal aliento en un solo paso. ¡Sonríe con confianza",
+      "image": "https://cdn4.telesco.pe/file/TxaYDx-WoExgJ2m8L4ZpbMGym5Lri1Iizfns9XUCC8qZDx9tfFBRRIDNuDGD1LINuQzdxR44xJuoI-zafFcbYydasjudfqDCQmsKlktgwRsyHsrfTlLJ0ppZLsSrS7RyvipF9gl6uCnDv8WbgjjkBTKk4bEKS55gK5O0g3v7yyc_eFcljtWL-kFp6H3zItw6gOMRrrQ7zyMW2Cp5oV4XF9iChmiYPcTCVL_oJ-9qGfGEJQKaVXg6gF5-8BTdf6OhzCI9Akc2qrF_njoGASU79h3WWByxVn_bEaZPq-5tNdAMMLVvmk2E7yGCe4FZoGG3Lvo268HbdlSAK82xEvcY_Q.jpg",
+      "link": "https://ir.cazadordechollos.es/98676",
+      "marketplace": "Amazon",
+      "category": "Deporte y aire libre",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "34"
+    },
     {
       "id": "ofertasychollosesp/98675",
       "date": null,
@@ -2076,23 +2093,6 @@
         "42.82"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/98544",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -31%‼️#Publicidad \n\n✅PULSERA TEDDY ORO ROSA\n\n📝 Descubre la elegancia de la Pulsera Teddy en rosa con baño en oro rosa. ¡Un accesorio encantador que realza tu estilo y añade un toque de dulzura!\n\n🔗Enlace: https://ir.cazadordechollos.es/98544",
-      "title": "PULSERA TEDDY ORO ROSA",
-      "description": "Descubre la elegancia de la Pulsera Teddy en rosa con baño en oro rosa. ¡Un accesorio encantador que realza tu estilo y añade un toque de dulzura",
-      "image": "https://cdn4.telesco.pe/file/NUtBfOvdcMLUJT7QQdboew4X61zY8mL4B-dCCXYjhENnYeEQvO8aVLogUWzbdBWu05lm6FiilECmTBPb8LyjE4SR-ytTF2tmDXGxhqX_OveYPQf2UpyAu6lsRbSOdH2tippzAQQ7pKwrPEWNHMhL3q5sx1fZTVx1Hdq41mqrAjn7SPot3nCcn39Mt913kFkgaBdIO0f4xWTPiuRZ6JzpFsFjPuWWGulo0SRVwAkmMZjdsgaIs3qCSHlyl_Why5GaqO2DJOaGAQiQQvt77wb13MY_q-ec-ct0CASBdMETGdortK6wD-0GNxXoBk0d51HKtX_wgzPtUb_Za5GNHWeYBQ.jpg",
-      "link": "https://ir.cazadordechollos.es/98544",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "31"
     }
   ]
 }
