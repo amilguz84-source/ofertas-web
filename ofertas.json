@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T08:30:33.672933+00:00",
+  "generated_at": "2026-08-30T08:50:24.528055+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98638",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -35%‼️#Publicidad \n\n✅NEUTROGENA BRIGHT BOOST GEL CREMA\n\n📝 Descubre la crema facial antiedad con neoglucosamina, AHA y PHA. Ilumina tu piel y reduce signos de envejecimiento en cara y cuello. ¡Transforma tu rutina de cuidado!\n\n🔗Enlace: https://ir.cazadordechollos.es/98638",
+      "title": "NEUTROGENA BRIGHT BOOST GEL CREMA",
+      "description": "Descubre la crema facial antiedad con neoglucosamina, AHA y PHA. Ilumina tu piel y reduce signos de envejecimiento en cara y cuello. ¡Transforma tu rutina de cuidado",
+      "image": "https://cdn4.telesco.pe/file/Y3cGaXONdTyHWFYhUWFxTKh0NiT_3OAFCyhNJIIhuKxKiBxdWaZhd6VSAZ1dLx4KHi74Xu8yqXaf_b_sRx0PiMEyR8c6h72R4SSOoSzZc0zpygdF5xELtQ-hxk26Y_aL2CV_dnKUS2Fqg0sNkB1ICLoN5a3dJ_QPA8C6MlOEwwqIHfwmvG5Pnp_j33n8d0_M21aFHRROIT28wqR4-tLi2LjsAEDaVWhsFFsdFn2Xv_m_ttBQ8GZLflpMhStExzhRQdfHBKhfTdGIZCoWUm3ZdOke2YUKAt6CKx699jZ9-12B1UrEYHuiLjMT9BJmdHRM58kRnMDBSmJmykkToBcHDw.jpg",
+      "link": "https://ir.cazadordechollos.es/98638",
+      "marketplace": "Amazon",
+      "category": "Belleza y cuidado personal",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "35"
+    },
     {
       "id": "ofertasychollosesp/98637",
       "date": null,
@@ -2100,23 +2117,6 @@
         "5,17"
       ],
       "discount_percent": "70"
-    },
-    {
-      "id": "ofertasychollosesp/98504",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -47%‼️#Publicidad\n\n✅LOGITECH G G321 AURICULARES INALÁMBRICOS\n\n📝 Disfruta de una experiencia de gaming inigualable con los auriculares inalámbricos Logitech G G321. Sonido envolvente y comodidad para largas sesiones de juego. ¡Conéctate y domina!\n\n🔗Enlace: https://ir.cazadordechollos.es/98504",
-      "title": "LOGITECH G G321 AURICULARES INALÁMBRICOS",
-      "description": "Disfruta de una experiencia de gaming inigualable con los auriculares inalámbricos Logitech G G321. Sonido envolvente y comodidad para largas sesiones de juego. ¡Conéctate y domina",
-      "image": "https://cdn4.telesco.pe/file/gfo5jNxEA-GV71QzhXhOc_Yi_IQUizy8v6Rc3yc1um4Xgea5o6Z3xGFGpqwJR-YQtWATV9LC8ODM6rQMf0NA5Kn7tf7WC0C-eHKyOsQOu9I7LEMCUERjK_gX5O78GCtZjSvsC4vhucdE51yC-9-nCZJChnc5P6gIjOcN677B2n5GJxKUw1UOuyfo0mwPdZ8hT7GkDVWBJO2kUDhXSph1Ik2cij8NuxxnT3Rp3h65x_uLH_rHwV-e8su-KS6sn9sp-u2V0l1eLGsTEc7FilLwxEHRN-VUCTNl90xlJ6Lh28mOkdoeUOZaWXIWkqF3vRcrGlEt3moRrc5BwQV8EUaYRg.jpg",
-      "link": "https://ir.cazadordechollos.es/98504",
-      "marketplace": "Amazon",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "47"
     }
   ]
 }
