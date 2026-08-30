@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T15:10:53.164891+00:00",
+  "generated_at": "2026-08-30T15:30:28.741229+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98667",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -26%‼️#Publicidad \n\n✅AFEITADORA CORPORAL REMINGTON BHT250\n\n📝 La afeitadora corporal Remington BHT250 es ideal para zonas delicadas, resistente al agua y ergonómica. ¡Disfruta de un afeitado cómodo y preciso en seco o en la ducha!\n\n🔗Enlace: https://amz.tf/KeGBnkN",
+      "title": "AFEITADORA CORPORAL REMINGTON BHT250",
+      "description": "La afeitadora corporal Remington BHT250 es ideal para zonas delicadas, resistente al agua y ergonómica. ¡Disfruta de un afeitado cómodo y preciso en seco o en la ducha",
+      "image": "https://cdn4.telesco.pe/file/OzS3TRf5vQKskcCb5eZ5KwdmN5whlzcVYjhpjVCd_51mj6KCrv7OMDNhYTOssHGrwEKoFiSDDcz5l1APCHqvdWit2mbLHtNzsbXcoedt6ntuhst1LMutXHwsFnIyA4dOmp-pPGVPBXzXWsuNf1ft-FH0bQpXq20f_9tsvTiXW9fMD0naPznuTqgS8uWyHsRenzQ4dy3mbnzoZHyYdfwJgdDLvuW_a0wNG3RejOA0B1iBAA5kRT9nIpflFtWXssp6Y34K3Q3hVgZWuDRBa5oCgdBtRnBLKDFYMZe7Xip1F9tFs6rMtDooz6Q6bT-HdyDRnelBuVC4yOpcTPE5U-7YYg.jpg",
+      "link": "https://amz.tf/KeGBnkN",
+      "marketplace": "Amazon",
+      "category": "Belleza y cuidado personal",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "26"
+    },
     {
       "id": "ofertasychollosesp/98666",
       "date": null,
@@ -2078,23 +2095,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "25"
-    },
-    {
-      "id": "ofertasychollosesp/98532",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -27%‼️#Publicidad \n\n✅RIZADOR DE PELO BABYLISS 25 MM\n\n📝 Consigue rizos duraderos y profesionales con el Rizador BaByliss de 25 mm. 10 ajustes de calor y diseño elegante para un estilo impecable. ¡Transforma tu look!\n\n🔗Enlace: https://ir.cazadordechollos.es/98532",
-      "title": "RIZADOR DE PELO BABYLISS 25 MM",
-      "description": "Consigue rizos duraderos y profesionales con el Rizador BaByliss de 25 mm. 10 ajustes de calor y diseño elegante para un estilo impecable. ¡Transforma tu look",
-      "image": "https://cdn4.telesco.pe/file/rAQ4Ag4To0aP83tK7czbhwtGt8VChDGJ7MV8uIFvW90AQuQzpNFJ5GO_Aww7uJNAm7OAsWNuCultXFpuvnFrGr6W4-SCz0w-QvJvz4ztORan6S7Ly3IKzT1iesh-KdTuacKi5aZj3TW5HYBP8otDsdZ5ateWz6mMHQlNChiMko7nJ935BPZuX9OqOkaSkSh2Fh7qvymLNlC7zurQsaTVBh9x9GO9Goh2C01X1Ysj79_rZZaLS3x25W_p8JTp8Oet64LJj37aUanVoFQOxzXEH-KWh2goxwW0qUOrwp_1wfzzAcIuduy0FG8bSqIG4YseXNQ8yJHWIEfKfGv_FBVXmA.jpg",
-      "link": "https://ir.cazadordechollos.es/98532",
-      "marketplace": "Amazon",
-      "category": "Belleza y cuidado personal",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "27"
     }
   ]
 }
