@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T10:10:55.525568+00:00",
+  "generated_at": "2026-08-30T10:30:36.360277+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98645",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -44%‼️#Publicidad \n\n✅GHD GOLD - PLANCHA DE PELO PROFESIONAL\n\n📝 Consigue un cabello liso y brillante con la GHD Gold. Ideal para todo tipo de cabello, transforma tu look en minutos y deslumbra con resultados profesionales.\n\n🔗Enlace: https://ir.cazadordechollos.es/98645",
+      "title": "GHD GOLD - PLANCHA DE PELO PROFESIONAL",
+      "description": "Consigue un cabello liso y brillante con la GHD Gold. Ideal para todo tipo de cabello, transforma tu look en minutos y deslumbra con resultados profesionales",
+      "image": "https://cdn4.telesco.pe/file/CZb4a71Aa11-LjvanwCMb2XSGXdy3UHfPAnQyvLm0igvLONSM4lP9tkV-yOtgWSANUcdH1BZQsnBsFu9FvoCNe30cbsUTWhVwUsEgZ8tndzoMdwwIS_qgTmqwXnHQjPsGFXjgNGDd-vlZ5zoz4dIVnfvh1w4wdzVSN_vvBwZxe-_t4nTcijHMrRisyq8tiIQ0PnC0DwTvvqeVsI4wEbQXSl0iqYl9rqSdUmmsEWHDq-aD6Uxv-t-WwH9AM3I5epWuNilfykbNis111fJK0l8k3nJVPH-wCIvQAjLTzesVJNtyUOfv8E1hsYEBGXhZOV-FztzddBlWLGA8yHAkzXaRA.jpg",
+      "link": "https://ir.cazadordechollos.es/98645",
+      "marketplace": "Amazon",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "44"
+    },
     {
       "id": "ofertasychollosesp/98644",
       "date": null,
@@ -2092,26 +2109,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "46"
-    },
-    {
-      "id": "ofertasychollosesp/98510",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -25%‼️ #Publicidad\n\n✅ASPIRADORA SIN CABLE DYSON V15\n\n📝 Descubre la potencia de la aspiradora Dyson V15 Detect™ Absolute, ideal para una limpieza profunda y sin enredos.\n\n🟢AHORA : 599,00€\n❌ANTES: 799,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t3tt",
-      "title": "ASPIRADORA SIN CABLE DYSON V15",
-      "description": "Descubre la potencia de la aspiradora Dyson V15 Detect™ Absolute, ideal para una limpieza profunda y sin enredos AHORA : 599,00€ ANTES: 799,00€",
-      "image": "https://cdn4.telesco.pe/file/LXdNpfL-1UdhKbiLxNTBT-RoA2gf4BxOOLLzUN88ri-4WNiXn2qpm1YTrMD0QrPT5hnV-vfvAjvTAbHQc5wBWJAen3ZEirdE0WStK5RnORPhK9RFvApWN6csPjDX0gtxMQWhgaaQxn-korf1NgzwMxgP-goFoOJn2Ozrk_j0Pt2_WiSM5KPFq3EpjBRRSlCvyAN3lfTosS6Berktsfc93o87sEFMsPKnumuiyxyP171mvCoJKN8AGp4AsvNkEONrHSCQlH6pF7L5B-dSBALw-NBy3hM095pArRnqihO8DZjVExafj5rg5QjdXXVRDNSKT_mtuRGuBfHH8dGCPHH1iQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t3tt",
-      "marketplace": "Dyson",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "599,00",
-        "799,00"
-      ],
-      "discount_percent": "25"
     }
   ]
 }
