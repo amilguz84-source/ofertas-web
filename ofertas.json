@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T09:10:33.632260+00:00",
+  "generated_at": "2026-08-30T09:30:30.800316+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98641",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -41%‼️#Publicidad \n\n✅ROWENTA X-PERT 6.60 ASPIRADORA ESCOBA SIN CABLE\n\n📝 La Rowenta X-Pert 6.60 es ligera y sin cables, ideal para una limpieza rápida y eficiente en cualquier rincón de tu hogar. ¡Haz tu vida más fácil!\n\n🔗Enlace: https://amz.tf/EyANNOV",
+      "title": "ROWENTA X-PERT 6.60 ASPIRADORA ESCOBA SIN CABLE",
+      "description": "La Rowenta X-Pert 6.60 es ligera y sin cables, ideal para una limpieza rápida y eficiente en cualquier rincón de tu hogar. ¡Haz tu vida más fácil",
+      "image": "https://cdn4.telesco.pe/file/hu5Lq7JhmMWBDYp4oMhO13cg-jZFSxDdcY8wAjrxe0rb6f5LIMs5kcuDYQF4Q4ryayB49A6bu3vnKhVGtiOWkdyx37XDuh4PFjruMllQep0FkuiwH3CObI1SY19OMQqRrlGbG53QQ3hAaAlNbv22ErG0GZae6aWowz7_7RIV6AbT1ck2xCxtiCQhBJZhYO_B-beozPX7GX88eBpOQkk9daUuc_RN_bu_z0gIIQ2RmK412UrzG0_r2suDMVHmUZoMM010f3taC8e4liD96dcLc2OKvn_betqowmZzYvHYdqJZf0jkW5EGQw1-6CVkyBVgZLLppKqKFFDfdnSWX54hpQ.jpg",
+      "link": "https://amz.tf/EyANNOV",
+      "marketplace": "Amazon",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "41"
+    },
     {
       "id": "ofertasychollosesp/98639",
       "date": null,
@@ -2096,23 +2113,6 @@
         "999,00"
       ],
       "discount_percent": "20"
-    },
-    {
-      "id": "ofertasychollosesp/98507",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -53%‼️#Publicidad\n\n✅EASTPAK BOLSO BANDOLERA AZUL\n\n📝 Descubre el Eastpak Buddy, un bolso bandolera de 0.5 L en azul ultra marine, perfecto para llevar tus esenciales con estilo y comodidad. ¡No te quedes sin el tuyo!\n\n🔗Enlace: https://ir.cazadordechollos.es/98507",
-      "title": "EASTPAK BOLSO BANDOLERA AZUL",
-      "description": "Descubre el Eastpak Buddy, un bolso bandolera de 0.5 L en azul ultra marine, perfecto para llevar tus esenciales con estilo y comodidad. ¡No te quedes sin el tuyo",
-      "image": "https://cdn4.telesco.pe/file/a7TuQfcjG7ilXri4uDaihQAfDaVftdMDt0o-a7rd1odYDP3RJumhQ50xHHzfvS11_22DlWRx0dcPxCjJgLDHVJreqDD54KC6DYzps7VAbKMy805qj_poBl8ioKx6B-coT-BhKy0AhVJ216ORCNtk1b0TKZYZWZViVyZySPkRYXsHAqTxwsh4--Mc1Hpi_9fdaT4g5l99OioG6Qn-OofLKoPZAFDFaAqkl4A88foYK0htzbCEwQJglDQmj_29wt4Bt-ECKNwmAaSjfaiw5Nr96pByDD7bNu1KZ4WyDCeWZecDUoe9rgwxVLmdbTU6twpzyOLuZZUaCmYtZ-oYfaCsIw.jpg",
-      "link": "https://ir.cazadordechollos.es/98507",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "53"
     }
   ]
 }
