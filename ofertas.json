@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-30T17:50:37.429086+00:00",
+  "generated_at": "2026-08-30T18:10:35.460099+00:00",
   "channel": "ofertasychollosesp",
   "count": 118,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/98674",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -14%‼️#Publicidad \n\n✅COLUMBIA BOONEY SOMBRERO DE VERANO\n\n📝 Disfruta del sol con el Columbia Bora Bora Booney. Este sombrero unisex es ligero, cómodo y perfecto para tus aventuras al aire libre. ¡Protege tu estilo!\n\n🔗Enlace: https://ir.cazadordechollos.es/98674",
+      "title": "COLUMBIA BOONEY SOMBRERO DE VERANO",
+      "description": "Disfruta del sol con el Columbia Bora Bora Booney. Este sombrero unisex es ligero, cómodo y perfecto para tus aventuras al aire libre. ¡Protege tu estilo",
+      "image": "https://cdn4.telesco.pe/file/IWmmXV71yFWhKkSeFDFKXYJiNLDvhu13zEyN58Fu_Rt68ApYBgv3XzXEK6mDbQCRAicATffeObmYx3Qo45j5lBwEep3gu1-hiXruZGO0fw2DHDbox7fP_ivpVsl3eyrA_mLBwzfxrs1BTelj9Rzu50dmXvREkXCIXBSKxKVNUvA4r1gbZuX84wk5_9NJGXfLbmrzPyaQ9JvJMnbXH5Hsz4RxZWlc4yqI64K0nqBpC5fXoA-2hKEfJjzq22OtEIGrRBHoVtfSPNNXaiEaIu4TZpdr5mLUn2T31hPH0tDM4_bMv-nEUcFrK_Pin78blyPbLERLDXdYWuMyyU4bb5ENVA.jpg",
+      "link": "https://ir.cazadordechollos.es/98674",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "14"
+    },
     {
       "id": "ofertasychollosesp/98673",
       "date": null,
@@ -2076,23 +2093,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "34"
-    },
-    {
-      "id": "ofertasychollosesp/98542",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -50%‼️#Publicidad \n\n✅DE'LONGHI ECODECALK DESCALCIFICADOR\n\n📝 Mantén tu cafetera en óptimas condiciones con De'Longhi EcoDecalk. Este descalcificador de 5 dosis asegura un sabor perfecto y prolonga la vida de tu máquina. ¡No te quedes sin él!\n\n🔗Enlace: https://ir.cazadordechollos.es/98542",
-      "title": "DE'LONGHI ECODECALK DESCALCIFICADOR",
-      "description": "Mantén tu cafetera en óptimas condiciones con De'Longhi EcoDecalk. Este descalcificador de 5 dosis asegura un sabor perfecto y prolonga la vida de tu máquina. ¡No te quedes sin él",
-      "image": "https://cdn4.telesco.pe/file/kHV4kFz7evCr9jclD6iZWQBLLLPBzJM091IjBGakpqfmu5eBURhkVyQMk8mX2FrQeGVVzjh8ar_O-__vAty88J0QY3b-7pBXqVYhyRnDV3L2vHZfCihCtgLMl7edhXNlrk7D4rMwEHrHBd1k5lzMfJmqlLK76FyppWBPA73QGQwtjq57muqd5MSiX-_rDrOIVcpjADEymI6W1eWNWbDEYVQ3-4bQ5BryHcI7zxehrrW55jbvaNbC5MlFjh_eThEr33EFAdAR4F9IB1BUD3G9bKPrHg8qiIlthWlHF5kNZQOikxvodkOH5r4wteZHnSrMETNgrnok5dxd4pR-hWPdbQ.jpg",
-      "link": "https://ir.cazadordechollos.es/98542",
-      "marketplace": "Amazon",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "50"
     }
   ]
 }
