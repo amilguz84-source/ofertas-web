@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T21:44:35.430048+00:00",
+  "generated_at": "2026-09-02T23:34:32.983650+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/99081",
@@ -2134,26 +2134,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "46"
-    },
-    {
-      "id": "ofertasychollosesp/98951",
-      "date": null,
-      "text": "‼️CUPÓN CAZADO -45%‼️ #Publicidad\n\n✅DISCO DURO EXTERNO SEAGATE 5TB\n\n📝 Unidad de disco duro portátil para Xbox de 5TB, con USB 3.2 Gen 1 y certificación Xbox. Incluye LED RGB y Rescue Services.\n\n🟢AHORA : 122,20€\n🎟️CUPÓN APLICADO: -15,00€\nℹ️ Cupones sujetos a disponibilidad.\n\n🔗Enlace: https://ir.cazadordechollos.es/t4hg",
-      "title": "DISCO DURO EXTERNO SEAGATE 5TB",
-      "description": "Unidad de disco duro portátil para Xbox de 5TB, con USB 3.2 Gen 1 y certificación Xbox. Incluye LED RGB y Rescue Services AHORA : 122,20€ ℹ Cupones sujetos a disponibilidad",
-      "image": "https://cdn4.telesco.pe/file/oqdreNguGuITcX_fnpIKDMX2QFRul06zbTghM6CC9QRKsuKJRCmNj3ZOf7NlTrOTDfBqUzanKzuj7WIe0kjHX3HS69XNIFQ7wCie7QaNSUSLuySDilToXkmGrLuYcfHeLC2N1VF2bGCFgAZwgNVleN5MMgs5mYmDxVR6IFKrPWGkJY0P6-8JCrVrpKm46zZ4mD38S0Yll_mdrCiLE6xD3uivzLjHwjgWCeZnv6O4sZy1W_y2PDWn6cdgs99FZnn2yK9rXu_vVMB4z0PEFu4KWGb_vSZkPdhml_om3i7od7Z_Lb6yPlombIiejE1gvW8MfF3ZbAOBi_P9Cm2d02WvfA.jpg",
-      "link": "https://ir.cazadordechollos.es/t4hg",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "122,20",
-        "15,00"
-      ],
-      "discount_percent": "45"
     }
   ]
 }
