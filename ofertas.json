@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T21:39:43.980840+00:00",
+  "generated_at": "2026-09-03T23:32:08.171664+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/99226",
@@ -2177,23 +2177,6 @@
         "13,96"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/99097",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -38%‼️#Publicidad \n\n✅ASSASSIN'S CREED VALHALLA\n\n📝 Embárcate en una épica aventura vikinga en Assassin's Creed Valhalla para PlayStation 4. ¡Explora, conquista y forja tu legado en un mundo abierto lleno de acción!\n\n🔗Enlace: https://ir.cazadordechollos.es/99097",
-      "title": "ASSASSIN'S CREED VALHALLA",
-      "description": "Embárcate en una épica aventura vikinga en Assassin's Creed Valhalla para PlayStation 4. ¡Explora, conquista y forja tu legado en un mundo abierto lleno de acción",
-      "image": "https://cdn4.telesco.pe/file/uMbY09MdR4bMTALyJ9kB5XFMH9Zo7_01VM6oYgz2V9TJMFO-NUr0Alv6Tfjey1s-DvvI2xqrwpjYVHWwbbe_LOB7oO28_hi7-j0Ggez1KFglrKEN9Imja4Q5HWU9-L5w4fFDhbXBY2pwRxzVdaY8PMXhXXZVbOgSfvaMFhehzFoI74lj3A9cS509lJW4Z9jiCg79HPjF-WN0MFCmvXoUVnqMOQvaXYIKD9llLBQc-seAW84eZs0KJuj4fW7n7-Dx-VIha8ufN8GKFEJ-qIBNp4pHtjturkNBXXhymY4hqbBAIGJtKpDgOETQk33wcAMF7W7yOGEL0rL_r1cUy37l5w.jpg",
-      "link": "https://ir.cazadordechollos.es/99097",
-      "marketplace": "Amazon",
-      "category": "Videojuegos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "38"
     }
   ]
 }
