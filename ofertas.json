@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T21:43:54.652429+00:00",
+  "generated_at": "2026-09-06T23:11:46.113783+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/99770",
@@ -2188,26 +2188,6 @@
         "699,00"
       ],
       "discount_percent": "19"
-    },
-    {
-      "id": "ofertasychollosesp/99645",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -15%‼️ #Publicidad\n\n✅CUADERNOS A4 RAYAS PACK 5\n\n📝 Pack de 5 cuadernos A4 con tapa blanda y 80 hojas rayadas en colores surtidos. Ideal para tus apuntes y tareas diarias.\n\n🟢AHORA : 12,29€\n❌ANTES: 14,42€\n\n🔗Enlace: https://ir.cazadordechollos.es/t5bp",
-      "title": "CUADERNOS A4 RAYAS PACK 5",
-      "description": "Pack de 5 cuadernos A4 con tapa blanda y 80 hojas rayadas en colores surtidos. Ideal para tus apuntes y tareas diarias AHORA : 12,29€ ANTES: 14,42€",
-      "image": "https://cdn4.telesco.pe/file/UiBJsJobihKyJai-vG2se1OFiWfSgwgGLBM4qt8-_4yMvQpsKrK5_80CXNmdzXGewu3L3kDCCLDrFylKOB-Tsp7Sv77hh812JYy5_sk5If2Lyq4ojkLnJUuYHf5Wmymvq92mdK8geA0g7Eas9FsGkvHN5YIn0DiL0PuR04Y62g5dD_ABx-UV6nWhfhwijmB2_w_T5Ghn5nztGv2_TCuSJh6cczgDAGC2mZFKmip3wR3plxLciHwgF2R3goX3XOV24DqS4nKJ5h9KJ64hPVkKCerimUkaOpTTcKvjOic149Rk4kNe5_R6bdiXimzdVFMREMJMOi4FGrJ18b4RBGeEnA.jpg",
-      "link": "https://ir.cazadordechollos.es/t5bp",
-      "marketplace": "Amazon",
-      "category": "Papelería y oficina",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "12,29",
-        "14,42"
-      ],
-      "discount_percent": "15"
     }
   ]
 }
