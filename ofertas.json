@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-09-07T01:07:55.189359+00:00",
+  "generated_at": "2026-09-07T06:12:30.600504+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/99773",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -20%‼️#Publicidad \n\n✅PENDIENTES SISTER EN BAÑO DE ORO\n\n📝 Descubre los elegantes pendientes Sister, ligeros y con un brillante acabado en oro de 18 Kt. Perfectos para cualquier ocasión, ¡haz que tu estilo brille!\n\n🔗Enlace: https://ir.cazadordechollos.es/99773",
+      "title": "PENDIENTES SISTER EN BAÑO DE ORO",
+      "description": "Descubre los elegantes pendientes Sister, ligeros y con un brillante acabado en oro de 18 Kt. Perfectos para cualquier ocasión, ¡haz que tu estilo brille",
+      "image": "https://cdn4.telesco.pe/file/cBic1z97yytnt4UyvR4Uo3wo02hUP8aoGAAW5Gw2ZcmPq54dTOvpN6VK8915v-Oio9QSdlMVDwwlnOOqxX5Mu8fK2hmMm-vR5iWwXoQD0Si_VFZJTigHHX6qwu4bWmdWOxddGpT36d9woyRpxt7IQZi6nKmk5Rs4Mh1CATMVrsbSlwhGy16DjvBrUULOEyvhOkbf5rWHw7DLTNTGggTHivtLZ-bDqc9vOity1m1nqGnOMhIs-HRIncaezQIefMtI1tvXysdkGNWwbqP5w4ptfC7oDFxG0HjMSTab_3EzNew-HjCFNlOXZzyml_4y4EnC7vsnRKN1mgp3W0m0tJMu5A.jpg",
+      "link": "https://ir.cazadordechollos.es/99773",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "20"
+    },
     {
       "id": "ofertasychollosesp/99770",
       "date": null,
@@ -2167,27 +2184,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "10"
-    },
-    {
-      "id": "ofertasychollosesp/99646",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -19%‼️ #Publicidad\n\n✅MONITOR GAMING MSI MAG 272UP QD-OLED + \nMSI Carrito con Ruedas Plegable\nMSI Ratón Gaming FORGE GM300\nMSI Alfombrilla Agility GD21\nCódigo Steam de 10€\n\n📝 Monitor gaming de 27 pulgadas con tecnología QD-OLED, incluye carrito plegable, ratón gaming y alfombrilla. Perfecto para tus sesiones de juego.\n\n🟢AHORA : 569,00€\n❌ANTES: 699,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/t5bs\n\n🎁Al comprar el monitor incluye todo lo demás de regalo 🔥🔥",
-      "title": "MONITOR GAMING MSI MAG 272UP QD-OLED +",
-      "description": "MSI Carrito con Ruedas Plegable MSI Ratón Gaming FORGE GM300 MSI Alfombrilla Agility GD21 Monitor gaming de 27 pulgadas con tecnología QD-OLED, incluye carrito plegable, ratón gaming y alfombrilla. Perfecto para tus sesi…",
-      "image": "https://cdn4.telesco.pe/file/XR3MRLWzkvJpT3V2ITS6DFH1cLzDqY1tcttj-YMS4yNUhbyyfYar2f33KV4rKK-JY2AQutA-yi2hLlohsemzS2O5p9gbU2YOBJAkfbBKeXAgykUp-IhIDLJ2gO0EpGkTbNodJ9tEwcuVyT2z87OEc7-U8sM1sRelBF6IVIvlGtIOcZzDCldkoRAQqEzajl9NJtgHOkZqo_VHxBhR_9fJHx8RlHOlCNhmx6HCxJHf_WAhPEydM_P8_7dU7tpJd1DZnNoG0RL_hi53_SXRqFYZvjA59iDzAvA_ay4_0_wQnmnwSLTCAa-6x0fR_xwU3v5V7f9bFHTG-6oLRLsVgxlYDA.jpg",
-      "link": "https://ir.cazadordechollos.es/t5bs",
-      "marketplace": "Es-store",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": "STEAM",
-      "prices_found": [
-        "10",
-        "569,00",
-        "699,00"
-      ],
-      "discount_percent": "19"
     }
   ]
 }
