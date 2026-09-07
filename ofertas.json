@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T21:37:03.611485+00:00",
+  "generated_at": "2026-09-07T23:47:05.275517+00:00",
   "channel": "ofertasychollosesp",
-  "count": 116,
+  "count": 115,
   "ofertas": [
     {
       "id": "ofertasychollosesp/99862",
@@ -2074,23 +2074,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "57"
-    },
-    {
-      "id": "ofertasychollosesp/99732",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -37%‼️#Publicidad \n\n✅GLORIA VANDERBILT N°1 EAU DE TOILETTE\n\n📝 Descubre la elegancia y frescura de Gloria Vanderbilt N°1, un perfume cautivador para mujer que realza tu esencia única. ¡Atrévete a brillar con cada spray!\n\n🔗Enlace: https://ir.cazadordechollos.es/99732",
-      "title": "GLORIA VANDERBILT N°1 EAU DE TOILETTE",
-      "description": "Descubre la elegancia y frescura de Gloria Vanderbilt N°1, un perfume cautivador para mujer que realza tu esencia única. ¡Atrévete a brillar con cada spray",
-      "image": "https://cdn4.telesco.pe/file/HoZL8i72ZBYRGA_rlncN-iSsNSxLSmCWYfLnVXZNLJgg7Rk89OfZ-A9Q27klrYfYtC50-xYwR2AGFSUI4Svt0zcP8lvk1c1yE2odJHZJmyyLaWvy1Ex3Bps4WDxLJFvQgrcSuDEdGvpHvR-04Iz3sohxMrf282y2TVtK4VpBlRGawYN9A3hDh8mcqd0cO2R_2xPIzkI6vIJLOLJ3I7xdpiyjH1IhykPcEPRSITGgpZ57UP96ErgFNJHRw-VDNUk0kBsFF0mYgtmoaMipMgCEKdiXPVJxO6xip56G0IOOea-udEYabwccm-cCpr1EtdT-R35tKcq1993ui2fSjj53Sg.jpg",
-      "link": "https://ir.cazadordechollos.es/99732",
-      "marketplace": "Amazon",
-      "category": "Belleza y cuidado personal",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "37"
     }
   ]
 }
