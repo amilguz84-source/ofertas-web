@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T21:46:36.995463+00:00",
+  "generated_at": "2026-09-08T23:41:43.652471+00:00",
   "channel": "ofertasychollosesp",
-  "count": 116,
+  "count": 115,
   "ofertas": [
     {
       "id": "ofertasychollosesp/99980",
@@ -2051,23 +2051,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "25"
-    },
-    {
-      "id": "ofertasychollosesp/99847",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad \n\n✅COLCHÓN HINCHABLE INTEX DURA-BEAM\n\n📝 Disfruta de un descanso cómodo y reparador con el colchón hinchable Intex Dura-Beam. Ideal para camping o visitas, ¡tu mejor aliado para noches perfectas!\n\n🔗Enlace: https://ir.cazadordechollos.es/99847",
-      "title": "COLCHÓN HINCHABLE INTEX DURA-BEAM",
-      "description": "Disfruta de un descanso cómodo y reparador con el colchón hinchable Intex Dura-Beam. Ideal para camping o visitas, ¡tu mejor aliado para noches perfectas",
-      "image": "https://cdn4.telesco.pe/file/fnVXiwv0_SLFjYPAofa7IZJfpD53a1kcoePnJDJhYNA6lf5UG7HtifJT8VoQi8AR5EdW154UtoBZSnJpujXGaAxTgCLEIGiGB5yZ6nUMNs1VN0JKPPgQx4bVFL0A2ywqU2utLGikaGbizva1mMFgYdRLU36R70-7JrjR9qfYvM_wI7s154_S-o5XLID_z11UjLjTrDxuD76HGgrLq2pHqKYhp15mjUPzuc-kQLe9oY3g20FSaJKA_PUXcMVE7ynPqKZGqiyQz8Qi_qNBvVGvxA2njV54IZBn_FXqDiXY9mF5ysXYpQ1tF73-DWvUaPviletCnQtdfzRP7RKshzL3-w.jpg",
-      "link": "https://ir.cazadordechollos.es/99847",
-      "marketplace": "Amazon",
-      "category": "Hogar",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "30"
     }
   ]
 }
