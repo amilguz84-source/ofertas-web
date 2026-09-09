@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-09-09T01:32:54.674790+00:00",
+  "generated_at": "2026-09-09T06:42:00.402763+00:00",
   "channel": "ofertasychollosesp",
   "count": 115,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/99982",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -20%‼️#Publicidad \n\n✅AMERICAN TOURISTER SOUND BOX MINI SPINNER XS\n\n📝 Ideal para los pequeños viajeros, este equipaje infantil de 47 cm combina estilo y funcionalidad, ¡perfecto para aventuras llenas de diversión!\n\n🔗Enlace: https://ir.cazadordechollos.es/99982",
+      "title": "AMERICAN TOURISTER SOUND BOX MINI SPINNER XS",
+      "description": "Ideal para los pequeños viajeros, este equipaje infantil de 47 cm combina estilo y funcionalidad, ¡perfecto para aventuras llenas de diversión",
+      "image": "https://cdn4.telesco.pe/file/axeqMarL4gQrVQFo3-CHW-Hpfqh--xGaKtuzSo_wIOhql4nWqzZekvHm1OgQjI9cK8mN1TOKA8m6yxHqNCzhgD6epHVjvr0UNGCxM3ATgkXO6VBbNNF5b3_r5NeGXGRHCYt6jYBtiVRwvj3XqrF9MbeEUyDnSMBKVw8sKL3_UzYHMNgteBrfBdFMJaXzwW79nKyAcOrdzJOEDexL3QgUWdfpaZMkNWaUMxcIS0HTcaTi0shFOyJB_jeipc78Uq6wb_gSAdtSvtQDA9bsk4woHqX7FIfx8W-bMYOcpIY6P4_qCe55sUjDDcHrTPv_fjY4sTPn_IlNhkcx6c6ZhjjXpw.jpg",
+      "link": "https://ir.cazadordechollos.es/99982",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": "20"
+    },
     {
       "id": "ofertasychollosesp/99980",
       "date": null,
@@ -2034,23 +2051,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "33"
-    },
-    {
-      "id": "ofertasychollosesp/99848",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -25%‼️#Publicidad \n\n✅CREATINA EXCELL 100% CREAPURE® EN POLVO\n\n📝 Potencia tu rendimiento con Creatina Excell 100% Creapure®. Sin sabor, ideal para mezclar. ¡Maximiza tus entrenamientos y alcanza tus metas!\n\n🔗Enlace: https://ir.cazadordechollos.es/99848",
-      "title": "CREATINA EXCELL 100% CREAPURE® EN POLVO",
-      "description": "Potencia tu rendimiento con Creatina Excell 100% Creapure®. Sin sabor, ideal para mezclar. ¡Maximiza tus entrenamientos y alcanza tus metas",
-      "image": "https://cdn4.telesco.pe/file/iCGq_2eGuFooFmb6sl-xgNBUzh_nTw00__pZFq5fpoCovPGs4_176ejbmhOAMj6z6nRM8tFWUhkJ1IjzhDVM_EHTb1mYInyv2iiTv-dkwKtz7jCflyBVOkBLCoeeS0RFcvg845t_9tarM5c_C02x0ez3krXGnkLTafaXsmkwsrOOKFojFektEfBu17z41N6q2vuF_cbsZ5YF3dtP9Wg-UO4sNUj6pO1ME3pt2LCaEwWi-2hbetAQmtPnmEl6AqEUqxrj-gRtrHMb024Zh3XWwHsGFU0YrS1zb2pxYgFX_gickIKNta1cv6vhy_zChV7rB8_2oLpWI9xsb2RHwy00OA.jpg",
-      "link": "https://ir.cazadordechollos.es/99848",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "25"
     }
   ]
 }
