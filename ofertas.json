@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T21:57:16.219110+00:00",
+  "generated_at": "2026-09-10T00:04:41.485945+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/100122",
@@ -2189,23 +2189,6 @@
       "coupon_code": null,
       "prices_found": [],
       "discount_percent": "54"
-    },
-    {
-      "id": "ofertasychollosesp/99995",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -78%‼️#Publicidad \n\n✅NORTON 360 PREMIUM EXCLUSIVO AMAZON\n\n📝 Protege hasta 10 dispositivos con Norton 360 Premium. Disfruta de un año de seguridad avanzada y renovación automática. ¡Tu tranquilidad digital comienza aquí!\n\n🔗Enlace: https://ir.cazadordechollos.es/99995",
-      "title": "NORTON 360 PREMIUM EXCLUSIVO AMAZON",
-      "description": "Protege hasta 10 dispositivos con Norton 360 Premium. Disfruta de un año de seguridad avanzada y renovación automática. ¡Tu tranquilidad digital comienza aquí",
-      "image": "https://cdn4.telesco.pe/file/sX4zrnd42UFNub9AaXBEF9G3kFdICenyRYLQAC7AfTllmSE696u3f5uy8y62AD2Zx_VvZAQ1XZUcITAeO0S8H_FNk9xeGg-PazYNLTbOnLdaZNVefKqpbC2ybTQzK6bb0lEe4mbDmHo6rw-eBIGN9rNLV8A1TUKWo4FJy_tXvwZ97u_NYjrI92lX6MiZcAgD1tlKmI25_KK9RbKyUxZe5BC_ofC2AY2GIHcFO8Nv8Pv6RsfEGUEsrY0J5EhbtLA2v61lGK2xTy3z8hQIZOpYPy4rEl2fkgjuR5UtX0lQw4UOGSCymmYK8Hlu4w24KJKv_wD3Vm24tMTdSm59XPo_AA.jpg",
-      "link": "https://ir.cazadordechollos.es/99995",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": "78"
     }
   ]
 }
