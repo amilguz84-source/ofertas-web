@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T21:46:22.034551+00:00",
+  "generated_at": "2026-09-15T23:44:52.018166+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/101100",
@@ -2313,26 +2313,6 @@
         "399.99"
       ],
       "discount_percent": "33"
-    },
-    {
-      "id": "ofertasychollosesp/100964",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -23%‼️#Publicidad \n\n✅PACK GUITARRA ELÉCTRICA SQUIER STRATOCASTER NEGRO\n\n📝 Descubre el Squier Sonic Stratocaster Pack: la guitarra eléctrica perfecta para principiantes, con un sonido increíble y todo lo que necesitas para empezar a tocar. ¡Hazla tuya!\n\n🟢AHORA : 239€\n❌ANTES: 309.99€\n\n🔗Enlace: https://www.amazon.es/dp/B0C5JSDV95?tag=javiofertas-21",
-      "title": "PACK GUITARRA ELÉCTRICA SQUIER STRATOCASTER NEGRO",
-      "description": "Descubre el Squier Sonic Stratocaster Pack: la guitarra eléctrica perfecta para principiantes, con un sonido increíble y todo lo que necesitas para empezar a tocar. ¡Hazla tuya AHORA : 239€ ANTES: 309.99€",
-      "image": "https://cdn4.telesco.pe/file/gps9ZUNMtB-upDtEh5gCFgqdNMeurUAHDraMC5JZfhtNOlgLWshB3LGLtkt9n7Vw7DJkMhCdTntEK5u2XONd0j-sc0PN8NehoSmi5J3QS0h1pFQ0XmQzTttEad2AP-NNzyxLnsh_21_1i1ERauT9UD1_dLAx6p7P-zHBBbKk1l0P5epZJ9wI12rBkGl6WdnLd1aIifrHnaAAI024AnAakrvXVryqdyUecoflWtfkiEdN7WHK34-6c_6UpTbXDv9JBs_XKUHdM1cqAcj5d4xjOzzs55tL49z__RJp8L73arRrzpC7hMuINOy9l-bhaq1VBQ-dKY09OktX-vam6dx6Ug.jpg",
-      "link": "https://www.amazon.es/dp/B0C5JSDV95?tag=javiofertas-21",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "239",
-        "309.99"
-      ],
-      "discount_percent": "23"
     }
   ]
 }
