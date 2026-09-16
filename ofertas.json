@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-16T01:44:08.494895+00:00",
+  "generated_at": "2026-09-16T06:48:37.511771+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/101103",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -46%‼️#Publicidad \n\n✅BELKIN CARGADOR DE PARED USB-C 20W\n\n📝 Potente cargador compacto que ofrece carga rápida para tu iPhone, Samsung, Pixel y más. ¡Aprovecha su eficiencia y lleva tu energía a donde vayas!\n\n🟢AHORA : 9.69€\n❌ANTES: 17.99€\n\n🔗Enlace: https://www.amazon.es/dp/B0DZCSGLX5?tag=javiofertas-21",
+      "title": "BELKIN CARGADOR DE PARED USB-C 20W",
+      "description": "Potente cargador compacto que ofrece carga rápida para tu iPhone, Samsung, Pixel y más. ¡Aprovecha su eficiencia y lleva tu energía a donde vayas AHORA : 9.69€ ANTES: 17.99€",
+      "image": "https://cdn4.telesco.pe/file/iwmMUeWmmpP4hIefutMxH4UcNYhT5qg1SeNnviS82DlLFjq5WP0UefMpwLxnHK3yDVWX9KVzsdJijPgZJgzoQcX8NO8Qmnw5ZZN4Yiti-EFLfdRM2YOMrGCazWLqbhoiTomUriu8Rg6WbzymbblSpPD_VPLK7M-YnB7l35kfLmosO9ZEiTB_L1fAe8fPpnBXa_V0MavNAerOBPOXtcF-AyiIryLyKpkc6cOsdVtZ4-07yF52cn25AW5_dPO58dGoRBTCtgFK9UP7r0ovzEyrtpeYXK2Ryrs8WIbNz4GqoYja1FXav7TBkRo_I20mOqYEmrPGBusNgQ1-HrHxFf3Dpw.jpg",
+      "link": "https://www.amazon.es/dp/B0DZCSGLX5?tag=javiofertas-21",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "9.69",
+        "17.99"
+      ],
+      "discount_percent": "46"
+    },
     {
       "id": "ofertasychollosesp/101100",
       "date": null,
@@ -2293,26 +2313,6 @@
         "139.9"
       ],
       "discount_percent": "22"
-    },
-    {
-      "id": "ofertasychollosesp/100965",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -33%‼️#Publicidad \n\n✅AFEITADORA ELÉCTRICA PHILIPS I9000 PRESTIGE\n\n📝 Experimenta un afeitado perfecto con la tecnología SkinIQ. Ideal para uso en seco y húmedo, incluye base de carga y estuche de viaje. ¡Tu mejor aliado para el cuidado personal!\n\n🟢AHORA : 266€\n❌ANTES: 399.99€\n\n🔗Enlace: https://ir.cazadordechollos.es/100965",
-      "title": "AFEITADORA ELÉCTRICA PHILIPS I9000 PRESTIGE",
-      "description": "Experimenta un afeitado perfecto con la tecnología SkinIQ. Ideal para uso en seco y húmedo, incluye base de carga y estuche de viaje. ¡Tu mejor aliado para el cuidado personal AHORA : 266€ ANTES: 399.99€",
-      "image": "https://cdn4.telesco.pe/file/BoGzHmNsdBE9LhkFfHQJmj_unYYVftuXR0s-KmgGMEgipPUV-UBnbbw2RMaoJOsLfCgwAeVxZcyL5Lnh5jTmIHf2QkKkH2Cfaf9JV0sBJCDOIlOx50iMwiX4yf2vLOI2aML90pPt-rYkA1cigvPj6njdyMps-8CHb0llufkw0GQm_r2RKxtc2-C037tUmJuzl1mmwH7UgwWOti6oagklt9Anv_Hje-uEl6Qo2tUkMvqUTbLXTw_cBXwgvCogNztBZaS2bFaXZwqlTxfO9KyS9Iam4JZtzl0pVaaxYzOY7zf7lGpg_h3ZrnThOGKtvtQkz4ookcCQq7lIdZMyuaFS1w.jpg",
-      "link": "https://ir.cazadordechollos.es/100965",
-      "marketplace": "Amazon",
-      "category": "Belleza y cuidado personal",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "266",
-        "399.99"
-      ],
-      "discount_percent": "33"
     }
   ]
 }
