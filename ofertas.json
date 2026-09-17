@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-17T01:18:17.754163+00:00",
+  "generated_at": "2026-09-17T06:13:10.661681+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/101259",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -46%‼️#Publicidad \n\n✅CAROLINA HERRERA GAFAS SOL HER 0143/G/S\n\n📝 Descubre las elegantes gafas de sol Carolina Herrera, modelo HER 0143/G/S. Perfectas para cualquier ocasión, combinan estilo y comodidad en un diseño no polarizado. ¡Atrévete a lucirlas!\n\n🟢AHORA : 80.83€\n❌ANTES: 149€\n\n🔗Enlace: https://www.amazon.es/dp/B0BVKGS7WK?tag=javiofertas-21",
+      "title": "CAROLINA HERRERA GAFAS SOL HER 0143/G/S",
+      "description": "Descubre las elegantes gafas de sol Carolina Herrera, modelo HER 0143/G/S. Perfectas para cualquier ocasión, combinan estilo y comodidad en un diseño no polarizado. ¡Atrévete a lucirlas AHORA : 80.83€ ANTES: 149€",
+      "image": "https://cdn4.telesco.pe/file/mxngsoSRTSxuHykJIlFmJ-b0YfCkbse8Y8VB5CTSCeG-Vrpq5aKgkgf1jrS2wC8LDcSNAS8uafgy8vWxkFVVtlRBdUrwCNGYHR5ZkSv7WBGnReyAn_F8T2pWsjW5_57h2xEpMkSzhXmQZAmd0HVEGhBKtg6mBpvdAycvXBUV2_ypT5oeZKW0800F_oWePh1HzeOT6h0p25WHRce-jeJ5z0xJb7Suv0HCYQ0Pcthvn4wYKUdEr-5CiR0bhs2tx7RcAE-OinTjMRJgQfuwg6YWyBx8fap2wVetyZ88f8reaZFsy7mIdjQJOWZgvbG6hxXWj4Z-AWrBqYbcmQbkHK625A.jpg",
+      "link": "https://www.amazon.es/dp/B0BVKGS7WK?tag=javiofertas-21",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "80.83",
+        "149"
+      ],
+      "discount_percent": "46"
+    },
     {
       "id": "ofertasychollosesp/101257",
       "date": null,
@@ -2292,26 +2312,6 @@
         "4,99"
       ],
       "discount_percent": "22"
-    },
-    {
-      "id": "ofertasychollosesp/101128",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️#Publicidad \n\n✅DRIFT GAMING DRDZ175RGB - MESA GAMING RGB\n\n📝 Disfruta de una experiencia de juego única con la mesa Drift Gaming, que cuenta con laterales RGB reactivos al sonido y un diseño elegante en fibra de carbono. ¡Mejora tu setup!\n\n🟢AHORA : 111.99€\n❌ANTES: 159.9€\n\n🔗Enlace: https://www.amazon.es/dp/B0CSGCQVV6?tag=javiofertas-21",
-      "title": "DRIFT GAMING DRDZ175RGB - MESA GAMING RGB",
-      "description": "Disfruta de una experiencia de juego única con la mesa Drift Gaming, que cuenta con laterales RGB reactivos al sonido y un diseño elegante en fibra de carbono. ¡Mejora tu setup AHORA : 111.99€ ANTES: 159.9€",
-      "image": "https://cdn4.telesco.pe/file/ekWEWkR7xqlTf5OpaiQT-8P_PornnAvdgcRv8f7L4sp6szfOOA98YQfBYolbBagC9wqDZwm-bsDwB86Vkn8O1n3M5Mq0GP93NVRmcaWdJHrfokPkiCrRFAgXzgPGXSjXkFqL_if9j9l3UhMpVqkz3I8y_mbM3UiiYqjUOwfPqmoTYnHS-db-R_3s0cu3E2VG1FKTtMXEa4OQDhgMNXvbMrxs9ulEnIEsEMQENtKobwTg9dx1P6a448I1tpt49ELhL6oef2jmwFBBHMjwME9eiGw60M-J9LgoU-a_dXFekMgkA5aH32kHyc1nCCSYCZbbj_C14dYAjZWjbl66aCebjA.jpg",
-      "link": "https://www.amazon.es/dp/B0CSGCQVV6?tag=javiofertas-21",
-      "marketplace": "Amazon",
-      "category": "Informática",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "111.99",
-        "159.9"
-      ],
-      "discount_percent": "30"
     }
   ]
 }
