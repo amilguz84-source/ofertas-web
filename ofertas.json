@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T21:02:03.844339+00:00",
+  "generated_at": "2026-09-18T23:12:13.917940+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/101537",
@@ -2287,26 +2287,6 @@
         "21,96"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/101406",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -39%‼️#Publicidad \n\n✅NEUTROGENA HIDRATACIÓN PROFUNDA LOCIÓN CORPORAL\n\n📝 Descubre la loción corporal Neutrogena, enriquecida con aceite de almendras y tecnología Pro-Ceramida, para una hidratación intensa y rápida absorción. ¡Tu piel lo merece!\n\n🟢AHORA : 5.99€\n❌ANTES: 9.9€\n\n🔗Enlace: https://ir.cazadordechollos.es/101406",
-      "title": "NEUTROGENA HIDRATACIÓN PROFUNDA LOCIÓN CORPORAL",
-      "description": "Descubre la loción corporal Neutrogena, enriquecida con aceite de almendras y tecnología Pro-Ceramida, para una hidratación intensa y rápida absorción. ¡Tu piel lo merece AHORA : 5.99€ ANTES: 9.9€",
-      "image": "https://cdn4.telesco.pe/file/CAdQyNgsdT1PBe4ZQ_gSz_kcYgGftqDqoLm8BYMYIFeO8dgtGAUxd7YMDEbkwFg5QrKBQzeCR2MjTjzFFeNBFfuf4eKSodoZKP6fA6U3u09q6J2nfTJIFpeteVjmtkT-rs5KR3BZ83CTyNlMgn2dOd7Ud-10RkPvH9nG1tdFD7yfxMMWsOx8kzKprjknpTpLhC25kE7Maqr0jcOizqhEQNEKiutDLo11moQwEcKhL4sWo4sWS4XAHwNHEeS6oc6vFd5OZD1ELUVjwvkEdZNt-rcmC0Eq2VreNW9C_xiN5YhLfFSjf3nauxKNuKV9GYphS-ddf-daIba8ai4QABikdA.jpg",
-      "link": "https://ir.cazadordechollos.es/101406",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "5.99",
-        "9.9"
-      ],
-      "discount_percent": "39"
     }
   ]
 }
