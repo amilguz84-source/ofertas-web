@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T21:32:57.675028+00:00",
+  "generated_at": "2026-09-19T23:34:24.003394+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/101727",
@@ -2375,26 +2375,6 @@
         "44.99"
       ],
       "discount_percent": "31"
-    },
-    {
-      "id": "ofertasychollosesp/101599",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -42%‼️ #Publicidad\n\n✅PACK 2 SUDADERAS JACK & JONES\n\n📝 Set de dos sudaderas con capucha para hombre en azul marino y gris jaspeado. Comodidad y estilo para tu día a día.\n\n🟢AHORA : 34,98€\n❌ANTES: 59,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t8kr",
-      "title": "PACK 2 SUDADERAS JACK & JONES",
-      "description": "Set de dos sudaderas con capucha para hombre en azul marino y gris jaspeado. Comodidad y estilo para tu día a día AHORA : 34,98€ ANTES: 59,99€",
-      "image": "https://cdn4.telesco.pe/file/B6ewV6Nt3kM7vKWch4K1FcbcDHtX-GbO-Jqi5aHDN-1X7T7xgS62588xiOHYStQ_A4t34dpOKgv-BkRS2TlpAv6yJk31xVzqG5mwkk1PM8YvSp91HJgAQrKVVzRXUw4oC_SHH1DpunFkAWj9rlglEYJRqwukKhC_pVQDu422YddcSKqYy0FOquYhkpZN3sjcV4I-I87Oj4fdFuFQrla3MX0xfd-Yarh1lyCRP75YAj5RIUqH12vznPRJNIakMOqYrrjPaaxOtDEPjQGfzaXWLClXlGwIGzEYYU9da-vWnZdeZrc4QHjmp5Re8zCXFH-h2wy8YjpIoOjLGB05MCWjIQ.jpg",
-      "link": "https://ir.cazadordechollos.es/t8kr",
-      "marketplace": "C",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "34,98",
-        "59,99"
-      ],
-      "discount_percent": "42"
     }
   ]
 }
