@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T21:26:51.817421+00:00",
+  "generated_at": "2026-09-20T23:21:07.524075+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/101879",
@@ -2354,21 +2354,6 @@
         "59,99"
       ],
       "discount_percent": "58"
-    },
-    {
-      "id": "ofertasychollosesp/101760",
-      "date": null,
-      "text": "🔥 Los mejores chollos de España\t🌐 https://cazadordechollos.es\t🎮 Consolas: @Chollo_Consolas\t📨 elcazadordechollos@gmail.com\tEn calidad de Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables.",
-      "title": "Los mejores chollos de España\t https://cazadordechollos.es\t Consolas: @Chollo_Consolas\t elcazadordechollos@gmail.com\tEn ",
-      "description": "",
-      "image": "https://cdn4.telesco.pe/file/NjitWFj9RT7Gz4TyBAJpO83V_JQVnVNx4szktRivh4FnTR8lRkjCSLuwDrl2gDETTZX8Y_0DJVMDao7ejq7-x1sSa7SVB0-BsSPASNP-KRSuZuyr9QYS7VyFswdvMWIaAcYAYJjCUZ29DRuo_5pLcgsf-StnXYubM6dJprH4fArZWl7GUN3oZQJG1LFU7z0I50QLJjZxJIxF6ATEKQKPUDWOh0YSCXY1ZF2_L3dTqsX03axms0e98Px4SuVKxjSza5yuBHMwNiidNgkBNcflexea7HobzD8nl0lW_vjXOs1N7lu1--B-5YHem7MkrAIaEiH6RkH4Z6FHcllaH1sq6A.jpg",
-      "link": "https://cazadordechollos.es",
-      "marketplace": "Cazadordechollos",
-      "category": "Otros",
-      "hashtags": [],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": null
     }
   ]
 }
