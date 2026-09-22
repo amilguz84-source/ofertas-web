@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-22T01:10:57.699614+00:00",
+  "generated_at": "2026-09-22T06:22:44.310477+00:00",
   "channel": "ofertasychollosesp",
   "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/102010",
+      "date": null,
+      "text": "🎧 30 DÍAS GRATIS de Audible con Amazon 🚀\n\nEscucha audiolibros y podcasts mientras conduces, entrenas o haces cualquier cosa 👀\n\n✅ Más de 90.000 títulos  \n✅ Cancela cuando quieras  \n✅ 100% GRATIS el primer mes\n\n🔗 https://amz.tf/Eazsvwv",
+      "title": "30 DÍAS GRATIS de Audible con Amazon",
+      "description": "Escucha audiolibros y podcasts mientras conduces, entrenas o haces cualquier cosa Más de 90.000 títulos Cancela cuando quieras 100% GRATIS el primer mes",
+      "image": "https://cdn4.telesco.pe/file/Djic4wl-g2TCKq7kgvJv8NlOBxNFinEsqFB9FENL_JpY_Sdfs3_R78KfzgEAx6UknwUzQNvzYd5OJZ7j9ErqsW4Txm5SVejDUv14BtypAEUzJ5NaJpT_Ib-nQbPmfxMJCkgU3WbEJEuN3y0ss8N0gm5yCA5zDOvtLfNiD33MNWnLz4RFE8xkLTpqp1hbVAdJIPWzNtdJkA80ZVLr3ZhCDoRbi0-fQE3BJuH-56pUA7rJshaMGsLTw5i-2OTg0gJndXED93Gh-Kk9jxu1XYX-dSfeTmC0bQqIpgG_iWhwp_U2DdGGs8b-_jq2YZE9CAvE-a1EZDqUbwRtFhjabP2wjg",
+      "link": "https://amz.tf/Eazsvwv",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": null
+    },
     {
       "id": "ofertasychollosesp/102008",
       "date": null,
@@ -2333,26 +2348,6 @@
         "25,99"
       ],
       "discount_percent": "50"
-    },
-    {
-      "id": "ofertasychollosesp/101889",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -10%‼️ #Publicidad\n\n✅MALETA DE VIAJE CABINA 40X25X20CM\n\n📝 Maleta de viaje de 20L con ruedas desmontables, ideal como equipaje de mano para aerolíneas como Ryanair, Vueling o Easyjet.\n\n🟢AHORA : 23,39€\n❌ANTES: 25,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/t94m",
-      "title": "MALETA DE VIAJE CABINA 40X25X20CM",
-      "description": "Maleta de viaje de 20L con ruedas desmontables, ideal como equipaje de mano para aerolíneas como Ryanair, Vueling o Easyjet AHORA : 23,39€ ANTES: 25,99€",
-      "image": "https://cdn4.telesco.pe/file/Tt24dj4tvU0zuEOHHpqe_GmnPmHJiFkVZTWrwgqoQq32w19bDbneDwnrVH9HIIvxlFBS--w_zZeDV_xnZsl0Uk8hIJ6sJk_VipMPm1cX7vfvzOTpsrn2T9W9UsXPiuPCtIabs5GhpQlMNzJGtYOuJlG7dHblCHAeebXdjpsT6v76wyHETvVYvaFtY_1KbQM-rz7lBVw1DCi1AbS_2Z4y-vDgrj2zz1ll9kEtl3SLo5zpvnZC2R1Ji1cK132JSJVE5YnkP5yfL3b-tXMRcNpyvXFOe3h0NCY3-x1GFqcomp5ShChZd2EQyxKqDmwjxN4GMmN1RJxV7KKqvBPKVXemPA.jpg",
-      "link": "https://ir.cazadordechollos.es/t94m",
-      "marketplace": "AliExpress",
-      "category": "Viajes y maletas",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "23,39",
-        "25,99"
-      ],
-      "discount_percent": "10"
     }
   ]
 }
