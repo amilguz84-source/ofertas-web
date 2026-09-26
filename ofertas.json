@@ -1,8 +1,765 @@
 {
-  "generated_at": "2026-09-26T07:31:24.490068+00:00",
+  "generated_at": "2026-09-26T12:28:40.692209+00:00",
   "channel": "ofertasychollosesp",
-  "count": 117,
+  "count": 119,
   "ofertas": [
+    {
+      "id": "ofertasychollosesp/102450",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -46%‼️ #Publicidad\n\n✅BOTELLA DE AGUA ACERO INOXIDABLE\n\n📝 Botella de agua de acero inoxidable con pajita, ideal para mantener tus bebidas frías. Disponible en varias capacidades.\n\n🟢AHORA : 6,99€\n❌ANTES: 12,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tamj\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tamj",
+      "title": "BOTELLA DE AGUA ACERO INOXIDABLE",
+      "description": "Botella de agua de acero inoxidable con pajita, ideal para mantener tus bebidas frías. Disponible en varias capacidades AHORA : 6,99€ ANTES: 12,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tamj",
+      "image": "https://cdn4.telesco.pe/file/vDdGhI1KY0eXlt7AOSFzlwz6va7KpohSckdYGzW6u_hQMac2AjPRLBWyNcOwlBMy531PIQosga1237q_L7yZqNUXm6p8B6NdkVhySXIDX__64aOWpowOO4xRmd0ZQMWnza8LSgylAeOZ65gsl553vxS8DO2Mdm40KPFzaqYtkO6Kw_Vqga8nhgpfxLupvXzonAVY97uWFGFO3Kk-vNrmFouDR-jT6EF2KsZx1r9Z_9ZpNpE0TNtfh4QcRl1EZQ9U67VoRjziqWa9Oas0BM4eiHrh4hVrMa3kfQdNmQDZLio97STaHZbTWrzJ3fB8Vbna2EIBIFO4P9HkusmHtSDang.jpg",
+      "link": "https://ir.cazadordechollos.es/tamj",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "6,99",
+        "12,99"
+      ],
+      "discount_percent": "46"
+    },
+    {
+      "id": "ofertasychollosesp/102449",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -27%‼️ #Publicidad\n\n✅LAVADORA LG F2X50S9TLB\n\n📝 Lavadora de carga frontal con 9 kg de capacidad y conexión Wifi. Eficiencia energética clase A.\n\n🟢AHORA : 398,65€\n❌ANTES: 549,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/tamd\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tamd",
+      "title": "LAVADORA LG F2X50S9TLB",
+      "description": "Lavadora de carga frontal con 9 kg de capacidad y conexión Wifi. Eficiencia energética clase A AHORA : 398,65€ ANTES: 549,00€ Ficha completa y chollos parecidos  cazadordechollos.es/tamd",
+      "image": "https://cdn4.telesco.pe/file/UHsZwhH98BVUEFDmigll1Hlr2XJjzwwXW_DWGxazNuDocRZqrnRqk2RxgL6inSwrWqgnv_Ha0qOOV1cezbELCiaWQU2XWNFIQwNqI2bCL5Z0qyIjEcwgrkr_OqSDTybv3eKhirr_OAUTaR3Fk0rblzk1kSEpTSu30rCnl1U9d4goKe-WCaYr2s4YWbHrnESWcYvu-toHIrnUl_EExP7vLYdmuvya_Fx0pTrlW4mAKGCVr6LphIfVphcqOiuHmNi_PWCIaySmTVdnHzhqCGTzaul0TvsKemY2zujeusD968CxHSyMpWvZoLNz90E5vZGuNC42oLnL69v5Hzgp6sW9ow.jpg",
+      "link": "https://ir.cazadordechollos.es/tamd",
+      "marketplace": "Carrefour",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "398,65",
+        "549,00"
+      ],
+      "discount_percent": "27"
+    },
+    {
+      "id": "ofertasychollosesp/102448",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -36%‼️ #Publicidad\n\n✅CETAPHIL® GEL LIMPIADOR FACIAL 236ML\n\n📝 Gel limpiador facial ideal para piel sensible y mixta a grasa. Limpia en profundidad y minimiza poros.\n\n🟢AHORA : 8,19€\n❌ANTES: 12,80€\n\n🔗Enlace: https://ir.cazadordechollos.es/tamb\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tamb",
+      "title": "CETAPHIL® GEL LIMPIADOR FACIAL 236ML",
+      "description": "Gel limpiador facial ideal para piel sensible y mixta a grasa. Limpia en profundidad y minimiza poros AHORA : 8,19€ ANTES: 12,80€ Ficha completa y chollos parecidos  cazadordechollos.es/tamb",
+      "image": "https://cdn4.telesco.pe/file/MRwZXUpejSJPvNMiywlr9032r30MBWmKkJripy_kNt7hcsQuamxvhRHmeHDzqFLndHRjXWIGCTSt08I8Z4GHi42L2p_iNdw1rjb8sF_-XpGKuVFvB_Br7chj2bT9R8B2O-y79pc9A8NfijJwJ3aQVWa9ZEXU2Y_4hu1zo6XC-lqH3zVlcGBfvQ9jN-qN0LqINaVUAOrABpX09ozH0q3JpVXGpc2QzILk274xQU205LCoGwuUv9WTx8mEp6I8VouIWAInWgcF0VX35_bbrpgeC5u4u63yBlVQloD15u-x1SPnWSNmoMPn3syU85DOjfVxD2vt5XCqe7_32d2V_-lk_A.jpg",
+      "link": "https://ir.cazadordechollos.es/tamb",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "8,19",
+        "12,80"
+      ],
+      "discount_percent": "36"
+    },
+    {
+      "id": "ofertasychollosesp/102447",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -10%‼️ #Publicidad\n\n✅PACK 5 CAMISETAS FRUIT OF THE LOOM\n\n📝 Disfruta de este pack de camisetas con tacto suave y cuello redondo. Perfectas para el día a día.\n\n🟢AHORA : 16,99€\n❌ANTES: 18,95€\n\n🔗Enlace: https://ir.cazadordechollos.es/tam3\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tam3",
+      "title": "PACK 5 CAMISETAS FRUIT OF THE LOOM",
+      "description": "Disfruta de este pack de camisetas con tacto suave y cuello redondo. Perfectas para el día a día AHORA : 16,99€ ANTES: 18,95€ Ficha completa y chollos parecidos  cazadordechollos.es/tam3",
+      "image": "https://cdn4.telesco.pe/file/OnhvOOSXIEo0SZMTCDHx5Ewc3Nlim4T7ph7_QVJJSETGHleFWSy_MbqIXw1wa3OLO-3hSY6cRJSdgPoiOhvB3PlwwRiQ1xuKNGvmf09UVUBZEpViWomUmFJt4R_bMwMg_HdM8mrfdxkiuRccVk_4tRVFoJUY71BoT0kfcpTuYQJQipYwUz4XttIuAld1zq_L3fekutzY4Rrk0h0aEv0Jn1bd-KEWyTmyieSU6uqJRuWToM2XqVhny67kRWDcDr3kbceaO2OR_iLfmc0Wpjh2wZsGBilAc-SjVRKnyl9r1pP5LkET-Udd9j9sNbaT1Ymnwji2_JvCJsgErpmCwokwoQ.jpg",
+      "link": "https://ir.cazadordechollos.es/tam3",
+      "marketplace": "AliExpress",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "16,99",
+        "18,95"
+      ],
+      "discount_percent": "10"
+    },
+    {
+      "id": "ofertasychollosesp/102446",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -51%‼️ #Publicidad\n\n✅COLUMBIA MEN'S FAST TREK LIGHT FLEECE\n\n📝 Chaqueta ligera ideal para actividades al aire libre y senderismo.\n\n🟢AHORA : 24,49€\n❌ANTES: 50,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/tam0\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tam0\n\nDesde la S hasta la XXL",
+      "title": "COLUMBIA MEN'S FAST TREK LIGHT FLEECE",
+      "description": "Chaqueta ligera ideal para actividades al aire libre y senderismo AHORA : 24,49€ ANTES: 50,00€ Ficha completa y chollos parecidos  cazadordechollos.es/tam0 Desde la S hasta la XXL",
+      "image": "https://cdn4.telesco.pe/file/UMhTcW6IbkGxgWJUzaNkyy9BqOhyrtcJealWCliHrq_AXeu9Gypfm9Sa_-EUQMsZhXfO6_Yjzqdwl5RJDxilijv6R8RyI8epaLztimEGYn1ChH9bNiW2iDRU_gb2rVkyerkRnWF2OtDVi6lVWlPzGJatARLsWj1_7YFNrzDOu3rUX0JuSu_eooaUdLtuQxXw6hVnJX9u4IxbqUdZQ1zqTyf_WDB2hjhfvtW4Kpjg7qLyyud8p54j5rGRtXOu0KdKFb_SYjSHmpK2Rmp4AQbtqGcmZktI5Sgai0tQ8nNECMDC7rDyk_glRH7qedcZ7r5jStzptjwcPe4-ThkGNF241A.jpg",
+      "link": "https://ir.cazadordechollos.es/tam0",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "24,49",
+        "50,00"
+      ],
+      "discount_percent": "51"
+    },
+    {
+      "id": "ofertasychollosesp/102445",
+      "date": null,
+      "text": "‼️OFERTA CAZADA‼️ #Publicidad\n\n✅HYRULE WARRIORS: LA ERA DEL DESTIERRO\n\n📝 Incluye amiibo de Link de Tears of the Kingdom. Disfruta de esta entrega de la colección The Legend of Zelda.\n\n🟢AHORA : 80,98€\n\n🔗Enlace: https://ir.cazadordechollos.es/taly\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taly\n\nDe regalo Libreta de Hyrule Warriors: La era del destierro",
+      "title": "HYRULE WARRIORS: LA ERA DEL DESTIERRO",
+      "description": "Incluye amiibo de Link de Tears of the Kingdom. Disfruta de esta entrega de la colección The Legend of Zelda AHORA : 80,98€ Ficha completa y chollos parecidos  cazadordechollos.es/taly De regalo Libreta de Hyrule Warrior…",
+      "image": "https://cdn4.telesco.pe/file/X3YMhTbANauoZF22lK-u1ibydtjQBwcLRzOf-b12nfxaYXU2hm3M55SfltyPKI7IUOp8nhFeP4QkK4C5arPgS_dpCfTS0QQy9UwkWQE0ZV0iap2n6Tgi2139-PZ3U8keQXwQUhIFTONP46SBYPuU_KDB0i050WiqNZNjNJD8o1C5sfV-0Xqv4AP3G5pPyENO3yLT-TD4QUMxue_qP68n4jG2Fh9UNpySJwXQ8c2WiXnnoqd20jCz_ezMZa7w1TyFQWaCR2zpq7yoq_-m2XzV4fycZaHiUPdwr-0zamTXxnRgsZaPadkI5cZ7IVDAjkgeQCwg4iJhn8H04jBmw8Q4iw.jpg",
+      "link": "https://ir.cazadordechollos.es/taly",
+      "marketplace": "Preferredby",
+      "category": "Videojuegos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "80,98"
+      ],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/102444",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -48%‼️ #Publicidad\n\n✅ALMOHADA FIBRA Y VISCOELÁSTICA PACK X2\n\n📝 Pack de dos almohadas con tejido extrasuave y firmeza media. Ideal para un descanso cómodo y reparador.\n\n🟢AHORA : 13,99€\n❌ANTES: 26,90€\n\n🔗Enlace: https://ir.cazadordechollos.es/talw\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/talw",
+      "title": "ALMOHADA FIBRA Y VISCOELÁSTICA PACK X2",
+      "description": "Pack de dos almohadas con tejido extrasuave y firmeza media. Ideal para un descanso cómodo y reparador AHORA : 13,99€ ANTES: 26,90€ Ficha completa y chollos parecidos  cazadordechollos.es/talw",
+      "image": "https://cdn4.telesco.pe/file/N450CfVF4D7u9WQFVJaDm2q1C15LsAfyIIQ3v0mszlbPzSFOn99X_khdhM3elSitElXhfruNwkZlxKPWCRGfz1E-VlTwCllT6dHeWLJMSLOckCAAdx9HFVYmi5hfOTFaVlH5u_nOD61N6cV3_ZO8c8Tp7awa3DeYj-VE4t8qX6HqSDQKAcEJ7_PZlXhk52GfKcHkf_TqwC98t9jwpxT_10ppVvn_H_6r_YX_GJlUzy9R6onFQZsdrc7k6YnFL_cw9HJQmGhPOSAh-0_f4kR4CfKs4Q7FgTGznRProNtGrssSb80vGlrPhveN7FchFDv5rI519JjWQsMW61VU1--V8g.jpg",
+      "link": "https://ir.cazadordechollos.es/talw",
+      "marketplace": "Amazon",
+      "category": "Hogar",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "13,99",
+        "26,90"
+      ],
+      "discount_percent": "48"
+    },
+    {
+      "id": "ofertasychollosesp/102443",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -21%‼️ #Publicidad\n\n✅SAMSUNG GALAXY A57 AZUL OSCURO 256 GB\n\n📝 Disfruta de un smartphone con 256 GB de almacenamiento, 8 GB de RAM y una pantalla FHD+ de 6.7 pulgadas.\n\n🟢AHORA : 479,00€\n❌ANTES: 609,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/tals\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tals",
+      "title": "SAMSUNG GALAXY A57 AZUL OSCURO 256 GB",
+      "description": "Disfruta de un smartphone con 256 GB de almacenamiento, 8 GB de RAM y una pantalla FHD+ de 6.7 pulgadas AHORA : 479,00€ ANTES: 609,00€ Ficha completa y chollos parecidos  cazadordechollos.es/tals",
+      "image": "https://cdn4.telesco.pe/file/puEHKDQr8CcrPs_Z83vvCJCrQXhk81KMZLPUSwPPvkz7ajuB56FP35cH1YNITDyOe3eWNkoAseL62XgpXUD8gayeFypayeTPBvKdPsbtldYkWZDirqULUH9rxQymdRxBMGBM6F_wZe5pMrzDDZzamkDklU1I1Chj9kZoz3hTxjW8ngxDrIdgF5WQTJiZlaXEiCOasrL5ygzoj8vHgbgHgARSuPoeo47iwUKYE2u8DSTZ6GvawpnV8lWxZz7FdxIHn0VFFUJWMkpKxa12ckZns_VA5SXceZTLbvmcSIEN_QC0qloTDnlq6r9rfSKdS2J4fEEL8Qt39P4Yr3G0UL3V7w.jpg",
+      "link": "https://ir.cazadordechollos.es/tals",
+      "marketplace": "Pdt",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "479,00",
+        "609,00"
+      ],
+      "discount_percent": "21"
+    },
+    {
+      "id": "ofertasychollosesp/102442",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -36%‼️ #Publicidad\n\n✅CAFETERA CUISINART ONE CUP GRIND AND BREW\n\n📝 Prepara café en grano con esta cafetera individual. Ajusta la intensidad y elige entre tres tamaños de taza.\n\n🟢AHORA : 85,59€\n❌ANTES: 133,17€\n\n🔗Enlace: https://ir.cazadordechollos.es/talp\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/talp",
+      "title": "CAFETERA CUISINART ONE CUP GRIND AND BREW",
+      "description": "Prepara café en grano con esta cafetera individual. Ajusta la intensidad y elige entre tres tamaños de taza AHORA : 85,59€ ANTES: 133,17€ Ficha completa y chollos parecidos  cazadordechollos.es/talp",
+      "image": "https://cdn4.telesco.pe/file/f6q22XzGt3FkVhz4IW3NmW_3iPQszNZi-LWf3S8tjqhlw9-NRcgyyniHomS8NyjVbBFqkh3Gq76-AwTINp0pE7yzGKacJyheYrMT_xTqupcm91JMojsHGOrEMStDbB4F3FCHMVtay439eI9TQVKx9cxLoAO56HmsYo1_psQSXNjOmEGTcixzyKfmCRJO7Li1WUlAY6IhcdS5Fa23VlMfXWdGTthG7BeGCf4itp4bYJ5BKljBhYL-a3hMt0iKFsJxe8JmDMv7WQtKck50g3hyFSLSOPJU5SxPZdK1qWvRM1HCR6so6SD_iIygKnjCRRs5jIbypchWIalXlpLgXBjYtQ.jpg",
+      "link": "https://ir.cazadordechollos.es/talp",
+      "marketplace": "Amazon",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "85,59",
+        "133,17"
+      ],
+      "discount_percent": "36"
+    },
+    {
+      "id": "ofertasychollosesp/102441",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -45%‼️ #Publicidad\n\n✅TV MICRO LED 65\" SAMSUNG\n\n📝 Disfruta de una experiencia visual impresionante con la TV Micro LED de Samsung, diseñada para ofrecer calidad UHD 4K y tecnología Smart.\n\n🟢AHORA : 2049,00€\n❌ANTES: 3699,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/talm\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/talm",
+      "title": "TV MICRO LED 65\" SAMSUNG",
+      "description": "Disfruta de una experiencia visual impresionante con la TV Micro LED de Samsung, diseñada para ofrecer calidad UHD 4K y tecnología Smart AHORA : 2049,00€ ANTES: 3699,00€ Ficha completa y chollos parecidos  cazadordecholl…",
+      "image": "https://cdn4.telesco.pe/file/Ie-pPEPYS-d82No8AhI0A8PKGI2A5TbeR7c9qx7H30LztN6jysHgT8Dp80KHBNZ8ln7sB-wgKugMS-mPulez1c1Tfv3td9u3DGOhq6ZGjrWIgYL858kAAU7AV1SlqFTyHkGXkbtx2oBhAZ83DJwLi2d-bWwRCvf-xhf7YRGQgwjz_f4ePXJ35Z03Y1XxGFkTf5a1pXKjgxk-5FL6RFF42MUbMGVbIBjd9opjYF0NFsBgwdYrfy820PVhd6vztjj_CRiLCDYCQ2bWjt0D-phzddIdKk_kSPIM44xdEOKKMSbotENRvUbUx3g7RxP93DmNoy4FfUXkUUr8SUZ6gh2-HA.jpg",
+      "link": "https://ir.cazadordechollos.es/talm",
+      "marketplace": "Pdt",
+      "category": "Televisores y sonido",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "2049,00",
+        "3699,00"
+      ],
+      "discount_percent": "45"
+    },
+    {
+      "id": "ofertasychollosesp/102440",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -25%‼️ #Publicidad\n\n✅FEANDREA ARENA GATO GRIS PALOMA\n\n📝 Caja de arena para gatos con tapa abatible. Ideal para mantener la limpieza de tu hogar.\n\n🟢AHORA : 39,99€\n❌ANTES: 52,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/talh\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/talh",
+      "title": "FEANDREA ARENA GATO GRIS PALOMA",
+      "description": "Caja de arena para gatos con tapa abatible. Ideal para mantener la limpieza de tu hogar AHORA : 39,99€ ANTES: 52,99€ Ficha completa y chollos parecidos  cazadordechollos.es/talh",
+      "image": "https://cdn4.telesco.pe/file/f6QmiKnQVgDb3Cv2vyD8ceXmMkuFTNAqkJhfq9XqZslefkZXVPN2n2GzFw7y_AVp96Rme4qa71JWeobiOW4srW2Ld9INRArDhYoHF9MtP3aJGVG0_JACiIh94jElHvgqakgmbR9m5tPcE-DfER_LPGu2YzSBZyuCHmhJtK7afeaYnaYVPeuoXrf0RXujDGrAo17YRYRgQLhtw8vQ_GUlxq0yQaVaeUfefELHv58FjOhoyDtX3jDmfZPs-21xSGSI7MYOPATkHP2MeQPx1trsPvxcKcduqG-tXph8B6-8eUvFJGoMTLpYTOVpPtQ9fiorYwyJmMP9bJi6mzGKRKSAow.jpg",
+      "link": "https://ir.cazadordechollos.es/talh",
+      "marketplace": "Amazon",
+      "category": "Mascotas",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "39,99",
+        "52,99"
+      ],
+      "discount_percent": "25"
+    },
+    {
+      "id": "ofertasychollosesp/102439",
+      "date": null,
+      "text": "‼️PREVENTA CAZADA -5%‼️ #Publicidad\n\n✅PS5 FINAL FANTASY VII REVELATION\n\n📝 Consigue la edición Magic Card de este juego para PS5 y disfruta de una experiencia única en el mundo de Final Fantasy.\n\n🟢AHORA : 74,99€\n❌ANTES: 78,99€\n📅 Disponible el 08/04/2027\n\n🔗Enlace: https://ir.cazadordechollos.es/talc\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/talc\n\nCon Steelbook exclusivo!\nTambién disponible:\n⭐Switch 2 - https://ir.cazadordechollos.es/c54\n⭐Xbox Series X - https://ir.cazadordechollos.es/c55",
+      "title": "PREVENTA CAZADA -5% #Publicidad",
+      "description": "PS5 FINAL FANTASY VII REVELATION Consigue la edición Magic Card de este juego para PS5 y disfruta de una experiencia única en el mundo de Final Fantasy AHORA : 74,99€ ANTES: 78,99€ Disponible el 08/04/2027 Ficha completa…",
+      "image": "https://cdn4.telesco.pe/file/g-qF6GMZjTpLLo-XojLhE-cqIgNpJbpu7OccHjkXsl-lsCUSFlxPXlnHsSyfytiA2uNiwe15E-BQALRipXX-LGRqNSSaj7TgdafbJHmBr9RtWGto-Ir-8iBwJISV9Hnr9lPsxfZKN1mpfeHHi52GX4AwMIHRSd2vf17XPpR5oNABt5UArNHKYTWSydFnCPb6E_IbAbARKnJXeKCEg6PFtwg5IR34ZmsljPsQ6hMZb4y1EhoxzFeTmMKgqJZVrYpxpBGSi1stAkeVIrzBCG-Nj17Ubj0JF5w9gmnxe6y_oCx39yIGDiFSIyf2dUY90zX7YufoYz0E0124ec64mtHarg.jpg",
+      "link": "https://ir.cazadordechollos.es/talc",
+      "marketplace": "Pdt",
+      "category": "Videojuegos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "74,99",
+        "78,99"
+      ],
+      "discount_percent": "5"
+    },
+    {
+      "id": "ofertasychollosesp/102438",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -40%‼️ #Publicidad\n\n✅MOULINEX CHOPPEO, PICADORA ELÉCTRICA 500W\n\n📝 Picadora eléctrica Moulinex Choppeo de 500W con vaso de vidrio de 2L, ideal para preparar tus recetas de forma rápida.\n\n🟢AHORA : 30,00€\n❌ANTES: 49,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tala\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tala",
+      "title": "MOULINEX CHOPPEO, PICADORA ELÉCTRICA 500W",
+      "description": "Picadora eléctrica Moulinex Choppeo de 500W con vaso de vidrio de 2L, ideal para preparar tus recetas de forma rápida AHORA : 30,00€ ANTES: 49,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tala",
+      "image": "https://cdn4.telesco.pe/file/D01ssGmS-5n4nsTNizAOpKjwEb2ZxQoxFgbAIVW4AW1zsbgh2n_cBXCM0AYFbe4-6oCs55Vz1tCMTazr0-QdGMuWEbSBWPnOdWvdZmg0J0Crm8TG9lEMaFjx9enx6g1GjnJpqMrS56rCRXHxHUkcBugRm6bdWLex9pqgXt1hVyC8FS6L9mfOCBtNiPhjJLkdpgcVFdTG01w8GK34j3g3ITAlARyOCRe-zLyjnm3lt-g-nFm0sxnSNlCt87w-dIns-7r6oLSwfSQ3DiwObLpbOCi_78qnNEx-7gogR2oAuujh5xCcoe1e4Rlz99-_jlHAJ4B2wPF7Ox2yuFKw22aQYg.jpg",
+      "link": "https://ir.cazadordechollos.es/tala",
+      "marketplace": "Amazon",
+      "category": "Electrodomésticos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "30,00",
+        "49,99"
+      ],
+      "discount_percent": "40"
+    },
+    {
+      "id": "ofertasychollosesp/102437",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅HERRAMIENTAS ELÉCTRICAS BLACK & DECKER\n\n📝 Descubre las herramientas eléctricas de BLACK & DECKER para tus proyectos de bricolaje. Calidad y rendimiento para facilitar tu trabajo.\n\n🟢AHORA : 29,90€\n❌ANTES: 35,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tal8\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tal8\n\nElije entre 4 herramientas indispensables a 29.90€",
+      "title": "HERRAMIENTAS ELÉCTRICAS BLACK & DECKER",
+      "description": "Descubre las herramientas eléctricas de BLACK & DECKER para tus proyectos de bricolaje. Calidad y rendimiento para facilitar tu trabajo AHORA : 29,90€ ANTES: 35,99€ Ficha completa y chollos parecidos  cazadordechollos.es…",
+      "image": "https://cdn4.telesco.pe/file/ELzsHRdXR47xHFfL0kRYYL298-XYFGRPzBkc8pdNU5a3fRndt8ALSQhjF59TXiX-xg2K0ADE1ANZDHex1uKNdJKgd9-U2ERajqVevksyEN0ixy3mfufctZYRt4Csk4eGWS77g0r34AxcGiZUeN9ANYjXDP8jZU8Xb7whd2cMNKBvt68YnEjhkf2_OL-ZLpTx2AUmlJgPsIhtHxdl90mnPVns7OKZ5x2bB52SgkpOJo5kWrlkPclI7AI-MLcWJfYqghHwsMl4_oJYX3vQtY8b5S9RPu3ColKRcckSDEVgoyFiEAzgY2BI7hS_8BPu9tDQT2e1-2H-aSgYqPf8rY8ZJw.jpg",
+      "link": "https://ir.cazadordechollos.es/tal8",
+      "marketplace": "Carrefour",
+      "category": "Bricolaje y jardín",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "29,90",
+        "35,99",
+        "29.90"
+      ],
+      "discount_percent": "17"
+    },
+    {
+      "id": "ofertasychollosesp/102436",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -44%‼️ #Publicidad\n\n✅DUREX LUBRICANT 10 ML\n\n📝 Lubricante Durex de 10 ml, ideal para mejorar la experiencia. Perfecto para momentos especiales.\n\n🟢AHORA : 5,99€\n❌ANTES: 10,79€\n\n🔗Enlace: https://ir.cazadordechollos.es/tal2\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tal2",
+      "title": "DUREX LUBRICANT 10 ML",
+      "description": "Lubricante Durex de 10 ml, ideal para mejorar la experiencia. Perfecto para momentos especiales AHORA : 5,99€ ANTES: 10,79€ Ficha completa y chollos parecidos  cazadordechollos.es/tal2",
+      "image": "https://cdn4.telesco.pe/file/mTyLptAULZCEoYB5It3BjWpgXfQwby4BWcqs4a7vkWb1ry5pMe99_ek8XAAOYqNxP9maS9n_UH4PwNy3C_U-dbUuESnfmLrRveXv58EwzGo65QMx3Wn1XdADvzMIgLj0gbSw8P3vR0Vz4dp-sRBIjsDoMlyX5Y5z-C4-lPXu9IbltVV_HpIVLdoZLnzQVNSin-TlLkK4jF6dBUXvs4ZEoQvvjynuvVbzmR-k_rqLQCqSMYh6v4rp9XQlnv7egNGmGCEFwqWvmea4MKcU26E0wSy-gEwoaEsZkFQwIplpi1W0eb_r9rXkEbh2JFDt33Ma8SElvoUfpcxCwVg4wCtoJg.jpg",
+      "link": "https://ir.cazadordechollos.es/tal2",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "5,99",
+        "10,79"
+      ],
+      "discount_percent": "44"
+    },
+    {
+      "id": "ofertasychollosesp/102435",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -26%‼️ #Publicidad\n\n✅XIAOMI REDMI NOTE 15 4G NFC\n\n📝 Teléfono móvil con pantalla AMOLED FHD+, cámara de 108MP y batería de 6000mAh. Disponible en versiones de 128GB y 256GB.\n\n🟢AHORA : 139,98€\n❌ANTES: 189,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tal0\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tal0\n\n📢 Precio al realizar el pago con Klarna",
+      "title": "XIAOMI REDMI NOTE 15 4G NFC",
+      "description": "Teléfono móvil con pantalla AMOLED FHD+, cámara de 108MP y batería de 6000mAh. Disponible en versiones de 128GB y 256GB AHORA : 139,98€ ANTES: 189,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tal0 Precio a…",
+      "image": "https://cdn4.telesco.pe/file/GYiamBkaYEeuax6jDRIayNHQRuJwm2TxO0rLfLDoxgJ9BEo13wPmgl427zB-XmAM3v_cqZGLt1A7Q_77ZhVesmjrWvDyIjlr_Du2GP-El4dsCfRPw879JXsxzp0TKrni1b3MfPbpZ4r509m8nZQsBleSniAHm6WvaT3UwyA-xJ2i_knVO8A2pz-1xHftoOtY-oOboURWUV-oD436L4LT3Tohhtj5QbQgqQcCaE8eilDtjzS8eZYJGzdRWZMxXthw6RAesqazmnLTtxtILHGZivcHnI6IfhRwBN10KROabLccNkZfDesfE3z2TZtxv189N_m2_BtoeSJAHFABsDwEUQ.jpg",
+      "link": "https://ir.cazadordechollos.es/tal0",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "139,98",
+        "189,99"
+      ],
+      "discount_percent": "26"
+    },
+    {
+      "id": "ofertasychollosesp/102434",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -23%‼️ #Publicidad\n\n✅BORDERLANDS 4 PS5 STANDARD\n\n📝 Disfruta de Borderlands 4 en PS5, una emocionante aventura llena de acción y humor en un mundo abierto.\n\n🟢AHORA : 69,80€\n❌ANTES: 90,89€\n\n🔗Enlace: https://ir.cazadordechollos.es/takv\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/takv",
+      "title": "BORDERLANDS 4 PS5 STANDARD",
+      "description": "Disfruta de Borderlands 4 en PS5, una emocionante aventura llena de acción y humor en un mundo abierto AHORA : 69,80€ ANTES: 90,89€ Ficha completa y chollos parecidos  cazadordechollos.es/takv",
+      "image": "https://cdn4.telesco.pe/file/AtML88CoXiL-XAgPaRAwu8g1XvGOdlwfFgAckoJLO41gMWd2RMhW1IiiyrCUlD02JtJXyYF_BNT3lnBbZHme-NQjhjEj3Qzf1f_uiv9Lh1fKJi7rJLtpmEqSZZkHaMqHMgengMFeLtx1-xMsfDtX1SBVttcXbe9aB_owRbp_FlhcNQ44vXdnW51fvpnyk1c8SJx5s4BNnFGBpLGC-rn0oqAUhMfsMN3OxWVzfuZf_BLjozJwHteXal45gClXxBLJRK6WtjLYj7PlglKuh_ztJmHXk5go25ZbVYnVlnrR0czZLPpw3oDizH5I2IScHKSOaZKK-VDsMgPjuGIHHeuFFg.jpg",
+      "link": "https://ir.cazadordechollos.es/takv",
+      "marketplace": "Amazon",
+      "category": "Videojuegos",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "69,80",
+        "90,89"
+      ],
+      "discount_percent": "23"
+    },
+    {
+      "id": "ofertasychollosesp/102433",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -30%‼️ #Publicidad\n\n✅CONJUNTO ARMARIO ALTO Y BAJO KETER\n\n📝 Conjunto de armarios de Keter, incluye un armario alto y uno bajo para organizar tu espacio.\n\n🟢AHORA : 69,00€\n❌ANTES: 99,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/takt\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/takt",
+      "title": "CONJUNTO ARMARIO ALTO Y BAJO KETER",
+      "description": "Conjunto de armarios de Keter, incluye un armario alto y uno bajo para organizar tu espacio AHORA : 69,00€ ANTES: 99,00€ Ficha completa y chollos parecidos  cazadordechollos.es/takt",
+      "image": "https://cdn4.telesco.pe/file/pKBFakKgm0Z4q0LUq42fWnrxQWqvwnO07r2Kq5SOIfJuZRyFXcG2aGlbfCkvMgCay0rsuj7fNn9m6w7btemw12S6aPDmOJmUCSfzHqMWjWaOHLQOX7TrWNd2Y8ORBj5PafEFUEOe0lUUfg2eZTOYpViKoNicCOKmamDnL7Z21QsOQORn8w6gauyBkdx8ZkjDSdpxGF_SXKdiIIaMaoDb75Y-HMIxKfPqzYCPqqyhOM9Bf2cCjvbgPydmW68fjMXK63hL1rz8vHvo98q0-xu6NUF8p35NB-72klhLhACR6LsCinBUTjs3tzpJrI1NGCV9kqfCAAqbNRB_aGxQfndk1w.jpg",
+      "link": "https://ir.cazadordechollos.es/takt",
+      "marketplace": "Carrefour",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "69,00",
+        "99,00"
+      ],
+      "discount_percent": "30"
+    },
+    {
+      "id": "ofertasychollosesp/102432",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -22%‼️ #Publicidad\n\n✅BICICLETA ELÉCTRICA MTB E-FEEL 900 S\n\n📝 Disfruta de la montaña con la Bicicleta Eléctrica MTB E-Feel 900 S, diseñada para ofrecerte una experiencia única en cada ruta.\n\n🟢AHORA : 3499,00€\n❌ANTES: 4499,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/tako\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tako",
+      "title": "BICICLETA ELÉCTRICA MTB E-FEEL 900 S",
+      "description": "Disfruta de la montaña con la Bicicleta Eléctrica MTB E-Feel 900 S, diseñada para ofrecerte una experiencia única en cada ruta AHORA : 3499,00€ ANTES: 4499,00€ Ficha completa y chollos parecidos  cazadordechollos.es/tako",
+      "image": "https://cdn4.telesco.pe/file/PKFOTfhWuF9SIlNaTnekvhcc03FVfF22HdAVc-AOs25JQUA4fbOtTnrKX0lcxw_qsSO7PqS0g-wEscfJzkCQx4WL9RsQe1FlSWv6vNQaM9Aw1AqJQJdfCSU-Lo-58ep-VRwkoipR3EvuMHx4iyJSpi1CdPyVF-jdWwHidwCNiE-RmfJS7MYhCv6FlkuBTom0wcUlJqZGUEZfdkWJsWPMnQe4C62NmuvYoWfUULt-CDPF0Wc314dYCMqWG46zyOkRHPWnfTD0efc1VjuxZ1JLWewiCh9-jL1O1_NrFRtKr_YjS5lx3RRM-GPwNnXRjjckJIrhBUEITtX5NKqY4GknhA.jpg",
+      "link": "https://ir.cazadordechollos.es/tako",
+      "marketplace": "Decathlon",
+      "category": "Deporte y aire libre",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "3499,00",
+        "4499,00"
+      ],
+      "discount_percent": "22"
+    },
+    {
+      "id": "ofertasychollosesp/102431",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -40%‼️ #Publicidad\n\n✅UNDER ARMOUR UA RIVAL FLEECE CROP HOODIE\n\n📝 Sudadera con capucha para niñas, ideal para un look cómodo y moderno.\n\n🟢AHORA : 26,97€\n❌ANTES: 45,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/takk\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/takk\n\nPrecio para todas las tallas disponibles",
+      "title": "UNDER ARMOUR UA RIVAL FLEECE CROP HOODIE",
+      "description": "Sudadera con capucha para niñas, ideal para un look cómodo y moderno AHORA : 26,97€ ANTES: 45,00€ Ficha completa y chollos parecidos  cazadordechollos.es/takk Precio para todas las tallas disponibles",
+      "image": "https://cdn4.telesco.pe/file/nTew3vNu2-Xi111QsbcA0OaD7EzfsZjP-e-K5vfvvJ61AVUHbxUdmLcTfsCYlkX4eBhJ_hN9WfbJGgJHwXqCs1XbsapHu2CXh4te8SRlmegrBo3zkgFN5E4scaBwjpHSaKBRKerX-jHX8HAnJXPvp7GEzJmoqmNuq3-ZyNdaTqnLKdSo_Gyc8ZVqgUIWn-lkpkPDZTv4pYHPvQpY1TUzFsvYJm1MnImZfcqlU-dmLVwZEPXsVLPQDsS1ckDbyWfG3S8RKhLE8Ql4DL2D1OBrsC_BOfs_9s_M5bdycylQNlM_NYx1NmIoBfVIHUEYteDB5V_VC-mEN7k7DvdnMOsj8w.jpg",
+      "link": "https://ir.cazadordechollos.es/takk",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "26,97",
+        "45,00"
+      ],
+      "discount_percent": "40"
+    },
+    {
+      "id": "ofertasychollosesp/102430",
+      "date": null,
+      "text": "‼️OFERTA CAZADA‼️ #Publicidad\n\n✅ZAPATILLAS NEW BALANCE 515 PARA HOMBRE\n\n📝 Consigue estilo y comodidad con las zapatillas New Balance 515 en color negro para hombre.\n\n🟢AHORA : 38,49€\n\n🔗Enlace: https://ir.cazadordechollos.es/taki\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taki\n\nDe la 40 a la 44",
+      "title": "ZAPATILLAS NEW BALANCE 515 PARA HOMBRE",
+      "description": "Consigue estilo y comodidad con las zapatillas New Balance 515 en color negro para hombre AHORA : 38,49€ Ficha completa y chollos parecidos  cazadordechollos.es/taki De la 40 a la 44",
+      "image": "https://cdn4.telesco.pe/file/PYJhZmM-3MiDzjgbNe78yQquQwqdtY-ZDHk0yd92uWOqA9ygK80jPt_2LhNYS30aY_lZGrxJWE8elqOYoOop0c7wK3pYRFG7MinApUKar7GvKcHYV9n3rcRmXNMIGffWQF3nXHLIXUVjwmGAZPp_5LvHizoSuQ5kSh26AehDVZPJxDieSmE3DWi_FM0lVeWRbefN-jHV6dwEpLh2A4u89uiJh-ypNe_-BEHgDwPCNfAgRqK7HvFuNU8B7tcQlWKk6Q-lhZGtFh81H6O3WM8e0B-sODF4qFHYxLfWcj4gHPQ7wsqnj6A1mTqzGkNQVoYas85dQ8w5XoNeEkhB6Mmt9Q.jpg",
+      "link": "https://ir.cazadordechollos.es/taki",
+      "marketplace": "Decathlon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "38,49"
+      ],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/102429",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -57%‼️ #Publicidad\n\n✅SUDADERAS CON CAPUCHA JACK & JONES\n\n📝 Pack de 2 sudaderas con capucha para hombre con logotipo. Comodidad y estilo para tu día a día.\n\n🟢AHORA : 25,80€\n❌ANTES: 59,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/takg\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/takg\n\nÚnicamente en talla L",
+      "title": "SUDADERAS CON CAPUCHA JACK & JONES",
+      "description": "Pack de 2 sudaderas con capucha para hombre con logotipo. Comodidad y estilo para tu día a día AHORA : 25,80€ ANTES: 59,99€ Ficha completa y chollos parecidos  cazadordechollos.es/takg Únicamente en talla L",
+      "image": "https://cdn4.telesco.pe/file/grm7DI7nPEXQd9rC7uO0HUeO2IFRZU_0v5IgRzxjq2IvS943Rz8bSMAji7yg-8dK5eLRjY7Hu3FM3uCG3cP2ilsT8JMBQK14mEw0_1g-Df07NeXCEbGh9wI4B5Ij_oDPnI4PZ7cV9ybvzw2_I5LQRZM5Oaqp0YAJDw9z6hbNtST-6QqffREow-ByVB7-vxD6L65R50NTWLi5GalCfM_9H1NM4A8_vHmSDk_1-DQh3veX7jJIgmzT0T6mNOkWgax8zIjSQaDnkcrV8rlHPfLJSZaxWPEY1EC3ubBEa83nzxdrIiuBTsQWU6EAyH5pur39xfUqyyEkToeJxPjciKZKqQ.jpg",
+      "link": "https://ir.cazadordechollos.es/takg",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "25,80",
+        "59,99"
+      ],
+      "discount_percent": "57"
+    },
+    {
+      "id": "ofertasychollosesp/102428",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -63%‼️ #Publicidad\n\n✅BULLPADEL HACK 03 COMFORT 26\n\n📝 Disfruta de tu juego con la pala de pádel Bullpadel Hack 03 Comfort 26, diseñada para adultos.\n\n🟢AHORA : 89,99€\n❌ANTES: 244,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/takc\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/takc",
+      "title": "BULLPADEL HACK 03 COMFORT 26",
+      "description": "Disfruta de tu juego con la pala de pádel Bullpadel Hack 03 Comfort 26, diseñada para adultos AHORA : 89,99€ ANTES: 244,99€ Ficha completa y chollos parecidos  cazadordechollos.es/takc",
+      "image": "https://cdn4.telesco.pe/file/jUPZHDUhwqsor8JnIC9p-oGToI7k--adGpF4JjMCRr8XCRvzGg96lPu1RbOi5wwtE0vhYAzlPamklWgWD7Oxf1mwUeCcPXKWs_287AfocdDhSoK-d7vn32Wb4LsqCKAKRct6m2Q9CI3tKa_ot8DPP2Q7Z8tjYBlWdK62OXxgalOd27ENMhjG7et6bctdsvW6Xao4CE7LYC1zsYmGZeRZb3Kjkwd3ISoeFHyjKXdYH4jOxOxk5ifnQF39QPZt4_cy1xnOFvbTGqETdbg1mYUkgtuXksC15PFfCWY0xM65ADKeQqSluEU3MxHfe4KfEsVEfXsgBuXxD72DE6Zxcpkcow.jpg",
+      "link": "https://ir.cazadordechollos.es/takc",
+      "marketplace": "Decathlon",
+      "category": "Deporte y aire libre",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "89,99",
+        "244,99"
+      ],
+      "discount_percent": "63"
+    },
+    {
+      "id": "ofertasychollosesp/102427",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -30%‼️ #Publicidad\n\n✅CORSAIR MM700 RGB EXTENDED 3XL\n\n📝 Alfombrilla de ratón con iluminación RGB 360° y concentrador de dos puertos USB. Ideal para gamers que buscan comodidad y estilo.\n\n🟢AHORA : 48,99€\n❌ANTES: 69,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tak8\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tak8",
+      "title": "CORSAIR MM700 RGB EXTENDED 3XL",
+      "description": "Alfombrilla de ratón con iluminación RGB 360° y concentrador de dos puertos USB. Ideal para gamers que buscan comodidad y estilo AHORA : 48,99€ ANTES: 69,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tak8",
+      "image": "https://cdn4.telesco.pe/file/nh4DK1KKPd4ABP8RSFuiPt1QA3SnVR6RZCkFxo222551ThwJPV1g8KBN47soqXaGpwyhbEEWtZX8WK_TcxcLMOASnQTxkwFVXxKQMC58wb-VAAsx9RgKVCGb2VmPvtGEBwHH9Xmg1EF9z4HydzBqARKwINi46tkdUFb5zSp-3zTCl16vumBDOgO_VseA8JbdgEjiO8kC9beK1zlnIEXV66K7OhMcrXtGtnmXKYSjTW-irlvViNIuvpZnqoulVnBnp0J4s8ofPH2XEevsbl17zIB_LGxrjaN7ztmwGaO3p1PNpEEv1PDH8CpT4tCzHTWtlA1WTDwtEB6pNSscu9rkjA.jpg",
+      "link": "https://ir.cazadordechollos.es/tak8",
+      "marketplace": "Amazon",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "48,99",
+        "69,99"
+      ],
+      "discount_percent": "30"
+    },
+    {
+      "id": "ofertasychollosesp/102426",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -57%‼️ #Publicidad\n\n✅VAMPIRE: THE MASQUERADE - BLOODLINES 2 DELUXE\n\n📝 Disfruta de la Deluxe Edition de Vampire: The Masquerade - Bloodlines 2 para PC en Steam.\n\n🟢AHORA : 29,99€\n❌ANTES: 70,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/tak6\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tak6\n\nRecuerda que si eres o dices ser de Canarias no se aplican tasas adicionales",
+      "title": "VAMPIRE: THE MASQUERADE - BLOODLINES 2 DELUXE",
+      "description": "Disfruta de la Deluxe Edition de Vampire: The Masquerade - Bloodlines 2 para PC en Steam AHORA : 29,99€ ANTES: 70,00€ Ficha completa y chollos parecidos  cazadordechollos.es/tak6 Recuerda que si eres o dices ser de Canar…",
+      "image": "https://cdn4.telesco.pe/file/HeqQD30hh8o5ZXEsFectLeNfRtFVJQcAD45bxLgRZojTGg6pw9p2sAk9_PqElKgxkp7-Jk4vWX1FZrkQ-raAgpPo-ahvfhCED_6rkUayrgKNEbkS9T6Vy2SE_rcntfTgtRrrAkgm86_TS04ciqA6bquAo6JbRNckA4tl0bDvveLiH8V6KsRuNx097_C_nYoBKss97y-yzlg0olYW4hF4wgBejpYXgCQyfcnfUIuomEVfac7oxfFx8AajVrvjDbE6YeWyCgk0u1sk6AoyPCO2JtRd9Eq20AGAOxTBGowgXI7foWxPfIylNNR9UPPa4pfVEOMqWViqI4nq8FH1kXd91g.jpg",
+      "link": "https://ir.cazadordechollos.es/tak6",
+      "marketplace": "Instant-gaming",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "29,99",
+        "70,00"
+      ],
+      "discount_percent": "57"
+    },
+    {
+      "id": "ofertasychollosesp/102425",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -20%‼️ #Publicidad\n\n✅CASIO MTPV001L-1B - RELOJ ANALÓGICO\n\n📝 Reloj analógico de cuarzo para hombre con diseño en blanco. Ideal para cualquier ocasión.\n\n🟢AHORA : 31,00€\n❌ANTES: 38,80€\n\n🔗Enlace: https://ir.cazadordechollos.es/tajw\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tajw",
+      "title": "CASIO MTPV001L-1B - RELOJ ANALÓGICO",
+      "description": "Reloj analógico de cuarzo para hombre con diseño en blanco. Ideal para cualquier ocasión AHORA : 31,00€ ANTES: 38,80€ Ficha completa y chollos parecidos  cazadordechollos.es/tajw",
+      "image": "https://cdn4.telesco.pe/file/YiA1NRdEWnpEAq7ksvw81L_X_UH0GS-nYwuV0XktGaPgeDrKk07xRC0aXoiKJ7CJ7Ab5I7Mo8_TnlI-yi7NGRUc6_g7Lf1pGrWETgNFq-U7W7dvLpxHFuPn2HLVQMEBjJsC-RBjlw_sAXeO8vuuaLmF6vV8gJR4fxAgOBZZ_pOntnQ7T29STk7bteewrb30JltPkhKN_jpD17geRXyXSKG24fh0lmelu2cjX_2Er38zZDC_nCgN_cLGtXHs3w2fNpURZ2Yn48nPdoCLXrm08bcbcQ7N6wtJeyq78oRQSgELNyPUuyU9mOwUWLfDjr8aD_TwOzHDeq9IzNthpwOyDoA.jpg",
+      "link": "https://ir.cazadordechollos.es/tajw",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "31,00",
+        "38,80"
+      ],
+      "discount_percent": "20"
+    },
+    {
+      "id": "ofertasychollosesp/102424",
+      "date": null,
+      "text": "🔥 ¡SE ACERCA EL PRIME DAY!\n\nAntes de querer empiecen las ofertas, aprovecha todas estas pruebas GRATIS 👇\n\n👑 Amazon Prime — 30 días GRATIS\n👉 https://ir.cazadordechollos.es/102424\n\n🎓 Prime Student/Jóvenes — 90 días GRATIS\n👉 https://ir.cazadordechollos.es/c23\n\n🎧 Amazon Music Unlimited — Hasta 4 meses GRATIS\n👉 https://ir.cazadordechollos.es/c24\n\n📚 Audible — 3 meses GRATIS\n👉 https://ir.cazadordechollos.es/c25\n\n📖 Kindle Unlimited — 3 meses GRATIS\n👉 https://ir.cazadordechollos.es/c26\n\n🍔 Just Eat — Envíos GRATIS con Prime\n👉 https://ir.cazadordechollos.es/c27\n\n💡 Actívalas antes del Prime Day, aprovecha las promos y cancela cuando quieras.",
+      "title": "SE ACERCA EL PRIME DAY",
+      "description": "Antes de querer empiecen las ofertas, aprovecha todas estas pruebas GRATIS Amazon Prime  30 días GRATIS Prime Student/Jóvenes  90 días GRATIS Amazon Music Unlimited  Hasta 4 meses GRATIS Audible  3 meses GRATIS Kindle Un…",
+      "image": "https://cdn4.telesco.pe/file/l4UYwPchu0PwoWbQriAEMUxQfOcWWiien0JvOQS5SXRp22AoiUCfXHMrlBX7jKpDeme49edoot0SAf7ceCy0h2ovWmk2-M5TfSn3p0mPL_2FHEj87La2l1oqsPi3RDx_MNgaPE2CoOf1OYE2K0yGSqkWTY9dO3KH98mN2nFNSSN46_nwH39Dz2mUYFn2LzPEVLzX_sSoA0rJ5qUBRyF-iHz6zpOeCfnJhl4WvqDQ1XVgQw-WbZlOyKGUA-VrRXWkU4o-NdfboD9fvDdVHUpUpduue5du3bdtSjwaag2eQ_vqu_DcdO_IEt7TbaJ8TXyEO1dAfS09wbvIeuDQjswBog.jpg",
+      "link": "https://ir.cazadordechollos.es/102424",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [],
+      "coupon_code": null,
+      "prices_found": [],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/102423",
+      "date": null,
+      "text": "‼️OFERTA CAZADA‼️ #Publicidad\n\n✅ALFOMBRILLA DE RATÓN GRAND THEFT AUTO\n\n📝 Alfombrilla de ratón con diseños de Grand Theft Auto. Perfecta para gamers y fans de la saga.\n\n🟢AHORA : 8,99€\n🎟APLICA EL CÓDIGO: STNJTUAJ1982\n\n🔗Enlace: https://ir.cazadordechollos.es/taju\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taju\n\nDesde 8.99€ según tamaño elegido. 14 modelos distintos en 8 tamaños. Si tu pedido supera los 13.13€ aplica el código de descuento indicado para 0.80€ de descuento.",
+      "title": "ALFOMBRILLA DE RATÓN GRAND THEFT AUTO",
+      "description": "Alfombrilla de ratón con diseños de Grand Theft Auto. Perfecta para gamers y fans de la saga AHORA : 8,99€ APLICA EL CÓDIGO: STNJTUAJ1982 Ficha completa y chollos parecidos  cazadordechollos.es/taju Desde 8.99€ según tam…",
+      "image": "https://cdn4.telesco.pe/file/KLl_8nwmvuiYBU_yokv0MIvdiuYJWign3s4UiGpQfs5iapsrDyPg1iJa2qxqxW4-3f8NR-ESTDO0iBDCwvnM1l-xGxP_JHk8eHLiUBZHrfwBFi_kAzdIWhvHbqAkJVzlBRZg0UhGqQ1tukBxfQHXMBUwtES2-jbQHej0DtLA34Xh-DdApkBeU9E1Kj3xD4M_uuWocj1n5l29_d3c7TWYyo8gPexTM-aBK2zttHTuHDLNvmIc8ui7b3-fWv1O3A6xM3OXCdUABuEOyFL1Cxi_GoUOh9QM2rGnYPcVXjed7yONWRQBexH1vmTir9eyveOp4gvhCH74qB60eJNp_TZuLQ.jpg",
+      "link": "https://ir.cazadordechollos.es/taju",
+      "marketplace": "AliExpress",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": "STNJTUAJ1982",
+      "prices_found": [
+        "8,99",
+        "8.99",
+        "13.13",
+        "0.80"
+      ],
+      "discount_percent": null
+    },
+    {
+      "id": "ofertasychollosesp/102422",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -31%‼️ #Publicidad\n\n✅NIKE W NP LPP 6 IN SHORT\n\n📝 Pantalones cortos deportivos para mujer, con longitud ajustada hasta la mitad del muslo. Diseño en color negro y blanco.\n\n🟢AHORA : 23,99€\n❌ANTES: 34,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tajo\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tajo\n\nDe la S a la XL",
+      "title": "NIKE W NP LPP 6 IN SHORT",
+      "description": "Pantalones cortos deportivos para mujer, con longitud ajustada hasta la mitad del muslo. Diseño en color negro y blanco AHORA : 23,99€ ANTES: 34,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tajo De la S a …",
+      "image": "https://cdn4.telesco.pe/file/GCcS0xYOxOSDARX6KiwUZK5JJswC_W-ikAR1NUY7Ot_m-1EHZb7heaSh3EU0beY1QDmwIIwu0X89CZpw7rIHzRvbPwzmt9VlxR-cDW_vmOflGj-SMh94v8N9WoaQOV9JTBwIljeNYbPBl48YDderESuPJQR-vmwVaBI1vPC0tZ7qEhm4Q5jBpc83uXC4El4KBGX9OwGYTEzElAeiOsNUaiy-9CKMZgcq9q8eXKGeX7uj7B9SldxvZFcQyKHK6Gt9yBIdFVirXAzGqXLZ5l96EhXfRmgwq6oXOyjXqpZMyj8QTD75T-lPlwoOuW3OdxtElAUUQoNHf1VOKXGuNCbP5g.jpg",
+      "link": "https://ir.cazadordechollos.es/tajo",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "23,99",
+        "34,99"
+      ],
+      "discount_percent": "31"
+    },
+    {
+      "id": "ofertasychollosesp/102421",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -20%‼️ #Publicidad\n\n✅CÁMARA COMPACTA KODAK PIXPRO C1\n\n📝 Incluye tarjeta de memoria de 16GB. Ideal para capturar tus momentos favoritos de forma sencilla.\n\n🟢AHORA : 79,99€\n❌ANTES: 99,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tajm\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tajm",
+      "title": "CÁMARA COMPACTA KODAK PIXPRO C1",
+      "description": "Incluye tarjeta de memoria de 16GB. Ideal para capturar tus momentos favoritos de forma sencilla AHORA : 79,99€ ANTES: 99,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tajm",
+      "image": "https://cdn4.telesco.pe/file/Gd0pPgviAw4GaNA7ekeFSkr1yF5e2hSzn9ePulAS2PanuSeTAKfz27Y-qZzRuO7s82PoFW9NgDtvfYneNDOI9Jk0rq2Upees-FeUzV-9G07X3Bqv8Wb_VvUwXuAFMVM-wxXfVohh-l9dCaW_AHDw6vF9Ds8nioDYNxKJjhFMvHLbu85e7EcuPXkUsKNmEchDtTAVHkW7sRso1ukh9q0zjU3pHC08mT3RQilPWncSg4yX8dgtbx_OB_O2phJSoESB2sgEGoiEIvsAUT3gAJZGmw4ISekpUd1GpSVpx9uAkbDqz7krQsnxDIgLt9pPP3ZUurBX7V1rQ7bn7OcZj-DSuw.jpg",
+      "link": "https://ir.cazadordechollos.es/tajm",
+      "marketplace": "El Corte Inglés",
+      "category": "Tecnología",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "79,99",
+        "99,99"
+      ],
+      "discount_percent": "20"
+    },
+    {
+      "id": "ofertasychollosesp/102420",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -47%‼️ #Publicidad\n\n✅TOMMEE TIPPEE DREAMMAKER\n\n📝 Asistente para conciliar el sueño ideal para ayudar a los más pequeños a dormir mejor.\n\n🟢AHORA : 23,69€\n❌ANTES: 44,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/taje\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taje",
+      "title": "TOMMEE TIPPEE DREAMMAKER",
+      "description": "Asistente para conciliar el sueño ideal para ayudar a los más pequeños a dormir mejor AHORA : 23,69€ ANTES: 44,99€ Ficha completa y chollos parecidos  cazadordechollos.es/taje",
+      "image": "https://cdn4.telesco.pe/file/iZWfqbF9fBxR9V-UdFzZWLU1vlZibN3YBOGH_Id4qpYQprxAwOVe1Rwb86E2KdgmuoKGL_drm05EOi3GqyhaR2AAaPCGz98vMGN0dMwKvOSAR6R51oGj2PGsnBbMn6OHCizelYLQExWBAakM1yZ15OvfXTifW9Eq2heR0vD7_L3XwFB_9gEjw-GLjgw274eGAr7LB58ltNcQwnv9LhiCPNF_2dfvtFuMz25IAqBa4TPgItoe_ISq_SUM1qm8AJBxyLgfeUmbM_gnQkamWc3C2ZZdZj_U92B4t2mbtI83OJauWQbw16z1DIBTaajwjok6rHho7c_WAFkD0t8u7t6JQw.jpg",
+      "link": "https://ir.cazadordechollos.es/taje",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "23,69",
+        "44,99"
+      ],
+      "discount_percent": "47"
+    },
+    {
+      "id": "ofertasychollosesp/102419",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -3%‼️ #Publicidad\n\n✅KIT DE AMOLADORA ANGULAR INALÁMBRICA 12V\n\n📝 Incluye batería de litio recargable y es ideal para pulido y corte en proyectos de bricolaje en casa.\n\n🟢AHORA : 15,20€\n❌ANTES: 15,64€\n\n🔗Enlace: https://ir.cazadordechollos.es/tajc\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tajc",
+      "title": "KIT DE AMOLADORA ANGULAR INALÁMBRICA 12V",
+      "description": "Incluye batería de litio recargable y es ideal para pulido y corte en proyectos de bricolaje en casa AHORA : 15,20€ ANTES: 15,64€ Ficha completa y chollos parecidos  cazadordechollos.es/tajc",
+      "image": "https://cdn4.telesco.pe/file/h6tZ6kKQPF2-saxqPM0j4coUtuGv1RPtoNZNO520vbaIkATpUmbXla2-EzXHU0-_sAXi_iuBH8NFdzlAdPDCWmcRsNdCaV3JR3xWOB4LHlGVyHsfFMpVRAtx3yIGR0_P2vcaTko2520RW0v6WFrA_O5VpceHK4oaVkgWczicEDrdl4x6Kq9mzY_xrL9uQXL8u3t7-EKuWLqz7FsBxHeMfH3afArqVQEnoQ9ecdUy7vZtg4y5ImuvHfK1C05N98JoO6kLWgjPv8LAo6ReFaNOeorTqAcYbt-ediehFnWrBJd0r1IsJ5gbCz3Gz4ZImQ_zyKy66Fbfr_IL28nr6ZgbBA.jpg",
+      "link": "https://ir.cazadordechollos.es/tajc",
+      "marketplace": "AliExpress",
+      "category": "Bricolaje y jardín",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "15,20",
+        "15,64"
+      ],
+      "discount_percent": "3"
+    },
+    {
+      "id": "ofertasychollosesp/102418",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -77%‼️ #Publicidad\n\n✅SUDADERA CON CAPUCHA FILA ZACK\n\n📝 Consigue estilo y comodidad con la sudadera con capucha FILA Zack en color puerto leonado.\n\n🟢AHORA : 16,00€\n❌ANTES: 69,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/taj6\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taj6\n\n10 colores disponibles con variaciones de diseño",
+      "title": "SUDADERA CON CAPUCHA FILA ZACK",
+      "description": "Consigue estilo y comodidad con la sudadera con capucha FILA Zack en color puerto leonado AHORA : 16,00€ ANTES: 69,99€ Ficha completa y chollos parecidos  cazadordechollos.es/taj6 10 colores disponibles con variaciones d…",
+      "image": "https://cdn4.telesco.pe/file/N-VdRYFUnRwkLdHjy0RmcZpLrS4eZp3uD2RCtuC8LpdCJ5nW4ZsSwApJgBe3mq3xJlmoBDfVHacrS7NZ_3ZnJWiqZcnzcadc5QSl8YxMv_CrSBJ9T2ToCwfDtXNzq0-ICvAuls03R8rO94UjwsQHO9yiuPukQOaMRxRi-4HERAADUVnbGHqDcTraZBNGiUOa2YtiDSCm6JTnpipXuqhn_b-WEEN4b3SH9SJMJh4vkGZm1jbplGAV_2dBF5h7lUUfbrCl7NWUkF-h34Q6OI7PPOwzLFODx2s57rxKaxw2Pak7GRmFbqVVvbqwBKSukVUJS08i9z5X9tjnV1eGIIVN4A.jpg",
+      "link": "https://ir.cazadordechollos.es/taj6",
+      "marketplace": "Deporte-outlet",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "16,00",
+        "69,99"
+      ],
+      "discount_percent": "77"
+    },
+    {
+      "id": "ofertasychollosesp/102417",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -40%‼️ #Publicidad\n\n✅PAQUETE DE 36 PILAS AA AMAZON BASICS\n\n📝 Pilas alcalinas AA de alto rendimiento con una vida útil de 10 años. Ideal para tus dispositivos electrónicos.\n\n🟢AHORA : 8,77€\n❌ANTES: 14,50€\n\n🔗Enlace: https://ir.cazadordechollos.es/taj3\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taj3",
+      "title": "PAQUETE DE 36 PILAS AA AMAZON BASICS",
+      "description": "Pilas alcalinas AA de alto rendimiento con una vida útil de 10 años. Ideal para tus dispositivos electrónicos AHORA : 8,77€ ANTES: 14,50€ Ficha completa y chollos parecidos  cazadordechollos.es/taj3",
+      "image": "https://cdn4.telesco.pe/file/bIY-jLLVX7Sr_nbf9_qm5oU6z9x7a3mPQIhYu-VCWw_IpZfSBSzd5dmjSK46oIVqDpQmRIYunqK1IHeXk-MNVCzym3cHRiXNgtSXhNNcHxXROmdN5icCC_zan0LiMSF_aLR9Pb2RLGZ2CF-ZWGTGCviLJgltECyTPOjmthzG1YEfiYvHcITJ9MgSpw217eura38jqSSKAQ3xQKTYCWrqkzLRwEGAnr8mmY7uGigntyW7xs7bkwrP3VNevpTsfdcuBTGeACTy2iQj401OBDO2saM_FFUDC4kR2adJfamExz4CEmwObQUyrkXrIZrzRvQslclydz_ecNxnzyVgKybRRw.jpg",
+      "link": "https://ir.cazadordechollos.es/taj3",
+      "marketplace": "Amazon",
+      "category": "Otros",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "8,77",
+        "14,50"
+      ],
+      "discount_percent": "40"
+    },
+    {
+      "id": "ofertasychollosesp/102416",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -77%‼️ #Publicidad\n\n✅REEBOK ATHLETE DOUBLEKNIT\n\n📝 Sudadera con capucha de Reebok, ideal para tus entrenamientos y momentos de descanso.\n\n🟢AHORA : 17,42€\n❌ANTES: 75,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/taiy\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taiy\n\nTalla XL",
+      "title": "REEBOK ATHLETE DOUBLEKNIT",
+      "description": "Sudadera con capucha de Reebok, ideal para tus entrenamientos y momentos de descanso AHORA : 17,42€ ANTES: 75,00€ Ficha completa y chollos parecidos  cazadordechollos.es/taiy Talla XL",
+      "image": "https://cdn4.telesco.pe/file/Ltd67Bu3ecwg83rtapwc2nX5Xukn_6Tw-b-HId8witjCh1u-DATvXgDASPee4cH31kOC2VMHWwXp15aruz9aTUrIxj6LZlHMq1g0LbHTAaqAJMma-cJIkPH3CeoB92JLCs4lRSeQNWGmLUQOfopzOfJ1-N7PWCzLWtMRvPtUsffZoEWx0dFNZo_V2gMALcECno4Ulx0KbGdLWnC2x8J08s0LVvjTpLElKKCi71zhKo07CY6os2FmVBYRYVELTluEpY0_tq1rdNjCcH46Q04Ga-arggmuOioUWxNyvicrQqjU0ZRd0GRgLPIp40GipWeGQQszo9S1o53J4xBOWnRa_w.jpg",
+      "link": "https://ir.cazadordechollos.es/taiy",
+      "marketplace": "Amazon",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "17,42",
+        "75,00"
+      ],
+      "discount_percent": "77"
+    },
+    {
+      "id": "ofertasychollosesp/102415",
+      "date": null,
+      "text": "‼️2ª UNIDAD -50% CAZADA‼️ #Publicidad\n\n✅NIVEA LOCIÓN CORPORAL REAFIRMANTE Q10\n\n📝 Loción corporal con coenzima Q10 y vitamina C, proporciona 72 horas de hidratación y ayuda a reafirmar la piel.\n\n❌ANTES: 8,45€/ud.\n🔥2 UNIDADES: 12,67€ → (SALE A 6,33€/ud.)\n\n🔗Enlace: https://ir.cazadordechollos.es/taiu\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taiu",
+      "title": "2ª UNIDAD -50% CAZADA #Publicidad",
+      "description": "NIVEA LOCIÓN CORPORAL REAFIRMANTE Q10 Loción corporal con coenzima Q10 y vitamina C, proporciona 72 horas de hidratación y ayuda a reafirmar la piel ANTES: 8,45€/ud 2 UNIDADES: 12,67€  (SALE A 6,33€/ud.) Ficha completa y…",
+      "image": "https://cdn4.telesco.pe/file/DI-M4QbI8Cprc-i3cPW1O5WB25a_3Dff1wALXtveHer2h7GUgNbMq_rXc6fIR2Kk96ilqd0_jOoJCdt-65I9lrJ10lq4pWm319nnVxKxse8mhRP_eUmkEjVU_Pb5LWH5DV7OpuJPbnB4T5q3z8kY6XLSXSiqBxYnSX_4fI6kvbJzP3VLxNrYBlkSdUOMbt_sfPLptiCUEtzsNCThU0N-_VNIYtTlUgs4AWbi1YMiDpoPFRTEG2okwYP8fBXQgKOGkG0fFjs_JN09lET3PZQRpM6e87rKNIcaMuJlS9jTWHMuEGEEAKQ03514fOaqjz1ukg2-xSTf268ptVBnrtiywg.jpg",
+      "link": "https://ir.cazadordechollos.es/taiu",
+      "marketplace": "Amazon",
+      "category": "Salud",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "8,45",
+        "12,67",
+        "6,33"
+      ],
+      "discount_percent": "50"
+    },
+    {
+      "id": "ofertasychollosesp/102414",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -88%‼️ #Publicidad\n\n✅SUDADERA BEN SHERMAN BLUE TWO TONE\n\n📝 Consigue la sudadera Ben Sherman Blue Two Tone para un estilo cómodo y moderno en tu día a día.\n\n🟢AHORA : 4,67€\n❌ANTES: 39,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tais\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tais\n\nTallas S, M y L",
+      "title": "SUDADERA BEN SHERMAN BLUE TWO TONE",
+      "description": "Consigue la sudadera Ben Sherman Blue Two Tone para un estilo cómodo y moderno en tu día a día AHORA : 4,67€ ANTES: 39,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tais Tallas S, M y L",
+      "image": "https://cdn4.telesco.pe/file/MCvlNofDlb6hhLGzrZQ6KS_X7B56A1Xr_sA7-x8Kb_dgN0bDpY5OdyJW7iNz5k_M94foJkg30uyrErVHDLK7Q3wJiDYuN-e1gU2q9nJQu3jU-wY4w4Ymcd3LfpGgoLBdklVdJMRpPOWscGETmZLmbBNCvhtZPVe13_Edvu8nVt9Htz0sPWKn8ayzbBJmKcHaYGH11bniPTbhi3MN8Oic-SCkQzlNLBPkBwGcgyQBfK2Ps6pAJrxI-YnHLAxE3l5huZRCtFBaDT27-nLw0OQ4tHbVDTstWZ7PyWVz2YKue7P0FWl2_EZUOI9RtyBBhS61R1DroPyiGTw1cOY3Og_ClQ.jpg",
+      "link": "https://ir.cazadordechollos.es/tais",
+      "marketplace": "Deporte-outlet",
+      "category": "Moda",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "4,67",
+        "39,99"
+      ],
+      "discount_percent": "88"
+    },
+    {
+      "id": "ofertasychollosesp/102413",
+      "date": null,
+      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅XIAOMI TV S MINI 75\"\n\n📝 Televisor con diseño sin bordes, Google TV y alta tasa de refresco para una experiencia de visualización fluida.\n\n🟢AHORA : 749,00€\n❌ANTES: 899,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/taip\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/taip",
+      "title": "XIAOMI TV S MINI 75\"",
+      "description": "Televisor con diseño sin bordes, Google TV y alta tasa de refresco para una experiencia de visualización fluida AHORA : 749,00€ ANTES: 899,00€ Ficha completa y chollos parecidos  cazadordechollos.es/taip",
+      "image": "https://cdn4.telesco.pe/file/kzw9vmw5xGw75JdE6Fsft_eGdWr6P9IgGlIJIdzrGbxE4bLeEf9n1c2gVuH-3KVEmaxikglqAITFlk9Zl1lBRmJ5P__O5aV0yx3W6WV1cUp9M-HQ1CkjdQIDwi_KV4xl07yhDbhzmXk3z8_EpG40NxV5SlJ1rEsPkDLg0erPLrNIt_xigCPB0TVl0XiiEZvtr75-4wH0BUFHRhcsKwoTZJ5f1hkoCFahq4Ha-0MByS1aI2LVIYIGczA46J1Rncr-_bxTHnWulJW0Winf7j6XJEoKppjRwFWYh61H6orUV5YgxB7LNK_rx27Pb7eJI1WfPVSrBKJqEt-JAj0y-ySEEg.jpg",
+      "link": "https://ir.cazadordechollos.es/taip",
+      "marketplace": "Amazon",
+      "category": "Televisores y sonido",
+      "hashtags": [
+        "Publicidad"
+      ],
+      "coupon_code": null,
+      "prices_found": [
+        "749,00",
+        "899,00"
+      ],
+      "discount_percent": "17"
+    },
     {
       "id": "ofertasychollosesp/102412",
       "date": null,
@@ -1614,722 +2371,6 @@
         "4,39"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102330",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -56%‼️ #Publicidad\n\n✅OLAY RETINOL 24 MAX CREMA FACIAL\n\n📝 Crema facial de noche hidratante y antiarrugas. Ideal para cuidar tu piel mientras duermes.\n\n🟢AHORA : 18,99€\n❌ANTES: 42,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta9m\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta9m",
-      "title": "OLAY RETINOL 24 MAX CREMA FACIAL",
-      "description": "Crema facial de noche hidratante y antiarrugas. Ideal para cuidar tu piel mientras duermes AHORA : 18,99€ ANTES: 42,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta9m",
-      "image": "https://cdn4.telesco.pe/file/LLavohJ1VdZ51t4q_vF2ZcIDOAcsUrgXn86vzhsr_mlYE_zIeSKQeSUVf92PnLTjahcvWw5galZec8NtXk172ipMPx3QtfM22ISeQG9WHG7tZIJRNj9ufwppkljmqTK11r4bgu4K3hWDWq0paaW2QdHQAjd6dh7S66NWFQWp2o9CD7hWjFiIrEFtY-Unszdiz6QKPQUhSCKCExliuTPI7wzN0OWIqrCJgJ2nRaB2Tq78fIm2MLC0XfYLptqQUNrXh_XmPR8E0adAZ46xsZvVlUv1K1y_WO49MAdBSsNGzxTknjkl0zT_cW7hnylPK75EXiXWHlK5p-wRWA3hXKtCbA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta9m",
-      "marketplace": "Amazon",
-      "category": "Belleza y cuidado personal",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "18,99",
-        "42,99"
-      ],
-      "discount_percent": "56"
-    },
-    {
-      "id": "ofertasychollosesp/102329",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️ #Publicidad\n\n✅TARJETA PLAYSTATION NETWORK 60 EUR\n\n📝 Consigue 60 EUR para tu cuenta de Playstation Network y disfruta de tus juegos y contenidos favoritos.\n\n🟢AHORA : 55,23€\n🎟APLICA EL CÓDIGO: BRAINROT\n\n🔗Enlace: https://ir.cazadordechollos.es/ta9k\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta9k\n\nTasas incluidas",
-      "title": "TARJETA PLAYSTATION NETWORK 60 EUR",
-      "description": "Consigue 60 EUR para tu cuenta de Playstation Network y disfruta de tus juegos y contenidos favoritos AHORA : 55,23€ APLICA EL CÓDIGO: BRAINROT Ficha completa y chollos parecidos  cazadordechollos.es/ta9k Tasas incluidas",
-      "image": "https://cdn4.telesco.pe/file/DM91Ft2fIGYQL2_22VoUON8LroCxutCrJEXZri5HguJ_Q2GaoFWju7z8DUHntPBapLIE98SO6hgB_3q1v9MZ2na-BdCL7JMDILxHpOhZY9lk1sU83ESTEmeRKwxIyJRF93SRbPm99F_yH5gWN12bV_r6Oursm-d1om-qFm1y9AHJHmvV25j2t501floTy2CxY3TUjsQamiIZU9mI4SzuRchvHbN3uLijZ9ETm5gFU1UFvS_hEIs1KonditOUrIERoavkweiDqDWNmJUzI79_LA02CKPRR5OnlC9MaWTlijohg3jUUnsTqAyIk2HeCKYyEh1lPwQqR0BTb0KK9dd3ew.jpg",
-      "link": "https://ir.cazadordechollos.es/ta9k",
-      "marketplace": "Eneba",
-      "category": "Videojuegos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": "BRAINROT",
-      "prices_found": [
-        "55,23"
-      ],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102328",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -76%‼️#Publicidad \n\n✅BRIGHT EYES ILUMINADOR NATURAL\n\n📝 Ilumina tu mirada con el Stick para ojos BRIGHT EYES! de acabado natural. Perfecto para un brillo sutil y radiante en cualquier ocasión. ¡Haz que tus ojos resalten!\n\n🟢AHORA : 1€\n❌ANTES: 4.19€\n\n🔗Enlace: https://ir.cazadordechollos.es/102328",
-      "title": "BRIGHT EYES ILUMINADOR NATURAL",
-      "description": "Ilumina tu mirada con el Stick para ojos BRIGHT EYES! de acabado natural. Perfecto para un brillo sutil y radiante en cualquier ocasión. ¡Haz que tus ojos resalten AHORA : 1€ ANTES: 4.19€",
-      "image": "https://cdn4.telesco.pe/file/oJ7w4bfzTCNHfhFQHjh6rPb9JNSHKW4aSTrHN7yNCNuvKEueslal_YlaBvnumz3RLSYHa_mqwD86APp-cU04fGbxYmn5ud2GwT6aqjYz01iT2Gi_4VglFgDjXBhWJGMtp4CQKYpBiKsTBy836TvkhD0OTqRSP7Odlr35BJKBbqONcLzWmqXpw2Ggs91vt_Bw4TvRla-rg0w5J_8AuQmpGpPU1ya_uoNTAqZzSuK_lgytFfNH_vFpM0Rn7YewZzu3K1Ts7Kow0EqkjyZ36btVzgExgnjnyKQUYafvmqqj2S3WM688u2Z5kTY2fTHSlDOpZ6_TXg4Dcb4oo2pFlWbnNg.jpg",
-      "link": "https://ir.cazadordechollos.es/102328",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "1",
-        "4.19"
-      ],
-      "discount_percent": "76"
-    },
-    {
-      "id": "ofertasychollosesp/102327",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -28%‼️ #Publicidad\n\n✅CAFETERA NESPRESSO DE'LONGHI INISSIA EN80.B\n\n📝 Cafetera monodosis de cápsulas Nespresso con apagado automático y 19 bares de presión. Color negro.\n\n🟢AHORA : 79,00€\n❌ANTES: 109,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta9g\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta9g",
-      "title": "CAFETERA NESPRESSO DE'LONGHI INISSIA EN80.B",
-      "description": "Cafetera monodosis de cápsulas Nespresso con apagado automático y 19 bares de presión. Color negro AHORA : 79,00€ ANTES: 109,00€ Ficha completa y chollos parecidos  cazadordechollos.es/ta9g",
-      "image": "https://cdn4.telesco.pe/file/oIQw_Vrm-2BOwjCEGegV3x8VLzzvkcinflLCb6zcuVjMhxNEVNssvHsdLENlQA8AsDCp9ODpuNguWSN-YjtmVOg-J8hQpmVPIZyjCg6ZRblCTJpostUtUbDv7iaTGXLkSGhhvMcnNzMfAYoqdn3xGVVgThe_BZc-KgXb-x521wbzKw2VWMAxKzlTufqhElz7MVxN2r3s4L5VADdDy2Y8j8AcHhRYNRh-DBp2cl-r--S9vBfhd5YP1avyq6W4nc49j-trcSrPE6S9A2h6Bn7os5SsVrQT7NhSMADPG07EJW3wRR8D2-WXsejcjBzBIzXsry1ZMexOBNjzAF3ilywBZg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta9g",
-      "marketplace": "Amazon",
-      "category": "Salud",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "79,00",
-        "109,00"
-      ],
-      "discount_percent": "28"
-    },
-    {
-      "id": "ofertasychollosesp/102326",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -1%‼️ #Publicidad\n\n✅SOPORTE MAGNÉTICO PARA MÓVIL EN COCHE\n\n📝 Soporte magnético ajustable para el móvil en el coche, con base ventosa y bloqueo rápido. Ideal para mantener tu dispositivo seguro.\n\n🟢AHORA : 7,92€\n❌ANTES: 7,97€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta9e\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta9e",
-      "title": "SOPORTE MAGNÉTICO PARA MÓVIL EN COCHE",
-      "description": "Soporte magnético ajustable para el móvil en el coche, con base ventosa y bloqueo rápido. Ideal para mantener tu dispositivo seguro AHORA : 7,92€ ANTES: 7,97€ Ficha completa y chollos parecidos  cazadordechollos.es/ta9e",
-      "image": "https://cdn4.telesco.pe/file/NeRQtCZ_2CJuZROfPVPlxIkzpDR0GiJwlpI93HxfsEGN5kB9MXG3BKL3kgkKpi53iSyTYzO7qAiMQkTE0UJEsdIVf7hU-IKnLPv1JM5eSYaIGIEACWCnuyOTKcCMIODETQs41RzstT-omUbbXYJs4lt9uYag_RCFrPJrr0sSKWbYO9SWoPq01DooHP-Hc3W-paHvotAtRlzbFWSPcA3ZVs8T4GQ6ZNFnIJV0S5AEu_wXvYbQFXt_V8J5nPpEI1AmdrYlTtfiblFW00w7E-C8w75sG11ChnuaxwyHkCdoWuD8Rjx_3BkBQBKHPnCg954MTl6Iadu4njDzwtFjNkxckg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta9e",
-      "marketplace": "AliExpress",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "7,92",
-        "7,97"
-      ],
-      "discount_percent": "1"
-    },
-    {
-      "id": "ofertasychollosesp/102325",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -24%‼️ #Publicidad\n\n✅POTASIO Y MAGNESIO PIÙLIFE\n\n📝 Suplemento de potasio y magnesio en comprimidos, ideal para complementar tu dieta diaria.\n\n🟢AHORA : 14,40€\n❌ANTES: 18,90€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta99\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta99",
-      "title": "POTASIO Y MAGNESIO PIÙLIFE",
-      "description": "Suplemento de potasio y magnesio en comprimidos, ideal para complementar tu dieta diaria AHORA : 14,40€ ANTES: 18,90€ Ficha completa y chollos parecidos  cazadordechollos.es/ta99",
-      "image": "https://cdn4.telesco.pe/file/VPlUrxz4TBwFioQO-3fQekWRZUD9kfp3-cxL5_gHP5lKPEj247Xr2LKu8EIhJMkGOXslii1j6CzJS0s_rWuAK2IA0zuYKWSyVxT9IeRAn1cBp9AldIHmCsP_d1OMAsBPPqQW-lx5zlkNIq9TJv4hw9vF6DNlBqhI6g7auhis4gWAslnNw0mfEburtwobVC_S9a5YaKpoigS3bvkmqVpz3GC2mxVEllEeA4I2jWGChoHDotkovoVgbtE7xxSkvmu43KJzlFZOrmE2LhG3wzGG7K0tJY68EtGwY5HWHkbhpIskS33l-nHaObM2knRhSziE0rlSLjkVAoAL6FWDMTKfmg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta99",
-      "marketplace": "Amazon",
-      "category": "Salud",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "14,40",
-        "18,90"
-      ],
-      "discount_percent": "24"
-    },
-    {
-      "id": "ofertasychollosesp/102324",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -37%‼️ #Publicidad\n\n✅TV OLED LG OLED55C66LB 55''\n\n📝 Disfruta de la calidad de imagen 4K y las funciones inteligentes de este televisor OLED de LG.\n\n🟢AHORA : 1199,00€\n❌ANTES: 1899,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta97\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta97",
-      "title": "TV OLED LG OLED55C66LB 55''",
-      "description": "Disfruta de la calidad de imagen 4K y las funciones inteligentes de este televisor OLED de LG AHORA : 1199,00€ ANTES: 1899,00€ Ficha completa y chollos parecidos  cazadordechollos.es/ta97",
-      "image": "https://cdn4.telesco.pe/file/KAXXQfq2zkiJ11u0yGGjxpPdnBmHuDnEo8GrRrec2Rj_pnOy6eqOnO13mG97n1AnvfGxxTtoZ8ytgvAOGHNe_r9OoWgLexmCdFBnAWRGw0w-Ii0qtLAWFh9ucgMtAadBkM7QtQOX7ra3207Hca_S8qK7DLqTR8GWSUQ7jOOd4kbv8RGlup0mHyrbAfZV8ig6vY1Dh_b84zDGfZhgQ95I2-e7G9q79A-1UoPdTOEo0qu4udJFheG1Ig4gJTIUNJXcil2SfAJfehQ2oxhZoQxWAj_zwcTadF8xj8DYKf1FIs3ugRvKdpQlaCm33Mvr1DK5iE7HwkWQRsUvwOBQSHlOEQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta97",
-      "marketplace": "El Corte Inglés",
-      "category": "Televisores y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "1199,00",
-        "1899,00"
-      ],
-      "discount_percent": "37"
-    },
-    {
-      "id": "ofertasychollosesp/102323",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -12%‼️ #Publicidad\n\n✅TAQUITOS DE JAMÓN IBÉRICO\n\n📝 Disfruta de estos taquitos de jamón ibérico de cebo, perfectos para tus aperitivos o platos.\n\n🟢AHORA : 15,34€\n❌ANTES: 17,44€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta90\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta90",
-      "title": "TAQUITOS DE JAMÓN IBÉRICO",
-      "description": "Disfruta de estos taquitos de jamón ibérico de cebo, perfectos para tus aperitivos o platos AHORA : 15,34€ ANTES: 17,44€ Ficha completa y chollos parecidos  cazadordechollos.es/ta90",
-      "image": "https://cdn4.telesco.pe/file/N_tOafyplawC2AlpEpljxiBqxXZQgqGfwTmcf82411RAkwh4DH6bmwXwVhe3i1TjP5DjNwRpNvfcFimY3RRk-gQKfba1eA3DphECrVvuCLPzuvLOOqGtIm1xkmBKxYpgZJrgogZI433FLX1wRNFbvy87soTXWHRiQJlkFaj-zXbvUepYiIr09dAE5-KUF3FTCMEHagdevU6Q63k9fNo--oxMy0_BYA4y2KfQFuXb2_JzDkZFfkw6iuTGGkCVaBWQbeABrsQMoTtPCvkHbbXEkb5Cu1JEBzpWgSSTwZXs-DCcQKoAqiF08isZqDSyOlrGw5K2HUsqRp7LRlqJhd4AKQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta90",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "15,34",
-        "17,44"
-      ],
-      "discount_percent": "12"
-    },
-    {
-      "id": "ofertasychollosesp/102322",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -23%‼️ #Publicidad\n\n✅HP DESKJET 2920 MULTIFUNCIÓN\n\n📝 Impresora multifunción de inyección de tinta a color, ideal para tus necesidades de impresión.\n\n🟢AHORA : 49,90€\n❌ANTES: 64,90€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta8x\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta8x",
-      "title": "HP DESKJET 2920 MULTIFUNCIÓN",
-      "description": "Impresora multifunción de inyección de tinta a color, ideal para tus necesidades de impresión AHORA : 49,90€ ANTES: 64,90€ Ficha completa y chollos parecidos  cazadordechollos.es/ta8x",
-      "image": "https://cdn4.telesco.pe/file/OG2PDZLnSotrvQ3hHrbKXSXSnAFToRD28hP-1QMXrdYvUKmHSw_2ot9pL2NO5h6WR57-vT-8zwqNbTUfezdCz7zvK6SH5Xpg2EOFvMRuB10L4XFc5KB944r8eFONFABJNnhE35gREhxd8pKf0SNr66FoODM1CaGKY_H9ns9jDzB0d6e0QWDP6NTd5m57_NcZQmZlyyluLt6kNNgtwkZdDiVaYYRo6lGW1akeB1zlL3LrSWSV1NIgGbcETCGahikeBOucDQP7IbmrbeYTfwwxhkzy93OJ1oETovZLKGlEwTl3Hh6LnNYyCq4b-nLC57a__qXwya6NubupKPjVTFgtQQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta8x",
-      "marketplace": "Amazon",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "49,90",
-        "64,90"
-      ],
-      "discount_percent": "23"
-    },
-    {
-      "id": "ofertasychollosesp/102320",
-      "date": null,
-      "text": "🔥 Lo más vendido hoy\n\n🥇 Llegan los Apple Days a Fnac #Fnac\n👉 https://ir.cazadordechollos.es/102231\n\n🥈 ROPA DE CAMA MICROFIBRA BLANCA — 9,99€ #Amazon\n👉 https://ir.cazadordechollos.es/102242\n\n🥉 SMART TV LG 75\" QNED MINILED 4K — 699,00€ #Amazon\n👉 https://ir.cazadordechollos.es/102257\n\n🏅 XIAOMI SMART SPEAKER LITE — 23,29€ #AliExpress\n👉 https://ir.cazadordechollos.es/102255\n\n🏅 REDMI NOTE 17 CON SNAPDRAGON 6S — 239,18€ #Miravia\n👉 https://ir.cazadordechollos.es/102248",
-      "title": "Lo más vendido hoy",
-      "description": "Llegan los Apple Days a Fnac #Fnac ROPA DE CAMA MICROFIBRA BLANCA  9,99€ #Amazon SMART TV LG 75\" QNED MINILED 4K  699,00€ #Amazon XIAOMI SMART SPEAKER LITE  23,29€ #AliExpress REDMI NOTE 17 CON SNAPDRAGON 6S  239,18€ #Mi…",
-      "image": "https://cdn4.telesco.pe/file/V1pl-0egbHsgdxSikbev_1OGN26LrB2U1yriOFQysfvVkTlp8jR3ydA2fw8eNFdzb6dN8NG-6x3M-3TNClaQzQ7wI5wOPQu2xX2wmcK7zTJjmyqryeoVLMltinHQP7rDbJ_QuRquRJ-3Gn44jUJSAR2AfG8tjQ9eKL6sarla5xSJvPV-MNsKAabpS5BDdQIMobvRnWVrRAUjGPoNOaq-QTOXPGoUm-eiiBeqBCiKzcZvFczFzOEUT2r92E-d_gF10BJF5gASs4JyOMvpKWlQarVTow6rYfkA3Xv-jqdC7Vo5CUy3osfcJW0gdRy4qt1fDW34cfl--zFPOGqFGfuzgA.jpg",
-      "link": "https://ir.cazadordechollos.es/102231",
-      "marketplace": "Fnac",
-      "category": "Televisores y sonido",
-      "hashtags": [
-        "Fnac",
-        "Amazon",
-        "Amazon",
-        "AliExpress",
-        "Miravia"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "9,99",
-        "699,00",
-        "23,29",
-        "239,18"
-      ],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102319",
-      "date": null,
-      "text": "Guía de compra: El Gran Dilema Dyson: ¿Qué Modelo Necesitas Realmente? \nTe lo contamos en nuestro blog\n\n👉https://cazadordechollos.es/blog/el-gran-dilema-dyson-que-modelo-necesitas-realmente-guia-definitiva.html",
-      "title": "Guía de compra: El Gran Dilema Dyson: ¿Qué Modelo Necesitas Realmente",
-      "description": "Te lo contamos en nuestro blog",
-      "image": "https://cdn4.telesco.pe/file/NM4_vJXJ6B6fPKUtym8jdHqAFyYpUh0_Q86eghUtC6EZWNIs6mCqGm7s-VPsm6EI-bsyHTEeTzoRHAbak5yWJZnRgmrGakUrr1ZkiOdWnfI4CRn2yPr9fQriyz8ad-1EOk1bYB6b3nDg8tE3Bo03cQ0NXdabHTqZ2MavH7bMPfSQoMjS4Dr5mjAFwthtbsJcstjqY1B46Jo5IJJN3n-65bj3NPLbf1rkeMlgnkg72I0CHwFV4j2dyrYbLeMR5-VZVm2e1saeq6IKrGM7_HAklYx-f_ELiCWFRZLSve6X9OKvJMOXkSj3BEELvpiKWBMzjmCj84BNQJi2q-hWAAxyyg.jpg",
-      "link": "https://cazadordechollos.es/blog/el-gran-dilema-dyson-que-modelo-necesitas-realmente-guia-definitiva.html",
-      "marketplace": "Cazadordechollos",
-      "category": "Otros",
-      "hashtags": [],
-      "coupon_code": null,
-      "prices_found": [],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102318",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -26%‼️ #Publicidad\n\n✅LENOR SUAVIZANTE CONCENTRADO PACK AHORRO\n\n📝 Pack de suavizante concentrado para lavadora que ofrece frescor duradero y 100 dosis para tu ropa.\n\n🟢AHORA : 17,86€\n❌ANTES: 24,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta8f\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta8f",
-      "title": "LENOR SUAVIZANTE CONCENTRADO PACK AHORRO",
-      "description": "Pack de suavizante concentrado para lavadora que ofrece frescor duradero y 100 dosis para tu ropa AHORA : 17,86€ ANTES: 24,00€ Ficha completa y chollos parecidos  cazadordechollos.es/ta8f",
-      "image": "https://cdn4.telesco.pe/file/GhVykznSSLyZRpaABqU3khWOIEuYAYTqBebvIT5QNBNvlXAKLetwlvQId6KGJpN61AJ6tzoH5WRZiINveG8ysoHPWnMSYG726okX2sD8-81A33JBVSGATetEBE5CVRBICTpVwWgNFYXeJ1w2ymavH4FF3pL98AjkthChy68i-nsMkJ9ptomgjFy81XgJqCqSvQi47kWX_1-BGumKBGCwNmdEMSbDbj7y9EEEUOdcimlskXSRlUSiNWA1GAxc2l-8seOXqJNWnJIaWGJreAJa-3mFXiCWKY7cBTnwlZr84mIz2spDn_rVUWhDX5ua6Zd6ALFpyIgFSxyl5EVHhQmVlg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta8f",
-      "marketplace": "Miravia",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "17,86",
-        "24,00"
-      ],
-      "discount_percent": "26"
-    },
-    {
-      "id": "ofertasychollosesp/102317",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -34%‼️ #Publicidad\n\n✅CHAQUETA DE DENIM VERO MODA VMZORICA\n\n📝 Chaqueta de denim en color azul medio de la marca VERO MODA. Ideal para tus looks de entretiempo.\n\n🟢AHORA : 29,70€\n❌ANTES: 44,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta8a\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta8a\n\nTallas XS, S, L y XL.\nLa M está por 35.66€",
-      "title": "CHAQUETA DE DENIM VERO MODA VMZORICA",
-      "description": "Chaqueta de denim en color azul medio de la marca VERO MODA. Ideal para tus looks de entretiempo AHORA : 29,70€ ANTES: 44,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta8a Tallas XS, S, L y XL La M está po…",
-      "image": "https://cdn4.telesco.pe/file/lvpllesRCTc-K2HMHNvzM2HhDjN-dPdq5s8RQ9g8mtSfnHSLJvLue1j40znpqGvqR6HL_ctsBZqVHxAyagAhveF3yZPvYGFkBxoaXfJP9hCoXHgfZlHOWmUB45xUiQA1Co534gN4UMGPmLX7gWnwA-7ri_ISO88Sizznx2WnwYcONzSiX8RBB69JUyLlWQB0BhRSTa1SsZRm6MaocIczGKnJUpUe3tkScHZCfGpE8lI20oN-llY0vYyhffsACgjKrcocetUhtq9grNlGPY7PAiy_K7WQ_lZkuVt4AZ8Viw8oy4-8F_v_MFKg_N4QPgjxVUgLREoSItcW7qfM66m7ow.jpg",
-      "link": "https://ir.cazadordechollos.es/ta8a",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "29,70",
-        "44,99",
-        "35.66"
-      ],
-      "discount_percent": "34"
-    },
-    {
-      "id": "ofertasychollosesp/102316",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -14%‼️ #Publicidad\n\n✅AURICULARES ONEPLUS NORD BUDS 3R\n\n📝 Disfruta de la música con los OnePlus Nord Buds 3R, que cuentan con Bluetooth® 5.4 y controladores dinámicos.\n\n🟢AHORA : 24,35€\n❌ANTES: 28,31€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta88\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta88\n\n📢 5.4, Google Fast Pair",
-      "title": "AURICULARES ONEPLUS NORD BUDS 3R",
-      "description": "Disfruta de la música con los OnePlus Nord Buds 3R, que cuentan con Bluetooth® 5.4 y controladores dinámicos AHORA : 24,35€ ANTES: 28,31€ Ficha completa y chollos parecidos  cazadordechollos.es/ta88 5.4, Google Fast Pair",
-      "image": "https://cdn4.telesco.pe/file/pF3aZoqFxMA-zl5oLUO4FZSePUyRJ4PhdzC01tSn38XMObuFO1kzlqau4148rCLDIhaiEXK916KUPKyBMNEHgyqbeW72_LeSKqDHwAvNrDzARjm_A7Au_1fUY8J_HOyCMfRF3Apf3z1t2HSZLd3rQoWD51jFym-A60GVa1XMLwQIdBb8BwUFafTfgf8M1RVq-1DuV0csoN4enfUsiEZSFcemB9JJ0fxiw0nFnNvXH78k4HknZV2llap105xaPP5_phOrSUJMjx1r8LkjiSNLl37VGDkixHDLWA2H7nRpU4ns5Pv3VLauLwv59bUpP0vqUMOI1BLW4wUa-SpzAwyD1w.jpg",
-      "link": "https://ir.cazadordechollos.es/ta88",
-      "marketplace": "AliExpress",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "24,35",
-        "28,31"
-      ],
-      "discount_percent": "14"
-    },
-    {
-      "id": "ofertasychollosesp/102315",
-      "date": null,
-      "text": "✅ESTANTERÍA DE PARED FLOTANTE SONGMICS\n\n📝 Estantería de pared con 3 cajones, ideal para pasillo, salón, dormitorio o cocina. Diseño en color blanco y pintura de alta luminosidad.\n\n🔥PRECIO: 35,19€\n🎟APLICA EL CÓDIGO: MES06\nℹ️ Cupón sujeto a disponibilidad. · El precio final puede incrementarse por aranceles.\n\n🔗Enlace: https://ir.cazadordechollos.es/ta83\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta83",
-      "title": "ESTANTERÍA DE PARED FLOTANTE SONGMICS",
-      "description": "Estantería de pared con 3 cajones, ideal para pasillo, salón, dormitorio o cocina. Diseño en color blanco y pintura de alta luminosidad PRECIO: 35,19€ APLICA EL CÓDIGO: MES06 ℹ Cupón sujeto a disponibilidad. · El precio …",
-      "image": "https://cdn4.telesco.pe/file/aqjCcwgyUrnCXPySchIB3Zj5nGf6-J4BsN0rLjEfS4y2JBTLUL79u1gDa8SrYi2ESk3lB08jrWHmAEqjF06KkHWpc626Ig6CVM2JYGVTYqv2sMV_Whj8_YVdmzqeUHTYFknXFG5seK8WCeSyYHn2sgnuCoeT3OKOMaLaV4J927oFqaZiSlBjktKfLju-FjHvqBmFHai49mS5kDdjPsKhZz6xQKTBXNecCUzuy-H3GCdqqLMa4HlyeDnWY_h1zDZLeIYo_YLX1T178UBG8VFXJJ077syM-ZIZQAx6VvClq69NO1BzAdKKF0n8ShrXNCsJOHxbmQ-1kAr6H4VSal-B5A.jpg",
-      "link": "https://ir.cazadordechollos.es/ta83",
-      "marketplace": "AliExpress",
-      "category": "Hogar",
-      "hashtags": [],
-      "coupon_code": "MES06",
-      "prices_found": [
-        "35,19"
-      ],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102314",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -21%‼️ #Publicidad\n\n✅ROLLO DE COCINA TAD ULTRA ABSORBENTE\n\n📝 Rollo de cocina ultra absorbente de 32 unidades, ideal para tus tareas del hogar.\n\n🟢AHORA : 17,85€\n❌ANTES: 22,52€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta81\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta81",
-      "title": "ROLLO DE COCINA TAD ULTRA ABSORBENTE",
-      "description": "Rollo de cocina ultra absorbente de 32 unidades, ideal para tus tareas del hogar AHORA : 17,85€ ANTES: 22,52€ Ficha completa y chollos parecidos  cazadordechollos.es/ta81",
-      "image": "https://cdn4.telesco.pe/file/Q8azpj1Ea01J2jhT7D-QpTkrgpSkKN86o6Fu2p_W2mOPNLge66__7B7kgLe6pHDOc0YZIwueUga4sg9TKsuog1CMNgI3y4ACD9hBTFdxZpH2sEx7AHpyOqtl-gHtchb75QkdroC6ZclGWPrvGzcSXGoZavRZrsL0yw-ZliwbRJahAm9lQTAYXb8hxNEvkRhQSlJb0l5t1Up-UvVwc8DkDxeinvYjw9JuDCDWC0D7vOa3EpUAprPakfOW5pwGdPEJr-V4MGXeK1r4DlBP0c7IdvGscAVSD4k0gZ8tk29rS3lfKpn7YhNVpXyKBZvu-p-E2RvfbW1qfAxi5L2xOgjWlA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta81",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "17,85",
-        "22,52"
-      ],
-      "discount_percent": "21"
-    },
-    {
-      "id": "ofertasychollosesp/102313",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -26%‼️ #Publicidad\n\n✅DYSON V15 DETECT™ ABSOLUTE\n\n📝 Aspirador escoba con potente succión y autonomía de 60 minutos. Incluye minicepillo motorizado y sensor de suciedad.\n\n🟢AHORA : 589,00€\n❌ANTES: 799,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7w\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7w",
-      "title": "DYSON V15 DETECT™ ABSOLUTE",
-      "description": "Aspirador escoba con potente succión y autonomía de 60 minutos. Incluye minicepillo motorizado y sensor de suciedad AHORA : 589,00€ ANTES: 799,00€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7w",
-      "image": "https://cdn4.telesco.pe/file/n9En9T3C_a8RfPRZRjBw2edt0xJtW6peyPH1Ip9njTU9ppP_PPHo8EaNh6EaCnWG4yo47CBAu-Y9DZxqOU0IAZT9MWKYO6MRRio8CDLi97e5losgr07-9bbzvB0ep66kJaWontw6oD6GKnjKuVUM0tV4q3KyFJua8JOe8Cak4gM9QWn_a8aql7Z0C5xl0cerSASdBiO17Fj6pQVy_9Q3s4yQSOZC6Sewn_i9W-ckFN1VM45_2gRhCAjmCZ70L6pD11mds2cuXhAXAlvATu-onu134a4yPQ96cOnggasl5-wDH1u03nDMT4WL3Aw25gam5CDj5yaiam_kKbYPv9YHdA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7w",
-      "marketplace": "Pdt",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "589,00",
-        "799,00"
-      ],
-      "discount_percent": "26"
-    },
-    {
-      "id": "ofertasychollosesp/102312",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -5%‼️ #Publicidad\n\n✅PACK DE 6 COPAS DE VINO\n\n📝 Disfruta de tus vinos con este pack de 6 copas de 58cl. Perfectas para cualquier ocasión.\n\n🟢AHORA : 14,90€\n❌ANTES: 15,69€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7r\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7r",
-      "title": "PACK DE 6 COPAS DE VINO",
-      "description": "Disfruta de tus vinos con este pack de 6 copas de 58cl. Perfectas para cualquier ocasión AHORA : 14,90€ ANTES: 15,69€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7r",
-      "image": "https://cdn4.telesco.pe/file/XG7CJW3lW04oxgm-JJJeOPKh1sBTHl7x_hIYJFGUF1Ns78egWFjDpvkwL83pZyN4pwYwQqIpFr0mXv7SvuYTVOHjFrLJQv-vXFVxBQWEX2PHmO_2OFrWGqSKH6b2KYxmOwYWp9lkkiDvjxC1pi6-7tzR1hVSU02VB4y56qTnfLBgKsfYHEkWqLcXlrVQDW9DFejs6mu_lG0SK1HDK8hs2qk5eUd-gehxH0qoIHRwiXZdH9158tyKo7kAQDwmpkUdPbOTV26Q0EvTfvfpzLAQUKW2Xred7ZOZ6pc7Sz0fVdJqRXTcC4uX4gL-69fV8QBu4FkndPGfcVbSvahwe_3VIA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7r",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "14,90",
-        "15,69"
-      ],
-      "discount_percent": "5"
-    },
-    {
-      "id": "ofertasychollosesp/102311",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -22%‼️ #Publicidad\n\n✅CASA PARA GATOS DE 2 PISOS\n\n📝 Casa para gatos de interior con rascador y bola esponjosa. Diseño plegable en forma de cubo y color gris.\n\n🟢AHORA : 24,37€\n❌ANTES: 31,05€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7p\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7p",
-      "title": "CASA PARA GATOS DE 2 PISOS",
-      "description": "Casa para gatos de interior con rascador y bola esponjosa. Diseño plegable en forma de cubo y color gris AHORA : 24,37€ ANTES: 31,05€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7p",
-      "image": "https://cdn4.telesco.pe/file/PHBt2eq6pkUq5NZrFuocgyCI7mKSQ4wbafgmlbSEhrD4Tjn_41h2T3BDhjlWcOK-nOLLDG_085whUtzxZrSepMqM36AvBzr6dRhpkr7ko00EWfms2rxg4pWjlCJbi5qFRc2-6di4taI8ZBM_qTzHO7Jt06WZGUsv5lkQeODO2ki2C4JZjx7io63prBj_saFyEyRdwKHbrtS3zhVxTw2vY0s85J1WsqzRkmBv2mRCAdCdjBh3Fbr1t0zo8lgVJMTTRqREqkv3t6CP4_Lh8omeFzSXsbNfdQLmmYQXN1oYwBtspPDzsauxTzmOoajcMRNNahAmL5JG8gp0yFgnJ-T6TQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7p",
-      "marketplace": "Amazon",
-      "category": "Mascotas",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "24,37",
-        "31,05"
-      ],
-      "discount_percent": "22"
-    },
-    {
-      "id": "ofertasychollosesp/102310",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -2%‼️ #Publicidad\n\n✅COCHECITO PARA MASCOTAS PAWHUT\n\n📝 Cochecito plegable con toldo ajustable, ideal para pasear a tus mascotas cómodamente.\n\n🟢AHORA : 56,13€\n❌ANTES: 56,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7j\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7j",
-      "title": "COCHECITO PARA MASCOTAS PAWHUT",
-      "description": "Cochecito plegable con toldo ajustable, ideal para pasear a tus mascotas cómodamente AHORA : 56,13€ ANTES: 56,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7j",
-      "image": "https://cdn4.telesco.pe/file/JrrmsibfGUVkTpAxZaGy5DEhHcwQdDl7wzjmw4jr9Ie2YmjxVkpylLkwUrdwzM47OcJrH3Nwj1b5_6gShQt7EXxQN7T3qcf-QGS7uQg1u7UkVIb9bGtehRwANbSHznwzbHFEimgmaDuBVqUpqYzYbZi7N6kKp7f1KHnE6X09aGRwLG2ByqM03WOoj9Aa_jy7pHrXZvG4QvMfW5elZKLLun7m1p1UDJ0rb08EAw1LwFMsJVFgAcfXRncn1kM1aVEh-rHopTZ8sA0xOlrfAwk4v1kbVmlN5S8qOe5EMjpuotftzPL2277rLUilzPR3bB0qmTTl5RizdVWmuAcpnJbqHQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7j",
-      "marketplace": "AliExpress",
-      "category": "Muebles",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "56,13",
-        "56,99"
-      ],
-      "discount_percent": "2"
-    },
-    {
-      "id": "ofertasychollosesp/102309",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅BOSS BOTTLED BEYOND FOR HER\n\n📝 Descubre Boss Bottled Beyond For Her, una fragancia elegante y sofisticada para la mujer moderna.\n\n🟢AHORA : 74,31€\n❌ANTES: 89,94€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7h\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7h",
-      "title": "BOSS BOTTLED BEYOND FOR HER",
-      "description": "Descubre Boss Bottled Beyond For Her, una fragancia elegante y sofisticada para la mujer moderna AHORA : 74,31€ ANTES: 89,94€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7h",
-      "image": "https://cdn4.telesco.pe/file/SMf3lTqLzxZ6uO1EUiRmmkQWDm-2qD8xR32sHu_KRdxkJskGeHjgmpWiO-nE0-ZNqbSJsbdbHIJzlUex96akrD_SKzvr9WRPfPtg8cXWYclFUr3SCXkPMoYh19ujj4WXsojzuMyNuBy7AK4uYthA7xodzTI-UTEEicyFUWGOPtBtaJhz9jv9KxN3dyXnMB_isrPgujs8CjfPwXq2j62gaC8RVYSNmAqbP1ucifujnNn5txtd0V395c6fKXQqFgmPz0BHf1J9hWzdPeCfSymNSJum8R440moR9JprXjWWyr0tJZ8-LfrZPjhtA8uUIl-kQ-7HyjHAUSEQnREtokRnkA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7h",
-      "marketplace": "Amazon",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "74,31",
-        "89,94"
-      ],
-      "discount_percent": "17"
-    },
-    {
-      "id": "ofertasychollosesp/102308",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -25%‼️ #Publicidad\n\n✅DODOT SENSITIVE KIT RECIÉN NACIDO\n\n📝 Pack que incluye pañales y toallitas para el cuidado del bebé. Ideal para los primeros meses de vida.\n\n🟢AHORA : 38,62€\n❌ANTES: 51,49€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7d\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7d",
-      "title": "DODOT SENSITIVE KIT RECIÉN NACIDO",
-      "description": "Pack que incluye pañales y toallitas para el cuidado del bebé. Ideal para los primeros meses de vida AHORA : 38,62€ ANTES: 51,49€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7d",
-      "image": "https://cdn4.telesco.pe/file/tX-g6Oi6UFkhJYTrSaoMRMOjep085jFvdsPYx34pNqevyjpkEjkb7cObd6DWpSXU_i22mGGXQS0bRFwWMDy8v6L4IfSNdLgzEBwFu1YieCPuW4BNF0Cp1hfbgaEHnahuyyogtdGcR0hpjsFMOEnqh018EI5xUhg4mXsZRCYE6SN7saghyHfgX5PSf7JPU2lUjhizquG-L7jkO-Lb8Lf4wFcY7QICo-VTi9OuRzkoVJJooEt4uvJqy0t_4VK0lwxG1icVLISFLNP-RtLRwqWMggtkzcw_jXqQxoP6uzGNRJaRpHTwwR0uAip0ROgZkYygeSncnE8chHqIn2XxEm7JMA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7d",
-      "marketplace": "Amazon",
-      "category": "Bebé",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "38,62",
-        "51,49"
-      ],
-      "discount_percent": "25"
-    },
-    {
-      "id": "ofertasychollosesp/102307",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -16%‼️ #Publicidad\n\n✅MICRÓFONO DE CONDENSADOR USB FIFINE\n\n📝 Micrófono de grabación de metal ideal para estudio en casa y podcasting. Compatible con computadora portátil y Windows.\n\n🟢AHORA : 18,39€\n❌ANTES: 21,84€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta7b\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta7b",
-      "title": "MICRÓFONO DE CONDENSADOR USB FIFINE",
-      "description": "Micrófono de grabación de metal ideal para estudio en casa y podcasting. Compatible con computadora portátil y Windows AHORA : 18,39€ ANTES: 21,84€ Ficha completa y chollos parecidos  cazadordechollos.es/ta7b",
-      "image": "https://cdn4.telesco.pe/file/URuW2JEm-Yp6V5gR0gJ7kT6W1NdKC4yMTBj-EgMeKX06F18ZD3qvoviMoj7-dEJtttemCRnlomwJISn6UCuyRiOk8CgkjPeiMoo4wrh3ojnAcCtF_iE9Tvyo2EqhDqIupa1EvTRP1azvgTMe6_pVxZ0I3XqeyuA1JBZ4EbwQ7pilhhUJqZXJRltqAtnZ16Nn3Y3zjjCslbSViswxIQxEuTFVagpjKgOz0dE9CrHopzSv1rgbhPmOsyuESvlFCEv-4XlLvLw45qTu2zvHBH-yEVa1-YZYNRIMn994fPsDQIfGG0i3HP3syfMxKxTAuHGyBPqkJrUQ4raeKhwyT8I69Q.jpg",
-      "link": "https://ir.cazadordechollos.es/ta7b",
-      "marketplace": "AliExpress",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "18,39",
-        "21,84"
-      ],
-      "discount_percent": "16"
-    },
-    {
-      "id": "ofertasychollosesp/102306",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -8%‼️ #Publicidad\n\n✅LAZOS DE HOJALDRE CON MIEL\n\n📝 Deliciosos lazos de hojaldre con miel, perfectos para disfrutar en cualquier ocasión.\n\n🟢AHORA : 19,00€\n❌ANTES: 20,65€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta75\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta75",
-      "title": "LAZOS DE HOJALDRE CON MIEL",
-      "description": "Deliciosos lazos de hojaldre con miel, perfectos para disfrutar en cualquier ocasión AHORA : 19,00€ ANTES: 20,65€ Ficha completa y chollos parecidos  cazadordechollos.es/ta75",
-      "image": "https://cdn4.telesco.pe/file/uQb8cj0sJVvYR8vEkizPFgjZcML47jUFU_orCAL_DIpO8TgpKlmdg_ZVn740afPQLREj62LAIdFXRpOrSdyUpwjA4jTZXNCXqnM1-_rTfUMD6adHHNBx9MzOGNOxp8VXdFp8grKBvjXpaErW_JDgHlyiQptdmUPKuF7Te28EJboKlzeLCCWsuciKQKtQv-F1kW8rqnm39YkfnaCEXd4zUXVtE4PVkjwmYeakFfrnHV14Zwr6AJc5pLhc9JJOqd1rkqR-GRYVCgp3AZ4LCJ8JukDZtHQ7aFS13RVQhQ0pnFthgJ9gCJkCY-X4atfaiPb--NBvwB5efwb-8COjJRPSeg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta75",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "19,00",
-        "20,65"
-      ],
-      "discount_percent": "8"
-    },
-    {
-      "id": "ofertasychollosesp/102305",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️ #Publicidad\n\n✅JAMÓN SERRANO GRAN RESERVA NICO JAMONES\n\n📝 Disfruta de este jamón con más de 14 meses de curación, galardonado con el Premio Alimentos de España 2016.\n\n🟢AHORA : 92,89€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6y\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6y",
-      "title": "JAMÓN SERRANO GRAN RESERVA NICO JAMONES",
-      "description": "Disfruta de este jamón con más de 14 meses de curación, galardonado con el Premio Alimentos de España 2016 AHORA : 92,89€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6y",
-      "image": "https://cdn4.telesco.pe/file/h7DOFReSrgF9B49xwRdK2AQvqG6bT-8N70A-hbbS-1NtfHsJxbkkFp2b1yscifg-skpNXm734gibogf8Isdx2ylD_z7Fv9ntpGrLnycC2mMM6cTe53cRT6OHNd1_i8e0MVyFua4fu5N6yJseiiv1o1zdDnDsgO2I4JrRXbiXWtZezufyopqdKh6k3Cyhiy5g7hSOIKLOVPacjQyGwhgIBC555oGC7zSyHHqQSHE1h4-OqIvqT4a2Pot0cVGjg9dI9GRnimPou9q8Z17tfRAMZbMmyjQ4wUYJ3XKguU-9OQAW6ZXyu_GpUb1mQAWVtOgMiCB_HerrY3lCftS0FXutTg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6y",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "92,89"
-      ],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102303",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -37%‼️ #Publicidad\n\n✅COLLAGE DE MARCOS DE FOTOS\n\n📝 Set de 12 marcos para fotos de 10 x 15 cm, ideal para decorar paredes y como regalo de Navidad.\n\n🟢AHORA : 18,99€\n❌ANTES: 29,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6u\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6u",
-      "title": "COLLAGE DE MARCOS DE FOTOS",
-      "description": "Set de 12 marcos para fotos de 10 x 15 cm, ideal para decorar paredes y como regalo de Navidad AHORA : 18,99€ ANTES: 29,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6u",
-      "image": "https://cdn4.telesco.pe/file/UST4JjFcSyaocU3m4dYemxCd9lE8LdcpSqRAI8Dts1MZnBOZorncR8wvSxJeSpwoMZoSGj3ptcHFN32rMxyciM79l_ztuLigVfEzQFCK3gVxr93BPpLwjFjKWW8l4uhZBQKmGrFnh5NrSRzKOxvSUEIP5HrSrpUbZsQBwGBZVsZ6BvsLlSqAtvEAZr2-nvoFxge23ADT0QwvDK0yU_EezVizHWx-5ufJGVamNdVSxcIPNOo6pcMYj2bzRBuu2tfBAdq3KWzlMC0iug1ThjcVZSwUhYcGcR3lA1jNm_3-W0HrETCc4pIyu-cwIdMmIFf-NZSd3QnWLNYIXX2-V4UbGg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6u",
-      "marketplace": "AliExpress",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "18,99",
-        "29,99"
-      ],
-      "discount_percent": "37"
-    },
-    {
-      "id": "ofertasychollosesp/102302",
-      "date": null,
-      "text": "‼️OFERTA CAZADA‼️ #Publicidad\n\n✅CASCOS GAMING CON MICRÓFONO RGB\n\n📝 Auriculares gaming con sonido envolvente, orejeras grandes y 4 modos de luz RGB, compatibles con PS4, PS5, PC, Xbox One y Switch.\n\n🟢AHORA : 17,80€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6o\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6o",
-      "title": "CASCOS GAMING CON MICRÓFONO RGB",
-      "description": "Auriculares gaming con sonido envolvente, orejeras grandes y 4 modos de luz RGB, compatibles con PS4, PS5, PC, Xbox One y Switch AHORA : 17,80€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6o",
-      "image": "https://cdn4.telesco.pe/file/R2kxOd0MfgwjjXCM2NguRSHx1QW3cbBYuH_JDbfDW5pcx8bSMG9EemBtLjg1m_71RshcbT2H-9E-mecCG_i0nnIME5_PIuDrZoJACerdTjLHGHkGhxDl1HOW8X9UuvJr-rU1YZsQce7jJRrfbxq7XvB7J6N2IXCXO3Brq20BgofLxV4fO625QI6aHt1usFNFQM3nTBdZy8gOh6kw5xn4zxaWRptm6KAz08U2ZQNLP70poy7TQ8RO8Y6s6NEbNlmLwpoew-pv5BYpNwIUgqDMh6diSptGHMpfLnCFuN2DHtL7Jew4HjI4qer1B4B2mhx2Yv-ZXEA53kGSJ54YKH9iTw.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6o",
-      "marketplace": "AliExpress",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "17,80"
-      ],
-      "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102301",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -26%‼️ #Publicidad\n\n✅MOCHILA THE NORTH FACE BOREALIS\n\n📝 Mochila resistente y versátil con material hidrófugo y compartimento para portátil. Ideal para tus aventuras diarias.\n\n🟢AHORA : 94,52€\n❌ANTES: 127,34€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6k\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6k",
-      "title": "MOCHILA THE NORTH FACE BOREALIS",
-      "description": "Mochila resistente y versátil con material hidrófugo y compartimento para portátil. Ideal para tus aventuras diarias AHORA : 94,52€ ANTES: 127,34€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6k",
-      "image": "https://cdn4.telesco.pe/file/E1w2Vy3Z6X-VaY-PmicoJJz94mTwNWOzWEOTJwsKAUBewm0tfRB9vs6w7fBbxoDU2dBrW_iOpKIFijactAL337cVBmfNdIyurC_Mvkrj5QzFp4kNKmTeJdeNoQ3Oaq8v-0zYPGvPWZvAN3E9ORAyTCdyfvNGlsPli37XIQOkwFp8B3aKDuZyFHxJp-VTttyszNmwZtE7CVjvCzMCWXYndHZf0Tw17URJdwPIy3lPbsLvwCY0oUDR2xpTSwy1L963uWGqjfEKJDB-QTake1IEXo8s2WkOOqqVf2-Qim7xnEKC6xCux8onib7qQdcDN9SetgbG-8vEw4fOZMdVIlmEAA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6k",
-      "marketplace": "Miravia",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "94,52",
-        "127,34"
-      ],
-      "discount_percent": "26"
-    },
-    {
-      "id": "ofertasychollosesp/102300",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -22%‼️ #Publicidad\n\n✅DUREX CONEJITO VIBRADOR 2 EN 1\n\n📝 Vibrador con 7 modos de vibración, punta estimuladora y resistente al agua, ideal para disfrutar en pareja o en solitario.\n\n🟢AHORA : 19,42€\n❌ANTES: 24,95€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6e\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6e",
-      "title": "DUREX CONEJITO VIBRADOR 2 EN 1",
-      "description": "Vibrador con 7 modos de vibración, punta estimuladora y resistente al agua, ideal para disfrutar en pareja o en solitario AHORA : 19,42€ ANTES: 24,95€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6e",
-      "image": "https://cdn4.telesco.pe/file/Ej6Fm_DpjJP9mhTm_CBRxWD3ymx1w5LiNACSsaOLt3b74IflsSMX6D-EaRvsQXh5HcofJ5alopYWjUxj690v5xT6H0APD8lISHkSaFcvYvXykGR65uP1MWZxh76gSBFn6Tq-R-2WQu12qP5JShLXY4OLjCgo0GwosYcfsN8GaTaKT3du2LsKszqXb3zkTcbj8eYkCqLgFuo4V4xMV6agDcBx5J09Aye04kfqSutRuOZlapGyDbWg4KyzrerJY38eY7laMwUPwjLmydSuZLWs7x46kK0OlOCoO4JFeWDlgIK-cwSGCTmfrs2UOdQQ_QTrwQ1CGiYsRzRnNsHhKccWZw.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6e",
-      "marketplace": "Miravia",
-      "category": "Bienestar íntimo",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "19,42",
-        "24,95"
-      ],
-      "discount_percent": "22"
-    },
-    {
-      "id": "ofertasychollosesp/102299",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -48%‼️ #Publicidad\n\n✅CAMISETA UNISEX PUMA CON ESTAMPADO\n\n📝 Camiseta unisex de Puma con un diseño moderno y atractivo. Ideal para cualquier ocasión y cómoda de llevar.\n\n🟢AHORA : 14,49€\n❌ANTES: 27,95€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6d\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6d\n\nCasi todas las tallas",
-      "title": "CAMISETA UNISEX PUMA CON ESTAMPADO",
-      "description": "Camiseta unisex de Puma con un diseño moderno y atractivo. Ideal para cualquier ocasión y cómoda de llevar AHORA : 14,49€ ANTES: 27,95€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6d Casi todas las tallas",
-      "image": "https://cdn4.telesco.pe/file/suQA9PhyhLXxfPvho5ATMKYAtk8UIxUINbmab0j8LfiRJ23kG1h96DML_DmCokI1G5bJ_ENb_K3t40e3IRHii5p0NSl0TChv4BWe1e6CKpIW1iwUGBkf-MVr5VSMAVeQ1c99gTXR_1N0sxo8keWNftxkFGsRlV3lh5BO0tb-1srGxiWHPxSClhmX7OA2nt2Ku2tnZcMzVUjtr_LLLF3GvnxrYfbCccdZ2FkocjC5p-eiU3XLYC2zeb22ihpd67cHPJr_bJfT7JGRQtmMMUXL9kefIkdNPTWEIRhvp4l2q6dxqoOisknpQQK5y7rIxswmmKg0vsCtkFg-lrcJWSyGkQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6d",
-      "marketplace": "Amazon",
-      "category": "Muebles",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "14,49",
-        "27,95"
-      ],
-      "discount_percent": "48"
-    },
-    {
-      "id": "ofertasychollosesp/102298",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -49%‼️ #Publicidad\n\n✅AFNAN 9 PM PERFUME 100ML\n\n📝 Descubre el perfume Afnan 9 PM, una fragancia árabe para hombres en formato de 100ml. Ideal para cualquier ocasión.\n\n🟢AHORA : 29,90€\n❌ANTES: 59,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta6a\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta6a\n\nSúperventas",
-      "title": "AFNAN 9 PM PERFUME 100ML",
-      "description": "Descubre el perfume Afnan 9 PM, una fragancia árabe para hombres en formato de 100ml. Ideal para cualquier ocasión AHORA : 29,90€ ANTES: 59,00€ Ficha completa y chollos parecidos  cazadordechollos.es/ta6a Súperventas",
-      "image": "https://cdn4.telesco.pe/file/S4jhEh5GZYHgJNsJC3jVNzShk9I32YnkuVfR7rxWL0X2qUijqGQFyM_L1uGEEgii06GCvnawDexqRiQroAa-t1U89qh2eyUHD7vMbZFmIqiRUKBfEtEdwehVyI1FvRcu2CqN4jsMAOm2W8Wdak-Plg7Fa6euqQMIj5VF0QH3rwmUS9QSQaQZXoobR5ICHHE31DdLA1otY2w-4AYnhc52tpxGBr1bG_c4x7Rusqw9b8c_s0fIb4Ox-mV6Icc5dNPFzy0CQBYMJP8P04l-9Gic4KZAxgTWkRnGZrv6TSB7scLHHNJYphXAz_D8iYFXZr5M7FdHAkY43yfCDgGixck_9g.jpg",
-      "link": "https://ir.cazadordechollos.es/ta6a",
-      "marketplace": "Miravia",
-      "category": "Belleza y cuidado personal",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "29,90",
-        "59,00"
-      ],
-      "discount_percent": "49"
-    },
-    {
-      "id": "ofertasychollosesp/102297",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -46%‼️ #Publicidad\n\n✅CAFETERA AUTOMÁTICA DE'LONGHI\n\n📝 Cafetera De'Longhi PrimaDonna Elite para espresso y capuchino, con diseño en acero inoxidable y capacidad de 1 litro.\n\n🟢AHORA : 1138,86€\n❌ANTES: 2099,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta67\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta67",
-      "title": "CAFETERA AUTOMÁTICA DE'LONGHI",
-      "description": "Cafetera De'Longhi PrimaDonna Elite para espresso y capuchino, con diseño en acero inoxidable y capacidad de 1 litro AHORA : 1138,86€ ANTES: 2099,00€ Ficha completa y chollos parecidos  cazadordechollos.es/ta67",
-      "image": "https://cdn4.telesco.pe/file/e83RF18M1CEEdn8LLzy3nmuUHNxWQGFOL6RSBpNw130RUy2VPPAfzl5PmG2wBpeSSDGwX3LvZwiaA1hwdxJSSLVe6RYsaqE5sTLGVP8ncLXaFDmjxl4u6KuMP8IUJtIzj63fve3lB4VclrvbPYvuf8b-irlsyXNuP4RBV6XYvVihfv64mb7bilJyWSw1rzRjK_867k3jy2z7OKauOj-h1wSMGgA8aa0rmbjKRyL3_sYX_lpSOKzeQe22TkzyVhzjjmXcXZBMV8TkOWtIBejdYB_kqDYpwhBxNTvh-LOXXVmTpZdf0chXzcWyWQ3ZcLdiQhUb3nx7Wp8BP8GbIOZKKA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta67",
-      "marketplace": "Amazon",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "1138,86",
-        "2099,00"
-      ],
-      "discount_percent": "46"
-    },
-    {
-      "id": "ofertasychollosesp/102296",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -40%‼️ #Publicidad\n\n✅XIAOMI ROBOT VACUUM 5 PRO\n\n📝 Robot aspirador con AI que esquiva obstáculos, cámara HD y potencia de succión de 20,000 Pa para una limpieza eficiente.\n\n🟢AHORA : 478,62€\n❌ANTES: 799,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta63\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta63",
-      "title": "XIAOMI ROBOT VACUUM 5 PRO",
-      "description": "Robot aspirador con AI que esquiva obstáculos, cámara HD y potencia de succión de 20,000 Pa para una limpieza eficiente AHORA : 478,62€ ANTES: 799,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta63",
-      "image": "https://cdn4.telesco.pe/file/kTxKh-gPDpZR7GxT38QwOptpyzZGfNC5PD1KNVwggbnEVjsl7X6FH5Xg5uLqqPOn0IrwDotzkIEVLrivbE3fpCRXpqf0W1GZ2fO95ggbjWaLpqFqlEeqnKdaYVX0Y1yl2yYH8F5VMs7vYFXRlitcICLCYTOaCDP8K6y9u_9e8-Y4OadsIAu-pvePKxs3gzpChYxKxpVEPX12Mas8IU2SNoIPee-lx6NXouODvFhykEP1YuXnHZUcFCsIwGzRlLJbFg1nRT6xALx4ciKFNLCGlTdOtMQBHtOwt4xoDQ9SYqw9oSRMjww2XfoKZ_Tr1Ll86BY31ndWDVuTmq2wkRjBPA.jpg",
-      "link": "https://ir.cazadordechollos.es/ta63",
-      "marketplace": "Miravia",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "478,62",
-        "799,99"
-      ],
-      "discount_percent": "40"
-    },
-    {
-      "id": "ofertasychollosesp/102295",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -40%‼️ #Publicidad\n\n✅ZAPATILLAS SKECHERS GRACEFUL MUJER\n\n📝 Zapatillas Skechers Graceful Get Connected para mujer en color negro con detalles en malla. Talla 39 EU.\n\n🟢AHORA : 35,95€\n❌ANTES: 59,95€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta5z\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta5z\n\nCasi todas las tallas a este precio",
-      "title": "ZAPATILLAS SKECHERS GRACEFUL MUJER",
-      "description": "Zapatillas Skechers Graceful Get Connected para mujer en color negro con detalles en malla. Talla 39 EU AHORA : 35,95€ ANTES: 59,95€ Ficha completa y chollos parecidos  cazadordechollos.es/ta5z Casi todas las tallas a es…",
-      "image": "https://cdn4.telesco.pe/file/Spyqrt0yY6M4gZHv7qVNhAT2OdW05eunPkj7CTsZerqGL6z7aC5vJ--q10MZO--AosTUhpDXx_MAxZo0slXMqbAaJUcxRZe3sWLfypl1mwOTj0cMJNADf0aMJdzVQuriD0Sk5FTM_Wc5Rgu_8EL_nfS4iKxRPcGx1ATYBe-6h1mMiN7mEhSYTtHJhqH1Q_--0FsVGg6yb5bS1Pj7dsy7HCAqKMh943h4AmP7nqZCmH8alj1EpCzY606UTmJA2F2njyc8slEMy5pUJ_KoWiu46w5MBlsEsv0c-wwUOlAVH3xVMyJ6B8zP0bhZiZ6N0H60WzvBgt06lqoqCVNt7gpnRw.jpg",
-      "link": "https://ir.cazadordechollos.es/ta5z",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "35,95",
-        "59,95"
-      ],
-      "discount_percent": "40"
-    },
-    {
-      "id": "ofertasychollosesp/102294",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -55%‼️ #Publicidad\n\n✅CHAQUETA CAZADORA ACOLCHADA HOMBRE\n\n📝 Chaqueta acolchada para hombre, 100% poliéster, con cuello alto y corte regular. Ideal para mantenerte cálido y cómodo.\n\n🟢AHORA : 42,99€\n❌ANTES: 94,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta5u\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta5u",
-      "title": "CHAQUETA CAZADORA ACOLCHADA HOMBRE",
-      "description": "Chaqueta acolchada para hombre, 100% poliéster, con cuello alto y corte regular. Ideal para mantenerte cálido y cómodo AHORA : 42,99€ ANTES: 94,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta5u",
-      "image": "https://cdn4.telesco.pe/file/ZzrwdorJrQZPJsp0w_qmdnisJghkNMlEwOdAMKsUhSPbFOVS28OR1SBIdr_m_7FadeP4p2qJsRIEll2HuupWvmxE5-Qv2v5afyC8PiGgUXzwoFStOd4PFZs8i_McuooLd9lrM2VPTJPjvU23y0wsUz3cGiS7zkvkFzog3N73_tzCsNKPOZZwRPfO_KdC8rogXKf-AspfD1JL2SfiWEACMYQ2CVZa0pok-TnyqYVq61579az3l2lS6_hYHZEsPiNP7ViNERiRgvMxorzyOmGG9OoiQnE8hPq1rn1e2IOQ95blPMKCAf85li0ZQ-8Uxf_7DPCJyfU1QZuSzwj98cM4Jg.jpg",
-      "link": "https://ir.cazadordechollos.es/ta5u",
-      "marketplace": "Miravia",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "42,99",
-        "94,99"
-      ],
-      "discount_percent": "55"
-    },
-    {
-      "id": "ofertasychollosesp/102293",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -50%‼️ #Publicidad\n\n✅PROTECTOR DE ESCRITORIO SPIDERMAN / STITCH\n\n📝 Protector de escritorio con diseño de Spiderman y Stitch. Ideal para mantener tu espacio de trabajo limpio y protegido.\n\n🟢AHORA : 5,99€\n❌ANTES: 11,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/ta5t\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/ta5t",
-      "title": "PROTECTOR DE ESCRITORIO SPIDERMAN / STITCH",
-      "description": "Protector de escritorio con diseño de Spiderman y Stitch. Ideal para mantener tu espacio de trabajo limpio y protegido AHORA : 5,99€ ANTES: 11,99€ Ficha completa y chollos parecidos  cazadordechollos.es/ta5t",
-      "image": "https://cdn4.telesco.pe/file/SNP0oO8hdOpiqxcnhzVcjTtoxWKUIZulH6-5suNVybPfwb00nuUGsOwPgEiU62AZGCQzET1nRL7OctUhrm_9nk8EpNsfcR2xsTDClw_0RxmIH1RCjtRdHdfUYuu-x44P8dnlop5bURoBLkKdOkvp9Sm9EXKHj8Z1vuELShwtrMa4Z032wwwFaUdSCU5a-mM6PRW_ao1ImK7WGGUfp85zdPxoYQIZdUywmMgbRg8FMJ2yLEA7RaJH4_ApVGSHa_NcQSx78SDdTToXh2awxGYGFUxQGFOPhTGVNJuxo52rTN5bjV_jmRahrqahWzMB3xUUbE1gU0tzb5nK3Bt3dsFznQ.jpg",
-      "link": "https://ir.cazadordechollos.es/ta5t",
-      "marketplace": "Pdt",
-      "category": "Papelería y oficina",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "5,99",
-        "11,99"
-      ],
-      "discount_percent": "50"
     }
   ]
 }
