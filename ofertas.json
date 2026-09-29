@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T21:50:51.419135+00:00",
+  "generated_at": "2026-09-29T01:46:49.294865+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/102762",
@@ -2343,26 +2343,6 @@
         "2,55"
       ],
       "discount_percent": null
-    },
-    {
-      "id": "ofertasychollosesp/102643",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -30%‼️ #Publicidad\n\n✅JACK & JONES CAMISETA HOMBRE 3 UNIDADES\n\n📝 Pack de tres camisetas blancas de Jack & Jones para hombre, ideal para el día a día.\n\n🟢AHORA : 24,49€\n❌ANTES: 34,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tb5d\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tb5d\n\nTodas las tallas disponibles (la S mucho más barata)\n👗 Tallas disponibles: XS, S, M, L, XXL",
-      "title": "JACK & JONES CAMISETA HOMBRE 3 UNIDADES",
-      "description": "Pack de tres camisetas blancas de Jack & Jones para hombre, ideal para el día a día AHORA : 24,49€ ANTES: 34,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tb5d Todas las tallas disponibles (la S mucho más b…",
-      "image": "https://cdn4.telesco.pe/file/HBHNfTkObFcl5bMMLBRzuTCHhaevz8UseBzLmU4a8Ov4L0bRpnp0c7gVFQMdRFijUqafUHDY9ox7dX9SIsnjQSHUK8XvU1uRJxpN_F5pqiYZ_YDy7kNRBh7kRBZ0eRiWh1RLwy6ydvKgQZDo6ImyAAgeX1UyBjL7BOSoq3suFzft6yKokA1WO-X2rgbqWQ4llbwo5eWf_Ozf3LVED3Z67WzSqDuLsx3GP6fVBSCCOVT0HZIHZ6v_i7s5fBESlROY6VgZrbGHECBmIh7NTQ5i4Wn-GjVDC10tCemZTXvbX0Omk_OLEoiVjB0moI7qA6FKTJsXq2q5oD_DR7UB0NTdzw.jpg",
-      "link": "https://ir.cazadordechollos.es/tb5d",
-      "marketplace": "Amazon",
-      "category": "Moda",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "24,49",
-        "34,99"
-      ],
-      "discount_percent": "30"
     }
   ]
 }
