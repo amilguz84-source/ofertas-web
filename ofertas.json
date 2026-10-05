@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T21:42:42.522734+00:00",
+  "generated_at": "2026-10-05T00:10:17.094477+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/103400",
@@ -2284,25 +2284,6 @@
         "77,90"
       ],
       "discount_percent": "17"
-    },
-    {
-      "id": "ofertasychollosesp/103280",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #Publicidad\n\n✅AURICULARES INALÁMBRICOS XIAOMI REDMI BUDS 8 PRO\n\n📝 Disfruta de audio de alta resolución con ANC inteligente y Bluetooth 5.4. ¡Sumérgete en tu música con los nuevos Redmi Buds 8 Pro!\n\n🔥PRECIO: 55,29€\n🎟APLICA EL CÓDIGO: ESLD06\nℹ️ Cupón sujeto a disponibilidad. · El precio final puede incrementarse por aranceles.\n\n🔗Enlace: https://ir.cazadordechollos.es/103280",
-      "title": "AURICULARES INALÁMBRICOS XIAOMI REDMI BUDS 8 PRO",
-      "description": "Disfruta de audio de alta resolución con ANC inteligente y Bluetooth 5.4. ¡Sumérgete en tu música con los nuevos Redmi Buds 8 Pro PRECIO: 55,29€ APLICA EL CÓDIGO: ESLD06 ℹ Cupón sujeto a disponibilidad. · El precio final…",
-      "image": "https://cdn4.telesco.pe/file/UiKWoW8CGyX08R_tMGP-W7z4b-HJVEtH7dtMDL5vTtDAS9u5dE9g7ZpcQQmsEOHeZhG2Y_j_FAZX2bFyn7mhI8LckRsAQVt4Cl7pEFgd0-sYB1aXcigPsmldGodpY5NZnRX2yzaFKuLo6ALUrdMpYNmoBR17mP0CHBnq_h7HiGHd_-H1Oh5e0Datj8tIPHsDAfXm7z48qg98Le-Bmyr4C1u7QU9YZFK8iPODOC3Te3IPFGLo8V1uyPyfwQbopHR1OcayhfUfesTpYzVNaVHdD7ym0Kr5Qn7HFrl9yuXVS3qaCv0j6SpIvMofjve7UFzLWqFMQWIPSApaHnMc-1-YIg.jpg",
-      "link": "https://ir.cazadordechollos.es/103280",
-      "marketplace": "AliExpress",
-      "category": "Auriculares y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": "ESLD06",
-      "prices_found": [
-        "55,29"
-      ],
-      "discount_percent": null
     }
   ]
 }
