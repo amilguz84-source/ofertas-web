@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T21:33:40.242774+00:00",
+  "generated_at": "2026-10-06T01:54:47.721902+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 117,
   "ofertas": [
     {
       "id": "ofertasychollosesp/103507",
@@ -2276,46 +2276,6 @@
         "135,00"
       ],
       "discount_percent": "41"
-    },
-    {
-      "id": "ofertasychollosesp/103387",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -17%‼️ #Publicidad\n\n✅CAFETERA SUPERAUTOMÁTICA DE'LONGHI MAGNIFICA\n\n📝 Cafetera superautomática con molinillo integrado y sistema Thermoblock. Ideal para preparar café de forma sencilla y rápida.\n\n🟢AHORA : 247,11€\n❌ANTES: 299,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/td97\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/td97",
-      "title": "CAFETERA SUPERAUTOMÁTICA DE'LONGHI MAGNIFICA",
-      "description": "Cafetera superautomática con molinillo integrado y sistema Thermoblock. Ideal para preparar café de forma sencilla y rápida AHORA : 247,11€ ANTES: 299,00€ Ficha completa y chollos parecidos  cazadordechollos.es/td97",
-      "image": "https://cdn4.telesco.pe/file/ae-u78qtYhnJDSLJRQ5d4czhzg2hmR1qNDiqM4tolewRcj6cf7WKdoAhJq8At-EKJC0eJ45XtpdjTrVs38Hvn-zwYFBdgb6j8O99qxzytmwgwk6VGnRNusxjLrOSQo5GwjrwVUbXGQ_FuV1Vcun3c5vDBi3iYbI30BgmXKyOvxguw5Y6--RUXvLA2uigHWUOfrmjMQon7FBDqUauF12EBKmkDhMlEst97nn-z1uw7_u-5zl-dRydqEbk91aDnSqXtiEcn2OzwXxteBsEBoANIctPk3xxtUSfArPDxyH-Q6SN5Qz9hC9qda0gaMHUvM_CAB_qZhgZmB-lBvcwT3Ew1g.jpg",
-      "link": "https://ir.cazadordechollos.es/td97",
-      "marketplace": "Pdt",
-      "category": "Electrodomésticos",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "247,11",
-        "299,00"
-      ],
-      "discount_percent": "17"
-    },
-    {
-      "id": "ofertasychollosesp/103386",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -40%‼️ #Publicidad\n\n✅PAÑALES DODOT SENSITIVE T4\n\n📝 Pañales Dodot Sensitive T4 para bebés de 10-15 kg, en un pack de 96 unidades.\n\n🟢AHORA : 31,79€\n❌ANTES: 52,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/td94\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/td94",
-      "title": "PAÑALES DODOT SENSITIVE T4",
-      "description": "Pañales Dodot Sensitive T4 para bebés de 10-15 kg, en un pack de 96 unidades AHORA : 31,79€ ANTES: 52,99€ Ficha completa y chollos parecidos  cazadordechollos.es/td94",
-      "image": "https://cdn4.telesco.pe/file/nyb6TU5cd48zV-Y9RjxjpUkt3IQs9M6WKGONR1zikMq39QnwKaiZVBqw6nSKoFxEWJe7811EdKTx_WK4pLm5LxOFT7nyCFapEyX99q7iIYA9oF_bkjOxIb6Ii0afusD-v8srCPRlA50ebegT1VnKSdAzyFaDQLUkQZOpbOAcGC9ADCLKEJQlaIlGVPYPTMX5F_oxNJIU2vk9k20KYdiY-GMgCmbSq0unA-3aA-lZBTF4zZ6gKPbXalxaufrwog-8YBzQipiGT1B1Nigt402JynKQfN_m2qwgaSnXJ8SlzRrXeqSXZzyIkSBWUozNIXdKVSg5jSuVJUFm8ePVuY375Q.jpg",
-      "link": "https://ir.cazadordechollos.es/td94",
-      "marketplace": "Carrefour",
-      "category": "Bebé",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "31,79",
-        "52,99"
-      ],
-      "discount_percent": "40"
     }
   ]
 }
