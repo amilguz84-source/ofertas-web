@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T21:10:42.479067+00:00",
+  "generated_at": "2026-10-14T00:23:44.076033+00:00",
   "channel": "ofertasychollosesp",
-  "count": 120,
+  "count": 119,
   "ofertas": [
     {
       "id": "ofertasychollosesp/104547",
@@ -2313,25 +2313,6 @@
         "20,95"
       ],
       "discount_percent": "28"
-    },
-    {
-      "id": "ofertasychollosesp/104424",
-      "date": null,
-      "text": "‼️CÒDIGO CAZADO‼️  #Publicidad\n\n✅DJI OSMO POCKET 4 CON CMOS DE 1″\n\n📝 Captura momentos increíbles con la DJI Osmo Pocket 4, su sensor de 1″ y ActiveTrack te ofrecen calidad profesional en un tamaño compacto. ¡Perfecta para tus aventuras!\n\n🔥PRECIO: 372,09€\n🎟APLICA EL CÓDIGO: WOES39\nℹ️ Cupón sujeto a disponibilidad. · El precio final puede incrementarse por aranceles.\n\n🔗Enlace: https://ir.cazadordechollos.es/104424",
-      "title": "DJI OSMO POCKET 4 CON CMOS DE 1",
-      "description": "Captura momentos increíbles con la DJI Osmo Pocket 4, su sensor de 1 y ActiveTrack te ofrecen calidad profesional en un tamaño compacto. ¡Perfecta para tus aventuras PRECIO: 372,09€ APLICA EL CÓDIGO: WOES39 ℹ Cupón sujet…",
-      "image": "https://cdn4.telesco.pe/file/HNStNN6V-VlRmDT1NPUBsTMupU0De9PxUyBqDvxXeJIGoeZ8kI-wV9uPhslvWVaBDtcy9f54xoUxWfKWwxw6dNtGl5s9KKnr2gcj_Nfp3JztNhzj1rmrP3nftgP7Eu3clAhPSMTvogc9E23U5AIaq1JtRZt-szixjWN0pnosxQ_D7eWZdu6D34a572gXmXTuM9uvk3fLp2H5Du7fg94zggrQa1MnjX4mwEFAFy7DyYoqWcqml6MfecmZOsHLXXglXwT-SVxV0Wxv1hNR6ejL9RfynrinGoReLAV8s7G8H5AN7lqYJrD7ddXNqK_girFXyuI0LoRz-cd_OuT1owNcsg.jpg",
-      "link": "https://ir.cazadordechollos.es/104424",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": "WOES39",
-      "prices_found": [
-        "372,09"
-      ],
-      "discount_percent": null
     }
   ]
 }
