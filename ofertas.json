@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T21:28:07.113905+00:00",
+  "generated_at": "2026-10-16T23:53:19.746167+00:00",
   "channel": "ofertasychollosesp",
-  "count": 118,
+  "count": 117,
   "ofertas": [
     {
       "id": "ofertasychollosesp/104910",
@@ -2285,26 +2285,6 @@
         "49,99"
       ],
       "discount_percent": "30"
-    },
-    {
-      "id": "ofertasychollosesp/104790",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -19%‼️ #Publicidad\n\n✅BANCO ABDOMINAL MULTIFUNCIONAL ALLINLIFE\n\n📝 Banco abdominal con bandas de resistencia para ejercicios variados. Ideal para entrenar en casa y mejorar tu forma física.\n\n🟢AHORA : 40,69€\n❌ANTES: 49,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/thhd\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/thhd",
-      "title": "BANCO ABDOMINAL MULTIFUNCIONAL ALLINLIFE",
-      "description": "Banco abdominal con bandas de resistencia para ejercicios variados. Ideal para entrenar en casa y mejorar tu forma física AHORA : 40,69€ ANTES: 49,99€ Ficha completa y chollos parecidos  cazadordechollos.es/thhd",
-      "image": "https://cdn4.telesco.pe/file/Q7gCSQE3D8IZb7a-GBkR_cUTe08ZDnVclANWWk-DBRwV37-O186vhGnj3583v8qvJMQ3D-K3DAQEHj9tRyKjSRAiQ6M_cyHY7VC4g_X4mWk6iWcWYk6u5lWWimI1qD9RpECkpIV3pIjUbuWDTpbz7EPlAUXjwd7itIYeLa-Sko1g4xj66x__JqlA7_dS5nUmTJF3K4Jkxj_hevkJkqmMd0zLa3W2lNzPU02gyvnGJhfwSFhO8RuKSRlz2KgVBIEZQLcjc84nvjdVP7AbtKJXmSEDwSvNEuIPK6RmIsNLg9xr74ImgaqeWo5qdEwU3j64Qax9o4KLD1iUPrKnyPmKwQ.jpg",
-      "link": "https://ir.cazadordechollos.es/thhd",
-      "marketplace": "AliExpress",
-      "category": "Otros",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "40,69",
-        "49,99"
-      ],
-      "discount_percent": "19"
     }
   ]
 }
