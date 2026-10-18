@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T21:36:55.975095+00:00",
+  "generated_at": "2026-10-18T23:40:15.651829+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/105123",
@@ -2344,26 +2344,6 @@
         "199,99"
       ],
       "discount_percent": "67"
-    },
-    {
-      "id": "ofertasychollosesp/105003",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -25%‼️ #Publicidad\n\n✅HISENSE 50E7S PRO 50 PULGADAS SMART TV\n\n📝 Disfruta de la calidad de imagen con Quantum Dot Color y tecnologías avanzadas como Dolby Vision y AMD FreeSync Premium PRO.\n\n🟢AHORA : 399,00€\n❌ANTES: 529,00€\n\n🔗Enlace: https://ir.cazadordechollos.es/tiac\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tiac",
-      "title": "HISENSE 50E7S PRO 50 PULGADAS SMART TV",
-      "description": "Disfruta de la calidad de imagen con Quantum Dot Color y tecnologías avanzadas como Dolby Vision y AMD FreeSync Premium PRO AHORA : 399,00€ ANTES: 529,00€ Ficha completa y chollos parecidos  cazadordechollos.es/tiac",
-      "image": "https://cdn4.telesco.pe/file/DiZXxS16G5jo3ez_72wtvAVR5RbpCs5rbE3gyVBtbpk07JISEmiHxrZiRlbiBfbjjediHBDQmdVYsRYU6vBZqlmWrdBaZ-aw51iOWPAAOKaO_-aA_xbY_cXgeiZT9FYmj3IoQAu-1LsRshwAXEsUzvs7RiKsq-_CEGnlKsr6X_-vpWv_ybTJtBLQRwX7OAqKG8yehlRgFO7r-ia6ddIxg5THmwJYJcIPYHsOW9SakwnZWFuaQYnu-3YvL7Tzp4jMCQfUEfZmLqZFS0Da16Ia-jaBVWtOZ-vR9Bc5lMtuoiwUSkHEtamr8E8jwuzdDEDsz0hvnn4RGnsvg89yd7Uckg.jpg",
-      "link": "https://ir.cazadordechollos.es/tiac",
-      "marketplace": "Ir",
-      "category": "Televisores y sonido",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "399,00",
-        "529,00"
-      ],
-      "discount_percent": "25"
     }
   ]
 }
