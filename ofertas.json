@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T21:55:26.166005+00:00",
+  "generated_at": "2026-10-21T00:32:01.624960+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/105324",
@@ -2361,26 +2361,6 @@
         "43,98"
       ],
       "discount_percent": "55"
-    },
-    {
-      "id": "ofertasychollosesp/105205",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -35%‼️ #Publicidad\n\n✅COSTWAY ESTANTERÍA LIBRERÍA 5 NIVELES\n\n📝 Estantería moderna de estilo escalera, ideal para salón, dormitorio o sala de estudio. Perfecta para organizar tus libros y decoraciones.\n\n🟢AHORA : 66,99€\n❌ANTES: 102,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tizo\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tizo",
-      "title": "COSTWAY ESTANTERÍA LIBRERÍA 5 NIVELES",
-      "description": "Estantería moderna de estilo escalera, ideal para salón, dormitorio o sala de estudio. Perfecta para organizar tus libros y decoraciones AHORA : 66,99€ ANTES: 102,99€ Ficha completa y chollos parecidos  cazadordechollos.…",
-      "image": "https://cdn4.telesco.pe/file/HItyfyDnXCOcbzBZaGmAmThQ_P8DsRMvR3E5UCc8vimMqL9_m7_l3yQk3gG_ypMkX3qvVuyAH6CdGoB2SGUSE2AzXHwApORlHxvGdjIJhgevaL1X83Y-G094wRPZ42DzdhOSoM3jGo5PMS1Akctg4xK8gxIFjMjFSOIKwt8pL09du5L_Bc1soVCnBKHmYO77BVBL9FCWK-DuFXzQ0HWEiYsuxaLGF6oK8-MQqr_FyyjtznnswNDdrPgxxLVT3mH5wJH0KS4qEuL4_fk6Q_c9SrluuvTE9Qd1zW3-CSB7HK2ySkCc0izo1SkeY2f3OhC51fvPO9b8NONKXJUV-u65nQ.jpg",
-      "link": "https://ir.cazadordechollos.es/tizo",
-      "marketplace": "Ir",
-      "category": "Hogar",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "66,99",
-        "102,99"
-      ],
-      "discount_percent": "35"
     }
   ]
 }
