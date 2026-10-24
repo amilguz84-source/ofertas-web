@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T21:13:21.262425+00:00",
+  "generated_at": "2026-10-24T23:25:27.039151+00:00",
   "channel": "ofertasychollosesp",
-  "count": 119,
+  "count": 118,
   "ofertas": [
     {
       "id": "ofertasychollosesp/105740",
@@ -2361,26 +2361,6 @@
         "609,00"
       ],
       "discount_percent": "30"
-    },
-    {
-      "id": "ofertasychollosesp/105620",
-      "date": null,
-      "text": "‼️OFERTA CAZADA -35%‼️ #Publicidad\n\n✅NINJA CRISPI FREIDORA DE AIRE 4 EN 1\n\n📝 Freidora de aire portátil Ninja CRISPi, compacta y versátil, ideal para freír, asar y dorar. Incluye 3 recipientes de cristal.\n\n🟢AHORA : 129,99€\n❌ANTES: 199,99€\n\n🔗Enlace: https://ir.cazadordechollos.es/tkh7\n📋 Ficha completa y chollos parecidos → cazadordechollos.es/tkh7",
-      "title": "NINJA CRISPI FREIDORA DE AIRE 4 EN 1",
-      "description": "Freidora de aire portátil Ninja CRISPi, compacta y versátil, ideal para freír, asar y dorar. Incluye 3 recipientes de cristal AHORA : 129,99€ ANTES: 199,99€ Ficha completa y chollos parecidos  cazadordechollos.es/tkh7",
-      "image": "https://cdn4.telesco.pe/file/jyl0kVVLwb2Wy4HwP40-X8TO11FbT6cmSbAtacIBkzGh72SxrXKGEeh9tAQTy_fv59SgiaB6-w1moAlBi_5tWvz7uV3krwLVHa2ThZM75YGFRul5FbrEhyZgdzXdWReE2doAY_yWTun1io-3pb92nZikDROPu5E1W_9JKMobGAGuWGeos1vrCPr2abUEHUjWjZwFjlFdN9dy-KvkwZGJNtrw_H8qRAO8ruTVq91MMzfza95ACeLwiEF-P-FUnsFsycdDLoko5Yg-sMPDXOfWK8izXnmzsABUtDmJ4hgHkXNMYYS9u9OR6vb_DPFuwYOg2sQiHg0hoXSrdX5Qy1iEDw.jpg",
-      "link": "https://ir.cazadordechollos.es/tkh7",
-      "marketplace": "Ir",
-      "category": "Tecnología",
-      "hashtags": [
-        "Publicidad"
-      ],
-      "coupon_code": null,
-      "prices_found": [
-        "129,99",
-        "199,99"
-      ],
-      "discount_percent": "35"
     }
   ]
 }
